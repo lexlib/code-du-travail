@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-16
+Version Consolidée au 1978-03-18
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -92918,6 +92918,26 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
+###### Article R761-10
+
+La commission délivre une carte de stagiaire au postulant qui ne possède pas deux ans d'ancienneté dans la profession, la
+durée de la collaboration aux journaux clandestins de la résistance comptant double pour le calcul de l'ancienneté.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1944-10-31 ART. 4
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
 ###### Article R761-12
 
 Les cartes d'identité professionnelles sont valables pour une année et portent la mention de la période de validité. Elles
@@ -94934,26 +94954,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances sous réserve qu' au début de cet article, après les mots "à la commission" sont ajouté les mots :"de la carte d'identité des journal
-
-
-###### Article R761-10
-
-La commission délivre une carte de stagiaire au postulant qui ne possède pas trois ans d'ancienneté dans la profession, la
-durée de la collaboration aux journaux clandestins de la résistance comptant double pour le calcul de l'ancienneté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1944-10-31 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ###### Article R761-11

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-10-01
+Version Consolidée au 1978-10-12
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -63312,31 +63312,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code du travail - art. R3132-17 (V)
-
-
-###### Article R221-3
-
-L'arrêté préfectoral prévu aux articles R. 221-1 et R. 221-2 peut être déféré au tribunal administratif dans la quinzaine de
-sa notification aux intéressés.
-
-Le tribunal administratif statue dans le mois qui suit la date du recours.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Anciens textes_:
-
-  - Code du travail - art. L221-8 (AbD)
-  - Code du travail 2037
-  - Décret  1953-11-28 ART. 1
-
-_Cite_:
-
-  - Code du travail - art. R221-1 (M)
-  - Code du travail - art. R221-2 (V)
 
 
 ###### Article R221-4

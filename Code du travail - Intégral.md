@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-07-20
+Version Consolidée au 1978-07-29
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -550,7 +550,7 @@ Version Consolidée au 1978-07-20
       - [CONFLITS COLLECTIFS (art. R523-1 à R526-1)](#547)
         - [CONCILIATION . (art. R523-1 à R523-26)](#548)
           - [COMPETENCE ET SIEGES DES COMMISSIONS DE CONCILIATION . (art. R523-2 à R523-3)](#549)
-          - [COMPOSITION DES COMMISSIONS DE CONCILIATION . (art. R523-4 à R523-8)](#550)
+          - [COMPOSITION DES COMMISSIONS DE CONCILIATION . (art. R523-5 à R523-8)](#550)
           - [FONCTIONNEMENT DES COMMISSIONS DE CONCILIATION . (art. R523-10 à R523-14)](#551)
           - [COMMISSIONS DE CONCILIATION DANS LES PROFESSIONS AGRICOLES . (art. R523-17 à R523-26)](#552)
         - [MEDIATION (art. R524-1 à R524-19)](#553)
@@ -990,11 +990,11 @@ Version Consolidée au 1978-07-20
           - [Section 4 : L'appel. (art. R517-8 à R517-9)](#987)
           - [Section 5 : Le pourvoi en cassation. (art. R517-10)](#988)
         - [Chapitre VIII : Récusations. (art. R518-1 à R518-2)](#989)
-      - [Titre II : Conflits collectifs (art. R523-9 à R524-3)](#990)
-        - [Chapitre III : Conciliation (art. R523-9 à R523-18)](#991)
-          - [Section 3 : Composition des commissions de conciliation (art. R523-9)](#992)
+      - [Titre II : Conflits collectifs (art. R523-4 à R524-3)](#990)
+        - [Chapitre III : Conciliation (art. R523-4 à R523-20)](#991)
+          - [Section 3 : Composition des commissions de conciliation (art. R523-4 à R523-9)](#992)
           - [Section 4 : Fonctionnement des commissions de conciliation. (art. R523-15 à R523-16)](#993)
-          - [Section 5 : Commissions de conciliation dans les professions agricoles. (art. R523-18)](#994)
+          - [Section 5 : Commissions de conciliation dans les professions agricoles. (art. R523-18 à R523-20)](#994)
         - [Chapitre IV : Médiation (art. R524-3)](#995)
           - [Section 1 : Procédure de médiation. (art. R524-3)](#996)
       - [Titre III : Pénalités (art. R532-2)](#997)
@@ -54797,34 +54797,6 @@ _Cite_:
 
 ##### COMPOSITION DES COMMISSIONS DE CONCILIATION .<a id=550></a>
 
-###### Article R523-4
-
-La commission nationale de conciliation comprend :
-
-Le ministre chargé du travail ou son représentant, président ;
-
-Un représentant du ministre chargé des affaires économiques ;
-
-Quatre représentants des employeurs ;
-
-Quatre représentants des salariés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-615 1958-07-18 ART. 4
-  - Décret n°68-763 1968-08-23 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cité par_:
-
-  - Code du travail - art. R523-7 (VT)
-
-
 ###### Article R523-5
 
 La commission régionale de conciliation comprend une section à compétence régionale et éventuellement des sections à
@@ -55109,31 +55081,6 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-###### Article R523-20
-
-La commission nationale de conciliation fonctionnant au ministère de l'agriculture comprend :
-
-Le ministre de l'agriculture ou son représentant, président ;
-
-Le ministre chargé du travail ou son représentant ;
-
-Un représentant du ministre chargé des affaires économiques ;
-
-Trois représentants des employeurs ;
-
-Trois représentants des salariés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-615 1958-07-18 ART. 18
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-
 ###### Article R523-21
 
 Les commissions régionales de conciliation comprennent une section à compétence régionale et, éventuellement, des sections à
@@ -55183,24 +55130,6 @@ départementale de l'agriculture// ;
 _Anciens textes_:
 
   - Décret n°58-615 1958-07-18 ART. 20
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-
-###### Article R523-23
-
-Lorsque le conflit examiné par une commission ou une section de conciliation concerne la catégorie des cadres, un
-représentant de cette catégorie est adjoint aux autres représentants des travailleurs et le nombre des représentants des
-employeurs est porté à quatre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-615 1958-07-18 ART. 21
-  - Code du travail - art. R523-24 (T)
 
 _Codifié par_:
 
@@ -87888,6 +87817,42 @@ _Cité par_:
 
 ##### Section 3 : Composition des commissions de conciliation<a id=992></a>
 
+###### Article R523-4
+
+La commission nationale de conciliation comprend :
+
+Le ministre chargé du travail ou son représentant, président ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Cinq représentants des employeurs ;
+
+Cinq représentants des salariés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-615 1958-07-18 ART. 4
+  - Décret n°68-763 1968-08-23 ART. 1
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R2522-8 (V)
+
+_Cité par_:
+
+  - Code du travail - art. R523-7 (VT)
+
+
 ###### Article R523-9
 
 Les membres des commissions doivent être de nationalité française et jouir de leurs droits civils et politiques.
@@ -87990,6 +87955,35 @@ La commission nationale de conciliation siège au ministère de l'agriculture.
 _Anciens textes_:
 
   - Décret n°58-615 1958-07-18 ART. 16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+
+###### Article R523-20
+
+La commission nationale de conciliation fonctionnant au ministère de l'agriculture comprend :
+
+Le ministre de l'agriculture ou son représentant, président ;
+
+Le ministre chargé du travail ou son représentant ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Cinq représentants des employeurs ;
+
+Cinq représentants des salariés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-615 1958-07-18 ART. 18
 
 _Codifié par_:
 

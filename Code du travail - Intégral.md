@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-04-05
+Version Consolidée au 1974-05-07
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -1079,8 +1079,8 @@ Version Consolidée au 1974-04-05
     - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. R851-1)](#1076)
       - [CONFLITS DU TRAVAIL (art. R851-1)](#1077)
         - [EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX GREFFIERS EN CHEF, HUISSIERS ET TEMOINS. (art. R851-1)](#1078)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente (art. R910-2 à R910-8)](#1079)
-      - [Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale. (art. R910-2 à R910-8)](#1080)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente (art. R910-2 à R910-12)](#1079)
+      - [Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale. (art. R910-2 à R910-12)](#1080)
     - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE (art. R910-1 à R980-3)](#1081)
       - [COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE . (art. R910-1 à R910-15)](#1082)
       - [MESURES D'APPLICATION DE L'ARTICLE L930-1 . (art. R930-1 à R930-6)](#1083)
@@ -87027,6 +87027,44 @@ _Cité par_:
   - Code du travail - art. R910-11 (Ab)
 
 
+###### Article R910-12
+
+Il est créé dans chaque circonscription d'action régionale un groupe régional permanent de la formation professionnelle et de
+la promotion sociale. Ce groupe comprend, sous la présidence du préfet de la région, le recteur, l'inspecteur principal de
+l'enseignement technique et le responsable de la délégation académique à la formation continue placés auprès du recteur, le
+directeur régional du travail et de l'emploi, l'inspecteur du travail chargé de l'échelon régional de l'emploi, l'ingénieur
+d'agronomie chargé de l'enseignement agricole et de la formation agricole, un représentant désigné par le ministre de
+l'industrie, du commerce et de l'artisanat, le trésorier-payeur général de la région et le directeur régional de l'INSEE. Le
+recteur est le vice-président de ce groupe.
+
+Le groupe régional permanent peut, en tant que de besoin, s'adjoindre les représentants d'autres administrations ou
+organismes publics pour les affaires qui sont de leur compétence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Anciens textes_:
+
+  - Décret n°74-370 1974-04-29 ART. 1
+  - Décret n°67-55 1967-01-18 ART. 10 AL. 2
+
+_Abrogé par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 4 () JORF 8 juin 2006
+
+_Cité par_:
+
+  - Code de l'éducation - art. R237-10 (M)
+  - Code de l'éducation - art. R313-49 (M)
+  - Code du travail - art. D910-3 (M)
+  - Code du travail - art. R910-11 (Ab)
+  - Code rural - art. R*811-12 (Ab)
+  - Code rural et de la pêche maritime - art. R811-3 (Ab)
+
+
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1081></a>
 
 ### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .<a id=1082></a>
@@ -87226,40 +87264,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°81-69 du 28 janvier 1981 - art. 5 () JORF 30 janvier
-
-
-###### Article R910-12
-
-Il est créé dans chaque circonscription d'action régionale un groupe régional permanent de la formation professionnelle et de
-la promotion sociale. Ce groupe comprend, sous la présidence du préfet de la région, le recteur, l'inspecteur principal de
-l'enseignement technique chargé de l'échelon régional de l'éducation professionnelle, le directeur régional du travail et de
-l'emploi, l'inspecteur du travail chargé de l'échelon régional de l'emploi, l'ingénieur d'agronomie chargé de l'enseignement
-agricole et de la formation agricole, un représentant désigné par le ministre du développement industriel et scientifique, le
-trésorier-payeur général de la région et le directeur régional de l'I.N.S.E.E.. Le recteur est le vice-président de ce
-groupe.
-
-Le groupe régional permanent peut, en tant que de besoin, s'adjoindre les représentants d'autres administrations ou
-organismes publics pour les affaires qui sont de leur compétence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Anciens textes_:
-
-  - Décret n°74-370 1974-04-29 ART. 1
-  - Décret n°67-55 1967-01-18 ART. 10 AL. 2
-
-_Cité par_:
-
-  - Code de l'éducation - art. R237-10 (M)
-  - Code de l'éducation - art. R313-49 (M)
-  - Code du travail - art. D910-3 (M)
-  - Code du travail - art. R910-11 (Ab)
-  - Code rural - art. R*811-12 (Ab)
-  - Code rural et de la pêche maritime - art. R811-3 (Ab)
 
 
 ###### Article R910-13

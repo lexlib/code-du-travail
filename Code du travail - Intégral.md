@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-01
+Version Consolidée au 1980-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -57707,15 +57707,24 @@ financier habilité à donner caution.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Arrêté du 6 mars 1980 - art. 2 (V)
   - Code du travail - art. R124-14 (M)
   - Code du travail - art. R124-15 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L124-8
+  - Loi n°1917-03-13
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-11 (V)
 
 
 ###### Article R124-8
@@ -57731,9 +57740,13 @@ acquitté les cotisations dues dans les délais prescrits.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L124-8
 
 _Cité par_:
 
@@ -57782,9 +57795,13 @@ de la scission, proportionnellement à leur chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-13 (V)
 
 
 ###### Article R124-11
@@ -57864,9 +57881,18 @@ l'agriculture fixe les modèles des attestations prévues à l'avant-dernier ali
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L124-8
+  - Code du travail - art. R124-11
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-16 (V)
 
 
 ##### Paragraphe 2 : Dispositions particulières aux différents modes de garantie.<a id=625></a>
@@ -57908,13 +57934,21 @@ _Cite_:
 
 L'engagement de caution prévu à l'article R. 124-7 ne peut être pris par un organisme de garantie collective agréé, une
 entreprise d'assurances, une banque ou un établissement financier habilité à donner caution que si l'organisme, l'entreprise,
-la banque ou l'établissement financier peut légalement exercer son activité en France [*condition*].
+la banque ou l'établissement financier peut légalement exercer son activité en France.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R124-7
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-18 (V)
 
 
 ###### Article R124-16
@@ -57996,29 +58030,36 @@ _Cite_:
 
 ###### Article R124-19
 
-Le garant doit payer les sommes dues dans les dix jours suivant la réception de la demande de paiement [*délai point de
-départ*].
+Le garant doit payer les sommes dues dans les dix jours suivant la réception de la demande de paiement.
 
 Lorsque le reliquat des paiements demandés excède le montant de la garantie financière, les créances de même nature sont
 réglées au marc le franc.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-21 (V)
 
 
 ###### Article R124-20
 
 Si le garant conteste l'existence, l'exigibilité ou le montant de la créance, le salarié ou l'organisme social peut
-l'assigner directement devant les juridictions compétentes [*recours*].
+l'assigner directement devant les juridictions compétentes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-23 (V)
 
 
 ###### Article R124-21
@@ -58028,9 +58069,17 @@ salariés, des organismes de sécurité sociale et des institutions sociales con
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R124-8
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-24 (V)
 
 
 ##### Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.<a id=627></a>
@@ -58074,9 +58123,13 @@ l'entrepreneur de travail temporaire pour la mise à disposition des salariés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-27 (V)
 
 
 ###### Article R124-24
@@ -58087,9 +58140,17 @@ travail temporaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R124-8
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-28 (V)
 
 
 ###### Article R124-25
@@ -58102,9 +58163,18 @@ du présent code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L124-3
+  - Code du travail - art. L124-4
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-29 (V)
 
 
 ##### Paragraphe 5 : Cessation de la garantie.<a id=628></a>
@@ -58118,29 +58188,36 @@ sans interruption.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Arrêté du 6 mars 1980 - art. 2 (V)
 
+_Cite_:
+
+  - Code du travail - art. R124-8
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-30 (V)
+
 
 ###### Article R124-27
 
 En cas de cessation de la garantie, le garant est tenu d'en aviser dans un délai de trois jours à compter de la date à
-laquelle il en est informé, par lettre recommandée avec demande d'avis de réception [*condition de forme*], les directions
-départementales du travail et de l'emploi, ou, pour les professions agricoles, les services départementaux du travail et de
-la protection sociale agricoles ainsi que les organismes chargés du recouvrement des cotisations de sécurité sociale, dans la
-circonscription desquels sont situés le siège de l'entreprise de travail temporaire et chacun de ses établissements
-[*compétence*].
+laquelle il en est informé, par lettre recommandée avec demande d'avis de réception, les directions départementales du
+travail et de l'emploi, ou, pour les professions agricoles, les services départementaux du travail et de la protection
+sociale agricoles ainsi que les organismes chargés du recouvrement des cotisations de sécurité sociale, dans la
+circonscription desquels sont situés le siège de l'entreprise de travail temporaire et chacun de ses établissements.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -58148,9 +58225,9 @@ _Cité par_:
   - Code du travail - art. R152-6 (M)
   - Code du travail - art. R152-6-1 (VT)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - TXT_ASSOCIE: Code du travail R152-6-1 : SANCTIONS PENALES
+  - Code du travail - art. R1251-31 (V)
 
 
 #### Chapitre V : Marchandage.<a id=629></a>

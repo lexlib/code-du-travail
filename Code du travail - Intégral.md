@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-11-08
+Version Consolidée au 1980-11-08 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -60366,29 +60366,29 @@ conditions à l'inspecteur du travail dont relève la succursale, l'agence ou le
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Circulaire 27 1980-11-17
-  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
-
 _Anciens textes_:
 
   - Loi n°72-1 1972-01-03
   - Décret n°73-53 du 9 janvier 1973 - art. 1 (V)
+  - Code du travail - art. R1251-4 (V)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°80-876 1980-11-04 ART. 1 JORF 8 novembre 1980
+  - Code du travail - art. L124-10
 
 _Cité par_:
 
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R124-2 (VT)
   - Code du travail - art. R124-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-5 (V)
 
 
 ###### Article R124-2

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-07-18
+Version Consolidée au 1978-07-20
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -31446,6 +31446,100 @@ _Anciens textes_:
   - Ordonnance  1967-08-17 ART. 8
 
 
+###### Article L442-10
+
+Un décret en Conseil d'Etat détermine les entreprises publiques et les sociétés nationales qui sont soumises aux dispositions
+du présent chapitre. Il fixe les conditions dans lesquelles ces dispositions leur sont applicables. Les accords prévus à
+l'article L. 442-11 ci-dessous ne peuvent conférer aux salariés desdites entreprises ou sociétés un droit sur le capital de
+celles-ci.
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les adaptations qui doivent être apportées aux dispositions du
+présent chapitre ou à celles régissant les sociétés coopératives ouvrières de production, pour permettre à ces sociétés
+d'appliquer les règles définies ci-dessus.
+
+En outre, dans ces sociétés :
+
+1. Les accords prévus à l'article L. 442-6 peuvent stipuler que l'emploi de la réserve spéciale de participation en parts
+sociales de la société coopérative ouvrière de production est réservé aux associés qui sont employés dans l'entreprise ;
+
+2. Les mêmes accords peuvent stipuler que, en cas d'emploi de la réserve spéciale de participation en obligations,
+obligations participantes ou compte courant bloqué, les associés qui sont employés dans l'entreprise sont en droit,
+nonobstant l'article 178 de la loi n. 66-537 du 24 juillet 1966, d'affecter leur créance sur la société coopérative ouvrière
+de production à la souscription et à la libération de parts sociales ;
+
+3. Le montant de la provision pour investissement autorisée à l'article L. 442-9 est au plus égal à celui des sommes portées
+à la réserve spéciale de participation au titre du même exercice ;
+
+4. Les dotations à la réserve légale et au fonds de développement peuvent tenir lieu, à due concurrence, de la provision pour
+investissement, le délai prévu à l'article L. 442-9 étant, dans ce cas, porté à quatre ans.
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : les dispositions de la présente ordonnance sont applicables au
+premier jour du premier exercice suivant.*]
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 ART. 178
+  - Code du travail - art. L442-6 (M)
+  - Code du travail - art. L442-9 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1047 1973-11-15
+
+_Modifié par_:
+
+  - Loi n°78-763 du 19 juillet 1978 - art. 55
+
+_Cité par_:
+
+  - Loi n°78-763 du 19 juillet 1978 - art. 57 (V)
+  - Décret n°87-544 du 17 juillet 1987 - art. 33 (T)
+  - Décret n°87-544 du 17 juillet 1987 - art. 36 (T)
+  - Loi n°96-314 du 12 avril 1996 - art. 22 (V)
+  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
+  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
+  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
+  - Loi n°2008-111 du 8 février 2008 - art. 7 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
+  - Code de la sécurité sociale. - art. L651-1 (M)
+  - Code du travail - art. L132-27 (AbD)
+  - Code du travail - art. L442-11 (AbD)
+  - Code du travail - art. L442-15 (AbD)
+  - Code du travail - art. L442-17 (AbD)
+  - Code du travail - art. L442-18 (AbD)
+  - Code du travail - art. L442-5 (AbD)
+  - Code du travail - art. L442-7 (M)
+  - Code du travail - art. L443-1 (AbD)
+  - Code du travail - art. L444-12 (AbD)
+  - Code du travail - art. L444-5 (AbD)
+  - Code du travail - art. R442-28 (M)
+  - Code du travail - art. R442-33 (Ab)
+  - Code du travail - art. R443-1 (M)
+  - Code du travail - art. R444-1-2 (M)
+
+_Abrogé par_:
+
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+_Anciens textes_:
+
+  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 16 (T)
+  - Ordonnance  1967-08-17 ART. 9
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L3322-6 (VD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail R442-33 A R442-39
+
+
 ###### Article L442-12
 
 Lorsque les parties intéressées n'ont pas, dans un délai d'un an, qui commence à courir à la clôture de l'exercice au titre
@@ -35813,6 +35907,12 @@ qu'à l'expiration d'un délai de cinq ans à compter de l'ouverture de ces droi
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles ces droits peuvent être exceptionnellement liquidés ou
 transférés avec l'expiration de ce délai.
 
+Lorsque, sans être dans l'un des cas prévus par le décret mentionné à l'alinéa précédent, un salarié ayant quitté son emploi
+dans une entreprise devient salarié et associé d'une société coopérative ouvrière de production, les droits constitués à son
+profit, au titre de ses emplois précédents, deviennent immédiatement négociables ou exigibles, sous condition d'être
+immédiatement remployés en parts sociales de la société coopérative ouvrière de production. Les parts ainsi acquises ne
+peuvent pas être cédées ou remboursées avant le terme du délai d'indisponibilité attaché aux droits ainsi remployés.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -35845,91 +35945,21 @@ _Cité par_:
   - Code du travail - art. R442-9 (M)
   - Code monétaire et financier - art. L214-39 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1047 1973-11-15
+  - Loi n°78-763 du 19 juillet 1978 - art. 56
 
 _Anciens textes_:
 
   - Ordonnance n°86-1134 du 21 octobre 1986 - art. 13 (T)
-  - Ordonnance 1967-08-17 ART. 6
 
 _Nouveaux textes_:
 
   - Code du travail - art. L3324-10 (VD)
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail - art. R442-15 (M)
-
 _Cite_:
 
   - Code du travail L442-1 A L442-17
-
-
-###### Article L442-10
-
-Un décret en Conseil d'Etat détermine les entreprises publiques et les sociétés nationales qui sont soumises aux dispositions
-du présent chapitre. Il fixe les conditions dans lesquelles ces dispositions leur sont applicables. Les accords prévus à
-l'article L. 442-11 ci-dessous ne peuvent conférer aux salariés desdites entreprises ou sociétés un droit sur le capital de
-celles-ci.
-
-Un décret en Conseil d'Etat fixe, en tant que de besoin, les adaptations qui doivent être apportées aux dispositions du
-présent chapitre ou à celles régissant les sociétés coopératives ouvrières de production, pour permettre à ces sociétés
-d'appliquer les règles définies ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-537 1966-07-24 ART. 178
-  - Code du travail - art. L442-6 (M)
-  - Code du travail - art. L442-9 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1047 1973-11-15
-
-_Cité par_:
-
-  - Loi n°78-763 du 19 juillet 1978 - art. 57 (V)
-  - Décret n°87-544 du 17 juillet 1987 - art. 33 (T)
-  - Décret n°87-544 du 17 juillet 1987 - art. 36 (T)
-  - Loi n°96-314 du 12 avril 1996 - art. 22 (V)
-  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
-  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
-  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
-  - Loi n°2008-111 du 8 février 2008 - art. 7 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
-  - Code de la sécurité sociale. - art. L651-1 (M)
-  - Code du travail - art. L132-27 (AbD)
-  - Code du travail - art. L442-11 (AbD)
-  - Code du travail - art. L442-15 (AbD)
-  - Code du travail - art. L442-17 (AbD)
-  - Code du travail - art. L442-18 (AbD)
-  - Code du travail - art. L442-5 (AbD)
-  - Code du travail - art. L442-7 (M)
-  - Code du travail - art. L443-1 (AbD)
-  - Code du travail - art. L444-12 (AbD)
-  - Code du travail - art. L444-5 (AbD)
-  - Code du travail - art. R442-28 (M)
-  - Code du travail - art. R442-33 (Ab)
-  - Code du travail - art. R443-1 (M)
-  - Code du travail - art. R444-1-2 (M)
-
-_Anciens textes_:
-
-  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 16 (T)
-  - Ordonnance  1967-08-17 ART. 9
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L3322-6 (VD)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail R442-33 A R442-39
 
 
 ###### Article L442-11

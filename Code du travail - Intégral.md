@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-01
+Version Consolidée au 1979-10-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -1418,8 +1418,8 @@ Version Consolidée au 1979-10-01
         - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris. (art. D910-22 à D910-24)](#1415)
       - [Titre IV : De l'aide de l'Etat. (art. D940-1 à D940-6)](#1416)
     - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE (art. D910-1 à D940-5)](#1417)
-      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-1 à D910-5)](#1418)
-        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI . (art. D910-1 à D910-5)](#1419)
+      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-1 à D910-6)](#1418)
+        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI . (art. D910-1 à D910-6)](#1419)
       - [AIDE DE L'ETAT . (art. D940-5)](#1420)
     - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE (art. D910-2)](#1421)
       - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-2)](#1422)
@@ -119968,46 +119968,43 @@ De représentants, en nombre égal, des employeurs et des salariés désignés s
 plus représentatives et siégeant au comité régional ;
 
 De personnalités qualifiées parmi lesquelles le représentant des chambres de commerce et d'industrie, le représentant des
-chambres de métiers et le représentant des chambres d'agriculture siégeant au comité régional, deux représentants des
-enseignants publics, dont un de l'enseignement agricole public, un directeur de centre de formation d'apprentis et un
-représentant du personnel enseignant des centres de formation d'apprentis ;
+chambres de métiers et le représentant des chambres d'agriculture siégeant au comité régional du ou de l'un des deux
+représentants des personnels des établissements publics d'enseignement visés à l'article  D. 910-3 (3°) nommés sur
+proposition de l'organisation syndicale nationale la plus représentative de ces personnels, dont un de l'enseignement
+agricole public, un directeur de centre de formation d'apprentis et un représentant du personnel enseignant des centres de
+formation d'apprentis ;
 
-De représentants de l'administration, notamment /R/de l'éducation nationale, du développement industriel et scientifique/R/
-DECR.0102 02-02-1977 : de l'éducation, et particulièrement du service d'inspection de l'apprentissage de l'industrie et de la
-recherche// , de l'agriculture, du travail et de l'emploi.
+De représentants de l'administration, notamment de l'éducation, et particulièrement du service d'inspection de
+l'apprentissage, de l'industrie et de la recherche, de l'agriculture, du travail et de l'emploi.
 
-Les membres de la commission de l'apprentissage sont désignés par le préfet de région.
+Les membres de la commission de l'apprentissage sont désignés par le préfet de région [*autorité compétente*].
 
-Cette commission est /R/placée sous la présidence de /R/DECR.0102 : est présidée par le préfet de région ou son représentant
-assisté de// l'inspecteur principal de l'enseignement technique, membre du groupe régional permanent, ou, pour les questions
-intéressant l'apprentissage agricole, de l'ingénieur général d'agronomie membre du même groupe.
+Cette commission est présidée par le préfet de région ou son représentant, assisté de l'inspecteur principal de
+l'enseignement technique, membre du groupe régional permanent ou, pour les questions intéressant l'apprentissage agricole, de
+l'ingénieur général d'agronomie, membre du même groupe.
 
 Pour l'étude de certaines questions, la commission de l'apprentissage peut, à titre consultatif, faire appel à d'autres
 personnes choisies en raison de leur compétence.
 
-Le comité régional peut donner délégation à sa commission de l'apprentissage pour émettre un avis //DECR.0428 20-03-1978 :
-
-ou prendre une décision// en son lieu et place, chaque fois que cet avis //DECR.0428 : ou cette décision// est prévu par les
-articles L. 115-1 à L. 119-4 ou par les textes pris pour leur application.
+Le comité régional peut donner délégation à sa commission de l'apprentissage pour émettre un avis ou prendre une décision en
+son lieu et place, chaque fois que cet avis ou cette décision est prévu par les articles L. 115-1 à L. 119-4 ou par les
+textes pris pour leur application.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
 _Cite_:
 
-  - Code du travail L115-1 A L119-4
+  - Code du travail - art. D910-3 (M)
+  - Code du travail L115-1 A L119-4, D910-3
 
 _Cité par_:
 
   - Code rural - art. R*811-12 (Ab)
   - Code rural et de la pêche maritime - art. R811-3 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°70-827 1970-09-16 ART. 3 bis
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 
 ###### Article D910-5
@@ -120033,6 +120030,29 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+
+###### Article D910-6
+
+Il est institué un secrétariat commun du groupe régional permanent de la formation professionnelle et de la promotion sociale
+et du comité régional de la formation professionnelle, de la promotion sociale et de l'emploi.
+
+Un délégué régional à la formation professionnelle est désigné par le préfet de région [*autorité compétente*]. Il assure les
+fonctions de secrétaire de groupe et du comité. Il est assisté dans cette tâche par l'inspecteur principal de l'enseignement
+technique, le délégué académique à la formation continue placés auprès du recteur et le responsable de l'échelon régional de
+l'emploi auprès du directeur régional du travail et de l'emploi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Décret n°94-1168 du 28 décembre 1994 - art. 1 (V)
+  - Code du travail - art. D910-4 (Ab)
+  - Code du travail - art. D910-5 (M)
 
 
 ### AIDE DE L'ETAT .<a id=1420></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-10-31
+Version Consolidée au 1975-11-11
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -70123,13 +70123,20 @@ _Nouveaux textes_:
 
 ###### Article R231-12
 
-La réclamation mentionnée à l'article L. 231-5 est soumise, après enquête, à la commission d'hygiène industrielle ou à la
-commission de sécurité du travail qui entend le réclamant s'il y a lieu. Lorsque l'exécution de la mise en demeure
-nécessiterait des transformations importantes portant notamment sur le gros oeuvre de l'établissement, le ministre accorde au
-réclamant le délai qui aura été reconnu nécessaire et suffisant par la commission d'hygiène industrielle ou la commission de
-sécurité du travail. La durée de ce délai ne dépassera jamais dix-huit mois.
+La réclamation mentionnée à l'article L. 231-5 est soumise, après enquête, soit à la commission d'hygiène industrielle ou à
+la commission de sécurité du travail soit, en cas d'urgence constatée par le ministre chargé du travail, à un groupe
+restreint de l'une ou de l'autre de ces commissions.
 
-Notification de la décision est faite au chef d'établissement dans la forme administrative, avis en est donné à l'inspecteur.
+Lorsque l'exécution de la mise en demeure implique des transformations importantes portant notamment sur le gros oeuvre de
+l'établissement, le ministre accorde au réclamant le délai qui aura été reconnu nécessaire et suffisant par la commission
+d'hygiène industrielle, la commission de sécurité du travail ou, le cas échéant, par le groupe restreint susvisé. La durée de
+ce délai ne dépassera jamais dix-huit mois .
+
+Notification de la décision est faite au chef d'établissement dans la forme administrative ; avis en est donné à
+l'inspecteur .
+
+La composition de chaque groupe restreint est fixée par le ministre chargé du travail sur proposition de la commission dont
+il relève.
 
 **Liens relatifs à cet article**
 
@@ -70149,14 +70156,14 @@ _Cité par_:
   - Code du travail - art. R231-12-4 (VT)
   - Code du travail - art. R263-2 (M)
 
-_Cite_:
-
-  - Code du travail - art. L231-5 (Ab)
-
 _Nouveaux textes_:
 
   - Code du travail - art. R231-13 (M)
   - Code du travail - art. R231-13 (T)
+
+_Cite_:
+
+  - Code du travail - art. R231-5 (M)
 
 
 #### COMITES D'HYGIENE ET DE SECURITE .<a id=812></a>

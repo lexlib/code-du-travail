@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-02-28
+Version Consolidée au 1980-02-28 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -95832,9 +95832,9 @@ financement des dépenses supplémentaires est portée à un tiers.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -95855,10 +95855,6 @@ Chaque régime fixe le taux des contributions correspondantes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°76-555 du 25 juin 1976 - art. 4-2 (Ab)
@@ -95869,9 +95865,9 @@ _Cité par_:
   - Code du travail - art. R833-6 (VT)
   - Code du travail - art. R833-7 (VT)
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code du travail - art. R833-5 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R833-3
@@ -95917,9 +95913,13 @@ adaptées à la situation économique et sociale de chaque département.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R833-2
 
 **Liens**:
 
@@ -95934,9 +95934,14 @@ d'un département d'outre-mer à l'autre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L351-9
+  - Code du travail - art. R833-2
 
 
 ###### Article R833-7
@@ -95988,13 +95993,43 @@ R. 833-2" ;
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. L351-1
+  - Code du travail - art. L351-10
+  - Code du travail - art. L351-12
+  - Code du travail - art. L351-14
+  - Code du travail - art. L351-15
+  - Code du travail - art. L351-17
+  - Code du travail - art. L351-18
+  - Code du travail - art. L351-2
+  - Code du travail - art. L351-20
+  - Code du travail - art. L351-21
+  - Code du travail - art. L351-3
+  - Code du travail - art. L351-4
+  - Code du travail - art. L351-5
+  - Code du travail - art. L351-6
+  - Code du travail - art. L351-7
+  - Code du travail - art. L351-8
+  - Code du travail - art. L351-9
+  - Code du travail - art. L365-1
+  - Code du travail - art. L365-2
+  - Code du travail - art. L773-2
+  - Code du travail - art. R351-13
+  - Code du travail - art. R351-14
+  - Code du travail - art. R351-2
+  - Code du travail - art. R365-1
+  - Code du travail - art. R833-1
+  - Code du travail - art. R833-2
 
 
 ### Titre VIII : Pénalités<a id=1136></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-02-27
+Version Consolidée au 1982-02-27 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -107151,17 +107151,17 @@ alinéa de l'article L. 212-4-1 doivent être notifiées dans les deux mois suiv
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°82-195 1982-02-26 ART. 3 JORF 27 FEVRIER 1982 RECTIFICATIF JORF 10 MARS 1982
+  - Code du travail - art. L212-4-1
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R3122-3 (VT)
 
 
 ##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.<a id=1247></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-07-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -16757,6 +16757,109 @@ _Cite_:
   - Code du travail L231-1 ET L231-3
 
 
+###### Article L231-3
+
+Les décrets en Conseil d'Etat prévus à l'article L. 231-2 (1., 2. et 3.) sont pris, sans préjudice de l'application, s'il y a
+lieu, de l'article L. 231-3, après avis du conseil supérieur de la prévention des risques professionnels.
+
+Ce conseil se substitue notamment à la commission d'hygiène industrielle, à la commission de sécurité du travail et au
+conseil supérieur de la médecine du travail. En font partie, en nombre égal, des représentants des organisations d'employeurs
+et des représentants des organisations de salariés.
+
+Le conseil supérieur d'hygiène publique est, en outre, appelé à donner son avis sur les décrets en Conseil d'Etat prévus par
+l'article L. 231-2 (1.) lorsque ces décrets intéressent l'hygiène générale des locaux de travail ou le couchage du personnel.
+
+Un décret en Conseil d'Etat détermine la composition, les règles de fonctionnement ainsi que, le cas échéant, les
+attributions autres que celle qui a été ci-dessus établie, du conseil supérieur de la prévention des risques professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°76-1106 1976-12-06 ART. 41 : les deux premiers alinéa entreront en vigueur dans les six mois suivant la promulgation de la loi
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 1 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 10 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 11 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 12 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 13 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 14 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 15 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 16 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 17 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 18 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 19 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 2 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 20 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 21 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 22 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 23 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 24 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 25 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 26 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 27 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 28 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 29 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 3 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 30 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 31 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 32 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 33 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 34 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 35 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 36 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 37 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 38 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 39 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 4 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 40 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 41 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 42 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 43 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 44 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 45 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 46 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 47 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 48 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 49 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 5 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 50 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 51 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 52 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 53 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 54 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 55 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 56 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 57 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 58 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 59 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 6 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 60 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 61 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 7 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 8 (V)
+  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 9 (V)
+
+_Cité par_:
+
+  - Loi n°76-1106 du 6 décembre 1976 - art. 41 (P)
+  - Décret n°2007-1754 du 13 décembre 2007 (V)
+  - Code du travail - art. L231-3 (AbD)
+  - Code du travail - art. L231-7 (AbD)
+  - Code du travail - art. L233-5 (AbD)
+  - Code du travail - art. L233-5-1 (AbD)
+  - Code du travail - art. L612-2 (AbD)
+  - Code du travail - art. R224-6 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L231-2 (M)
+
+
 ###### Article L231-3-2
 
 Des décrets en Conseil d'Etat, pris en application de l'article L. 231-2 et après avis des organisations syndicales
@@ -21448,109 +21551,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
-
-
-###### Article L231-3
-
-Les règlements d'administration publique prévus par l'article L. 231-2 (1., 2. et 3.), sont pris après avis de la commission
-d'hygiène industrielle ou de la commission de sécurité du travail, ou de ces deux organismes s'il y a lieu.
-
-Le conseil supérieur d'hygiène publique est, en outre, appelé à donner son avis sur les règlements d'administration publique
-prévus par l'article L. 231-2 (1.) lorsque ces règlements intéressent l'hygiène générale des locaux de travail ou le couchage
-du personnel.
-
-/A/les règlements d'administration publique prévus par l'article L. 231-2 (4.) sont pris après avis de la commission
-d'hygiène industrielle/A/DECR.1046 15-11-1973// .
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
-_Cité par_:
-
-  - Loi n°76-1106 du 6 décembre 1976 - art. 41 (P)
-  - Décret n°2007-1754 du 13 décembre 2007 (V)
-  - Code du travail - art. L231-3 (AbD)
-  - Code du travail - art. L231-7 (AbD)
-  - Code du travail - art. L233-5 (AbD)
-  - Code du travail - art. L233-5-1 (AbD)
-  - Code du travail - art. L612-2 (AbD)
-  - Code du travail - art. R224-6 (VT)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 1 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 10 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 11 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 12 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 13 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 14 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 15 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 16 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 17 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 18 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 19 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 2 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 20 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 21 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 22 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 23 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 24 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 25 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 26 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 27 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 28 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 29 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 3 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 30 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 31 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 32 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 33 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 34 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 35 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 36 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 37 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 38 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 39 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 4 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 40 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 41 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 42 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 43 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 44 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 45 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 46 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 47 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 48 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 49 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 5 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 50 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 51 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 52 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 53 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 54 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 55 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 56 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 57 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 58 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 59 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 6 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 60 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 61 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 7 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 8 (V)
-  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 9 (V)
-
-_Anciens textes_:
-
-  - Code du travail 2186
-
-_Cite_:
-
-  - Code du travail L231-2 AL. 4
 
 
 ###### Article L231-4

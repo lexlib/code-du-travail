@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-01-26
+Version Consolidée au 1974-03-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -1108,7 +1108,7 @@ Version Consolidée au 1974-01-26
       - [Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10 (art. R950-1)](#1105)
         - [SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE . (art. R950-1)](#1106)
   - [Partie réglementaire ancienne - Décrets simples (art. D117-4 à D910-2)](#1107)
-    - [Livre Ier : Conventions relatives au travail (art. D117-4 à D142-2)](#1108)
+    - [Livre Ier : Conventions relatives au travail (art. D117-4 à D143-1)](#1108)
       - [Titre Ier : Contrats d'apprentissage (art. D117-4)](#1109)
         - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972 (art. D117-4)](#1110)
           - [Chapitre VII : Salaire de l'apprenti. (art. D117-4)](#1111)
@@ -1117,7 +1117,7 @@ Version Consolidée au 1974-01-26
           - [Chapitre VII : SALAIRE DE L'APPRENTI . (art. D117-2)](#1114)
       - [Titre III : Conventions collectives de travail (art. D134-1)](#1115)
         - [Chapitre IV : Conventions collectives dans les entreprises publiques. (art. D134-1)](#1116)
-      - [Titre IV : Salaire (art. D141-1 à D142-2)](#1117)
+      - [Titre IV : Salaire (art. D141-1 à D143-1)](#1117)
         - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale (art. D141-1 à D141-10)](#1118)
           - [Section 1 : Dispositions générales. (art. D141-1 à D141-4)](#1119)
           - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement. (art. D141-5 à D141-10)](#1120)
@@ -1125,15 +1125,15 @@ Version Consolidée au 1974-01-26
           - [Rémunération mensuelle minimale (art. D141-7 à D141-9)](#1122)
             - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement. (art. D141-7 à D141-9)](#1123)
         - [Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature. (art. D142-1 à D142-2)](#1124)
-    - [CONVENTIONS RELATIVES AU TRAVAIL (art. D117-1 à D143-1)](#1125)
-      - [CONTRAT D'APPRENTISSAGE (art. D117-1 à D117-3)](#1126)
-        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972 (art. D117-1 à D117-3)](#1127)
-          - [SALAIRE DE L'APPRENTI . (art. D117-1 à D117-3)](#1128)
-      - [SALAIRE (art. D141-11 à D143-1)](#1129)
-        - [SALAIRE MINIMUM DE CROISSANCE *SMIC* ET REMUNERATION MENSUELLE MINIMALE (art. D141-11)](#1130)
-          - [DISPOSITIONS SPECIALES AUX SALARIES AGRICOLES . (art. D141-11)](#1131)
-        - [PAIEMENT DU SALAIRE (art. D143-1)](#1132)
-          - [PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE . (art. D143-1)](#1133)
+        - [Chapitre III : PAIEMENT DU SALAIRE (art. D143-1)](#1125)
+          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE . (art. D143-1)](#1126)
+    - [CONVENTIONS RELATIVES AU TRAVAIL (art. D117-1 à D141-11)](#1127)
+      - [CONTRAT D'APPRENTISSAGE (art. D117-1 à D117-3)](#1128)
+        - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972 (art. D117-1 à D117-3)](#1129)
+          - [SALAIRE DE L'APPRENTI . (art. D117-1 à D117-3)](#1130)
+      - [SALAIRE (art. D141-11)](#1131)
+        - [SALAIRE MINIMUM DE CROISSANCE *SMIC* ET REMUNERATION MENSUELLE MINIMALE (art. D141-11)](#1132)
+          - [DISPOSITIONS SPECIALES AUX SALARIES AGRICOLES . (art. D141-11)](#1133)
     - [Livre II : Réglementation du travail (art. D212-1 à D241-31)](#1134)
       - [Titre Ier : Conditions du travail (art. D212-1 à D212-4)](#1135)
         - [Chapitre II : DUREE DU TRAVAIL (art. D212-1 à D212-4)](#1136)
@@ -90767,13 +90767,41 @@ _Cite_:
   - Code du travail - art. D142-1
 
 
-## CONVENTIONS RELATIVES AU TRAVAIL<a id=1125></a>
+#### Chapitre III : PAIEMENT DU SALAIRE<a id=1125></a>
 
-### CONTRAT D'APPRENTISSAGE<a id=1126></a>
+##### SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .<a id=1126></a>
 
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972<a id=1127></a>
+###### Article D143-1
 
-##### SALAIRE DE L'APPRENTI .<a id=1128></a>
+Le plafond mensuel prévu aux alinéas 1er et 2 de l'article L. 143-10 du code du travail est fixé à deux fois le plafond
+retenu, par mois, pour le calcul des cotisations de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3253-1 (V)
+
+_Cite_:
+
+  - Code du travail - art. L143-10
+
+
+## CONVENTIONS RELATIVES AU TRAVAIL<a id=1127></a>
+
+### CONTRAT D'APPRENTISSAGE<a id=1128></a>
+
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972<a id=1129></a>
+
+##### SALAIRE DE L'APPRENTI .<a id=1130></a>
 
 ###### Article D117-1
 
@@ -90848,11 +90876,11 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-### SALAIRE<a id=1129></a>
+### SALAIRE<a id=1131></a>
 
-#### SALAIRE MINIMUM DE CROISSANCE *SMIC* ET REMUNERATION MENSUELLE MINIMALE<a id=1130></a>
+#### SALAIRE MINIMUM DE CROISSANCE *SMIC* ET REMUNERATION MENSUELLE MINIMALE<a id=1132></a>
 
-##### DISPOSITIONS SPECIALES AUX SALARIES AGRICOLES .<a id=1131></a>
+##### DISPOSITIONS SPECIALES AUX SALARIES AGRICOLES .<a id=1133></a>
 
 ###### Article D141-11
 
@@ -90877,28 +90905,6 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°95-182 du 21 février 1995 - art. 4 (V)
-
-
-#### PAIEMENT DU SALAIRE<a id=1132></a>
-
-##### PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .<a id=1133></a>
-
-###### Article D143-1
-
-Le plafond mensuel prévu aux alinéas 1er et 2 de l'article L. 143-10 du présent code est fixé à la somme des portions de
-rémunérations mensuelles insaisissables et incessibles, calculées conformément aux dispositions de l'article R. 145-1, soit à
-la somme de 1.466,63 F.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Code du travail - art. L143-10 (M)
-  - Code du travail - art. R145-1 (M)
 
 
 ## Livre II : Réglementation du travail<a id=1134></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-11-08
+Version Consolidée au 1980-11-08 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -58307,7 +58307,7 @@ _Cite_:
 
 ###### Article R124-1
 
-La déclaration [*de l'entrepreneur*] prévue à l'article L. 124-10 doit comporter les mentions [*obligatoires*] suivantes :
+La déclaration prévue à l'article L. 124-10 doit comporter les mentions suivantes :
 
 a) L'indication de l'opération qui est envisagée : création d'une entreprise de travail temporaire, ouverture d'une
 succursale, d'une agence ou d'un bureau annexe, déplacement du siège ou cessation d'activité ;
@@ -58323,11 +58323,11 @@ bureau annexe concernés ;
 e) La désignation de l'organisme auquel l'entrepreneur de travail temporaire verse les cotisations de sécurité sociale ainsi
 que son numéro d'employeur ;
 
-f) Les domaines géographiques et professionnel dans lesquels l'entreprise entend mettre [*mis*] des travailleurs temporaires
-à la disposition d'utilisateurs ;
+f) Les domaines géographiques et professionnel dans lesquels l'entreprise entend mettre des travailleurs temporaires à la
+disposition d'utilisateurs ;
 
-g) Le nombre de salariés permanents [*effectifs*] que l'entreprise emploie ou envisage d'employer pour assurer le
-fonctionnement de ses propres services.
+g) Le nombre de salariés permanents que l'entreprise emploie ou envisage d'employer pour assurer le fonctionnement de ses
+propres services.
 
 La déclaration, datée et signée par le chef d'entreprise, est adressée en deux exemplaires, sous pli recommandé, à
 l'inspecteur du travail et de la main-d'oeuvre dont relève le siège de l'entreprise. Elle est adressée dans les mêmes
@@ -58335,29 +58335,27 @@ conditions à l'inspecteur du travail dont relève la succursale, l'agence ou le
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Circulaire 27 1980-11-17
-  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°72-1 1972-01-03
-  - Décret n°73-53 du 9 janvier 1973 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°80-876 1980-11-04 ART. 1 JORF 8 novembre 1980
+  - Code du travail - art. L124-10
 
 _Cité par_:
 
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R124-2 (VT)
   - Code du travail - art. R124-6 (Ab)
+
+_Anciens textes_:
+
+  - Code du travail - art. R1251-4 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-5 (V)
 
 
 ###### Article R124-2

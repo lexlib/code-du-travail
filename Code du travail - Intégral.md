@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-10-12
+Version Consolidée au 1978-12-23
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -249,7 +249,7 @@ Version Consolidée au 1978-10-12
           - [SECTION 2 : TRAVAIL CLANDESTIN. (art. L324-9 à L324-10)](#246)
     - [EMPLOI (art. L321-2 à L324-14)](#247)
       - [CONTROLE DE L'EMPLOI . (art. L321-2 à L321-12)](#248)
-      - [FONDS NATIONAL DE L'EMPLOI . (art. L322-1)](#249)
+      - [FONDS NATIONAL DE L'EMPLOI . (art. L322-1 à L322-3)](#249)
       - [PRIME DE MOBILITE DES JEUNES . (art. L322-7 à L322-10)](#250)
       - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS (art. L323-21 à L323-26)](#251)
         - [TRAVAILLEURS HANDICAPES . (art. L323-21 à L323-26)](#252)
@@ -26463,6 +26463,98 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code du travail L322-1 A L322-11
+
+
+###### Article L322-3
+
+Des primes de transfert et des indemnités de frais de transport, de déménagement et de réinstallation sont attribuées
+[*bénéficiaire*] aux travailleurs privés d'emploi qui, après avoir suivi un stage de formation professionnelle ou en avoir
+été dispensés après examen de leurs références professionnelles, quittent une région de sous-emploi constaté ou prévu afin
+d'occuper un emploi correspondant à leur qualification dans une région où existent des besoins de main-d'oeuvre.
+
+Les conditions dans lesquelles les dispositions qui précèdent peuvent être appliquées aux travailleurs non salariés et aux
+personnes libérées du service national sont fixées par voie réglementaire.
+
+//Les dispositions ci-dessus sont applicables aux travailleurs privés d'emploi embauchés par une entreprise française ou par
+la filiale d'une entreprise française pour occuper un emploi salarié comportant résidence à l'étranger, à l'exception de ceux
+d'entre eux tenus de posséder un titre les autorisant à exercer une activité salariée en France. Dans ce cas, les indemnités
+de frais de transport et de déménagement sont calculées sur une base forfaitaire//LOI 1190 21-12-1978//.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+  - Décret n°51-727 du 6 juin 1951 - art. 3 (Ab)
+  - Arrêté du 6 mars 1987 - art. 1 (V)
+  - Loi n°87-563 du 17 juillet 1987 - art. 8 (V)
+  - Décret n°87-881 du 26 octobre 1987 - art. 1 (Ab)
+  - Décret n°87-881 du 26 octobre 1987 - art. 3 (Ab)
+  - Arrêté - art. 1 (V)
+  - Décret n°90-106 du 30 janvier 1990 - art. 1 (V)
+  - Loi n°93-1313 du 20 décembre 1993 - art. 8 (V)
+  - Décret n°95-925 du 19 août 1995 - art. 4 (Ab)
+  - Loi n°98-1194 du 23 décembre 1998 - art. 4 (V)
+  - Code de la sécurité sociale. - art. L131-2 (M)
+  - Code de la sécurité sociale. - art. L135-2 (M)
+  - Code de la sécurité sociale. - art. L311-5 (M)
+  - Code de la sécurité sociale. - art. L351-3 (M)
+  - Code de la sécurité sociale. - art. L412-8 (M)
+  - Code de la sécurité sociale. - art. R135-16 (M)
+  - Code de la sécurité sociale. - art. R351-12 (M)
+  - Code de la sécurité sociale. - art. R351-13 (V)
+  - Code de la sécurité sociale. - art. R412-5-1 (V)
+  - Code des pensions de retraite des marins frança... - art. L12 (VT)
+  - Code du travail - art. D322-1 (VT)
+  - Code du travail - art. D322-4-1 (VT)
+  - Code du travail - art. L143-10 (M)
+  - Code du travail - art. L143-11-1 (M)
+  - Code du travail - art. L143-11-7 (M)
+  - Code du travail - art. L321-13 (M)
+  - Code du travail - art. L321-14 (M)
+  - Code du travail - art. L321-5 (Ab)
+  - Code du travail - art. L321-5-2 (Ab)
+  - Code du travail - art. L321-6 (M)
+  - Code du travail - art. L321-6-1 (Ab)
+  - Code du travail - art. L353-1 (Ab)
+  - Code du travail - art. L353-2 (M)
+  - Code du travail - art. L950-2 (T)
+  - Code du travail - art. L951-1 (M)
+  - Code du travail - art. R322-14-1 (Ab)
+  - Code du travail - art. R322-5-1 (VT)
+  - Code du travail - art. R322-8 (VT)
+  - Code du travail - art. R950-9 (M)
+  - Code du travail - art. R964-15 (VT)
+  - Code du travail maritime - art. 94 (V)
+  - Code rural ancien - art. 1145 (Ab)
+  - Code rural ancien - art. 1252-2 (Ab)
+  - Code rural et de la pêche maritime - art. L751-1 (V)
+
+_Anciens textes_:
+
+  - Ordonnance 67-579 1967-07-13 ART. 1
+  - Loi n°68-1249 1968-12-31
+  - Décret n°70-241 1970-03-16
+  - Loi n°1963-08-18 ART. 2
+  - Loi n°1966-12-03 ART. 18
+
+_Abrogé par_:
+
+  - Loi n°82-1126 du 29 décembre 1982 - art. 101 () JORF 29 DECEMBRE 1982
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°87-132 du 27 février 1987
+  - TXT_SOURCE: Décret n°87-132 du 27 février 1987 - art. 8 (V)
+  - TXT_SOURCE: Décret n°93-630 du 25 mars 1993
+  - TXT_SOURCE: Décret n°98-737 du 21 août 1998
+  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
 
 
 ### PRIME DE MOBILITE DES JEUNES .<a id=250></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-11-08 00:00:01 +0100
+Version Consolidée au 1980-11-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -85934,6 +85934,83 @@ _Anciens textes_:
   - Loi n°1957-11-23 ART. 27
 
 
+###### Article R323-82
+
+Le Conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés se compose :
+
+- du ministre chargé du travail ou son représentant, président ;
+
+- du ministre chargé de la santé publique ou son représentant, vice-président ;
+
+- du ministre des anciens combattants et victimes de guerre ou son représentant, vice-président ;
+
+- d'un représentant du premier ministre (fonction publique) ;
+
+- d'un représentant du ministre chargé de l'intérieur ;
+
+- d'un représentant du ministre chargé de l'agriculture ;
+
+- d'un représentant du ministre chargé de l'éducation nationale ;
+
+- d'un représentant du ministre chargé de l'industrie ;
+
+- De deux représentants de l'assemblée nationale désignés parmi les membres des commissions compétentes ;
+
+- de deux représentants du Sénat désignés parmi les membres des commissions compétentes ;
+
+- d'un représentant du conseil économique et social ;
+
+- d'un membre du Conseil d'Etat ;
+
+- d'un représentant de la commission de la main-d'oeuvre, du commissariat général du plan et de la productivité ;
+
+- De cinq représentants des organisations syndicales patronales ;
+
+- de cinq représentants des organisations syndicales ouvrières ;
+
+- de huit représentants au maximum d'associations de handicapés à caractère national désignés par le ministre chargé du
+travail ;
+
+- de deux personnalités représentant les oeuvres gestionnaires des centres de réadaptation et de reclassement choisies en
+raison de leurs initiatives et de leurs réalisations en faveur des handicapés.
+
+- D'un représentant de la caisse nationale d'assurance maladie des travailleurs salariés ;
+
+- d'un représentant de la caisse nationale d'assurance maladie et maternité des travailleurs non-salariés ;
+
+- d'un représentant de la mutualité sociale agricole ;
+
+- de trois représentants du corps médical désignés par la confédération des syndicats médicaux français ;
+
+- de quatre représentants des organisations syndicales de médecins du travail, médecins de sanatorium, médecins d'orientation
+professionnelle et médecins d'hôpital psychiatrique désignés par le ministre chargé du travail, en accord avec le ministre de
+la santé publique ;
+
+- d'un spécialiste des problèmes psychotechniques désigné par le ministre chargé du travail.
+
+La composition du conseil supérieur ne peut être modifiée que par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1959-08-03 ART. 11
+  - Décret n°70-1079 1970-11-23 ART. 1 ET 2
+
+_Cité par_:
+
+  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+  - Code de la sécurité sociale. - art. D412-79 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°80-879 1980-11-05 ART. 1 JORF 9 NOVEMBRE 1980
+
+
 ###### Article R323-83
 
 Le Conseil supérieur se réunit sur convocation du ministre chargé du travail.
@@ -85995,6 +86072,88 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
+###### Article R323-85
+
+La désignation des membres du Conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés
+s'effectue dans les formes suivantes :
+
+a) Par arrêté conjoint du ministre chargé du travail et du ministre intéressé pour :
+
+- le représentant du Premier ministre (fonction publique) ;
+
+- le représentant du ministre de l'intérieur ;
+
+- le représentant du ministre de l'agriculture ;
+
+- le représentant du ministre de l'éducation nationale ;
+
+- le représentant du ministre chargé de l'industrie.
+
+b) Par arrêté conjoint du ministre chargé du travail et du ministre de la santé publique pour :
+
+- les deux personnalités représentant les oeuvres gestionnaires des centres de rééducation et de reclassement ;
+
+- les quatre représentants des organisations syndicales des médecins du travail, médecins de sanatorium, médecins
+d'orientation professionnelle et médecins d'hôpital psychiatrique.
+
+C) Par arrêté du ministre chargé du travail pour :
+
+- le membre du conseil d'Etat, sur la proposition du vice-président du conseil d'Etat ;
+
+- le représentant de la commission de la main-d'oeuvre du commissariat général du plan d'équipement de la productivité,
+
+sur proposition du commissaire général ;
+
+- les représentants des travailleurs sur proposition des organisations syndicales les plus représentatives sur le plan
+national ;
+
+- les représentants des employeurs sur proposition des organisations professionnelles les plus représentatives sur le plan
+national et, en ce qui concerne les représentants des employeurs en agriculture, après accord du ministre de l'agriculture ;
+
+- /R/De six représentants des associations de handicapés à caractère national, après accord desdites associations /R/DECR.
+879 1980-11-05 : les représentants des associations de handicapés à caractère national sur proposition de chacune des
+associations intéressées// ;
+
+- Le représentant de la caisse nationale d'assurance maladie des travailleurs salariés, sur proposition du conseil
+d'administration de cette caisse ;
+
+- le représentant de la caisse nationale d'assurance maladie et maternité des travailleurs non-salariés sur proposition du
+conseil d'administration de cette caisse ;
+
+- le représentant de la mutualité agricole sur proposition du ministre de l'agriculture ;
+
+- les trois représentants du corps médical, qui devront comprendre un membre du conseil supérieur de la médecine du travail,
+présenté par ledit conseil sur proposition de la confédération des syndicats médicaux français ;
+
+- le spécialiste des problèmes psychotechniques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°70-1080 1970-11-23 ART. 1
+  - Décret n°59-442 1959-12-18 ART. 1
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°80-879 1980-11-05 ART. 2 JORF 9 NOVEMBRE 1980
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - TXT_SOURCE: Arrêté du 4 mars 1993
+  - TXT_SOURCE: Arrêté du 4 mars 1993 - art. 1 (V)
+
+_Cité par_:
+
+  - Arrêté du 4 mars 1993 - art. 1 (V)
+  - Code du travail - art. R323-87 (VT)
+
+
 ###### Article R323-86
 
 Le président du Conseil supérieur peut appeler à participer occasionnellement aux travaux de ce conseil des personnalités
@@ -86036,6 +86195,63 @@ _Codifié par_:
 _Cite_:
 
   - Code du travail - art. R323-85 (M)
+
+
+###### Article R323-88
+
+Une section permanente est créée au sein du Conseil supérieur. Elle est chargé d'étudier les questions qui lui sont soumises
+par le ministre chargé du travail ou par le Conseil supérieur.
+
+Elle est présidée par le ministre chargé du travail ou son représentant et comprend les membres ci-après du conseil
+supérieur :
+
+Le ministre chargé de la santé publique, vice-président, ou son représentant ;
+
+Le ministre chargé des anciens combattants et victimes de guerre, vice président, ou son représentant ;
+
+Le représentant du premier ministre (fonction publique) ;
+
+Le représentant du ministre de l'agriculture ;
+
+Le représentant du ministre de l'intérieur ;
+
+Le membre du conseil d'Etat ;
+
+/R/Deux représentants des Associations de handicapés à caractère national/R/DECR. 879 1980-11-05 : quatre représentants des
+associations de handicapés à caractère national// ;
+
+Deux représentants des oeuvres gestionnaires des centres de réadaptation et de reclassement ;
+
+Les représentants des organisations syndicales d'employeurs et de travailleurs ;
+
+Le représentant du corps médical membre du conseil supérieur de la médecine du travail et de la main-d'oeuvre ;
+
+Les représentants des organisations syndicales de médecins du travail et de médecins de sanatorium ;
+
+Les représentants de la caisse nationale de sécurité sociale des travailleurs salariés et de la caisse nationale d'assurance
+maladie et maternité des travailleurs non-salariés.
+
+Le représentant de la mutualité sociale agricole.
+
+Les membres de la section permanente et leurs suppléants sont désignés par le ministre chargé du travail qui est saisi, en ce
+qui concerne les représentants des associations de handicapés,
+
+des propositions du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1442 1959-12-18 ART. 4
+  - Décret n°70-1080 1970-11-23 ART. 2
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°80-879 1980-11-05 ART. 3 JORF 9 NOVEMBRE 1980
 
 
 ###### Article R323-89

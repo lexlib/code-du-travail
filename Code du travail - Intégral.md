@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-04-06
+Version Consolidée au 1976-04-14
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -77706,35 +77706,48 @@ _Anciens textes_:
 
 ###### Article R323-67
 
-Le label ne peut être apposé que par l'organisme ou la personne autorisée à cet effet par arrêté du ministre chargé du
+Le label ne peut être apposé que par la personne ou l'organisme qui a été autorisé à cet effet par le ministre chargé du
 travail.
 
-Cette autorisation est prononcée pour une période de deux années renouvelables après avis de la commission prévue à l'article
-R. 323-68. Elle peut être refusée lorsque l'auteur de la demande n'offre pas les garanties de moralité indispensables.
+Cette autorisation est délivrée après avis de la commission spéciale prévue à l'article R. 323-68. Elle est refusée lorsque
+l'auteur de la demande prévue à l'article R. 323-64 n'offre pas les garanties de moralité nécessaires ou lorsque les autres
+conditions définies au présent paragraphe 3 ne sont pas remplies.
 
-L'apposition du label doit être faite sur les lieux mêmes de la fabrication du produit.
+L'autorisation a une validité de deux ans. Elle est renouvelée tacitement à l'expiration de chaque période bisannuelle, sauf
+décision contraire du ministre chargé du travail, laquelle doit être notifiée, à peine de nullité, au moins un mois avant
+l'expiration de ladite période.
+
+L'apposition du label doit être faite sur les lieux mêmes de fabrication du produit.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-333 1961-04-01 ART. 4
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 _Cite_:
 
+  - Code du travail - art. R323-64 (M)
   - Code du travail - art. R323-68 (M)
+
+_Anciens textes_:
+
+  - Décret n°61-333 1961-04-01 ART. 4
 
 
 ###### Article R323-68
 
-Il est institué par arrêté du ministre chargé du travail au sein du Conseil supérieur pour le reclassement professionnel et
-social des travailleurs handicapés prévu à l'article R. 323-81, une commission spéciale appelée à émettre un avis
-[*attribution*] sur les demandes d'autorisation présentées en vue de l'utilisation du label, sur les demandes de
-renouvellement ainsi que sur les mesures de suspension ou de retrait prévues au premier alinéa de l'article R. 323-72.
+Un arrêté du ministre chargé du travail constitue au sein du conseil supérieur prévu à l'article R. 323-81 une commission
+spéciale qui est saisie pour avis des demandes d'autorisation d'apposition d'un label ainsi que des projets de décision
+portant refus de renouvellement, suspension ou retrait d'une autorisation antérieurement délivrée.
+
+Lorsqu'il est envisagé de rejeter une demande d'autorisation ou de prendre l'une des décisions énumérées à l'alinéa précédent
+le bénéficiaire est préalablement informé des motifs que le ministre se propose de retenir. Le bénéficiaire dispose d'un
+délai de quinze jours pour fournir ses observations.
 
 **Liens relatifs à cet article**
 
@@ -77746,6 +77759,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 _Cité par_:
 

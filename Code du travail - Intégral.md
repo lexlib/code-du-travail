@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-07-29
+Version Consolidée au 1978-07-29 00:00:01 +0200
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -86860,14 +86860,13 @@ Cinq représentants des salariés [*nombre*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°58-615 1958-07-18 ART. 4
-  - Décret n°68-763 1968-08-23 ART. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R2522-8 (V)
 
 _Cité par_:
 
@@ -86963,13 +86962,9 @@ Cinq représentants des salariés [*nombre*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°58-615 1958-07-18 ART. 18
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 #### Chapitre IV : Médiation<a id=995></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-08-06
+Version Consolidée au 1980-08-15
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -716,7 +716,7 @@ Version Consolidée au 1980-08-06
             - [Sous-section 2 : Eclairage et chauffage des locaux. (art. R233-17 à R233-22)](#713)
             - [Sous-section 3 : Issues et dégagements. (art. R233-23 à R233-37)](#714)
             - [Sous-section 4 : Moyens de lutte contre l'incendie. (art. R233-38 à R233-41)](#715)
-          - [Section 4 : Dispositions diverses. (art. R233-42 à R233-44)](#716)
+          - [Section 4 : Dispositions diverses. (art. R233-42 à R233-43)](#716)
           - [Section 5 : Mesures d'application. (art. R233-45 à R233-48)](#717)
           - [Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection (art. R233-49 à R233-80)](#718)
             - [Sous-section 1 : Dispositions générales. (art. R233-49 à R233-51)](#719)
@@ -66249,29 +66249,6 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Décret  1913-07-10 ART. 10 a
-
-
-###### Article R233-44
-
-Les règlements d'ateliers doivent interdire aux ouvriers de coucher sur les fours à plâtre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1913-07-10 ART. 10 c
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Abrogé par_:
-
-  - Décret n°80-649 1980-08-07 ART. 1 JORF 15 AOUT
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNESA L'ARTICLE L231-1
 
 
 ##### Section 5 : Mesures d'application.<a id=717></a>

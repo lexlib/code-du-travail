@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-09-10
+Version Consolidée au 1981-09-10 00:00:01 +0200
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -91798,16 +91798,28 @@ la semaine.
 
 _Codifié par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°73-1048 du 15 novembre 1973, v. init.
 
 _Cité par_:
 
   - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
   - Décret n°81-835 du 8 septembre 1981 - art. 2 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°81-835 du 8 septembre 1981 - art. 1 () JORF 10 septembre
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1455-4 (V)
+  - Code du travail - art. R1455-9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R516-10
+  - Code du travail - art. R516-11
+  - Code du travail - art. R516-8
+  - Code du travail - art. R516-9
 
 
 ###### Article R516-34

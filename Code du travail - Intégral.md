@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-01-01
+Version Consolidée au 1976-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -80879,9 +80879,17 @@ code de procédure civile sous réserve des dispositions du présent code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code de procédure civile LIVRE I
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1451-1 (V)
 
 
 ##### Section 1 : Recevabilité des demandes.<a id=932></a>
@@ -80975,9 +80983,13 @@ La procédure est orale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1453-3 (V)
 
 _Anciens textes_:
 
@@ -80991,9 +81003,13 @@ au dossier ou consignées dans un procès-verbal.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1453-4 (M)
 
 
 ##### Section 3 : Saisine du conseil des prud'hommes.<a id=934></a>
@@ -81137,19 +81153,19 @@ L'appel est porté devant la chambre sociale de la Cour d'appel.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1461-2 (M)
 
 _Cité par_:
 
   - Code du travail - art. R516-35 (VT)
   - Code du travail - art. R519-3 (Ab)
   - Code du travail - art. R851-3 (VT)
-
-_Anciens textes_:
-
-  - Code du travail R517-9 (1974)
 
 
 ###### Article R517-9
@@ -81245,9 +81261,13 @@ Lorsque la demande de récusation est portée devant la Cour d'appel, elle est j
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1457-2 (V)
 
 _Cité par_:
 

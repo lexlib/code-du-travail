@@ -141,10 +141,6 @@ CLASSES : Sauf 93-0 K (activités thermales et thalassothérapie)
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°97-333 du 11 avril 1997 - art. 1 () JORF 12 avril 1997
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)

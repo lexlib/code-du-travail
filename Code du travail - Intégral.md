@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -42,8 +42,8 @@ Version Consolidée au 1979-01-01
           - [Section 5 : Protection de la maternité et éducation des enfants. (art. L122-25 à L122-32)](#39)
         - [Chapitre IV : Travail temporaire (art. L124-1 à L124-19)](#40)
           - [Section 1 : Règles générales. (art. L124-1)](#41)
-          - [Section 2 : Règles spéciales en matière de relations de travail. (art. L124-9)](#42)
-          - [Section 3 : Règles de contrôle. (art. L124-13)](#43)
+          - [Section 2 : Règles spéciales en matière de relations de travail. (art. L124-8 à L124-9)](#42)
+          - [Section 3 : Règles de contrôle. (art. L124-10 à L124-13)](#43)
           - [Section 4 : Dispositions diverses. (art. L124-14 à L124-19)](#44)
         - [Chapitre V : Marchandage. (art. L125-2)](#45)
         - [Chapitre VI : Cautionnements. (art. L126-1 à L126-4)](#46)
@@ -94,7 +94,7 @@ Version Consolidée au 1979-01-01
         - [PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS. (art. L122-25-2)](#91)
         - [LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE . (art. L123-1)](#92)
         - [TRAVAIL TEMPORAIRE . (art. L124-2 à L124-12)](#93)
-          - [REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL . (art. L124-4 à L124-8)](#94)
+          - [REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL . (art. L124-4 à L124-7)](#94)
           - [REGLES DE CONTROLE . (art. L124-11 à L124-12)](#95)
         - [MARCHANDAGE . (art. L125-1 à L125-3)](#96)
       - [CONVENTIONS COLLECTIVES DE TRAVAIL (art. L131-1 à L136-4)](#97)
@@ -123,12 +123,12 @@ Version Consolidée au 1979-01-01
         - [Chapitre Ier : Age d'admission (art. L211-1 à L211-14)](#120)
           - [Section 1 : Dispositions générales. (art. L211-1 à L211-5)](#121)
           - [Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes. (art. L211-6 à L211-14)](#122)
-        - [Chapitre II : Durée du travail (art. L212-3 à L212-14)](#123)
-          - [Section 1 : Dispositions générales. (art. L212-3)](#124)
+        - [Chapitre II : Durée du travail (art. L212-2-1 à L212-14)](#123)
+          - [Section 1 : Dispositions générales. (art. L212-2-1 à L212-3)](#124)
           - [SECTION 4 : DISPOSITIONS RELATIVES AUX FEMMES . (art. L212-9 à L212-12)](#125)
           - [SECTION 5 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS . (art. L212-14)](#126)
-        - [Chapitre III : TRAVAIL DE NUIT (art. L213-3 à L213-12)](#127)
-          - [SECTION 1 : DISPOSITIONS RELATIVES AUX FEMMES . (art. L213-3 à L213-6)](#128)
+        - [Chapitre III : TRAVAIL DE NUIT (art. L213-1 à L213-12)](#127)
+          - [SECTION 1 : DISPOSITIONS RELATIVES AUX FEMMES . (art. L213-1 à L213-6)](#128)
           - [SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS . (art. L213-7 à L213-10)](#129)
           - [Section 3 : Dispositions particulières à la boulangerie. (art. L213-11 à L213-12)](#130)
       - [Titre II : Repos et congés (art. L221-2 à L225-6)](#131)
@@ -5110,6 +5110,237 @@ _Codifié par_:
 
 ##### Section 2 : Règles spéciales en matière de relations de travail.<a id=42></a>
 
+###### Article L124-8
+
+Tout entrepreneur de travail temporaire est tenu, à tout moment, de justifier d'une garantie financière assurant, en cas de
+défaillance de sa part, le paiement :
+
+Des salaires et de leurs accessoires ;
+
+Des indemnités résultant du présent chapitre ;
+
+Des cotisations obligatoires dues à des organismes de sécurité sociale ou à des institutions sociales ;
+
+Le cas échéant, des remboursements qui peuvent incomber aux employeurs à l'égard de ces organismes et institutions dans les
+conditions prévues à l'article L. 160 du code de la sécurité sociale.
+
+En cas d'insuffisance de la caution, l'utilisateur est substitué à l'entrepreneur de travail temporaire pour le paiement des
+sommes qui restent dues aux salariés et aux organismes de sécurité sociale ou aux institutions sociales dont relèvent ces
+salariés, pour la durée de la mission accomplie dans son entreprise.
+
+Les entreprises de travail temporaire sont tenues de fournir aux entreprises utilisatrices, sur leur demande, une attestation
+des organismes de sécurité sociale précisant leur situation au regard du recouvrement des cotisations dues à ces organismes.
+
+Les conditions d'application de cet article, notamment celles relatives à la défaillance de l'entrepreneur de travail
+temporaire, à la mise en jeu de la garantie financière, à la subrogation des organismes assurant cette garantie dans les
+droits et actions des salariés, des organismes de sécurité sociale et des institutions sociales ainsi qu'à la substitution de
+l'utilisateur à l'entrepreneur de travail temporaire sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota - Décret 90-795 du 7 septembre 1990 : montant de la garantie financière.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Anciens textes_:
+
+  - Loi n°72-1 1972-01-03 ART. 8
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°79-1157 du 28 décembre 1979
+  - TXT_SOURCE: Décret n°79-1157 du 28 décembre 1979 - art. 1 (P)
+  - TXT_SOURCE: Décret n°81-423 du 29 avril 1981
+  - TXT_SOURCE: Décret n°81-423 du 29 avril 1981 - art. 1 (P)
+  - TXT_SOURCE: Décret n°82-585 du 29 juin 1982
+  - TXT_SOURCE: Décret n°82-585 du 29 juin 1982 - art. 1 (P)
+  - TXT_SOURCE: Décret n°83-818 du 12 septembre 1983
+  - TXT_SOURCE: Décret n°83-818 du 12 septembre 1983 - art. 1 (P)
+  - TXT_SOURCE: Décret n°85-231 du 14 février 1985
+  - TXT_SOURCE: Décret n°85-231 du 14 février 1985 - art. 1 (P)
+  - TXT_SOURCE: Décret n°85-1134 du 22 octobre 1985
+  - TXT_SOURCE: Décret n°85-1134 du 22 octobre 1985 - art. 1 (V)
+  - TXT_SOURCE: Décret n°85-1134 du 22 octobre 1985 - art. 2 (V)
+  - TXT_SOURCE: Décret n°86-1010 du 27 août 1986
+  - TXT_SOURCE: Décret n°86-1010 du 27 août 1986 - art. 1 (V)
+  - TXT_SOURCE: Décret n°87-514 du 9 juillet 1987
+  - TXT_SOURCE: Décret n°87-514 du 9 juillet 1987 - art. 1 (P)
+  - TXT_SOURCE: Décret n°88-855 du 29 juillet 1988
+  - TXT_SOURCE: Décret n°88-855 du 29 juillet 1988 - art. 1 (V)
+  - TXT_SOURCE: Décret n°89-507 du 19 juillet 1989
+  - TXT_SOURCE: Décret n°89-507 du 19 juillet 1989 - art. 1 (V)
+  - TXT_SOURCE: Décret n°90-795 du 7 septembre 1990
+  - TXT_SOURCE: Décret n°90-795 du 7 septembre 1990 - art. 1 (V)
+  - TXT_SOURCE: Décret n°91-1038 du 4 octobre 1991
+  - TXT_SOURCE: Décret n°91-1038 du 4 octobre 1991 - art. 1 (V)
+  - TXT_SOURCE: Décret n°91-1038 du 4 octobre 1991 - art. Annexe (V)
+  - TXT_SOURCE: Décret n°92-1093 du 2 octobre 1992
+  - TXT_SOURCE: Décret n°92-1093 du 2 octobre 1992 - art. 1 (V)
+  - TXT_SOURCE: Décret n°94-32 du 11 janvier 1994
+  - TXT_SOURCE: Décret n°94-32 du 11 janvier 1994 - art. 1 (V)
+  - TXT_SOURCE: Décret n°96-430 du 20 mai 1996
+  - TXT_SOURCE: Décret n°96-430 du 20 mai 1996 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°79-1157 du 28 décembre 1979 - art. 1 (P)
+  - Décret n°81-423 du 29 avril 1981 - art. 1 (P)
+  - Décret n°82-585 du 29 juin 1982 - art. 1 (P)
+  - Décret n°83-818 du 12 septembre 1983 - art. 1 (P)
+  - Décret n°85-231 du 14 février 1985 - art. 1 (P)
+  - Décret n°85-1134 du 22 octobre 1985 - art. 1 (V)
+  - Décret n°86-1010 du 27 août 1986 - art. 1 (V)
+  - Décret n°87-514 du 9 juillet 1987 - art. 1 (P)
+  - Décret n°88-855 du 29 juillet 1988 - art. 1 (V)
+  - Décret n°90-795 du 7 septembre 1990 - art. 1 (V)
+  - Décret n°91-1038 du 4 octobre 1991 - art. 1 (V)
+  - Décret n°92-1093 du 2 octobre 1992 - art. 1 (V)
+  - Décret n°95-182 du 21 février 1995 - art. 9 (V)
+  - Décret n°2004-1535 du 30 décembre 2004 - art. 1 (V)
+  - Décret n°2007-1740 du 11 décembre 2007 (V)
+  - Arrêté du 6 mars 1980 - art. 1 (V)
+  - Arrêté du 6 mars 1980 - art. 2 (V)
+  - Code de la sécurité sociale. - art. L136-5 (V)
+  - Code du travail - art. D341-5-6 (V)
+  - Code du travail - art. D341-5-8 (Ab)
+  - Code du travail - art. L124-10 (AbD)
+  - Code du travail - art. L124-13-1 (AbD)
+  - Code du travail - art. L124-8-1 (AbD)
+  - Code du travail - art. L124-8-2 (VT)
+  - Code du travail - art. L152-2 (AbD)
+  - Code du travail - art. R124-11 (M)
+  - Code du travail - art. R124-12 (VT)
+  - Code du travail - art. R124-13 (VT)
+  - Code du travail - art. R124-14 (M)
+  - Code du travail - art. R124-17 (VT)
+  - Code du travail - art. R124-7 (VT)
+  - Code du travail - art. R124-8 (VT)
+  - Code du travail - art. R324-4 (M)
+  - Code du travail - art. R324-7 (M)
+  - Code du travail - art. R342-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L1251-49 (VD)
+  - Code du travail - art. L1251-51 (VD)
+  - Code du travail - art. L1251-52 (VD)
+  - Code du travail - art. L1251-53 (VD)
+
+_Cite_:
+
+  - Code de la sécurité sociale L160
+
+
+###### Article L124-8-1
+
+La garantie financière visée à l'article L. 124-8 ne peut résulter que d'un engagement de caution pris par une société de
+caution mutuelle, un organisme de garantie collective, une compagnie d'assurance, une banque ou un établissement financier
+habilité à donner caution.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cité par_:
+
+  - Code du travail - art. D341-5-6 (V)
+
+_Cite_:
+
+  - Code du travail - art. L124-8 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L1251-50 (VD)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-8-2
+
+La garantie financière visée à l'article L. 124-8 est calculée en pourcentage du chiffre d'affaires annuel de l'entreprise
+concernée. Elle ne peut être inférieure à un minimum fixé annuellement par décret, compte tenu de l'évolution moyenne des
+salaires.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°94-32 du 11 janvier 1994
+  - TXT_SOURCE: Décret n°94-32 du 11 janvier 1994 - art. 1 (V)
+  - TXT_SOURCE: Décret n°95-835 du 6 juillet 1995
+  - TXT_SOURCE: Décret n°95-835 du 6 juillet 1995 - art. 1 (V)
+  - TXT_SOURCE: Décret n°97-824 du 8 septembre 1997
+  - TXT_SOURCE: Décret n°97-824 du 8 septembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Décret n°98-960 du 28 octobre 1998
+  - TXT_SOURCE: Décret n°98-960 du 28 octobre 1998 - art. 1 (V)
+  - TXT_SOURCE: Décret n°2000-997 du 12 octobre 2000
+  - TXT_SOURCE: Décret n°2000-997 du 12 octobre 2000 - art. 1 (V)
+  - TXT_SOURCE: Décret n°2001-1218 du 17 décembre 2001
+  - TXT_SOURCE: Décret n°2001-1218 du 17 décembre 2001 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°94-32 du 11 janvier 1994 - art. 1 (V)
+  - Décret n°95-835 du 6 juillet 1995 - art. 1 (V)
+  - Décret n°96-430 du 20 mai 1996 - art. 1 (V)
+  - Décret n°97-824 du 8 septembre 1997 - art. 1 (V)
+  - Décret n°98-960 du 28 octobre 1998 - art. 1 (V)
+  - Décret n°99-883 du 18 octobre 1999 - art. 1 (V)
+  - Décret n°2000-997 du 12 octobre 2000 - art. 1 (V)
+  - Décret n°2001-1218 du 17 décembre 2001 - art. 1 (V)
+  - Décret n°2003-101 du 5 février 2003 - art. 1 (V)
+  - Décret n°2003-533 du 20 juin 2003 - art. 1 (V)
+  - Décret n°2004-598 du 23 juin 2004 - art. 1 (V)
+  - Décret n°2004-1532 du 31 décembre 2004 - art. 1 (V)
+  - Décret n°2004-1535 du 30 décembre 2004 - art. 1 (V)
+  - Décret n°2005-1600 du 19 décembre 2005 - art. 1 (V)
+  - Décret n°2006-1609 du 15 décembre 2006 - art. 1 (V)
+  - Décret n°2007-1740 du 11 décembre 2007 - art. 1 (V)
+  - Code du travail - art. D341-5-6 (V)
+  - Code du travail - art. R342-9 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code du travail - art. L124-8 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L1251-50 (VD)
+
+
 ###### Article L124-9
 
 Sous réserve des dispositions qui précèdent, il n'est pas dérogé au droit commun en ce qui concerne les rapports nés du
@@ -5149,6 +5380,72 @@ _Cité par_:
 
 
 ##### Section 3 : Règles de contrôle.<a id=43></a>
+
+###### Article L124-10
+
+L'activité d'entrepreneur de travail temporaire ne peut être exercée qu'après déclaration faite à l'autorité administrative
+et obtention d'une garantie financière conformément à l'article L. 124-8.
+
+Une déclaration préalable est également exigée dans le cas où un entrepreneur de travail temporaire déplace le siège de son
+entreprise ou ouvre des succursales, agences ou bureaux annexes.
+
+Les entrepreneurs de travail temporaire exerçant leur activité à la date d'entrée en vigueur du décret prévu au dernier
+alinéa du présent article sont tenus aux mêmes déclarations.
+
+La déclaration à l'autorité administrative doit mentionner les caractéristiques juridiques de l'entreprise, le nom de ses
+dirigeants et le domaine géographique et professionnel dans lequel l'entreprise entend mettre les salariés à la disposition
+d'utilisateurs.
+
+Toute entreprise de travail temporaire cessant ses activités est tenue d'en faire déclaration à l'autorité administrative.
+
+Un décret en Conseil d'Etat précise le contenu desdites déclarations ; il fixe leurs modalités et détermine le délai de leur
+présentation à l'autorité administrative.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°72-1 1972-01-03 ART. 32
+
+_Cité par_:
+
+  - Décret n°95-182 du 21 février 1995 - art. 9 (Ab)
+  - Code du travail - art. D341-5-8 (V)
+  - Code du travail - art. L124-11 (M)
+  - Code du travail - art. L124-13-1 (AbD)
+  - Code du travail - art. L152-2 (AbD)
+  - Code du travail - art. R124-1 (VT)
+  - Code du travail - art. R342-10 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code du travail - art. L124-8 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L1251-45 (VD)
+  - Code du travail - art. L1251-48 (VD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail L152-2 : SANCTIONS PENALES
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L124-13
 
@@ -8783,125 +9080,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
-
-
-###### Article L124-8
-
-Les entreprises de travail temporaire sont tenues [*obligation*] de fournir aux entreprises utilisatrices, sur leur demande,
-une attestation des organismes de sécurité sociale, précisant leur situation au regard du recouvrement des cotisations dues à
-ces organismes.
-
-Dans le cas de défaillance de l'entrepreneur de travail temporaire, l'utilisateur lui est substitué, pour la durée de la
-mission, à l'égard des salariés et des organismes de sécurité sociale ou des instructions sociales dont relèvent ces
-salariés.
-
-Cette substitution est limitée au paiement :
-
-- Des salaires et de leurs accessoires ;
-
-- Des indemnités résultant du présent chapitre ;
-
-- Des cotisations obligatoires dues à des organismes de sécurité sociale ou à des institutions sociales.
-
-- Le cas échéant, des remboursements qui peuvent incomber aux employeurs à l'égard de ces organismes et institutions dans les
-conditions prévues à l'article L. 160 du code de la sécurité sociale.
-
-Les conditions d'application du présent article, notamment celles relatives à la défaillance de l'entrepreneur de travail
-temporaire et à la substitution à ce dernier de l'utilisateur, seront déterminées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
-_Anciens textes_:
-
-  - Loi n°72-1 1972-01-03 ART. 8
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°79-1157 du 28 décembre 1979
-  - TXT_SOURCE: Décret n°79-1157 du 28 décembre 1979 - art. 1 (P)
-  - TXT_SOURCE: Décret n°81-423 du 29 avril 1981
-  - TXT_SOURCE: Décret n°81-423 du 29 avril 1981 - art. 1 (P)
-  - TXT_SOURCE: Décret n°82-585 du 29 juin 1982
-  - TXT_SOURCE: Décret n°82-585 du 29 juin 1982 - art. 1 (P)
-  - TXT_SOURCE: Décret n°83-818 du 12 septembre 1983
-  - TXT_SOURCE: Décret n°83-818 du 12 septembre 1983 - art. 1 (P)
-  - TXT_SOURCE: Décret n°85-231 du 14 février 1985
-  - TXT_SOURCE: Décret n°85-231 du 14 février 1985 - art. 1 (P)
-  - TXT_SOURCE: Décret n°85-1134 du 22 octobre 1985
-  - TXT_SOURCE: Décret n°85-1134 du 22 octobre 1985 - art. 1 (V)
-  - TXT_SOURCE: Décret n°85-1134 du 22 octobre 1985 - art. 2 (V)
-  - TXT_SOURCE: Décret n°86-1010 du 27 août 1986
-  - TXT_SOURCE: Décret n°86-1010 du 27 août 1986 - art. 1 (V)
-  - TXT_SOURCE: Décret n°87-514 du 9 juillet 1987
-  - TXT_SOURCE: Décret n°87-514 du 9 juillet 1987 - art. 1 (P)
-  - TXT_SOURCE: Décret n°88-855 du 29 juillet 1988
-  - TXT_SOURCE: Décret n°88-855 du 29 juillet 1988 - art. 1 (V)
-  - TXT_SOURCE: Décret n°89-507 du 19 juillet 1989
-  - TXT_SOURCE: Décret n°89-507 du 19 juillet 1989 - art. 1 (V)
-  - TXT_SOURCE: Décret n°90-795 du 7 septembre 1990
-  - TXT_SOURCE: Décret n°90-795 du 7 septembre 1990 - art. 1 (V)
-  - TXT_SOURCE: Décret n°91-1038 du 4 octobre 1991
-  - TXT_SOURCE: Décret n°91-1038 du 4 octobre 1991 - art. 1 (V)
-  - TXT_SOURCE: Décret n°91-1038 du 4 octobre 1991 - art. Annexe (V)
-  - TXT_SOURCE: Décret n°92-1093 du 2 octobre 1992
-  - TXT_SOURCE: Décret n°92-1093 du 2 octobre 1992 - art. 1 (V)
-  - TXT_SOURCE: Décret n°94-32 du 11 janvier 1994
-  - TXT_SOURCE: Décret n°94-32 du 11 janvier 1994 - art. 1 (V)
-  - TXT_SOURCE: Décret n°96-430 du 20 mai 1996
-  - TXT_SOURCE: Décret n°96-430 du 20 mai 1996 - art. 1 (V)
-
-_Cité par_:
-
-  - Décret n°79-1157 du 28 décembre 1979 - art. 1 (P)
-  - Décret n°81-423 du 29 avril 1981 - art. 1 (P)
-  - Décret n°82-585 du 29 juin 1982 - art. 1 (P)
-  - Décret n°83-818 du 12 septembre 1983 - art. 1 (P)
-  - Décret n°85-231 du 14 février 1985 - art. 1 (P)
-  - Décret n°85-1134 du 22 octobre 1985 - art. 1 (V)
-  - Décret n°86-1010 du 27 août 1986 - art. 1 (V)
-  - Décret n°87-514 du 9 juillet 1987 - art. 1 (P)
-  - Décret n°88-855 du 29 juillet 1988 - art. 1 (V)
-  - Décret n°90-795 du 7 septembre 1990 - art. 1 (V)
-  - Décret n°91-1038 du 4 octobre 1991 - art. 1 (V)
-  - Décret n°92-1093 du 2 octobre 1992 - art. 1 (V)
-  - Décret n°95-182 du 21 février 1995 - art. 9 (V)
-  - Décret n°2004-1535 du 30 décembre 2004 - art. 1 (V)
-  - Décret n°2007-1740 du 11 décembre 2007 (V)
-  - Arrêté du 6 mars 1980 - art. 1 (V)
-  - Arrêté du 6 mars 1980 - art. 2 (V)
-  - Code de la sécurité sociale. - art. L136-5 (V)
-  - Code du travail - art. D341-5-6 (V)
-  - Code du travail - art. D341-5-8 (Ab)
-  - Code du travail - art. L124-10 (AbD)
-  - Code du travail - art. L124-13-1 (AbD)
-  - Code du travail - art. L124-8-1 (AbD)
-  - Code du travail - art. L124-8-2 (VT)
-  - Code du travail - art. L152-2 (AbD)
-  - Code du travail - art. R124-11 (M)
-  - Code du travail - art. R124-12 (VT)
-  - Code du travail - art. R124-13 (VT)
-  - Code du travail - art. R124-14 (M)
-  - Code du travail - art. R124-17 (VT)
-  - Code du travail - art. R124-7 (VT)
-  - Code du travail - art. R124-8 (VT)
-  - Code du travail - art. R324-4 (M)
-  - Code du travail - art. R324-7 (M)
-  - Code du travail - art. R342-9 (VT)
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L1251-49 (VD)
-  - Code du travail - art. L1251-51 (VD)
-  - Code du travail - art. L1251-52 (VD)
-  - Code du travail - art. L1251-53 (VD)
-
-_Cite_:
-
-  - Code de la sécurité sociale L160
 
 
 ##### REGLES DE CONTROLE .<a id=95></a>
@@ -12963,6 +13141,49 @@ _Codifié par_:
 
 ##### Section 1 : Dispositions générales.<a id=124></a>
 
+###### Article L212-2-1
+
+Sous réserve des articles L. 212-9 et L. 212-13 et sauf stipulation contraire résultant d'une convention collective, lorsque
+la durée hebdomadaire du travail n'excède pas quarante heures, les employeurs peuvent, sur avis conforme du comité
+d'entreprise ou, à défaut, des délégués du personnel, et après en avoir informé l'inspecteur du travail et de l'emploi,
+déroger aux dispositions des décrets pris en application de l'article L. 212-2 en répartissant la durée hebdomadaire, soit
+sur quatre jours ouvrables, la répartition journalière devant alors être égale, soit sur quatre jours et demi.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 82-41 1982-01-16 ART. 3 : Toutefois, sous réserve de l'application de l'article L. 212-1, ces dispositions demeurent en vigueur jusqu'à l'intervention des mesures réglementaires précisant les conditions dans lesquelles la durée hebdomadair
+
+_Abrogé par_:
+
+  - Ordonnance 82-41 1982-01-16 ART. 3 JORF 17 JANVIER en vigueur le 1er FEVRIER 1982
+
+_Cité par_:
+
+  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
+  - Loi n°93-1313 du 20 décembre 1993 - art. 39 (Ab)
+  - Décret n°95-1073 du 28 septembre 1995 - art. 10 (M)
+  - Décret n°95-1073 du 28 septembre 1995 - art. 8 (M)
+  - Décret n°95-1073 du 28 septembre 1995 - art. 9 (M)
+  - Loi n°2000-37 du 19 janvier 2000 - art. 8 (V)
+  - Décret n°2003-1242 du 22 décembre 2003 - art. 2 (VT)
+  - Loi n°2016-1088 du 8 août 2016 - art. 12 (V)
+  - Code de l'aviation civile - art. D422-10 (V)
+  - Code du travail - art. D341-5-4 (V)
+  - Code du travail - art. L212-8-5 (M)
+
+_Cite_:
+
+  - Code du travail - art. L212-13 (M)
+  - Code du travail - art. L212-2 (M)
+  - Code du travail - art. L212-9 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L212-3
 
 L'application des dispositions de l'article précédent ne porte aucune atteinte aux usages ou aux conventions collectives de
@@ -13227,6 +13448,45 @@ _Codifié par_:
 #### Chapitre III : TRAVAIL DE NUIT<a id=127></a>
 
 ##### SECTION 1 : DISPOSITIONS RELATIVES AUX FEMMES .<a id=128></a>
+
+###### Article L213-1
+
+Les femmes ne peuvent être employées à aucun travail de nuit dans les usines manufactures, mines et carrières, chantiers,
+ateliers et leurs dépendances, de quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces
+établissements ont un caractère d'enseignement professionnel ou de bienfaisance, ainsi que dans les offices publics et
+ministériels, les établissements des professions libérales, des sociétés civiles, des syndicats professionnels et des
+associations de quelque nature que ce soit.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables aux femmes qui occupent des postes de direction ou de
+caractère technique et impliquant une responsabilité, non plus qu'aux femmes occupées dans les services de l'hygiène et du
+bien-être qui n'effectuent pas normalement un travail manuel.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du travail - art. L213-3 (M)
+  - Code du travail - art. L213-4 (AbD)
+  - Code du travail - art. L213-5 (M)
+  - Code du travail - art. L213-6 (Ab)
+  - Code du travail - art. R213-3 (M)
+  - Code du travail - art. R261-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L3122-32 (VD)
+  - Code du travail - art. L3122-33 (VD)
+
+_Anciens textes_:
+
+  - Code du travail 21
+  - Loi n°1941-03-21
+  - Ordonnance 1967-09-27 art. 10
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L213-3
 
@@ -19592,18 +19852,16 @@ Les heures supplémentaires de travail peuvent être effectuées dans les limite
 organisations syndicales d'employeurs et de salariés, sur autorisation de l'inspecteur du travail. Celui-ci pourra, en cas de
 chômage, interdire le recours aux heures supplémentaires en vue de permettre l'embauchage de travailleurs sans emploi.
 
-La durée moyenne hebdomadaire de travail calculée sur une période quelconque de douze semaines consécutives ne peut
-dépasser /R/cinquante/R/LOI  1253 27-12-1975 : Quarante-huit// heures. Au cours d'une même semaine, la durée du travail ne
-peut dépasser /R/cinquante sept heures/R/LOI  1253 : Cinquante-deux heures//.
+La durée moyenne hebdomadaire de travail calculée sur une période quelconque de douze semaines consécutives ne peut dépasser
+quarante-huit heures. Dans certaines branches ou dans certaines régions, des décrets peuvent ramener cette durée à quarante-
+six heures. Au cours d'une même semaine, la durée du travail ne peut dépasser cinquante heures.
 
 A titre exceptionnel dans certains secteurs, dans certaines régions ou dans certaines entreprises, des dérogations
-applicables à des périodes déterminées peuvent être apportées à la limite /R/ de cinquante heures/R/LOI  1253 : Quarante-huit
-heures// fixée ci-dessus.
+applicables à des périodes déterminées peuvent être apportées à la limite quarante-huit heures fixée ci-dessus.
 
 En outre, en cas de circonstances exceptionnelles, certaines entreprises peuvent être autorisées à dépasser pendant une
-période limitée le plafond de /R/cinquante sept heures/R/ LOI  1253 : Cinquante-deux heures// fixé au deuxième alinéa du
-présent article, sans toutefois que ce dépassement puisse avoir pour effet de porter la durée du travail à plus de soixante
-heures par semaine.
+période limitée le plafond de cinquante heures fixé au deuxième alinéa du présent article, sans toutefois que ce dépassement
+puisse avoir pour effet de porter la durée du travail à plus de soixante heures par semaine.
 
 Le comité d'entreprise ou, à défaut, les délégués du personnel donnent leur avis sur ces dérogations. Cet avis est transmis à
 l'inspecteur du travail.
@@ -19675,8 +19933,8 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 5 (V)
   - TXT_ASSOCIE: Décret n°99-976 du 30 novembre 1999
   - TXT_ASSOCIE: Décret n°99-976 du 30 novembre 1999 - art. 1 (P)
-  - TXT_ASSOCIE: Code du travail - art. R212-2 (M)
   - TXT_ASSOCIE: Code du travail - art. R261-4 (V)
+  - TXT_ASSOCIE: Code du travail R261-4 : DISPOSITIONS PENALES
 
 _Nouveaux textes_:
 

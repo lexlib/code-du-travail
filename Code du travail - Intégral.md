@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-08-17
+Version Consolidée au 1976-11-27
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -1137,7 +1137,7 @@ Version Consolidée au 1976-08-17
       - [Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10 (art. R950-1)](#1134)
         - [SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE . (art. R950-1)](#1135)
   - [Partie réglementaire ancienne - Décrets simples (art. D117-4 à D910-2)](#1136)
-    - [Livre Ier : Conventions relatives au travail (art. D117-4 à D143-1)](#1137)
+    - [Livre Ier : Conventions relatives au travail (art. D117-4 à D143-2)](#1137)
       - [Titre Ier : Contrats d'apprentissage (art. D117-4)](#1138)
         - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972 (art. D117-4)](#1139)
           - [Chapitre VII : Salaire de l'apprenti. (art. D117-4)](#1140)
@@ -1148,7 +1148,7 @@ Version Consolidée au 1976-08-17
         - [Chapitre IV : Travail temporaire. (art. D124-2)](#1145)
       - [Titre III : Conventions collectives de travail (art. D134-1)](#1146)
         - [Chapitre IV : Conventions collectives dans les entreprises publiques. (art. D134-1)](#1147)
-      - [Titre IV : Salaire (art. D141-1 à D143-1)](#1148)
+      - [Titre IV : Salaire (art. D141-1 à D143-2)](#1148)
         - [Chapitre Ier : Salaire minimum de croissance - Rémunération mensuelle minimale (art. D141-1 à D141-11)](#1149)
           - [Section 1 : Dispositions générales. (art. D141-1 à D141-4)](#1150)
           - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement. (art. D141-5 à D141-10)](#1151)
@@ -1157,8 +1157,8 @@ Version Consolidée au 1976-08-17
           - [Rémunération mensuelle minimale (art. D141-7 à D141-9)](#1154)
             - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement. (art. D141-7 à D141-9)](#1155)
         - [Chapitre II : Rémunération des heures supplémentaires - Primes de transport - Conversion de certains avantages en nature. (art. D142-1 à D142-2)](#1156)
-        - [Chapitre III : PAIEMENT DU SALAIRE (art. D143-1)](#1157)
-          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE . (art. D143-1)](#1158)
+        - [Chapitre III : PAIEMENT DU SALAIRE (art. D143-1 à D143-2)](#1157)
+          - [SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE . (art. D143-1 à D143-2)](#1158)
     - [CONVENTIONS RELATIVES AU TRAVAIL (art. D117-1 à D124-1)](#1159)
       - [CONTRAT D'APPRENTISSAGE (art. D117-1 à D117-3)](#1160)
         - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972 (art. D117-1 à D117-3)](#1161)
@@ -100603,6 +100603,27 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code du travail - art. L143-10
+
+
+###### Article D143-2
+
+Le montant maximum de garantie prévu à l'article L. 143-11-6 du Code du travail est fixé à treize fois le plafond mensuel
+retenu pour le calcul des contributions au régime d'assurance-chômage lorsque les créances résultent de dispositions
+législatives ou réglementaires ou des stipulations d'une convention collective et sont nées d'un contrat de travail dont la
+date de conclusion est antérieure de plus de six mois à la décision prononçant le réglement judiciaire ou la liquidation de
+biens.
+
+Dans les autres cas, le montant de cette garantie est limité à quatre fois le plafond mentionné à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Code du travail - art. L143-11-6 (T)
 
 
 ## CONVENTIONS RELATIVES AU TRAVAIL<a id=1159></a>

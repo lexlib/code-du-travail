@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-18
+Version Consolidée au 1979-11-24
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -77967,17 +77967,17 @@ _Anciens textes_:
 
 Le conseil d'administration de l'agence pour l'amélioration des conditions de travail comprend :
 
-1. Cinq représentants des organisations d'employeurs les plus représentatives sur le plan national ;
+1° Six représentants des organisations d'employeurs les plus représentatives sur le plan national ;
 
-2. Cinq représentants des organisations syndicales de travailleurs les plus représentatives sur le plan national ;
+2° Six représentants des organisations syndicales des travailleurs les plus représentatives sur le plan national ;
 
-3. Deux personnes qualifiées en matière de conditions de travail ;
+3° Deux personnes qualifiées en matière de conditions de travail ;
 
-4. Un représentant du ministre chargé du travail ;
+4° Un représentant du ministre chargé du travail ;
 
-5. Un représentant du ou des ministres chargés de l'industrie, du commerce et de l'artisanat ;
+5° Un représentant du ou des ministres chargés de l'industrie, du commerce et de l'artisanat ;
 
-6. Un représentant des autres ministres intéressés.
+6° Deux représentants des autres ministres intéressés.
 
 **Liens relatifs à cet article**
 

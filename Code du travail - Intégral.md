@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-06-20
+Version Consolidée au 1975-07-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -9,12 +9,12 @@ Version Consolidée au 1975-06-20
           - [Chapitre II : Devoirs des maîtres et des apprentis. (art. L112-1 à L112-6)](#6)
           - [Chapitre III : Résiliation et expiration du contrat. (art. L113-1 à L113-6)](#7)
           - [Chapitre IV : Apprentissage artisanal. (art. L114-1)](#8)
-        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972 (art. L116-5 à L119-4)](#9)
+        - [Dispositions applicables aux contrats conclus à partir du 1er juillet 1972 (art. L116-5 à L119-5)](#9)
           - [Chapitre VI : Des centres de formation d'apprentis. (art. L116-5)](#10)
           - [Chapitre VII : Du contrat d'apprentissage (art. L117-4 à L117-18)](#11)
             - [Section 2 : Conditions du contrat. (art. L117-4 à L117-8)](#12)
             - [Section 3 : Formation et résolution du contrat. (art. L117-12 à L117-18)](#13)
-          - [Chapitre IX : Dispositions diverses. (art. L119-2 à L119-4)](#14)
+          - [Chapitre IX : Dispositions diverses. (art. L119-2 à L119-5)](#14)
         - [DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE* (art. L115-2 à L119-1)](#15)
           - [CHAPITRE V : GENERALITES. (art. L115-2)](#16)
           - [CHAPITRE VI : DES CENTRES DE FORMATION D'APPRENTIS . (art. L116-1 à L116-4)](#17)
@@ -192,9 +192,9 @@ Version Consolidée au 1975-06-20
           - [Section 1 : Fonds national de l'emploi. (art. L322-2 à L322-6)](#189)
           - [PRIME DE MOBILITE DES JEUNES (art. L322-11)](#190)
             - [SECTION 3 : CHOMAGE PARTIEL. (art. L322-11)](#191)
-        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs (art. L323-20 à L323-28)](#192)
-          - [Section 2 : Dispositions propres aux travailleurs handicapés (art. L323-20 à L323-28)](#193)
-            - [Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail. (art. L323-20 à L323-28)](#194)
+        - [Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs (art. L323-19 à L323-28)](#192)
+          - [Section 2 : Dispositions propres aux travailleurs handicapés (art. L323-19 à L323-28)](#193)
+            - [Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail. (art. L323-19 à L323-28)](#194)
         - [Chapitre IV : Cumuls d'emplois (art. L324-1 à L324-15)](#195)
           - [Travail clandestin (art. L324-1 à L324-15)](#196)
             - [Section 1 : Cumuls d'emplois. (art. L324-1 à L324-8)](#197)
@@ -225,25 +225,25 @@ Version Consolidée au 1975-06-20
         - [Chapitre Ier : CONTROLE DE L'EMPLOI. (art. L321-1 à L321-9)](#222)
         - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS (art. L323-1 à L323-39)](#223)
           - [SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES. (art. L323-1 à L323-8)](#224)
-          - [SECTION 2 : TRAVAILLEURS HANDICAPES (art. L323-12 à L323-34)](#225)
-            - [SOUS-SECTION 1 : DISPOSITIONS GENERALES. (art. L323-12 à L323-13)](#226)
+          - [SECTION 2 : TRAVAILLEURS HANDICAPES (art. L323-10 à L323-35)](#225)
+            - [SOUS-SECTION 1 : DISPOSITIONS GENERALES. (art. L323-10 à L323-13)](#226)
             - [SOUS-SECTION 2 : DISPOSITIONS GENERALES. (art. L323-14)](#227)
-            - [SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL. (art. L323-18)](#228)
+            - [SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL. (art. L323-16 à L323-18)](#228)
             - [SOUS-SECTION 4 : TRAVAIL PROTEGE. (art. L323-29 à L323-33)](#229)
             - [SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES. (art. L323-34)](#230)
-          - [SECTION 2 bis : HANDICAPES SOCIAUX. (art. L323-35 bis)](#231)
-          - [SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE. (art. L323-36 à L323-39)](#232)
-        - [Chapitre IV : TRAVAIL CLANDESTIN (art. L324-9 à L324-10)](#233)
-          - [SECTION 2 : TRAVAIL CLANDESTIN. (art. L324-9 à L324-10)](#234)
-    - [EMPLOI (art. L321-2 à L324-14)](#235)
-      - [CONTROLE DE L'EMPLOI . (art. L321-2 à L321-12)](#236)
-      - [FONDS NATIONAL DE L'EMPLOI . (art. L322-1)](#237)
-      - [PRIME DE MOBILITE DES JEUNES . (art. L322-7 à L322-10)](#238)
-      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS (art. L323-9 à L323-32)](#239)
-        - [TRAVAILLEURS HANDICAPES . (art. L323-9 à L323-32)](#240)
-          - [READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL . (art. L323-16 à L323-17)](#241)
-          - [PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES . (art. L323-21 à L323-26)](#242)
-          - [TRAVAIL PROTEGE . (art. L323-30 à L323-32)](#243)
+            - [SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION. (art. L323-35)](#231)
+          - [SECTION 2 bis : HANDICAPES SOCIAUX. (art. L323-35 bis)](#232)
+          - [SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE. (art. L323-36 à L323-39)](#233)
+        - [Chapitre IV : TRAVAIL CLANDESTIN (art. L324-9 à L324-10)](#234)
+          - [SECTION 2 : TRAVAIL CLANDESTIN. (art. L324-9 à L324-10)](#235)
+    - [EMPLOI (art. L321-2 à L324-14)](#236)
+      - [CONTROLE DE L'EMPLOI . (art. L321-2 à L321-12)](#237)
+      - [FONDS NATIONAL DE L'EMPLOI . (art. L322-1)](#238)
+      - [PRIME DE MOBILITE DES JEUNES . (art. L322-7 à L322-10)](#239)
+      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS (art. L323-11 à L323-26)](#240)
+        - [TRAVAILLEURS HANDICAPES . (art. L323-11 à L323-26)](#241)
+          - [READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL . (art. L323-17)](#242)
+          - [PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES . (art. L323-21 à L323-26)](#243)
       - [TRAVAIL CLANDESTIN . (art. L324-11 à L324-14)](#244)
     - [PLACEMENT ET EMPLOI (art. L330-2 à L351-19)](#245)
       - [AGENCE NATIONALE POUR L'EMPLOI *ANPE* . (art. L330-2 à L330-9)](#246)
@@ -2220,6 +2220,44 @@ _Cite_:
 
   - Code du travail - art. L119-2 (M)
   - Code du travail L115-1 A L119-3
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+###### Article L119-5
+
+Par dérogation aux dispositions des articles L. 115-2, L. 117-3 et L. 117-7 [*formation pédagogique et pratique de l'apprenti
+- âge - Durée de l'apprentissage*] du présent code, des aménagements sont apportés, en ce qui concerne les personnes
+handicapées, aux règles relatives à l'âge maximum d'admission à l'apprentissage, à la durée et aux modalités de la formation.
+Ces aménagements font l'objet d'un décret en Conseil d'Etat qui détermine, en outre, les conditions et les modalités d'octroi
+aux chefs d'entreprise formant des apprentis handicapés de primes destinées à compenser les dépenses supplémentaires ou le
+manque à gagner pouvant en résulter.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté  1978-03-15 JORF 24 MARS
+  - TXT_ASSOCIE: Code du travail - art. R119-79 (V)
+
+_Créé par_:
+
+  - Loi n°75-534 du 30 juin 1975 - art. 11 () JORF 1er juillet 1975
+
+_Cité par_:
+
+  - Arrêté du 15 mars 1978 - art. 1 (V)
+  - Code du travail - art. D117-1 (M)
+  - Code du travail - art. D811-54 (Ab)
+  - Code du travail - art. R119-79 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L115-2 (M)
+  - Code du travail - art. L117-3 (M)
+  - Code du travail - art. L117-7 (M)
 
 _Codifié par_:
 
@@ -20643,6 +20681,66 @@ _Codifié par_:
 
 ##### Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.<a id=194></a>
 
+###### Article L323-19
+
+Une priorité d'emploi est réservée aux handicapés à concurrence d'un certain pourcentage fixé par arrêté du ministre chargé
+du travail pour l'ensemble du territoire ou pour une région et pour chaque activité ou groupe d'activités.
+
+Ce pourcentage doit assurer le droit au travail de tous les handicapés en état d'exercer une profession et être le même en
+moyenne pour les secteurs privés, public, semi-public et dans les entreprises nationales.
+
+Des décrets en Conseil d'Etat déterminent selon quelles modalités et dans quelles limites les établissements, organismes et
+employeurs mentionnés à l'article L. 323-12 peuvent être exonérés de l'obligation relative à la priorité d'emploi des
+travailleurs handicapés, prévue au présent article, en passant des contrats de fournitures, de sous-traitance ou de
+prestations de service avec des ateliers protégés ou les centres d'aide par le travail mentionnés à l'article 167 du code de
+la famille et de l'aide sociale. Cette exonération, qui ne peut être que partielle, est proportionnelle au volume de travail
+fourni aux ateliers protégés ou aux centres d'aide par le travail.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Loi n°87-517 1987-07-10 art. 2 6° JORF 12 juillet 1987 en vigueur le 1er janvier 1988 rectificatif JORF 19 novembre 1987
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 20 septembre 1963
+  - TXT_SOURCE: Arrêté du 20 septembre 1963 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 20 septembre 1963 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 20 septembre 1963 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 20 septembre 1963 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 20 septembre 1963 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 20 septembre 1963 - art. 6 (V)
+  - TXT_ASSOCIE: Code du travail - art. L323-22 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L323-12 (M)
+  - Code de la famille et de l'aide sociale. - art. 167 (M)
+
+_Cité par_:
+
+  - Code du travail - art. L323-20 (Ab)
+  - Code du travail - art. L323-22 (Ab)
+  - Code du travail - art. L323-27 (Ab)
+  - Code du travail - art. L432-3 (M)
+  - Code du travail - art. R323-22 (P)
+  - Code du travail - art. R323-51 (Ab)
+  - Code du travail - art. R323-54 (M)
+  - Code du travail - art. R323-58-2 (Ab)
+  - Code du travail - art. R323-59 (Ab)
+  - Code du travail - art. R323-91 (M)
+  - Code du travail - art. R323-95 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Anciens textes_:
+
+  - Loi  1957-11-23 ART. 10 AL. 1 ET 2
+
+
 ###### Article L323-20
 
 Des arrêtés du ministre chargé du travail pris dans les mêmes conditions que les arrêtés prévus à l'article précédent
@@ -23252,6 +23350,73 @@ _Anciens textes_:
 
 ##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.<a id=226></a>
 
+###### Article L323-10
+
+Est considéré comme travailleur handicapé au sens de la présente section, toute personne dont les possibilités d'obtenir ou
+de conserver un emploi sont effectivement réduites par suite d'une insuffisance ou d'une diminution de ses capacités
+physiques ou mentales.
+
+La qualité du travailleur handicapé est reconnue par la commission technique d'orientation et de reclassement professionnel
+prévue à l'article L. 323-11.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°76-478 du 2 juin 1976 - art. 4 (M)
+  - Décret n°79-250 du 27 mars 1979 - art. 2 (Ab)
+  - Décret n°84-613 du 16 juillet 1984 - art. 5 (Ab)
+  - Loi n°98-461 du 13 juin 1998 - art. 3 (V)
+  - Décret n°98-543 du 30 juin 1998 - art. 1 (Ab)
+  - Décret n°2008-637 du 30 juin 2008 - art. 7 (VD)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies YJ (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 K (P)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater G (V)
+  - Code de l'action sociale et des familles - art. L241-6 (VT)
+  - Code de l'action sociale et des familles - art. L243-1 (Ab)
+  - Code de l'action sociale et des familles - art. R241-28 (VD)
+  - Code de l'éducation - art. L337-4 (V)
+  - Code du travail - art. D322-23 (VT)
+  - Code du travail - art. L115-2 (AbD)
+  - Code du travail - art. L322-4-11 (AbD)
+  - Code du travail - art. L322-4-12 (VT)
+  - Code du travail - art. L323-11 (M)
+  - Code du travail - art. L323-34 (V)
+  - Code du travail - art. L323-35 (Ab)
+  - Code du travail - art. L961-2 (VT)
+  - Code du travail - art. R119-72 (VT)
+  - Code du travail - art. R232-1-8 (VT)
+  - Code du travail - art. R323-32 (Ab)
+  - Code du travail - art. R323-4 (M)
+  - Code du travail - art. R323-77 (M)
+  - Code du travail - art. R960-16 (T)
+  - Code du travail - art. R960-19 (T)
+  - Code du travail - art. R960-3 (T)
+  - Code du travail - art. R960-7 (T)
+  - Code du travail - art. R961-7 (VT)
+  - Code du travail - art. R962-1 (VT)
+  - Code général des collectivités territoriales - art. R2123-22-3 (V)
+  - Code général des collectivités territoriales - art. R3123-22 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L5213-1 (VD)
+  - Code du travail - art. L5213-2 (VD)
+
+_Cite_:
+
+  - Code du travail L323-9 A L323-35
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Anciens textes_:
+
+  - Loi  1957-11-23 ART. 1 AL. 2
+  - Loi n°1957-11-23 art. 1 al. 2
+
+
 ###### Article L323-12
 
 Sont assujettis aux dispositions de la présente section :
@@ -23358,6 +23523,37 @@ _Anciens textes_:
 
 ##### SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.<a id=228></a>
 
+###### Article L323-16
+
+Les travailleurs handicapés bénéficient des aides financières accordées aux stagiaires de la formation professionnelle et
+prévues par le titre VI du livre IX du présent code, sous réserve d'adaptations à leur situation particulière.
+
+En outre, le travailleur handicapé peut bénéficier, à l'issue de son stage, de primes à la charge de l'Etat destinées à
+faciliter son reclassement et dont le montant et les conditions d'attribution sont fixés par décret.
+
+Ces primes ne se cumulent pas avec les primes de même nature dont le travailleur handicapé pourrait bénéficier au titre de la
+législation dont il relève.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du travail - art. L323-18 (M)
+  - Code du travail - art. R323-36 (Ab)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L5213-4 (VD)
+
+_Cite_:
+
+  - Code du travail L960-1 A L960-18
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L323-18
 
 Il n'est pas dérogé pour l'application des articles L. 323-15 et L. 323-16 aux dispositions ci-après énumérées :
@@ -23424,6 +23620,119 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi  1957-11-23 art. 20
+
+
+###### Article L323-30
+
+Les personnes handicapées pour lesquelles le placement dans un milieu normal de travail s'avère impossible peuvent être
+admises soit dans un atelier protégé si leur capacité de travail est au moins égale à un pourcentage de la capacité normale
+fixé par décret, soit dans un centre d'aide par le travail prévu à l'article 167 du code de la famille et de l'aide sociale.
+
+En outre, des centres de distribution de travail à domicile assimilés aux ateliers protégés peuvent procurer aux travailleurs
+handicapés des travaux manuels ou intellectuels à effectuer à domicile.
+
+La commission technique d'orientation et de reclassement professionnel prévue à l'article L. 323-11 se prononce par une
+décision motivée, en tenant compte de la capacité de travail et des possibilités réelles d'intégration, sur l'embauche ou
+l'admission dans les ateliers protégés ou les centres d'aide par le travail ; elle peut prendre une décision provisoire
+valable pour une période d'essai.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L312-1 (VT)
+  - Code du travail - art. D323-25-1 (Ab)
+  - Code du travail - art. L212-4-12 (M)
+
+_Cite_:
+
+  - Code du travail - art. L323-11 (M)
+  - Code de la famille et de l'aide sociale. - art. 167 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L5213-20 (VD)
+  - Code du travail L5213-20, R5213-10
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+###### Article L323-31
+
+Les ateliers protégés et les centres de distribution de travail à domicile peuvent être créés par les collectivités ou
+organismes publics ou privés et, notamment, par les entreprises.
+
+Ils doivent être agréés par le ministre du travail. Ils peuvent recevoir des subventions en application des conventions
+passés avec l'Etat, les départements, les communes ou les organismes de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°75-534 du 30 juin 1975 - art. 32 (Ab)
+  - Décret n°77-1465 du 28 décembre 1977 - art. 10 (Ab)
+  - Arrêté du 17 mars 1988 - art. 1 (V)
+  - Décret n°89-355 du 1 juin 1989 - art. 1 (Ab)
+  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
+  - Ordonnance n°2005-649 du 6 juin 2005 - art. 16 (VT)
+  - Code de l'action sociale et des familles - art. D243-14 (Ab)
+  - Code de l'action sociale et des familles - art. L243-4 (M)
+  - Code des marchés publics - art. 15 (V)
+  - Code des marchés publics. - art. 54 (Ab)
+  - Code du travail - art. D323-25-3 (VT)
+  - Code du travail - art. D323-27 (VT)
+  - Code du travail - art. L323-4 (M)
+  - Code du travail - art. L832-11 (AbD)
+  - Code du travail - art. R323-1 (VT)
+  - Code du travail - art. R323-60 (VT)
+  - Code du travail - art. R323-62 (VT)
+  - Code du travail - art. R323-63 (M)
+  - Code du travail - art. R323-64 (VT)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+###### Article L323-32
+
+L'organisme gestionnaire de l'atelier protégé ou du centre de distribution de travail à domicile est considéré comme
+employeur et le travailleur handicapé comme salarié pour l'application des dispositions législatives, réglementaires et
+contractuelles en vigueur, notamment en ce qui concerne les conditions de travail et la représentation des travailleurs pour
+la branche d'activité à laquelle se rattache l'établissement, compte tenu de sa production.
+
+Le travailleur handicapé en atelier protégé reçoit un salaire fixé compte tenu de l'emploi qu'il occupe, de sa qualification
+et de son rendement par référence aux dispositions réglementaires ou conventionnelles applicables dans la branche d'activité.
+
+Le salaire perçu par les travailleurs employés par un atelier protégé ou par un centre de distribution de travail à domicile
+ne pourra être inférieur à un minimum fixé par décret par référence au salaire minimum de croissance déterminé en application
+des articles L. 141-1 et suivants.
+
+Un ou plusieurs travailleurs handicapés employés dans un atelier protégé peuvent être mis à la disposition provisoire d'un
+autre employeur dans des conditions prévues par l'article L. 125-3 du code du travail et suivant des modalités qui seront
+précisées par décret.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°77-1465 du 28 décembre 1977 - art. 10 (Ab)
+  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
+  - Code de l'action sociale et des familles - art. L344-2 (M)
+  - Code de l'action sociale et des familles - art. R243-17 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 167 (Ab)
+  - Code du travail - art. R323-63-1-1 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L125-3 (M)
+  - Code du travail L141-1 ET S.
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L323-33
@@ -23516,7 +23825,67 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SECTION 2 bis : HANDICAPES SOCIAUX.<a id=231></a>
+##### SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.<a id=231></a>
+
+###### Article L323-35
+
+Un règlement d'administration publique détermine les modalités d'application de la présente section et notamment :
+
+- les modalités d'application de l'article L. 323-21 ;
+
+- la composition de la commission départementale des handicapés, les conditions de nomination de ses membres et les modalités
+de son fonctionnement ;
+
+- les modalités d'agrément, de fonctionnement et de contrôle des ateliers protégés et des centres de distribution de travail
+à domicile ainsi que les conditions d'admission des travailleurs handicapés ;
+
+- les modalités de fonctionnement du conseil supérieur pour le reclassement professionnel et social des travailleurs
+handicapés et les conditions de nomination de ses membres.
+
+En outre, des décrets en Conseil d'Etat déterminent :
+
+Les conditions dans lesquelles les indemnités versées par l'Etat en application du titre VI du livre IX du présent code
+peuvent se cumuler avec les prestations versées au titre d'un régime de prévoyance ou d'aide sociale, y compris celles
+versées en application des articles 35 et 39 de la loi n. 75-534 du 30 juin 1975 ;
+
+Les conditions et modalités selon lesquelles les intéressés sont appelés à participer, le cas échéant, aux frais de leur
+entretien et de leur hébergement pendant la durée du stage de formation ou de rééducation professionnelle ;
+
+Les conditions d'attribution des primes [*destinées à faciliter le reclassement*] mentionnées à l'avant-dernier alinéa de
+l'article L. 323-16.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°75-534 1975-06-30 ART. 35 ET 39
+  - Code du travail - art. L323-21 (M)
+  - Code du travail L323-21, L.323-16
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L323-34 (Ab)
+  - Code du travail - art. L323-34 (V)
+
+_Cité par_:
+
+  - Code du travail - art. L323-8-1 (M)
+  - Code du travail - art. R323-74 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Anciens textes_:
+
+  - Loi n°1957-11-23 ART. 31
+
+_Transféré par_:
+
+  - Loi n°87-517 1987-07-01 art. 2 1°, 11° JORF 12 juillet 1987 en vigueur le 1er janvier 1988 rectificatif JORF 19 novembre 1987
+
+
+##### SECTION 2 bis : HANDICAPES SOCIAUX.<a id=232></a>
 
 ###### Article L323-35 bis
 
@@ -23536,7 +23905,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.<a id=232></a>
+##### SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.<a id=233></a>
 
 ###### Article L323-36
 
@@ -23634,9 +24003,9 @@ _Anciens textes_:
   - Loi   1940-10-08 ART. 4
 
 
-#### Chapitre IV : TRAVAIL CLANDESTIN<a id=233></a>
+#### Chapitre IV : TRAVAIL CLANDESTIN<a id=234></a>
 
-##### SECTION 2 : TRAVAIL CLANDESTIN.<a id=234></a>
+##### SECTION 2 : TRAVAIL CLANDESTIN.<a id=235></a>
 
 ###### Article L324-9
 
@@ -23797,9 +24166,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## EMPLOI<a id=235></a>
+## EMPLOI<a id=236></a>
 
-### CONTROLE DE L'EMPLOI .<a id=236></a>
+### CONTROLE DE L'EMPLOI .<a id=237></a>
 
 ###### Article L321-2
 
@@ -23905,7 +24274,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### FONDS NATIONAL DE L'EMPLOI .<a id=237></a>
+### FONDS NATIONAL DE L'EMPLOI .<a id=238></a>
 
 ###### Article L322-1
 
@@ -23947,7 +24316,7 @@ _Cite_:
   - Code du travail L322-1 A L322-11
 
 
-### PRIME DE MOBILITE DES JEUNES .<a id=238></a>
+### PRIME DE MOBILITE DES JEUNES .<a id=239></a>
 
 ###### Article L322-7
 
@@ -24095,55 +24464,9 @@ _Abrogé par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 101 () JORF 30 décembre 1982 en vigueur le 1er janvier 1983
 
 
-### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=239></a>
+### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS<a id=240></a>
 
-#### TRAVAILLEURS HANDICAPES .<a id=240></a>
-
-###### Article L323-9
-
-Les dispositions de la présente section ont pour objet l'emploi des travailleurs handicapés ou leur reclassement selon un
-processus pouvant comporter suivant les cas outre la réadaptation fonctionnelle prévue par les textes en vigueur, une
-réadaptation, une rééducation ou une formation professionnelle.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 29 (Ab)
-  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 K (P)
-  - Code du travail - art. L122-32-5 (AbD)
-  - Code du travail - art. L133-5 (M)
-  - Code du travail - art. L420-5 (T)
-  - Code du travail - art. L432-3 (AbD)
-  - Code du travail - art. L437-1 (Ab)
-  - Code du travail - art. R323-116 (VT)
-  - Code du travail - art. R323-117 (VT)
-  - Code du travail - art. R323-118 (VT)
-  - Code du travail - art. R323-119 (VT)
-  - Code du travail - art. R323-51 (M)
-  - Décret n°72-355 du 4 mai 1972 - art. 34-1 (VD)
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. R323-116 (V)
-  - TXT_SOURCE: Code du travail - art. R323-117 (V)
-  - TXT_SOURCE: Code du travail - art. R323-118 (V)
-  - TXT_SOURCE: Code du travail - art. R323-119 (V)
-  - TXT_SOURCE: Code du travail - art. R323-120 (V)
-  - TXT_SOURCE: Code du travail - art. R323-121 (V)
-  - TXT_SOURCE: Code du travail - art. R323-122 (V)
-  - TXT_SOURCE: Code du travail - art. R323-123 (V)
-  - TXT_SOURCE: Code du travail - art. R323-124 (V)
-  - TXT_SOURCE: Code du travail - art. R323-126 (V)
-
-_Cite_:
-
-  - Code du travail L323-9 A L323-35
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
+#### TRAVAILLEURS HANDICAPES .<a id=241></a>
 
 ###### Article L323-11
 
@@ -24283,49 +24606,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL .<a id=241></a>
-
-###### Article L323-16
-
-Durant la période de réadaptation, de rééducation ou de formation professionnelles, le travailleur handicapé bénéficie soit
-des rémunérations, soit des indemnités journalières, allocations, pensions, rentes, prévues par l'un des régimes énumérés à
-l'article L. 323-18.
-
-Le travailleur handicapé, qu'il relève ou non des régimes prévus à l'alinéa précédent, a droit à une aide lui assurant au
-minimum :
-
-- s'il est placé en internat dans un centre, des ressources égales à celles prévues par le décret mentionné à l'article 202
-du code de la famille et de l'aide sociale ;
-
-- s'il est placé en externat, des ressources égales au montant des allocations et majorations prévues à l'article 166 dudit
-code.
-
-En outre, le travailleur handicapé peut bénéficier, à l'issue du stage, de primes à la charge de l'Etat, destinées à
-faciliter son reclassement et dont le montant et les conditions d'attribution sont fixées par voie réglementaire.
-
-Ces primes ne se cumulent pas avec les primes de même nature dont le travailleur handicapé pourrait bénéficier au titre de la
-législation dont il relève.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code du travail - art. L323-18 (M)
-  - Code du travail - art. R323-36 (Ab)
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L5213-4 (VD)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 166 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 202 (P)
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
+##### READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL .<a id=242></a>
 
 ###### Article L323-17
 
@@ -24361,7 +24642,7 @@ _Anciens textes_:
   - Loi n°1957-11-23 ART. 7
 
 
-##### PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .<a id=242></a>
+##### PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .<a id=243></a>
 
 ###### Article L323-21
 
@@ -24510,103 +24791,6 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi   1960-12-27 ART. 5
-
-
-##### TRAVAIL PROTEGE .<a id=243></a>
-
-###### Article L323-30
-
-Les travailleurs handicapés dont la diminution physique ou mentale est telle que leur placement dans un milieu normal de
-travail s'avère impossible, peuvent être admis selon leurs capacités de travail, soit dans un centre d'aide par le travail
-prévu à l'article 168 du code de la famille et de l'aide sociale, soit dans un atelier protégé où s'exerce une activité
-correspondant à leurs possibilités professionnelles suivant un rythme de travail approprié.
-
-En outre, des ateliers appelés "centres de distribution de travail à domicile" peuvent procurer aux travailleurs handicapés
-des travaux à effectuer à domicile.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L312-1 (VT)
-  - Code du travail - art. D323-25-1 (Ab)
-  - Code du travail - art. L212-4-12 (M)
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L5213-20 (VD)
-  - Code du travail L5213-20, R5213-10
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 168 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
-
-###### Article L323-31
-
-Les ateliers protégés et les centres de distribution de travail à domicile sont créés par des collectivités ou organismes
-publics ou privés.
-
-Ils peuvent recevoir, dans les conditions déterminées par règlement d'administration publique des subventions, notamment de
-l'Etat, des départements et des communes, ainsi que des organismes de sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 32 (Ab)
-  - Décret n°77-1465 du 28 décembre 1977 - art. 10 (Ab)
-  - Arrêté du 17 mars 1988 - art. 1 (V)
-  - Décret n°89-355 du 1 juin 1989 - art. 1 (Ab)
-  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
-  - Ordonnance n°2005-649 du 6 juin 2005 - art. 16 (VT)
-  - Code de l'action sociale et des familles - art. D243-14 (Ab)
-  - Code de l'action sociale et des familles - art. L243-4 (M)
-  - Code des marchés publics - art. 15 (V)
-  - Code des marchés publics. - art. 54 (Ab)
-  - Code du travail - art. D323-25-3 (VT)
-  - Code du travail - art. D323-27 (VT)
-  - Code du travail - art. L323-4 (M)
-  - Code du travail - art. L832-11 (AbD)
-  - Code du travail - art. R323-1 (VT)
-  - Code du travail - art. R323-60 (VT)
-  - Code du travail - art. R323-62 (VT)
-  - Code du travail - art. R323-63 (M)
-  - Code du travail - art. R323-64 (VT)
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
-
-###### Article L323-32
-
-Le travailleur handicapé travaillant dans un atelier protégé reçoit un salaire proportionnel à son rendement, sans que sa
-rémunération puisse être inférieure à celle qui a été fixée par le décret prévu à l'article 202 du code de la famille et de
-l'aide sociale, en ce qui concerne les infirmes placés dans les établissements d'aide par le travail.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°77-1465 du 28 décembre 1977 - art. 10 (Ab)
-  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (M)
-  - Code de l'action sociale et des familles - art. R243-17 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 167 (Ab)
-  - Code du travail - art. R323-63-1-1 (Ab)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 202 (P)
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
 
 
 ### TRAVAIL CLANDESTIN .<a id=244></a>

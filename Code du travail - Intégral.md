@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-09-30
+Version Consolidée au 1977-10-18
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -500,7 +500,7 @@ Version Consolidée au 1977-09-30
         - [ELECTION DES PRUD'HOMMES (art. R513-1 à R513-15)](#497)
           - [ETABLISSEMENT DES LISTES ELECTORALES . (art. R513-1 à R513-7)](#498)
           - [SCRUTIN, INSTALLATION DES PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES. (art. R513-8 à R513-15)](#499)
-        - [DISCIPLINE DES CONSEILS DE PRUD'HOMMES . (art. R514-3 à R514-4)](#500)
+        - [DISCIPLINE DES CONSEILS DE PRUD'HOMMES . (art. R514-4)](#500)
         - [BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DU REFERE. (art. R515-1 à R515-2)](#501)
         - [BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE. (art. R515-3)](#502)
         - [BUREAU DE CONCILIATION - BUREAU DE JUGEMENT . (art. R515-4)](#503)
@@ -51783,28 +51783,6 @@ _Cité par_:
 
 #### DISCIPLINE DES CONSEILS DE PRUD'HOMMES .<a id=500></a>
 
-###### Article R514-3
-
-Les membres des conseils de prud'hommes portent, soit à l'audience soit dans les cérémonies publiques, sur le côté gauche de
-la poitrine et attachée par un ruban, une médaille en argent signe de leurs fonctions.
-
-Un arrêté ministériel indique le module et les mentions de la médaille ainsi que la couleur du ruban.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1292 1958-12-22 ART. 38
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cité par_:
-
-  - Code du travail - art. R512-12 (M)
-
-
 ###### Article R514-4
 
 Les articles 505 à 508 et 510 à 516 du code de procédure civile sont applicables aux conseils de prud'hommes et à leurs
@@ -84066,6 +84044,28 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+
+###### Article R514-3
+
+Les membres des conseils de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
+en sautoir, une médaille signe de leurs fonctions. Cette médaille est en vermeil pour le président du conseil de prud'hommes
+et, à l'audience, pour le président du bureau de jugement ; elle est en argent pour les autres conseillers. D'un module de 65
+mm, elle porte à l'avers une tête symbolisant la République, placée de profil, tournée à droite et entourée de la mention
+République française.
+
+Au moyen d'une attache d'une largeur de 75 mm portant des rameaux de laurier et d'olivier, la médaille est suspendue à un
+ruban d'une largeur de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Code du travail - art. R512-12 (M)
 
 
 ###### Article R514-6

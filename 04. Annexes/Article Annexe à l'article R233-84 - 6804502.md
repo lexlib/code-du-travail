@@ -100,11 +100,10 @@ outils à section circulaire et en limitant l'épaisseur des copeaux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°92-767 du 29 juillet 1992
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°96-725 du 14 août 1996 - art. 21 () JORF 18 août 1996
-  - Décret n°96-725 du 14 août 1996 - art. 34 () JORF 18 août 1996
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)

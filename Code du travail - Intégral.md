@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-07-12
+Version Consolidée au 1979-08-23
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -261,7 +261,7 @@ Version Consolidée au 1979-07-12
           - [SECTION 2 : TRAVAIL CLANDESTIN. (art. L324-9 à L324-10)](#258)
     - [EMPLOI (art. L321-2 à L324-14)](#259)
       - [CONTROLE DE L'EMPLOI . (art. L321-2 à L321-12)](#260)
-      - [FONDS NATIONAL DE L'EMPLOI . (art. L322-1 à L322-3)](#261)
+      - [FONDS NATIONAL DE L'EMPLOI . (art. L322-1 à L322-4)](#261)
       - [PRIME DE MOBILITE DES JEUNES . (art. L322-7 à L322-10)](#262)
       - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS (art. L323-21 à L323-26)](#263)
         - [TRAVAILLEURS HANDICAPES . (art. L323-21 à L323-26)](#264)
@@ -948,7 +948,7 @@ Version Consolidée au 1979-07-12
             - [PARAGRAPHE 1 : DISPOSITIONS GENERALES. (art. R341-9)](#945)
     - [EMPLOI (art. R321-10 à R323-119)](#946)
       - [CONTROLE DE L'EMPLOI . (art. R321-10)](#947)
-      - [FONDS NATIONAL DE L'EMPLOI . (art. R322-21 à R322-18)](#948)
+      - [FONDS NATIONAL DE L'EMPLOI . (art. R322-1 à R322-18)](#948)
         - [CONVENTIONS DE COOPERATION (art. R322-7)](#949)
           - [CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES . (art. R322-7)](#950)
         - [AIDES A LA MOBILITE GEOGRAPHIQUE (art. R322-19 à R322-18)](#951)
@@ -28238,6 +28238,144 @@ _Abrogé par_:
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
+
+
+###### Article L322-4
+
+Dans les régions ou à l'égard des professions astreintes ou menacées d'un grave déséquilibre de l'emploi, le ministre chargé
+du travail (1) après avis du comité supérieur de l'emploi engage des actions de reclassement, de placement et de reconversion
+professionnelle. Il en assure ou coordonne l'exécution.
+
+(1) N.B. : Il résulte de l'application de l'art. 1 du décret N.76-784 du 19 août 1976 et de l'article R. 322-1-1 du code du
+travail que les conventions et les actions engagées relèvent de la compétence du ministre chargé du travail lorsque leur
+champ d'application excède le cadre d'un département, du préfet dans le cas contraire.
+
+Dans les cas prévus au présent article, peuvent être attribuées par voie de conventions conclues avec les organismes
+professionnels ou interprofessionnels, les organisations syndicales ou avec les entreprises :
+
+1. Des allocations temporaires dégressives en faveur des travailleurs qui ne peuvent bénéficier d'un stage de formation et ne
+peuvent être temporairement occupés que dans des emplois entraînant un déclassement professionnel ;
+
+2. Des allocations spéciales en faveur de certaines catégories de travailleurs /A/âgés de plus de soixante ans/A/DECR.0705
+22-08-1979//, lorsqu'il est établi qu'ils ne sont pas aptes à bénéficier d'une mesure de reclassement. Les droits de ces
+travailleurs à l'égard de la sécurité sociale sont fixés par voie réglementaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Conseil Constitutionnel 106 L 1979-02-22 JORF 23 février (CARACTERE REGLEMENTAIRE)
+  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+  - TXT_ASSOCIE: Code du travail - art. R322-1-1 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Cité par_:
+
+  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+  - Décret n°51-727 du 6 juin 1951 - art. 3 (Ab)
+  - Loi n°82-1 du 4 janvier 1982 - art. 6 (Ab)
+  - Ordonnance n°82-204 du 1 mars 1982
+  - Ordonnance n°82-204 du 1 mars 1982 - art. 2 (V)
+  - Ordonnance n°82-234 du 11 mars 1982 - art. Préambule (V)
+  - Décret n°82-340 du 16 avril 1982 - art. 6 (V)
+  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
+  - Décret n°82-991 du 24 novembre 1982 - art. 11 (V)
+  - Décret n°82-991 du 24 novembre 1982 - art. 5 (V)
+  - Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
+  - Décret n°83-458 du 7 juin 1983 - art. 5 (V)
+  - Décret n°84-591 du 4 juillet 1984 - art. 7 (V)
+  - Décret n°84-919 du 16 octobre 1984 - art. 11 (Ab)
+  - Décret n°84-1110 du 11 décembre 1984 - art. 7 (V)
+  - Arrêté du 15 avril 1987 - art. 3 (V)
+  - Loi n°87-563 du 17 juillet 1987 - art. 8 (V)
+  - Arrêté du 15 septembre 1987 - art. 3 (M)
+  - Arrêté du 15 septembre 1987 - art. 4 (V)
+  - Arrêté du 26 octobre 1987 - art. 2 (Ab)
+  - Décret n°87-881 du 26 octobre 1987 - art. 1 (Ab)
+  - Décret n°87-881 du 26 octobre 1987 - art. 3 (Ab)
+  - Décret n°90-106 du 30 janvier 1990 - art. 1 (V)
+  - Loi - art. 125 (V)
+  - Loi n°91-1407 du 31 décembre 1991 - art. 9 (V)
+  - Décret n°92-187 du 27 février 1992 - art. 1 (V)
+  - Loi n°92-1446 du 31 décembre 1992 - art. 12 (V)
+  - Décret n°93-593 du 26 mars 1993 - art. 1 (V)
+  - Décret n°95-925 du 19 août 1995 - art. 4 (Ab)
+  - Arrêté du 13 mars 1997 - art. 13 (M)
+  - Arrêté du 13 mars 1997 - art. 4 (V)
+  - Décret n°97-636 du 31 mai 1997 - art. 1 (Ab)
+  - Décret n°98-311 du 23 avril 1998 - art. 1 (Ab)
+  - Décret n°98-312 du 23 avril 1998 - art. 1 (V)
+  - Loi n°98-1194 du 23 décembre 1998 - art. 41 (V)
+  - Loi n°98-1194 du 23 décembre 1998 - art. 4 (V)
+  - Loi - art. 49 (VD)
+  - Décret n°2001-500 du 11 juin 2001 - art. 2 (V)
+  - Loi n°2002-73 du 17 janvier 2002 - art. 49 (V)
+  - Arrêté du 18 février 2005 - art. 1 (V)
+  - Décret n°2005-1096 du 2 septembre 2005 - art. 4 (V)
+  - Décret n°2006-657 du 2 juin 2006 - art. 4 (V)
+  - Décret n°2007-1516 du 22 octobre 2007 - art. 1 (VT)
+  - Décret n°2008-138 du 13 février 2008 - art. 1
+  - Arrêté du 20 avril 1984 - art. 2 (Ab)
+  - Arrêté du 20 avril 1984 - art. 5 (Ab)
+  - Arrêté du 22 août 1985 - art. Annexe (V)
+  - Code de la sécurité sociale. - art. L131-2 (M)
+  - Code de la sécurité sociale. - art. L135-2 (V)
+  - Code de la sécurité sociale. - art. L137-10 (V)
+  - Code de la sécurité sociale. - art. L311-5 (V)
+  - Code de la sécurité sociale. - art. L351-3 (V)
+  - Code de la sécurité sociale. - art. L412-10 (Ab)
+  - Code de la sécurité sociale. - art. L412-8 (VT)
+  - Code de la sécurité sociale. - art. L765-1 (Ab)
+  - Code de la sécurité sociale. - art. R135-16 (M)
+  - Code de la sécurité sociale. - art. R351-12 (V)
+  - Code de la sécurité sociale. - art. R351-13 (V)
+  - Code de la sécurité sociale. - art. R412-5-1 (V)
+  - Code des pensions de retraite des marins frança... - art. L12 (VT)
+  - Code du travail - art. L122-14-13 (VT)
+  - Code du travail - art. L320-1 (AbD)
+  - Code du travail - art. L320-2-1 (AbD)
+  - Code du travail - art. L321-1 (T)
+  - Code du travail - art. L321-13 (VT)
+  - Code du travail - art. L321-4-3 (AbD)
+  - Code du travail - art. L322-12 (Ab)
+  - Code du travail - art. L365-1 (VT)
+  - Code du travail - art. L811-2 (AbD)
+  - Code du travail - art. R312-2 (M)
+  - Code du travail - art. R312-3 (Ab)
+  - Code du travail - art. R312-4 (Ab)
+  - Code du travail - art. R321-23 (VT)
+  - Code du travail - art. R322-1 (VT)
+  - Code du travail - art. R322-1-1 (VT)
+  - Code du travail - art. R322-10 (VT)
+  - Code du travail - art. R322-7 (M)
+  - Code du travail - art. R322-7-1 (VT)
+  - Code du travail - art. R322-8 (VT)
+  - Code du travail - art. R322-9 (VT)
+  - Code rural - art. L751-2 (Ab)
+  - Code rural ancien - art. 1145 (Ab)
+  - Code rural ancien - art. 1145-1 (Ab)
+  - Code rural ancien - art. 1252-2 (Ab)
+  - Code rural et de la pêche maritime - art. L751-1 (V)
+
+_Anciens textes_:
+
+  - Loi n°63-1240 1963-12-18 ART. 3 ET 4
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L5123-1 (VD)
+  - Code du travail - art. L5123-2 (VD)
+  - Code du travail - art. L5123-3 (VD)
+  - Code du travail - art. L5123-4 (VD)
+  - Code du travail - art. L5123-5 (VD)
+  - Code du travail L5123-1, L5123-2, L5123-3, L5123-4, L5123-5, R5123-1
 
 
 ### PRIME DE MOBILITE DES JEUNES .<a id=262></a>
@@ -82027,6 +82165,167 @@ _Cite_:
 
 ### FONDS NATIONAL DE L'EMPLOI .<a id=948></a>
 
+###### Article R322-1
+
+Les actions d'urgence que le ministre chargé du travail est habilité à engager en application des dispositions des articles
+L. 322-1 et suivants comportent notamment :
+
+1. Des mesures temporaires de formation professionnelle qui peuvent faire l'objet des conventions de coopération prévues à
+l'article L. 322-2 ;
+
+2. Des mesures temporaires assurant, par voie de conventions de coopération, certaines garanties de ressources aux
+travailleurs /R/licenciés/R/DECR.0705 22-08-1979 : privés de tout ou partie de leur rémunération par suite de circonstances
+économiques//.
+
+3. L'octroi d'aides favorisant la mobilité géographique et professionnelle des travailleurs ;
+
+4. L'étude de la situation de l'emploi dans les régions ou les professions atteintes ou menacées d'un grave déséquilibre de
+l'emploi.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+  - Arrêté du 10 juin 1988 - art. 1 (V)
+  - Arrêté du 10 juin 1988 - art. 9 (V)
+  - Arrêté du 9 juin 1988 - art. 1 (V)
+  - Arrêté du 9 juin 1988 - art. 9 (V)
+  - Arrêté du 9 juin 1988 - art. ANNEXE (V)
+  - Arrêté du 31 mars 1989 - art. 1 (V)
+  - Arrêté du 24 août 1992 - art. 1 (V)
+  - Arrêté du 2 décembre 1992 - art. 1 (V)
+  - Arrêté du 11 mars 1993 - art. 1 (V)
+  - Arrêté du 3 mai 1993 - art. 1 (V)
+  - Arrêté du 8 juin 1994 - art. 1 (V)
+  - Arrêté du 28 juillet 1994 - art. 1 (V)
+  - Arrêté du 30 septembre 1994 - art. 1 (V)
+  - Arrêté du 4 juillet 1995 - art. 1 (V)
+  - Décret n°97-636 du 31 mai 1997 - art. 1 (Ab)
+  - Arrêté du 25 avril 2007 - art. 1 (V)
+  - Arrêté du 25 avril 2007 - art. 5 (V)
+  - Arrêté du 18 décembre 1984 - art. 1 (V)
+  - Arrêté du 18 décembre 1984 - art. 5 (V)
+  - Arrêté du 22 août 1985 - art. 1 (V)
+  - Arrêté du 22 août 1985 - art. 2 (V)
+  - Arrêté du 22 août 1985 - art. Annexe (V)
+  - Arrêté du 25 juin 1984 - art. 1 (Ab)
+  - Code de la sécurité sociale. - art. R351-12 (V)
+  - Code de la sécurité sociale. - art. R351-13 (V)
+  - Code du travail - art. D322-7-1 (VT)
+  - Code du travail - art. R322-12 (M)
+  - Code du travail - art. R322-22 (T)
+  - Code du travail - art. R322-5-1 (VT)
+  - Code du travail - art. R322-6 (VT)
+  - Code du travail - art. R322-7 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 10 juin 1988
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 7 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 8 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. 9 (V)
+  - TXT_SOURCE: Arrêté du 10 juin 1988 - art. ANNEXE (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 7 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 8 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 9 (V)
+  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. ANNEXE (V)
+  - TXT_SOURCE: Arrêté du 24 août 1992
+  - TXT_SOURCE: Arrêté du 24 août 1992 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 24 août 1992 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 24 août 1992 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 24 août 1992 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. 7 (V)
+  - TXT_SOURCE: Arrêté du 20 octobre 1992 - art. Annexe (V)
+  - TXT_SOURCE: Arrêté du 11 mars 1993
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 11 mars 1993 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 3 mai 1993
+  - TXT_SOURCE: Arrêté du 3 mai 1993 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 3 mai 1993 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 3 mai 1993 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 3 mai 1993 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 3 mai 1993 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 3 mai 1993 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 8 juin 1994
+  - TXT_SOURCE: Arrêté du 8 juin 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 8 juin 1994 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 8 juin 1994 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 8 juin 1994 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 8 juin 1994 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 8 juin 1994 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 28 juillet 1994
+  - TXT_SOURCE: Arrêté du 28 juillet 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 28 juillet 1994 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 28 juillet 1994 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 28 juillet 1994 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 28 juillet 1994 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 28 juillet 1994 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 30 septembre 1994
+  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 4 juillet 1995
+  - TXT_SOURCE: Arrêté du 4 juillet 1995 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 4 juillet 1995 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 4 juillet 1995 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 4 juillet 1995 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 4 juillet 1995 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 4 juillet 1995 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 30 octobre 2000
+  - TXT_SOURCE: Arrêté du 30 octobre 2000 - art. 1 ()
+  - TXT_SOURCE: Arrêté du 18 décembre 1984
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 18 décembre 1984 - art. ANNEXE (V)
+  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+
+_Cite_:
+
+  - Code du travail - art. L322-2 (M)
+  - Code du travail L322-1 ET S., L322-2
+
+_Anciens textes_:
+
+  - Décret n°1970-03-16 ART. 1
+
+
 ###### Article R322-21
 
 Le ministre chargé du travail est chargé de la gestion du fonds national de l'emploi. Les sommes versées volontairement par
@@ -82297,18 +82596,18 @@ _Cite_:
 
 ###### Article R322-7
 
-Les conventions mentionnées à l'article R. 322-1 (2.) ci-dessus peuvent prévoir, pour les travailleurs âgés de plus de
-soixante ans compris dans une mesure de licenciement collectif et qui, selon une procédure qui doit être fixée par la
-convention, auront été déclarés non susceptibles d'un reclassement effectif, l'attribution, en sus des indemnités de
-licenciement auxquelles ils peuvent prétendre, d'une allocation spéciale. Son montant  ne peut être inférieur au total de
-l'allocation d'aide publique aux travailleurs sans emploi et de l'allocation d'assurance conventionnelle au taux plein.
-L'allocation spéciale est servie jusqu'à la liquidation des prestations de vieillesse et au plus tard jusqu'à soixante-cinq
-ans et trois mois.
+Les conventions mentionnées à l'article R. 322-1 (2°) peuvent prévoir pour les travailleurs âgés, faisant l'objet d'un
+licenciement économique ou menacés de faire l'objet d'un tel licenciement, privés de tout ou partie de leur rémunération et
+qui, selon une procédure qui doit être fixée par chaque convention, auront été déclarés non susceptibles d'un reclassement
+effectif, l'attribution d'une allocation spéciale.
 
-Les bénéficiaires de l'allocation spéciale sont rayés des listes des demandeurs d'emploi. L'allocation cesse de leur être
-versée s'ils demandent et obtiennent dans les conditions prévues par la réglementation en vigueur, la liquidation des
-prestations de vieillesse avant d'avoir atteint l'âge de soixante-cinq ans, ou si, par l'exercice d'une activité
-professionnelle, ils se procurent des revenus d'un montant supérieur à celui de l'allocation spéciale.
+Ces conventions fixent le montant des ressources garanties et compte tenu des rémunérations versées par les entreprises et
+des prestations du régime interprofessionnel d'aide aux travailleurs privés d'emploi, le montant de l'allocation spéciale.
+
+L'allocation spéciale est servie jusqu'à la liquidation des prestations vieillesse et au plus tard jusqu'à soixante-cinq ans
+et trois mois.
+
+En cas de reprise d'une activité professionnelle, elle cesse d'être servie.
 
 **Liens relatifs à cet article**
 
@@ -82483,7 +82782,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du travail R322-1 PAR. 2
+  - Code du travail - art. R322-1 (M)
 
 
 #### AIDES A LA MOBILITE GEOGRAPHIQUE<a id=951></a>

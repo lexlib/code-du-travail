@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-26
+Version Consolidée au 1978-03-26 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -87886,14 +87886,22 @@ Un duplicata de l'affiche mentionnée à l'article L. 620-6 est envoyé à l'ins
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3171-17 (Ab)
 
 _Cité par_:
 
   - Code du travail - art. D341-5-9 (V)
   - Code du travail - art. R632-1 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L620-6
 
 
 ###### Article R620-3

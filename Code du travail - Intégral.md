@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-01-25
+Version Consolidée au 1978-01-29
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -55836,9 +55836,6 @@ Lorsque le conflit examiné concerne une branche d'activité pour laquelle les s
 des travaux publics et des transports exercent en vertu d'une disposition législative les fonctions normalement dévolues à
 l'inspection du travail et de la main-d'oeuvre, les commissions ou sections prévues aux articles R. 523-4 à R. 523-6 sont
 complétées par un représentant de l'administration compétente.
-
-Lorsque le conflit concerne la catégorie des cadres, un représentant de cette catégorie est adjoint aux représentants des
-salariés et le nombre des représentants des employeurs est porté à cinq.
 
 **Liens relatifs à cet article**
 

@@ -1,79 +1,85 @@
 # Code du travail  
-Version Consolidée au 1973-01-03
+Version Consolidée au 1973-07-11
 ## Contenu: 
-  - [Partie législative ancienne (art. L143-8 à L833-1)](#1)
-    - [Livre Ier : Conventions relatives au travail (art. L143-8)](#2)
-      - [Titre IV : Salaire. (art. L143-8)](#3)
-        - [Chapitre III : PAIEMENT DU SALAIRE (art. L143-8)](#4)
-          - [Section 2 : Privilèges et garanties de la créance de salaire. (art. L143-8)](#5)
+  - [Partie législative ancienne (art. L143-7 à L833-1)](#1)
+    - [Livre Ier : Conventions relatives au travail (art. L143-7 à L143-8)](#2)
+      - [Titre IV : Salaire. (art. L143-7 à L143-8)](#3)
+        - [Chapitre III : PAIEMENT DU SALAIRE (art. L143-7 à L143-8)](#4)
+          - [Section 2 : Privilèges et garanties de la créance de salaire. (art. L143-7 à L143-8)](#5)
     - [CONVENTIONS RELATIVES AU TRAVAIL (art. L133-1)](#6)
       - [CONVENTIONS COLLECTIVES DE TRAVAIL (art. L133-1)](#7)
         - [CONVENTIONS SUSCEPTIBLES D'ETRE ETENDUES ET PROCEDURE D'EXTENSION . (art. L133-1)](#8)
-    - [Livre II : Réglementation du travail (art. L213-7)](#9)
+    - [Livre II : Réglementation du travail (art. L213-7 à L264-1)](#9)
       - [Titre Ier : Conditions du travail (art. L213-7)](#10)
         - [Chapitre III : TRAVAIL DE NUIT (art. L213-7)](#11)
           - [SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS . (art. L213-7)](#12)
-    - [REGLEMENTATION DU TRAVAIL (art. L212-2 à L225-7)](#13)
-      - [CONDITIONS DU TRAVAIL (art. L212-2)](#14)
-        - [DUREE DU TRAVAIL (art. L212-2)](#15)
-          - [DISPOSITIONS GENERALES. (art. L212-2)](#16)
-      - [CONGES NON REMUNERES (art. L225-7)](#17)
-        - [CONGES DE FORMATION PROFESSIONNELLE ET DE PROMOTION SOCIALE . (art. L225-7)](#18)
-    - [EMPLOI (art. L324-1)](#19)
-      - [CUMULS D'EMPLOIS . (art. L324-1)](#20)
-    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés (art. L413-2)](#21)
-      - [Titre Ier : Les syndicats professionnels (art. L413-2)](#22)
-        - [Chapitre III : Marques syndicales. (art. L413-2)](#23)
-    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES (art. L420-9 à L442-12)](#24)
-      - [LES DELEGUES DU PERSONNEL . (art. L420-9)](#25)
-      - [LES COMITES D'ENTREPRISE (art. L431-1 à L435-2)](#26)
-        - [CHAMP D'APPLICATION . (art. L431-1)](#27)
-        - [COMPOSITION ET ELECTIONS . (art. L433-3 à L433-4)](#28)
-        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE . (art. L435-2)](#29)
-      - [INTERESSEMENT ET PARTICIPATION (art. L442-4 à L442-12)](#30)
-        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES (art. L442-4 à L442-12)](#31)
-          - [REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES . (art. L442-4 à L442-12)](#32)
-    - [CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL (art. L611-1 à L611-6)](#33)
-      - [SERVICES DE CONTROLE (art. L611-1 à L611-6)](#34)
-        - [INSPECTION DU TRAVAIL . (art. L611-1 à L611-6)](#35)
-    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail (art. L611-2 à L620-1)](#36)
-      - [Titre Ier : Services de contrôle (art. L611-2 à L611-10)](#37)
-        - [Chapitre Ier : Inspection du travail. (art. L611-2 à L611-10)](#38)
-      - [Titre II : Obligations des employeurs. (art. L620-1)](#39)
-    - [Livre VII : Dispositions particulières à certaines professions (art. L712-32 à L783-8)](#40)
-      - [Titre Ier : Energie - Industries extractives (art. L712-32)](#41)
-        - [Chapitre II : Délégués mineurs (art. L712-32)](#42)
-          - [Section 1 (art. L712-32)](#43)
-            - [Paragraphe 4 : Dispositions spéciales. (art. L712-32)](#44)
-      - [Titre Ier : Energie (art. L712-11 à L712-33)](#45)
-        - [Industries extractives (art. L712-11 à L712-33)](#46)
-          - [Chapitre II : Délégués mineurs (art. L712-11 à L712-33)](#47)
-            - [Section 1 : Elections. (art. L712-11)](#48)
-            - [Section 2 : Délégués permanents de la surface. (art. L712-33)](#49)
-      - [Titre II : Industries de transformation (art. L721-5 à L721-23)](#50)
-        - [Chapitre Ier : Travailleurs à domicile (art. L721-5 à L721-23)](#51)
-          - [Section 1 : Dispositions générales. (art. L721-8)](#52)
-          - [Section 6 : Hygiène et sécurité. (art. L721-22 à L721-23)](#53)
-      - [Titre V : Voyageurs, représentants et placiers *vrp*. (art. L751-8)](#54)
-      - [Titre VI : Journalistes, artistes, mannequins (art. L761-15 à L761-16)](#55)
-        - [Chapitre Ier : Journalistes professionnels (art. L761-15 à L761-16)](#56)
-          - [Section 4 : Carte d'identité professionnelle. (art. L761-15 à L761-16)](#57)
-      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles (art. L771-7 à L771-9)](#58)
-        - [Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation. (art. L771-7 à L771-9)](#59)
-      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (art. L783-8)](#60)
-        - [Chapitre III : Halles centrales de Paris. (art. L783-8)](#61)
-    - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS (art. L751-2 à L781-1)](#62)
-      - [VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* . (art. L751-2)](#63)
-      - [CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION . (art. L771-2)](#64)
-      - [EMPLOYES DE MAISON . (art. L772-2)](#65)
-      - [DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES (art. L781-1)](#66)
-        - [CATEGORIES PARTICULIERES DE TRAVAILLEURS . (art. L781-1)](#67)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. L821-1 à L833-1)](#68)
-      - [REGLEMENTATION DU TRAVAIL (art. L821-1 à L822-3)](#69)
-        - [DUREE DU TRAVAIL . (art. L821-1)](#70)
-        - [SERVICES MEDICAUX DU TRAVAIL . (art. L822-1 à L822-3)](#71)
-      - [PLACEMENT ET EMPLOI (art. L833-1)](#72)
-        - [GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI . (art. L833-1)](#73)
+      - [Titre VI : Pénalités. (art. L264-1)](#13)
+        - [Chapitre IV : Médecine du travail. (art. L264-1)](#14)
+    - [REGLEMENTATION DU TRAVAIL (art. L212-2 à L225-7)](#15)
+      - [CONDITIONS DU TRAVAIL (art. L212-2)](#16)
+        - [DUREE DU TRAVAIL (art. L212-2)](#17)
+          - [DISPOSITIONS GENERALES. (art. L212-2)](#18)
+      - [CONGES ANNUELS (art. L223-4)](#19)
+        - [DUREE DU CONGE . (art. L223-4)](#20)
+      - [CONGES NON REMUNERES (art. L225-7)](#21)
+        - [CONGES DE FORMATION PROFESSIONNELLE ET DE PROMOTION SOCIALE . (art. L225-7)](#22)
+    - [EMPLOI (art. L324-1)](#23)
+      - [CUMULS D'EMPLOIS . (art. L324-1)](#24)
+    - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés (art. L413-2)](#25)
+      - [Titre Ier : Les syndicats professionnels (art. L413-2)](#26)
+        - [Chapitre III : Marques syndicales. (art. L413-2)](#27)
+    - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES (art. L420-9 à L442-12)](#28)
+      - [LES DELEGUES DU PERSONNEL . (art. L420-9)](#29)
+      - [LES COMITES D'ENTREPRISE (art. L431-1 à L435-2)](#30)
+        - [CHAMP D'APPLICATION . (art. L431-1)](#31)
+        - [COMPOSITION ET ELECTIONS . (art. L433-3 à L433-4)](#32)
+        - [COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE . (art. L435-2)](#33)
+      - [INTERESSEMENT ET PARTICIPATION (art. L442-4 à L442-12)](#34)
+        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES (art. L442-4 à L442-12)](#35)
+          - [REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES . (art. L442-4 à L442-12)](#36)
+    - [CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL (art. L611-1 à L611-6)](#37)
+      - [SERVICES DE CONTROLE (art. L611-1 à L611-6)](#38)
+        - [INSPECTION DU TRAVAIL . (art. L611-1 à L611-6)](#39)
+    - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail (art. L611-2 à L620-1)](#40)
+      - [Titre Ier : Services de contrôle (art. L611-2 à L611-10)](#41)
+        - [Chapitre Ier : Inspection du travail. (art. L611-2 à L611-10)](#42)
+      - [Titre II : Obligations des employeurs. (art. L620-1)](#43)
+    - [Livre VII : Dispositions particulières à certaines professions (art. L712-11 à L783-8)](#44)
+      - [Titre Ier : Energie - Industries extractives (art. L712-11 à L712-32)](#45)
+        - [Chapitre II : Délégués mineurs (art. L712-11 à L712-32)](#46)
+          - [Section 1 (art. L712-11 à L712-32)](#47)
+            - [Paragraphe 3 : Elections (art. L712-11)](#48)
+            - [Paragraphe 4 : Dispositions spéciales. (art. L712-32)](#49)
+      - [Titre Ier : Energie (art. L712-33)](#50)
+        - [Industries extractives (art. L712-33)](#51)
+          - [Chapitre II : Délégués mineurs (art. L712-33)](#52)
+            - [Section 2 : Délégués permanents de la surface. (art. L712-33)](#53)
+      - [Titre II : Industries de transformation (art. L721-5 à L721-23)](#54)
+        - [Chapitre Ier : Travailleurs à domicile (art. L721-5 à L721-23)](#55)
+          - [Section 1 : Dispositions générales. (art. L721-8)](#56)
+          - [Section 6 : Hygiène et sécurité. (art. L721-22 à L721-23)](#57)
+      - [Titre IV : Transports et télécommunications (art. L742-6 à L742-7)](#58)
+        - [Chapitre II : Marins. (art. L742-6 à L742-7)](#59)
+      - [Titre V : Voyageurs, représentants et placiers. (art. L751-15)](#60)
+      - [Titre V : Voyageurs, représentants et placiers *vrp*. (art. L751-8)](#61)
+      - [Titre VI : Journalistes, artistes, mannequins (art. L761-15 à L761-16)](#62)
+        - [Chapitre Ier : Journalistes professionnels (art. L761-15 à L761-16)](#63)
+          - [Section 4 : Carte d'identité professionnelle. (art. L761-15 à L761-16)](#64)
+      - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles (art. L771-7 à L771-9)](#65)
+        - [Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation. (art. L771-7 à L771-9)](#66)
+      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (art. L781-1 à L783-8)](#67)
+        - [Chapitre Ier : Catégories particulières de travailleurs. (art. L781-1)](#68)
+        - [Chapitre III : Halles centrales de Paris. (art. L783-8)](#69)
+    - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS (art. L751-2 à L772-2)](#70)
+      - [VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* . (art. L751-2)](#71)
+      - [CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION . (art. L771-2)](#72)
+      - [EMPLOYES DE MAISON . (art. L772-2)](#73)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. L821-1 à L833-1)](#74)
+      - [REGLEMENTATION DU TRAVAIL (art. L821-1 à L822-3)](#75)
+        - [DUREE DU TRAVAIL . (art. L821-1)](#76)
+        - [SERVICES MEDICAUX DU TRAVAIL . (art. L822-1 à L822-3)](#77)
+      - [PLACEMENT ET EMPLOI (art. L833-1)](#78)
+        - [GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI . (art. L833-1)](#79)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -84,6 +90,46 @@ Version Consolidée au 1973-01-03
 
 ##### Section 2 : Privilèges et garanties de la créance de salaire.<a id=5></a>
 
+###### Article L143-7
+
+La créance de salaires des salariés et apprentis est privilégiée sur les meubles et immeubles du débiteur dans les conditions
+prévues aux articles 2101-4° et 2104-2° du code civil.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code civil 2101-4, 2104-2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L3253-1 (VD)
+
+_Cité par_:
+
+  - Code du travail - art. L712-30 (AbD)
+
+_Anciens textes_:
+
+  - Code du travail 47 al. 1
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L143-8
 
 Peuvent en outre faire valoir une action directe ou des privilèges spéciaux :
@@ -91,36 +137,46 @@ Peuvent en outre faire valoir une action directe ou des privilèges spéciaux :
 1. Dans les conditions fixées à l'article 1798 du code civil, les maçons, charpentiers et autres ouvriers employés pour
 édifier, reconstruire ou réparer des bâtiments, canaux ou ouvrages quelconques ;
 
-2. Dans les conditions fixées à l'article 2102 1 et 3. du code civil, les ouvriers qui ont travaillé soit à la récolte, soit
+2. Dans les conditions fixées à l'article 2102-1° et 3° du code civil, les ouvriers qui ont travaillé soit à la récolte, soit
 à la fabrication ou à la réparation des ustensiles agricoles, soit à la conservation de la chose ;
 
-3. Dans les conditions fixées à l'article 2102 9 du code civil, les auxiliaires salariés des travailleurs à domicile
-répondant à la définition des articles L. 721-1 et 721-2 ;
+3. Dans les conditions fixées à l'article 2102-9° du code civil, les auxiliaires salariés des travailleurs à domicile
+répondant à la définition des articles L. 721-1 et L. 721-2 ;
 
 4. Les caisses de congé pour le paiement des cotisations qui leur sont dues en application des articles L. 223-16 et suivants
 et L. 731-1 et suivants. Ce privilège qui garantit le recouvrement desdites cotisations pendant un an à dater de leur
 exigibilité porte sur les biens meubles des débiteurs et prend rang immédiatement après celui des gens de service et celui
-des ouvriers établis par l'article 2104 4 du code civil. Les immeubles des débiteurs sont également grevés d'une hypothèque
+des ouvriers établis par l'article 2104-4° du code civil. Les immeubles des débiteurs sont également grevés d'une hypothèque
 légale prenant rang à la date de son inscription ;
 
-5. Dans les conditions fixées à l'article 191 du code de commerce, les ouvriers employés à la construction, à la réparation,
-l'armement et à l'équipement du navire.
+5. Dans les conditions fixées à l'article 191 (1) du code de commerce, les ouvriers employés à la construction, à la
+réparation, l'armement et à l'équipement du navire.
 
-6. Les matelots et gens de l'équipage, dans les conditions prévues par les articles 191 et suivants, 271 et 272 du code de
-commerce.
+**Nota:**
+
+(1) l'article 191 du code de commerce a été abrogé par l'article 72 de la loi n° 67-5 du 3 janvier 1967. 
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
 _Cite_:
 
-  - Code de commerce 191, 271, 272
+  - Code de commerce 191
   - Code civil - art. 1798 (V)
-  - Code civil - art. 2102 (M)
-  - Code civil - art. 2104 (M)
+  - Code civil 1798, 2102-9, 2104-4
   - Code du travail - art. L223-16 (AbD)
   - Code du travail - art. L721-1 (M)
+  - Code du travail - art. L721-2 (AbD)
   - Code du travail - art. L731-1 (AbD)
-  - Code du travail L721-1, 721-2, L223-16, L731-1
 
 _Nouveaux textes_:
 
@@ -248,13 +304,65 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## REGLEMENTATION DU TRAVAIL<a id=13></a>
+### Titre VI : Pénalités.<a id=13></a>
 
-### CONDITIONS DU TRAVAIL<a id=14></a>
+#### Chapitre IV : Médecine du travail.<a id=14></a>
 
-#### DUREE DU TRAVAIL<a id=15></a>
+###### Article L264-1
 
-##### DISPOSITIONS GENERALES.<a id=16></a>
+Les infractions aux dispositions des articles L. 241-1 à L. 241-10 et des règlements pris pour leur exécution sont passibles
+en cas de récidive dans le délai de trois ans, d'une peine d'emprisonnement pouvant aller jusqu'à quatre mois et d'une amende
+de 6.000 à 15.000 F (1).
+
+Le tribunal ordonne en outre l'affichage du jugement aux portes de l'établissement du délinquant et sa publication dans tels
+journaux qu'il désigne, le tout aux frais du délinquant.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°71-753 du 10 septembre 1971 - art. 5-1 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°72-617 1972-07-05 art. 31
+  - Loi n°73-623 1973-07-10 art. 4
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail - art. L241-1 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-10 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-2 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-3 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-4 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-5 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-6 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-7 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-8 (AbD)
+  - TXT_ASSOCIE: Code du travail - art. L241-9 (AbD)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L4745-1 (VD)
+
+_Cite_:
+
+  - Code du travail L241-1 A L241-10
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+## REGLEMENTATION DU TRAVAIL<a id=15></a>
+
+### CONDITIONS DU TRAVAIL<a id=16></a>
+
+#### DUREE DU TRAVAIL<a id=17></a>
+
+##### DISPOSITIONS GENERALES.<a id=18></a>
 
 ###### Article L212-2
 
@@ -332,9 +440,51 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-### CONGES NON REMUNERES<a id=17></a>
+### CONGES ANNUELS<a id=19></a>
 
-#### CONGES DE FORMATION PROFESSIONNELLE ET DE PROMOTION SOCIALE .<a id=18></a>
+#### DUREE DU CONGE .<a id=20></a>
+
+###### Article L223-4
+
+Sont assimilées à un mois de travail effectif pour la détermination de la durée du congé les périodes équivalentes à quatre
+semaines ou ving-quatre jours de travail. Les périodes de congé payé, les périodes de repos des femmes en couches prévues /R/
+A l'article L. 122-33/R/LOI 0004 02-01-1973 : aux articles L. 122-25 à L. 122-30// et les périodes limitées à une durée
+ininterrompue d'un an pendant lesquelles l'exécution du contrat de travail est suspendue pour cause d'accident du travail ou
+de maladie professionnelle, sont considérées comme périodes de travail effectif. Sont également considérées comme période de
+travail effectif pour la détermination de la durée du congé, les périodes pendant lesquelles un salarié ou un apprenti se
+trouve maintenu ou rappelé au service national à un titre quelconque.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du travail - art. L223-11 (AbD)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L3141-4 (VD)
+  - Code du travail - art. L3141-5 (VD)
+
+_Anciens textes_:
+
+  - Code du travail 2054 g AL. 3
+
+_Cite_:
+
+  - Code du travail L122-25 A L122-30
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+### CONGES NON REMUNERES<a id=21></a>
+
+#### CONGES DE FORMATION PROFESSIONNELLE ET DE PROMOTION SOCIALE .<a id=22></a>
 
 ###### Article L225-7
 
@@ -363,9 +513,9 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-## EMPLOI<a id=19></a>
+## EMPLOI<a id=23></a>
 
-### CUMULS D'EMPLOIS .<a id=20></a>
+### CUMULS D'EMPLOIS .<a id=24></a>
 
 ###### Article L324-1
 
@@ -397,19 +547,19 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail - art. R362-4 (M)
 
 
-## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=21></a>
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=25></a>
 
-### Titre Ier : Les syndicats professionnels<a id=22></a>
+### Titre Ier : Les syndicats professionnels<a id=26></a>
 
-#### Chapitre III : Marques syndicales.<a id=23></a>
+#### Chapitre III : Marques syndicales.<a id=27></a>
 
 ###### Article L413-2
 
 L'utilisation des marques syndicales ou des labels par application de l'article précédent ne peut avoir pour effet de porter
-atteinte aux dispositions de l'article L. 411-2.
+atteinte aux dispositions de l'article L. 412-2.
 
 Sont nuls et de nul effet tout accord ou disposition tendant à obliger l'employeur à n'embaucher ou à ne conserver à son
-service que les adhérents au syndicat propriétaire de la marque ou du label.
+service que les adhérents du syndicat propriétaire de la marque ou du label.
 
 **Liens relatifs à cet article**
 
@@ -429,6 +579,10 @@ _Nouveaux textes_:
   - Code de la propriété intellectuelle - art. L712-14 (V)
   - Code du travail - art. L2134-2 (VD)
 
+_Cite_:
+
+  - Code du travail - art. L412-2 (M)
+
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. L481-3 (AbD)
@@ -439,9 +593,9 @@ _Anciens textes_:
   - Loi n°1956-04-27
 
 
-## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=24></a>
+## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES<a id=28></a>
 
-### LES DELEGUES DU PERSONNEL .<a id=25></a>
+### LES DELEGUES DU PERSONNEL .<a id=29></a>
 
 ###### Article L420-9
 
@@ -480,9 +634,9 @@ _Cite_:
   - Ordonnance  1944-09-26
 
 
-### LES COMITES D'ENTREPRISE<a id=26></a>
+### LES COMITES D'ENTREPRISE<a id=30></a>
 
-#### CHAMP D'APPLICATION .<a id=27></a>
+#### CHAMP D'APPLICATION .<a id=31></a>
 
 ###### Article L431-1
 
@@ -556,7 +710,7 @@ _Cite_:
   - Code rural 1144 PAR. 1 A 7, 9 ET 10, 1060, 1149 ET 1152
 
 
-#### COMPOSITION ET ELECTIONS .<a id=28></a>
+#### COMPOSITION ET ELECTIONS .<a id=32></a>
 
 ###### Article L433-3
 
@@ -645,7 +799,7 @@ _Cite_:
   - Ordonnance  1944-09-26
 
 
-#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=29></a>
+#### COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .<a id=33></a>
 
 ###### Article L435-2
 
@@ -693,11 +847,11 @@ _Cité par_:
   - Code du travail - art. L432-1 (P)
 
 
-### INTERESSEMENT ET PARTICIPATION<a id=30></a>
+### INTERESSEMENT ET PARTICIPATION<a id=34></a>
 
-#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES<a id=31></a>
+#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES<a id=35></a>
 
-##### REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .<a id=32></a>
+##### REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .<a id=36></a>
 
 ###### Article L442-4
 
@@ -956,55 +1110,32 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code du travail D440-3
 
 
-## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL<a id=33></a>
+## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL<a id=37></a>
 
-### SERVICES DE CONTROLE<a id=34></a>
+### SERVICES DE CONTROLE<a id=38></a>
 
-#### INSPECTION DU TRAVAIL .<a id=35></a>
+#### INSPECTION DU TRAVAIL .<a id=39></a>
 
 ###### Article L611-1
 
-Les inspecteurs du travail et de la main-d'oeuvre sont chargés d'assurer l'exécution des dispositions :
+Les inspecteurs du travail et de la main-d'oeuvre sont chargés de veiller à l'application des dispositions du code du travail
+et des lois et règlements non codifiés relatifs au régime du travail ainsi //DECR.0493 11-06-1975 : qu'à celles des
+stipulations des conventions collectives ayant fait l'objet d'un arrêté d'extension//. Ils sont également chargés,
+concurremment avec les agents et officiers de police judiciaire, de constater,
 
-- du Livre II du présent code ;
+le cas échéant, les infractions à ces dispositions.
 
-- de l'article L. 342-2 du présent code.
+Ils constatent, en outre, les infractions aux dispositions des articles L. 472, alinéa 2, et L. 473, alinéa premier, du code
+de la sécurité sociale.
 
-Ils constatent également les infractions aux dispositions des articles L. 472 alinéa 2 et L. 473 alinéa 1 du code de la
-sécurité sociale. Les inspecteurs du travail et de la main-d'oeuvre et les inspecteurs des lois sociales en agriculture sont
-chargés, concuremment avec les officiers de police judiciaire, d'assurer l'exécution des articles suivants du présent code :
+Dans les cas expressément prévus par la loi ou le règlement,
 
-L. 111-10, L. 112-2, alinéa 2, R. 124-1, L. 126-1, L. 126-2,
+ces attributions peuvent être exercées par des fonctionnaires de contrôle assimilés.
 
-R. 126-1, R. 126-2, R. 126-3, R. 126-4, L. 722-1, R. 722-2,
+Un décret contresigné par le ministre chargé du travail et par le garde des sceaux, ministre de la justice, détermine les
+modalités de contrôle de l'application des dispositions du présent code aux salariés des offices publics et ministériels,
 
-R. 722-3, R. 722-4, R. 722-5, R. 722-6, R. 722-7, L. 722-4,
-
-R. 722-5, R. 722-6, R. 722-7, L. 722-4, R. 722-8, L. 722-5,
-
-R. 722-9, L. 722-6, R. 722-10, R. 722-11, L. 147-1, R. 147-1,
-
-L. 147-2, R. 147-2, L. 148-1, L. 148-3, L. 122-12, R. 122-13,
-
-L. 122-34, L. 122-35, L. 122-36, L. 122-37, R. 122-16, L. 122-38 R. 122-17, L. 122-39 à L. 122-42, R. 122-18, L. 143-2, L.
-143-3,
-
-R. 143-2, R. 143-5, R. 143-1, L. 751-12, L. 771-2, L. 771-4,
-
-L. 122-17 à L. 122-20, R. 122-6, R. 122-7, L. 122-25 à L. 122-31,
-
-L. 721-5, L. 721-7, L. 721-9, L. 721-14, alinéa 2, L. 721-7,
-
-R. 721-1, R. 721-3, R. 721-9, R. 721-12, R. 721-14, alinéa 2.
-
-Les inspecteurs du travail et de la main-d'oeuvre peuvent exiger la communication du livre de paie prévu à l'article L. 143-5
-du présent code.
-
-Un décret contresigné par le ministre chargé du travail, par le garde des sceaux ministre de la justice détermine les
-modalités de l'application des dispositions du présent code aux salariés des offices publics et ministériels, des professions
-libérales,
-
-des sociétés civiles, des syndicats professionnels et associations de quelque nature que ce soit.
+des professions libérales, des sociétés civiles, des syndicats professionnels et associations, de quelque nature que ce soit.
 
 **Liens relatifs à cet article**
 
@@ -1046,69 +1177,6 @@ _Cité par_:
   - Code du travail - art. R238-51 (VT)
   - Code du travail - art. R238-7 (VT)
 
-_Cite_:
-
-  - Code du travail - art. L111-10 (Ab)
-  - Code du travail - art. L122-12 (M)
-  - Code du travail - art. L122-34 (M)
-  - Code du travail - art. L122-35 (M)
-  - Code du travail - art. L122-36 (M)
-  - Code du travail - art. L122-37 (M)
-  - Code du travail - art. L122-38 (M)
-  - Code du travail - art. L126-1 (AbD)
-  - Code du travail - art. L126-2 (AbD)
-  - Code du travail - art. L143-1 (M)
-  - Code du travail - art. L143-2 (AbD)
-  - Code du travail - art. L143-3 (MMN)
-  - Code du travail - art. L143-5 (Ab)
-  - Code du travail - art. L147-1 (AbD)
-  - Code du travail - art. L147-2 (AbD)
-  - Code du travail - art. L148-1 (AbD)
-  - Code du travail - art. L148-3 (V)
-  - Code du travail - art. L342-2 (Ab)
-  - Code du travail - art. L721-5 (M)
-  - Code du travail - art. L721-7 (M)
-  - Code du travail - art. L721-9 (AbD)
-  - Code du travail - art. L722-1 (Ab)
-  - Code du travail - art. L722-2 (Ab)
-  - Code du travail - art. L722-3 (Ab)
-  - Code du travail - art. L722-4 (Ab)
-  - Code du travail - art. L722-5 (Ab)
-  - Code du travail - art. L722-6 (Ab)
-  - Code du travail - art. L751-12 (AbD)
-  - Code du travail - art. L771-2 (M)
-  - Code du travail - art. L771-4 (M)
-  - Code du travail - art. R122-13 (M)
-  - Code du travail - art. R122-16 (Ab)
-  - Code du travail - art. R122-17 (T)
-  - Code du travail - art. R122-18 (M)
-  - Code du travail - art. R122-7 (M)
-  - Code du travail - art. R124-1 (V)
-  - Code du travail - art. R126-1 (V)
-  - Code du travail - art. R126-2 (V)
-  - Code du travail - art. R126-3 (V)
-  - Code du travail - art. R126-4 (V)
-  - Code du travail - art. R143-1 (V)
-  - Code du travail - art. R143-2 (M)
-  - Code du travail - art. R147-1 (V)
-  - Code du travail - art. R147-2 (V)
-  - Code du travail - art. R721-1 (Ab)
-  - Code du travail - art. R721-12 (V)
-  - Code du travail - art. R721-3 (V)
-  - Code du travail - art. R721-9 (V)
-  - Code du travail - art. R722-1 (Ab)
-  - Code du travail - art. R722-10 (Ab)
-  - Code du travail - art. R722-11 (Ab)
-  - Code du travail - art. R722-2 (Ab)
-  - Code du travail - art. R722-4 (Ab)
-  - Code du travail - art. R722-5 (Ab)
-  - Code du travail - art. R722-6 (Ab)
-  - Code du travail - art. R722-7 (Ab)
-  - Code du travail - art. R722-8 (Ab)
-  - Code du travail - art. R722-9 (Ab)
-  - Code du travail L200-1 A L265-1
-  - Code de la sécurité sociale L472 AL. 2, L473 AL. 1
-
 _Nouveaux textes_:
 
   - Code du travail - art. L8112-1 (VD)
@@ -1116,20 +1184,9 @@ _Nouveaux textes_:
   - Code du travail - art. L8112-3 (VD)
   - Code du travail - art. L8112-4 (VD)
 
+_Cite_:
 
-###### Article L611-5
-
-Il n'est rien innové quant à la surveillance des appareils à vapeur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1047 1973-11-15
-
-_Anciens textes_:
-
-  - Code du travail 2097
+  - Code de la sécurité sociale L473 AL. 1
 
 
 ###### Article L611-6
@@ -1173,11 +1230,11 @@ _Nouveaux textes_:
   - Code du travail R8111-2
 
 
-## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=36></a>
+## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=40></a>
 
-### Titre Ier : Services de contrôle<a id=37></a>
+### Titre Ier : Services de contrôle<a id=41></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=38></a>
+#### Chapitre Ier : Inspection du travail.<a id=42></a>
 
 ###### Article L611-2
 
@@ -1228,12 +1285,12 @@ _Nouveaux textes_:
 
 ###### Article L611-4
 
-Dans les établissements soumis au contrôle technique du ministère chargé des transports, les attributions des inspecteurs du
-travail et de la main-d'oeuvre sont confiées aux fonctionnaires relevant de ce département, lesquels sont placés à cet effet
-sous l'autorité du ministre chargé du travail, sauf en ce qui concerne les entreprises de chemin de fer d'intérêt général, de
-voies ferrées d'intérêt local, les entreprises de transports publics par automobiles, les entreprises de transports et de
-travail aériens et les entreprises autres que les entreprises de construction aéronautique exerçant leur activité sur les
-aérodromes ouverts à la circulation publique.
+Dans les établissements soumis au contrôle technique des ministères chargés des travaux publics, des transports et du
+tourisme, les attributions des inspecteurs du travail et de la main-d'oeuvre sont confiées aux fonctionnaires relevant de ce
+département, lesquels sont placés à cet effet sous l'autorité du ministre chargé du travail, sauf en ce qui concerne les
+entreprises de chemin de fer d'intérêt général, de voies ferrées d'intérêt local, les entreprises de transports publics par
+automobiles, les entreprises de transports et de travail aériens et les entreprises autres que les entreprises de
+construction aéronautique exerçant leur activité sur les aérodromes ouverts à la circulation publique.
 
 **Liens relatifs à cet article**
 
@@ -1262,6 +1319,38 @@ _Anciens textes_:
 _Nouveaux textes_:
 
   - Code du travail R8111-1
+
+
+###### Article L611-5
+
+La surveillance des appareils à pression de vapeur ou de gaz demeure assurée dans les conditions fixées par la loi du 28
+octobre 1943 et par les textes pris pour son application.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1047 1973-11-15
+
+_Anciens textes_:
+
+  - Code du travail 2097
+
+_Cite_:
+
+  - Loi   1943-10-28
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 
 ###### Article L611-8
@@ -1365,7 +1454,7 @@ _Anciens textes_:
   - Code du travail 107
 
 
-### Titre II : Obligations des employeurs.<a id=39></a>
+### Titre II : Obligations des employeurs.<a id=43></a>
 
 ###### Article L620-1
 
@@ -1414,15 +1503,83 @@ _Anciens textes_:
   - Code du travail 1
 
 
-## Livre VII : Dispositions particulières à certaines professions<a id=40></a>
+## Livre VII : Dispositions particulières à certaines professions<a id=44></a>
 
-### Titre Ier : Energie - Industries extractives<a id=41></a>
+### Titre Ier : Energie - Industries extractives<a id=45></a>
 
-#### Chapitre II : Délégués mineurs<a id=42></a>
+#### Chapitre II : Délégués mineurs<a id=46></a>
 
-##### Section 1<a id=43></a>
+##### Section 1<a id=47></a>
 
-##### Paragraphe 4 : Dispositions spéciales.<a id=44></a>
+##### Paragraphe 3 : Elections<a id=48></a>
+
+###### Article L712-11
+
+Sont éligibles dans une circonscription à la condition d'être citoyens français, de savoir lire et écrire le français
+(l'idiome local étant assimilé au français dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle), de ne pas
+présenter une incapacité permanente de travail d'un taux supérieur à 60 p. 100 et, en outre, de n'avoir jamais encouru de
+condamnation pour infraction aux dispositions du présent chapitre ou pour une des infractions visées à l'article 141 du code
+minier, aux articles 414 et 415 du code pénal ou aux articles L. 5 et L. 6 du code électoral :
+
+1. Les ouvriers du fond âgés de vingt-cinq ans accomplis et travaillant depuis cinq ans au moins dans les mines ou carrières,
+dont trois ans au moins comme ouvrier mineur qualifié, ou dans un emploi dont la pratique exige une bonne connaissance des
+dangers de la mine, sous réserve qu'ils aient travaillé pendant trois ans au moins dans cette circonscription ou dans une des
+circonscriptions de même nature dépendant du même exploitant ;
+
+2. les anciens ouvriers du fond à la condition qu'ils soient âgés de vingt-cinq ans accomplis, et qu'ils aient travaillé
+pendant cinq ans au moins dans les mines ou carrières, dont trois ans au moins comme ouvrier mineur qualifié, ou dans un
+emploi dont la pratique exige une bonne connaissance des dangers de la mine, sous réserve qu'ils aient travaillé pendant
+trois ans au moins dans cette circonscription ou dans une des circonscriptions de même nature dépendant du même exploitant et
+qu'ils n'aient pas cessé d'y être employés depuis plus de dix ans soit comme ouvriers, soit comme délégués ou délégués
+suppléants.
+
+Les anciens ouvriers ne sont éligibles que s'ils ne sont pas déjà délégués pour une autre circonscription quelle qu'elle
+soit.
+
+Dans les circonscriptions comprenant des chantiers définis par voie réglementaire, les intéressés doivent être indemnes de
+toute affection silicotique qui interdirait leur occupation comme ouvrier dans une proportion importante des chantiers de la
+circonscription.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-1131 1971-12-31 art. 3
+  - Loi n°73-623 1973-07-10 art. 10
+  - Code du travail 136
+
+_Codifié par_:
+
+  - Décret n°73-1047 1973-11-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code électoral - art. L5 (M)
+  - Code électoral - art. L6 (M)
+  - Code pénal 414, 415
+  - Code minier 141
+
+_Cité par_:
+
+  - Code du travail - art. L712-13 (AbD)
+  - Code du travail - art. R712-11 (M)
+  - Code du travail - art. R712-16 (VT)
+  - Code du travail - art. R712-9 (M)
+
+
+##### Paragraphe 4 : Dispositions spéciales.<a id=49></a>
 
 ###### Article L712-32
 
@@ -1456,69 +1613,13 @@ _Cite_:
   - Code du travail L712-9 A L712-13, L712-17 ET L712-20
 
 
-### Titre Ier : Energie<a id=45></a>
+### Titre Ier : Energie<a id=50></a>
 
-#### Industries extractives<a id=46></a>
+#### Industries extractives<a id=51></a>
 
-##### Chapitre II : Délégués mineurs<a id=47></a>
+##### Chapitre II : Délégués mineurs<a id=52></a>
 
-##### Section 1 : Elections.<a id=48></a>
-
-###### Article L712-11
-
-Sont éligibles dans une circonscription à la condition d'être citoyens français, de savoir lire et écrire le français
-(l'idiome local étant assimilé au français dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle), de ne pas
-présenter une incapacité permanente de travail d'un taux supérieur à 60 p. 100 et, en outre de n'avoir jamais encouru de
-condamnation pour infraction aux dispositions du présent chapitre ou pour une des infractions visées à l'article 141 du code
-minier, aux articles 414 et 415 du code pénal ou aux articles L. 5 et L. 6 du code électoral :
-
-1. Les ouvriers du fond âgés de vingt-cinq ans accomplis et travaillant depuis cinq ans au moins dans les mines ou carrières,
-dont trois ans au moins comme ouvrier mineur qualifié, ou dans un emploi dont la pratique exige une bonne connaissance des
-dangers de la mine, sous réserve qu'ils aient travaillé pendant trois ans au moins dans cette circonscription ou dans une des
-circonscriptions de même nature dépendant du même exploitant ;
-
-2. les anciens ouvriers du fond à la condition qu'ils soient âgés de vingt-cinq ans accomplis, et qu'ils aient travaillé
-pendant cinq ans au moins dans les mines ou carrières, dont trois ans au moins comme ouvrier mineur qualifié, ou dans un
-emploi dont la pratique exige une bonne connaissance des dangers de la mine, sous réserve qu'ils aient travaillé pendant
-trois ans au moins dans cette circonscription ou dans une des circonscriptions de même nature dépendant du même exploitant et
-qu'ils n'aient pas cessé d'y être employés depuis plus de deux ans soit comme ouvriers, soit comme délégués ou délégués
-suppléants.
-
-Les anciens ouvriers ne sont éligibles que s'ils ne sont pas déjà délégués pour une autre circonscription quelle qu'elle
-soit.
-
-Dans les circonscriptions comprenant des chantiers définis par voie réglementaire, les intéressés doivent être indemnes de
-toute affection silicotique qui interdirait leur occupation comme ouvrier dans une proportion importante des chantiers de la
-circonscription.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-1131 1971-12-31 art. 3
-  - Loi n°73-623 1973-07-10 art. 10
-  - Code du travail 136
-
-_Codifié par_:
-
-  - Décret n°73-1047 1973-11-15
-
-_Cite_:
-
-  - Code électoral - art. L5 (M)
-  - Code électoral - art. L6 (M)
-  - Code pénal 414, 415
-  - Code minier 141
-
-_Cité par_:
-
-  - Code du travail - art. L712-13 (AbD)
-  - Code du travail - art. R712-11 (M)
-  - Code du travail - art. R712-16 (VT)
-  - Code du travail - art. R712-9 (M)
-
-
-##### Section 2 : Délégués permanents de la surface.<a id=49></a>
+##### Section 2 : Délégués permanents de la surface.<a id=53></a>
 
 ###### Article L712-33
 
@@ -1554,9 +1655,9 @@ _Cité par_:
   - Code du travail - art. R712-58 (VT)
 
 
-### Titre II : Industries de transformation<a id=50></a>
+### Titre II : Industries de transformation<a id=54></a>
 
-#### Chapitre Ier : Travailleurs à domicile<a id=51></a>
+#### Chapitre Ier : Travailleurs à domicile<a id=55></a>
 
 ###### Article L721-5
 
@@ -1587,7 +1688,7 @@ _Anciens textes_:
   - Code du travail 33
 
 
-##### Section 1 : Dispositions générales.<a id=52></a>
+##### Section 1 : Dispositions générales.<a id=56></a>
 
 ###### Article L721-8
 
@@ -1625,7 +1726,7 @@ _Anciens textes_:
   - Loi n°1957-07-26 ART. 9
 
 
-##### Section 6 : Hygiène et sécurité.<a id=53></a>
+##### Section 6 : Hygiène et sécurité.<a id=57></a>
 
 ###### Article L721-22
 
@@ -1717,7 +1818,187 @@ _Cite_:
   - Code du travail - art. L771-8 (M)
 
 
-### Titre V : Voyageurs, représentants et placiers *vrp*.<a id=54></a>
+### Titre IV : Transports et télécommunications<a id=58></a>
+
+#### Chapitre II : Marins.<a id=59></a>
+
+###### Article L742-6
+
+Les dispositions de l'article L. 143-10 sont applicables aux marins pour les rémunérations de toute nature dues au titre des
+quatre-vingt-dix derniers jours de travail ou de la période de paiement si celle-ci est d'une durée plus longue.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 : 
+
+Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction
+issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeurent en vigueur, dans leur rédaction en vigueur à la date de
+publication de la présente ordonnance, les dispositions de l'article L742-6.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°67-563 du 13 juillet 1967 - art. 50 (Ab)
+  - Loi n°67-563 du 13 juillet 1967 - art. 51 (Ab)
+  - Loi n°73-1194 du 27 décembre 1973 - art. 5 (V)
+  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 129 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 40 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 78 (Ab)
+  - Code civil - art. 2101 (T)
+  - Code civil - art. 2104 (T)
+  - Code civil - art. 2331 (V)
+  - Code civil - art. 2375 (V)
+  - Code de commerce - art. L626-22 (M)
+  - Code de commerce. - art. L621-130 (T)
+  - Code de commerce. - art. L621-131 (T)
+  - Code de commerce. - art. L621-32 (T)
+  - Code de commerce. - art. L621-78 (T)
+  - Code de commerce. - art. L621-80 (T)
+  - Code de commerce. - art. L622-17 (V)
+  - Code de commerce. - art. L625-7 (M)
+  - Code de commerce. - art. L625-8 (V)
+  - Code de commerce. - art. L626-20 (VT)
+  - Code de commerce. - art. L641-13 (V)
+  - Code du travail - art. L143-11-5 (P)
+  - Code du travail - art. L143-11-7 (V)
+  - Code du travail - art. L143-11-9 (V)
+
+_Anciens textes_:
+
+  - Loi n°72-1169 1972-12-23 ART. 8
+  - Loi n°73-4 1973-01-02
+  - Code du travail 1047 A
+
+_Créé par_:
+
+  - Loi n°73-623 1973-07-10 ART. 12 JORF 11 juillet
+
+_Codifié par_:
+
+  - Décret n°73-1047 du 15 novembre 1973
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-60 (V)
+
+_Cite_:
+
+  - Code du travail - art. L143-10
+
+
+###### Article L742-7
+
+L'article L. 143-8 est applicable aux marins et autres personnes engagées à bord d'un navire dans les conditions prévues à
+l'article 92 de la loi du 13 décembre 1926 portant code du travail maritime et à l'article 31-3  de la loi n  67-5 du 3
+janvier 1967 portant statut des navires et autres bâtiments de mer.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 : 
+
+Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction
+issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeurent en vigueur, dans leur rédaction en vigueur à la date de
+publication de la présente ordonnance, les dispositions de l'article L742-7.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°1926-12-13 ART. 92
+  - Loi n°67-5 du 3 janvier 1967
+  - Code du travail - art. L143-8
+
+_Créé par_:
+
+  - Loi n°73-623 1973-07-10 ART. 3 II JORF 11 juillet 1973
+
+_Codifié par_:
+
+  - Décret n°73-1047 1973-11-15
+
+_Modifié par_:
+
+  - Décret n°74-808 1974-09-19 ART. 31 II JORF 29 septembre 1974
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5549-3 (V)
+
+
+### Titre V : Voyageurs, représentants et placiers.<a id=60></a>
+
+###### Article L751-15
+
+Les dispositions de l'article L. 143-10 sont applicables aux voyageurs, représentants et placiers régis par le présent code
+pour les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers jours de travail .
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°67-563 du 13 juillet 1967 - art. 50 (Ab)
+  - Loi n°67-563 du 13 juillet 1967 - art. 51 (Ab)
+  - Loi n°73-1194 du 27 décembre 1973 - art. 5 (V)
+  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 129 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
+  - Loi n°85-98 du 25 janvier 1985 - art. 78 (Ab)
+  - Code civil - art. 2101 (T)
+  - Code civil - art. 2104 (T)
+  - Code civil - art. 2331 (V)
+  - Code civil - art. 2375 (V)
+  - Code de commerce. - art. L621-130 (T)
+  - Code de commerce. - art. L621-131 (T)
+  - Code de commerce. - art. L621-32 (T)
+  - Code de commerce. - art. L621-78 (T)
+  - Code de commerce. - art. L621-80 (T)
+  - Code de commerce. - art. L622-17 (V)
+  - Code de commerce. - art. L625-7 (M)
+  - Code de commerce. - art. L625-8 (V)
+  - Code de commerce. - art. L626-20 (VT)
+  - Code de commerce. - art. L626-22 (V)
+  - Code de commerce. - art. L641-13 (V)
+  - Code du travail - art. L143-11-5 (P)
+  - Code du travail - art. L143-11-7 (V)
+  - Code du travail - art. L143-11-9 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1047 1973-11-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cite_:
+
+  - Code du travail - art. L143-10 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L7313-8 (VD)
+
+
+### Titre V : Voyageurs, représentants et placiers *vrp*.<a id=61></a>
 
 ###### Article L751-8
 
@@ -1745,11 +2026,11 @@ _Anciens textes_:
   - Code du travail 29
 
 
-### Titre VI : Journalistes, artistes, mannequins<a id=55></a>
+### Titre VI : Journalistes, artistes, mannequins<a id=62></a>
 
-#### Chapitre Ier : Journalistes professionnels<a id=56></a>
+#### Chapitre Ier : Journalistes professionnels<a id=63></a>
 
-##### Section 4 : Carte d'identité professionnelle.<a id=57></a>
+##### Section 4 : Carte d'identité professionnelle.<a id=64></a>
 
 ###### Article L761-15
 
@@ -1843,9 +2124,9 @@ _Anciens textes_:
   - Loi n°1953-12-15
 
 
-### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles<a id=58></a>
+### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles<a id=65></a>
 
-#### Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.<a id=59></a>
+#### Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.<a id=66></a>
 
 ###### Article L771-7
 
@@ -1912,9 +2193,84 @@ _Cité par_:
   - Code du travail - art. R797-1 (VT)
 
 
-### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=60></a>
+### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=67></a>
 
-#### Chapitre III : Halles centrales de Paris.<a id=61></a>
+#### Chapitre Ier : Catégories particulières de travailleurs.<a id=68></a>
+
+###### Article L781-1
+
+Les dispositions du présent code qui visent les apprentis, ouvriers, employés, travailleurs sont applicables aux catégories
+de travailleurs particuliers ci-après :
+
+1° les personnes qui, dans une entreprise industrielle ou commerciale, sont chargées par le chef d'entreprise ou avec son
+agrément de se mettre à la disposition des clients durant le séjour de ceux-ci dans les locaux ou dépendances de
+l'entreprise, en vue de recevoir d'eux des dépôts de vêtements ou d'autres objets ou de leur rendre des services de toute
+nature ;
+
+2° les personnes dont la profession consiste essentiellement, soit à vendre des marchandises ou denrées de toute nature, des
+titres, des volumes, publications, billets de toute sorte qui leur sont fournis exclusivement ou presque exclusivement par
+une seule entreprise industrielle ou commerciale, soit à recueillir les commandes ou à recevoir des objets à traiter,
+manutentionner ou transporter, pour le compte d'une seule entreprise industrielle ou commerciale, lorsque ces personnes
+exercent leur profession dans un local fourni ou agréé par cette entreprise et aux conditions et prix imposés par ladite
+entreprise.
+
+Toutefois, le chef de l'entreprise industrielle ou commerciale qui fournit les marchandises, denrées, titres ou billets, ou
+pour le compte de laquelle sont recueillies les commandes ou sont reçus les objets à traiter, manutentionner ou transporter
+ne sera responsable de l'application au profit des personnes ci-dessus visées de la réglementation du travail résultant du
+livre II du présent code que si les conditions de travail, d'hygiène et de sécurité du travail dans l'établissement ont été
+fixées par ce chef d'entreprise ou soumises à son agrément.
+
+Dans le cas contraire ces personnes énumérées sont assimilées à des directeurs d'établissements et la règlementation
+résultant des livres I et II du présent code ne leur est applicable que dans la mesure où elle s'applique aux chefs
+d'établissements directeurs ou gérants, notamment en ce qui concerne la fermeture des établissements résultant de
+l'application des articles L. 221-17 et L. 221-18 du présent code *repos hebdomadaire*.
+
+En ce qui concerne le personnel placé sous les ordres des personnes définies ci-dessus, celles-ci ne sont responsables au
+lieu et place du chef d'entreprise industrielle ou commerciale avec lequel elles ont contracté, de l'application des
+dispositions des livres I et II du présent code à l'égard du personnel que si elles ont toute liberté en matière
+d'embauchage, de licenciement et de fixation des conditions de travail dudit personnel.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°73-623 1973-07-10 ART. 14
+  - Loi n°1941-03-21 ART. 2
+  - Loi n°1941-03-21 art. 2
+
+_Codifié par_:
+
+  - Décret n°73-1047 1973-11-15
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L311-3 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L7321-1 (VD)
+  - Code du travail - art. L7321-2 (VD)
+  - Code du travail - art. L7321-3 (VD)
+  - Code du travail - art. L7321-4 (VD)
+
+_Cite_:
+
+  - Code du travail L221-17 ET L221-18
+
+
+#### Chapitre III : Halles centrales de Paris.<a id=69></a>
 
 ###### Article L783-8
 
@@ -1944,9 +2300,9 @@ _Anciens textes_:
   - Code du travail 51 al. 1, al. 2
 
 
-## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS<a id=62></a>
+## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS<a id=70></a>
 
-### VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .<a id=63></a>
+### VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .<a id=71></a>
 
 ###### Article L751-2
 
@@ -1983,7 +2339,7 @@ _Cite_:
   - Code du travail L751-1 A L751-15
 
 
-### CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .<a id=64></a>
+### CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .<a id=72></a>
 
 ###### Article L771-2
 
@@ -2023,7 +2379,7 @@ _Anciens textes_:
   - Loi n°1939-01-13 art. 3
 
 
-### EMPLOYES DE MAISON .<a id=65></a>
+### EMPLOYES DE MAISON .<a id=73></a>
 
 ###### Article L772-2
 
@@ -2062,76 +2418,11 @@ _Cité par_:
   - Code du travail - art. R797-1 (VT)
 
 
-### DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES<a id=66></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=74></a>
 
-#### CATEGORIES PARTICULIERES DE TRAVAILLEURS .<a id=67></a>
+### REGLEMENTATION DU TRAVAIL<a id=75></a>
 
-###### Article L781-1
-
-Les dispositions du présent code qui visent les apprentis, ouvriers, employés, travailleurs sont applicables aux catégories
-de travailleurs particuliers ci-après :
-
-1- les personnes qui, dans une entreprise industrielle ou commerciale, sont chargées par le chef d'entreprise ou avec son
-agrément de se mettre à la disposition des clients durant le séjour de ceux-ci dans les locaux ou dépendances de
-l'entreprise, en vue de recevoir d'eux des dépôts de vêtements ou d'autres objets ou de leur rendre des services de toute
-nature ;
-
-2- les personnes dont la profession consiste essentiellement, soit à vendre des marchandises ou denrées de toute nature, des
-titres, des volumes, publications, billets de toute sorte qui leur sont fournis exclusivement ou presque exclusivement par
-une seule entreprise industrielle ou commerciale, soit à recueillir les commandes ou à recevoir des objets à traiter,
-manutentionner ou transporter, pour le compte d'une seule entreprise industrielle ou commerciale, lorsque ces personnes
-exercent leur profession dans un local fourni ou agréé par cette entreprise et aux conditions et prix imposés par ladite
-entreprise.
-
-Toutefois, le chef de l'entreprise industrielle ou commerciale qui fournit les marchandises, denrées, titres ou billets, ou
-pour le compte de laquelle sont recueillies les commandes ou sont reçus les objets à traiter, manutentionner ou transporter
-ne sera responsable de l'application au profit des personnes ci-dessus visées de la réglementation du travail résultant du
-livre I et II du présent code que si les conditions de travail, d'hygiène et de sécurité du travail dans l'établissement ont
-été fixées par ce chef d'entreprise ou soumises à son agrément.
-
-Dans le cas contraire ces personnes énumérées sont assimilées à des directeurs d'établissements et la règlementation
-résultant des livres I et II du présent code ne leur est applicable que dans la mesure où elle s'applique aux chefs
-d'établissements directeurs ou gérants, notamment en ce qui concerne la fermeture des établissements résultant de
-l'application des articles L. 221-17 et L. 221-18 du présent code.
-
-En ce qui concerne le personnel placé sous les ordres des personnes définies ci-dessus, celles-ci ne sont responsables au
-lieu et place du chef d'entreprise industrielle ou commerciale avec lequel elles ont contracté, de l'application des
-dispositions des livres I et II du présent code à l'égard du personnel que si elles ont toute liberté en matière
-d'embauchage, de licenciement et de fixation des conditions de travail dudit personnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°73-623 1973-07-10 ART. 14
-  - Loi n°1941-03-21 ART. 2
-  - Loi n°1941-03-21 art. 2
-
-_Codifié par_:
-
-  - Décret n°73-1047 1973-11-15
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. L311-3 (V)
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L7321-1 (VD)
-  - Code du travail - art. L7321-2 (VD)
-  - Code du travail - art. L7321-3 (VD)
-  - Code du travail - art. L7321-4 (VD)
-
-_Cite_:
-
-  - Code du travail L221-17 ET L221-18
-
-
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=68></a>
-
-### REGLEMENTATION DU TRAVAIL<a id=69></a>
-
-#### DUREE DU TRAVAIL .<a id=70></a>
+#### DUREE DU TRAVAIL .<a id=76></a>
 
 ###### Article L821-1
 
@@ -2161,7 +2452,7 @@ _Nouveaux textes_:
   - Code du travail - art. L3422-1 (VD)
 
 
-#### SERVICES MEDICAUX DU TRAVAIL .<a id=71></a>
+#### SERVICES MEDICAUX DU TRAVAIL .<a id=77></a>
 
 ###### Article L822-1
 
@@ -2271,9 +2562,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
 
 
-### PLACEMENT ET EMPLOI<a id=72></a>
+### PLACEMENT ET EMPLOI<a id=78></a>
 
-#### GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .<a id=73></a>
+#### GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .<a id=79></a>
 
 ###### Article L833-1
 

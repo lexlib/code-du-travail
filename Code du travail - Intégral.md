@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-08
+Version Consolidée au 1981-01-25
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -973,7 +973,7 @@ Version Consolidée au 1981-01-08
             - [ETABLISSEMENTS SPECIALISES . (art. R323-60 à R323-63-5)](#970)
             - [ETABLISSEMENTS PROTEGES. (art. R323-62)](#971)
             - [LABELS . (art. R323-64 à R323-72)](#972)
-            - [PRETS D'HONNEUR . (art. R323-73)](#973)
+            - [SUBVENTION D'INSTALLATION. (art. R323-73)](#973)
           - [COMMISSION DEPARTEMENTALE DES HANDICAPES . (art. R323-74 à R323-79)](#974)
           - [DISPOSITIONS D'EXECUTION . (art. R323-80 à R323-92)](#975)
           - [DISPOSITIONS APPLICABLES AUX ADMINISTRATIONS ET ENTREPRISES  PREVUES A L'ARTICLE L323-12 PARAGRAPHE 4 . (art. R323-93 à R323-113)](#976)
@@ -1266,7 +1266,7 @@ Version Consolidée au 1981-01-08
             - [Sous-section 1 : Dispositions générales. (art. D323-3-1 à D323-3-16)](#1263)
             - [Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail. (art. D323-4 à D323-10)](#1264)
             - [Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés. (art. D323-11 à D323-16)](#1265)
-            - [Sous-section 4 : Travail protégé. (art. D323-25 à D323-25-2)](#1266)
+            - [Sous-section 4 : Travail protégé. (art. D323-19 à D323-25-2)](#1266)
           - [Section 3 : Emploi obligatoire des pères de famille. (art. D323-26 à D323-34)](#1267)
         - [Chapitre IV : Cumuls d'emplois et travail clandestin. (art. D324-1 à D324-2)](#1268)
       - [Titre III : Agence nationale pour l'emploi. (art. D330-1)](#1269)
@@ -1280,12 +1280,12 @@ Version Consolidée au 1981-01-08
           - [Section 2 : PRIVATION PARTIELLE D'EMPLOI. (art. D351-3)](#1277)
           - [Section 5 : Création d'entreprises par les salariés privés d'emploi. (art. D351-4 à D351-8)](#1278)
         - [Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi. (art. D352-1 à D352-10)](#1279)
-    - [EMPLOI (art. D322-1 à D323-24)](#1280)
+    - [EMPLOI (art. D322-1 à D323-20)](#1280)
       - [FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES . (art. D322-1 à D322-2)](#1281)
       - [FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL . (art. D322-11 à D322-16)](#1282)
-      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS (art. D323-17 à D323-24)](#1283)
-        - [TRAVAILLEURS HANDICAPES (art. D323-17 à D323-24)](#1284)
-          - [TRAVAIL PROTEGE . (art. D323-17 à D323-24)](#1285)
+      - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS (art. D323-17 à D323-20)](#1283)
+        - [TRAVAILLEURS HANDICAPES (art. D323-17 à D323-20)](#1284)
+          - [TRAVAIL PROTEGE . (art. D323-17 à D323-20)](#1285)
     - [Livre III : EMPLOI (art. D323-1 à D323-25-5)](#1286)
       - [Titre II : EMPLOI (art. D323-1 à D323-25-5)](#1287)
         - [Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS (art. D323-1 à D323-25-5)](#1288)
@@ -86522,23 +86522,25 @@ _Cité par_:
   - Code du travail - art. R323-68 (M)
 
 
-##### PRETS D'HONNEUR .<a id=973></a>
+##### SUBVENTION D'INSTALLATION.<a id=973></a>
 
 ###### Article R323-73
 
-Lorsque la /R/commission départementale d'orientation des infirmes /R/DECR.0479 02-06-1976 : commission technique
-d'orientation et de reclassement professionnel// estime qu'un travailleur handicapé peut être dirigé vers une activité
-indépendante, un prêt d'honneur peut lui être attribué en vue de l'achat et de l'installation à son domicile de l'équipement
-nécessaire à cette activité.
+Lorsque la commission technique d'orientation et de reclassement professionnel estime qu'un travailleur handicapé peut être
+dirigé vers une activité indépendante, une subvention d'installation peut lui être attribuée en vue de l'achat et de
+l'installation de l'équipement nécessaire à cette activité.
 
-Le montant du prêt, le taux d'intérêt y afférent, le délai maximum accordé pour le remboursement des garanties exigées et,
-d'une façon générale, les conditions d'attribution du prêt sont fixées par décret.
+Le montant et les conditions d'attribution de cette subvention sont fixés par décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, le mot "arrêté" étant substitué au mot "décret
 
 _Cité par_:
 
@@ -109704,18 +109706,12 @@ _Cite_:
 
 ##### Sous-section 4 : Travail protégé.<a id=1266></a>
 
-###### Article D323-25
+###### Article D323-19
 
-Les inspecteurs du travail et de la main-d'oeuvre sont habilités à surveiller l'emploi du prêt d'honneur par le bénéficiaire.
-
-Si le prêt a été consenti en vue de l'installation ou de l'aménagement d'une exploitation agricole, les inspecteurs des lois
-sociales en agriculture sont également habilités [*attributions*] à exercer cette surveillance.
+Le ministre du travail et de la participation saisit, pour avis, la section permanente du conseil supérieur pour le
+reclassement professionnel et social des dossiers de demandes [*organisme compétent*].
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1964-09-22 ART. 10
 
 _Codifié par_:
 
@@ -109723,7 +109719,124 @@ _Codifié par_:
 
 _Abrogé par_:
 
-  - Décret n°81-52 1981-01-23 art. 1 JORF 25 janvier
+  - Décret n°84-292 1984-04-16 ART. 2 JORF 21 AVRIL 1984
+
+
+###### Article D323-21
+
+Le versement de la subvention est subordonné à l'établissement d'une convention précisant son objet et les modalités de
+contrôle exercé par la collectivité publique.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5213-56 (V)
+
+_Anciens textes_:
+
+  - Décret  1964-09-22 ART. 6
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+
+###### Article D323-22
+
+La subvention doit être obligatoirement affectée à l'achat ou à l'installation de l'équipement nécessaire à l'exercice de la
+profession indépendante vers laquelle le travailleur handicapé a été dirigé par la commission technique d'orientation et de
+reclassement professionnel.
+
+Cette profession doit être choisie dans une des branches déterminées par arrêté du ministre du travail et de la participation
+sur avis des ministres chargés de l'industrie, de l'économie, du Plan, du commerce et de l'artisanat et de l'agriculture si
+la subvention est destinée à l'équipement d'une entreprise du "secteur agricole".
+
+Pour bénéficier d'une subvention, le travailleur handicapé doit s'engager à exploiter personnellement l'entreprise
+indépendante ainsi qu'à exercer personnellement la profession libérale en vue de laquelle ladite subvention est sollicitée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5213-57 (V)
+  - Code du travail - art. D5213-58 (V)
+  - Code du travail - art. D5213-59 (V)
+
+_Anciens textes_:
+
+  - Décret  1964-09-22 ART. 7
+
+
+###### Article D323-23
+
+Le remboursement de la subvention est exigible en cas d'utilisation de la subvention pour des fins autres que celles en vue
+desquelles elle a été consentie, de non-exploitation du fonds ou d'abandon non justifié de la profession par l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret  1964-09-22 ART. 8
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5213-60 (V)
+
+
+###### Article D323-24
+
+Les services de l'inspection du travail et de l'emploi sont habilités à exercer une surveillance sur l'utilisation de cette
+subvention.
+
+Si la subvention a été consentie en vue de l'équipement d'une entreprise du "secteur agricole", les inspecteurs du travail et
+de la protection sociale agricoles sont habilités à exercer cette surveillance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5213-61 (V)
 
 
 ###### Article D323-25-1
@@ -111641,10 +111754,11 @@ _Codifié par_:
 
 ###### Article D323-18
 
-La demande tendant à l'octroi du prêt d'honneur doit être adressée par l'intéressé au secrétariat de la /M/commission
-départementale d'orientation des infirmes /M/DECR.0478 02-06-1976 : commission technique d'orientation et de reclassement
-professionnel// compétente au plus tard dans le mois qui suit la fin du stage de rééducation. La Commission instruit la
-demande et la soumet avec son avis motivé au ministre chargé du travail.
+La demande tendant à l'octroi d'une subvention doit être adressée par l'intéressé au secrétariat de la commission technique
+d'orientation et de reclassement professionnel de son lieu de résidence, au plus tard dans les six mois qui suivent la fin du
+stage de formation ou de la sortie de l'université.
+
+La commission instruit la demande et la transmet, avec son avis motivé, au ministre du travail et de la participation.
 
 **Liens relatifs à cet article**
 
@@ -111656,27 +111770,15 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
+_Abrogé par_:
 
-###### Article D323-19
-
-Le ministre chargé du travail peut saisir la section permanente du conseil supérieur pour le reclassement professionnel et
-social des travailleurs handicapés, pour avis, des dossiers de demandes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1964-09-22 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°84-292 1984-04-16 ART. 1 JORF 21 AVRIL 1984
 
 
 ###### Article D323-20
 
-Le prêt d'honneur donne Lieu à l'établissement d'une convention précisant son objet et les modalités de remboursement et du
-contrôle exercé par la collectivité publique.
+La subvention d'un montant maximum de 10.000 F est attribuée par décision du ministre du travail et de la participation dans
+la limite des crédits disponibles à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -111688,98 +111790,9 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
+_Abrogé par_:
 
-###### Article D323-21
-
-Le prêt d'honneur est attribué dans la limite d'un maximum de 20.000 F par décision du ministre chargé du travail. Le montant
-du prêt peut être versé en plusieurs fractions, toute nouvelle tranche ne devant être allouée que si l'emprunteur justifie
-d'avoir utilisé celle dont il a déjà bénéficié dans les conditions prévues par la convention.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1964-09-22 ART. 6
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-
-###### Article D323-22
-
-Le prêt d'honneur doit être affecté à l'achat ou à l'installation de l'équipement nécessaire à l'exercice de la profession
-indépendante vers laquelle le travailleur handicapé a été dirigé.
-
-Cette profession indépendante doit être choisie dans une des branches déterminée par arrêté du ministre chargé du travail sur
-avis des ministres chargés de l'industrie, de l'économie et des finances, du plan et de l'agriculture s'il s'agit d'aménager
-ou d'installer une exploitation agricole à l'aide du prêt d'honneur.
-
-Pour bénéficier du prêt d'honneur l'emprunteur doit s'engager à exploiter personnellement jusqu'au remboursement complet,
-l'entreprise artisanale, industrielle ou l'exploitation agricole en vue de laquelle ledit prêt est sollicité.
-
-L'emprunteur consent au ministre chargé du travail un nantissement dans les formes prévues par la loi du 18 juillet 1951
-modifiée, sur le matériel, l'outillage, le cheptel, les biens acquis au moyen des sommes qui ont fait l'objet du prêt, dans
-la limite du montant de ce prêt. Ces biens ne peuvent en aucun cas être déplacés sans le consentement du prêteur. En cas
-d'infraction à ces dispositions le remboursement de la totalité du prêt devient exigible sans préavis, les biens déplacés
-restant grevés du privilège prévu par ladite loi et pouvant être saisis.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1964-09-22 ART. 7
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Cite_:
-
-  - Loi   1951-07-18
-
-
-###### Article D323-23
-
-Le prêt d'honneur est consenti pour une durée maximum de vingt ans. Il porte intérêt à 2 p. 100 à partir du jour du versement
-des fonds. Les intérêts sont payables trimestriellement et à terme échu.
-
-Le prêt est remboursable par annuités égales. Toutefois, pendant les quatre premières années l'emprunteur a la faculté de ne
-verser que l'intérêt du prêt. Il peut toujours lors de l'échéance des annuités effectuer des remboursements anticipés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1964-09-22 ART. 8
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-
-###### Article D323-24
-
-Sauf le cas où un délai est accordé par l'administration, le non-paiement des intérêts ou des annuités dans les quinze jours
-de la réception de la mise en demeure adressée au bénéficiaire sous pli recommandé avec demande d'avis de réception donne
-lieu à l'application des procédures légales. En outre, à titre de pénalité, les annuités échues et non payées donnent lieu au
-paiement d'un intérêt de retard de 0,50% par mois, courant de plein droit depuis l'échéance jusqu'au jour du remboursement
-
-Le remboursement immédiat de la totalité des sommes restant dues est exigible en cas de condamnation à une peine criminelle
-ou correctionnelle, d'utilisation du prêt pour des fins autres que celles en vue desquelles il a été consenti, de non-
-exploitation du fonds par l'emprunteur, de départ de l'intéressé à l'étranger ou d'abandon de la profession.
-
-En cas de décès, le conjoint ou l'un des enfants bénéficiaires peut voir maintenir à son profit le bénéfice du prêt.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1964-09-22 ART. 9
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°84-292 1984-04-16 ART. 1 JORF 21 AVRIL 1984
 
 
 ## Livre III : EMPLOI<a id=1286></a>

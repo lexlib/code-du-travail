@@ -130,14 +130,10 @@ risques telles qu'elles sont prévues par la présente annexe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°92-768 du 29 juillet 1992
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°93-40 1993-01-11 art. 4 IV, art. 5 II JORF 13 janvier 1993 en vigueur le 15 janvier 1993
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. R233-151 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)

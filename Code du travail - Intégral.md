@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-04-13
+Version Consolidée au 1981-04-13 00:00:01 +0200
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -102602,22 +102602,9 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 1 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Sous-section 3 : Actions choisies par les agents non titulaires en vue de leur formation personnelle.<a id=1196></a>
@@ -102647,22 +102634,9 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 2 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -102687,30 +102661,17 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 3 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R970-32
 
-La demande de congé doit être formulée au plus tard soixante jours à l'avance [*délai*].
+La demande de congé doit être formulée au plus tard soixante jours à l'avance   . 
 
-Elle doit indiquer [*mentions obligatoires*] la date à laquelle commence la formation, sa désignation et sa durée ainsi que
-le nom de l'organisme responsable.
+Elle doit indiquer la date à laquelle commence la formation, sa désignation et sa durée ainsi que le nom de l'organisme
+responsable. 
 
 Dans les trente jours qui suivent la réception de la demande, le chef de service doit faire connaître à l'intéressé son
 accord ou les raisons qui motivent le rejet ou le report de la demande.
@@ -102721,22 +102682,9 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 4 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R970-33
@@ -102753,22 +102701,9 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 5 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R970-34
@@ -102810,22 +102745,13 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°81-340 du 7 avril 1981
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 6 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Sous-section 4 : Participation des agents ayant quitté l'administration à des stages de formation professionnelle continue.<a id=1197></a>
@@ -102886,22 +102812,14 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Loi n°78-754 du 17 juillet 1978
+  - Loi n°78-754 du 17 juillet 1978 - art. 1
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 9 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -102919,22 +102837,14 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°72-512 du 22 juin 1972
+  - Code du travail - art. R970-36
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-340 1981-04-07 art. 1 JORF 13 avril 1981
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1198></a>

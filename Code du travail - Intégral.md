@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-03-22
+Version Consolidée au 1979-03-22 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -66051,13 +66051,17 @@ formation à la sécurité et d'apporter notamment son concours technique pour s
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4643-1 (V)
 
 
 ###### Article R231-34
@@ -66073,17 +66077,24 @@ En fonction des risques à prévenir, l'utilité des mesures de sécurité presc
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R231-35
+  - Code du travail - art. R231-36
+  - Code du travail - art. R231-37
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4141-3 (V)
+  - Code du travail - art. R4141-4 (V)
 
 
 ##### Sous-section 1 : Dispositions générales.<a id=735></a>
@@ -66102,14 +66113,6 @@ l'article L. 231-3-1 (1er alinéa).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
@@ -66121,6 +66124,20 @@ _Cité par_:
   - Code du travail - art. R231-44 (VT)
   - Code du travail - art. R231-45 (VT)
   - Code du travail - art. R231-5 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. R233-39
+  - Code du travail - art. R233-40
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4141-11 (V)
 
 
 ###### Article R231-36
@@ -66135,14 +66152,6 @@ dispensée sur les lieux du travail ou, à défaut, dans les conditions équival
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
@@ -66156,6 +66165,15 @@ _Cité par_:
   - Code du travail - art. R231-5 (Ab)
   - Code du travail - art. R233-13-31 (VT)
   - Code du travail - art. R233-13-37 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4141-13 (V)
+  - Code du travail - art. R4141-14 (V)
 
 
 ###### Article R231-37
@@ -66251,20 +66269,26 @@ des salariés qui reprennent leur activité après un arrêt de travail d'une du
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-816 du 3 septembre 1984 - art. 1 (V)
-
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
   - Code du travail - art. R231-44 (VT)
   - Code du travail - art. R231-45 (VT)
   - Code du travail - art. R231-89 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R231-35
+  - Code du travail - art. R231-36
+  - Code du travail - art. R231-37
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4141-9 (V)
 
 
 ##### Sous-section 4 : De l'organisation et du contrôle.<a id=737></a>
@@ -66285,18 +66309,27 @@ normal de travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
   - Code du travail - art. R231-39 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R231-32
+  - Code du travail - art. R231-35
+  - Code du travail - art. R231-36
+  - Code du travail - art. R231-37
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4141-5 (V)
+  - Code du travail - art. R4141-6 (V)
+  - Code du travail - art. R4141-9 (V)
 
 
 #### Chapitre III : Sécurité<a id=738></a>

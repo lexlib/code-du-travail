@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-01-17
+Version Consolidée au 1975-01-25
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -77174,14 +77174,16 @@ _Anciens textes_:
 
 ###### Article R323-60
 
-Les ateliers et centres mentionnés à l'article L. 323-31 doivent satisfaire aux conditions de fonctionnement qui sont
-déterminées par arrêté du ministre chargé du travail et être agréés par arrêté du même ministre. La demande d'agrément est
-adressée par les soins de l'organisme fondateur au préfet du département où est situé l'établissement de travail protégé.
-Celui-ci la transmet accompagnée des résultats de l'enquête qu'il a effectuée au ministre chargé du travail.
+Les ateliers protégés et les centres de distribution de travail à domicile mentionnés à l'article L. 323-31 constituent des
+unités économiques de production qui mettent les travailleurs handicapés à même d'exercer une activité professionnelle
+salariée dans les conditions adaptées à leurs possibilités. Ils doivent en outre favoriser la promotion des travailleurs
+handicapés et leur accession à des emplois dans le milieu ordinaire de travail.
 
-Après consultation de la section permanente du Conseil supérieur pour le reclassement professionnel et social des
-travailleurs handicapés, le ministre prononce, s'il y a lieu, l'agrément d'établissements protégés. Le retrait de l'agrément
-s'opère dans les mêmes formes.
+Les ateliers protégés ne peuvent embaucher que les travailleurs handicapés dont la capacité de travail est au moins égale à
+celle qui est fixée par le décret prévu au premier alinéa de l'article L. 323-30.
+
+Selon les nécessités de leur production, les ateliers protégés peuvent embaucher des salariés valides dans la limite de 20 p.
+100 de leurs effectifs.
 
 **Liens relatifs à cet article**
 
@@ -77189,13 +77191,17 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
-_Cite_:
+**Liens**:
 
-  - Code du travail - art. L323-31 (M)
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 _Cité par_:
 
   - Code du travail - art. R323-62 (P)
+
+_Cite_:
+
+  - Code du travail L323-30 ET L323-31
 
 _Anciens textes_:
 

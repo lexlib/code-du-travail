@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-09-10 00:00:01 +0200
+Version Consolidée au 1981-10-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)

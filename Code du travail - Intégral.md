@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-11-23 00:00:01 +0100
+Version Consolidée au 1973-11-25
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -1085,11 +1085,11 @@ Version Consolidée au 1973-11-23 00:00:01 +0100
       - [MESURES D'APPLICATION DE L'ARTICLE L930-1 . (art. R930-1 à R930-6)](#1082)
       - [MESURES D'APPLICATION DE L'ARTICLE L930-2 . (art. R930-7 à R930-13)](#1083)
       - [MESURES D'APPLICATION DES ARTICLES L930-1 ET L930-2 . (art. R930-14 à R930-16)](#1084)
-      - [MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10 (art. R950-3 à R950-20)](#1085)
+      - [MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10 (art. R950-3 à R950-21)](#1085)
         - [DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE . (art. R950-3 à R950-13)](#1086)
         - [CONSULTATION DU COMITE D'ENTREPRISE . (art. R950-14)](#1087)
         - [DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE . (art. R950-15 à R950-18)](#1088)
-        - [CONTROLE DE LA PARTICIPATION DES EMPLOYEURS . (art. R950-19 à R950-20)](#1089)
+        - [CONTROLE DE LA PARTICIPATION DES EMPLOYEURS . (art. R950-19 à R950-21)](#1089)
       - [MODALITES D'APPLICATION DES ARTICLES L960-1 A L960-18 (art. R960-29 à R960-43)](#1090)
         - [STAGES OUVRANT DROIT A REMUNERATION . (art. R960-2 à R960-5)](#1091)
         - [MODALITES DE CALCUL ET DE VERSEMENT DES REMUNERATIONS (art. R960-7 à R960-17)](#1092)
@@ -87994,6 +87994,49 @@ _Cité par_:
 
   - Code du travail - art. R950-3 (M)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 terdecies (Dis)
+
+
+###### Article R950-21
+
+Dans le cas où il est envisagé de rejeter tout ou partie des dépenses invoquées par un employeur, ce dernier doit recevoir
+notification des conclusions du contrôle effectué et être avisé en même temps qu'il dispose d'un délai de quinze jours, à
+compter de cette notification, pour présenter des observations écrites et demander, le cas échéant, à être entendu. La
+décision du préfet ne peut être prise qu'au vu de ces observations et après audition, le cas échéant, de l'employeur, à moins
+qu'aucune demande écrite ou demande d'audition n'ait été présentée avant l'expiration du délai ci-dessus prévu. La décision
+est motivée ; elle est transmise au service des impôts, qui la notifie à l'employeur avec le montant du versement à
+effectuer.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 1971-07-16 TITRE V
+  - Décret n°71-979 1971-12-10 ART. 21
+  - Code du travail - art. R950-17 (T)
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Décret n°78-59 du 20 janvier 1978 - art. 4 (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 quaterdecies (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 382 A (P)
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 383 bis B (M)
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 383 bis C (M)
+  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 383 bis D (Ab)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 X (V)
+  - Code du travail - art. R950-22 (VT)
+  - Code du travail - art. R960-32 (T)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Circulaire  1972-09-04
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R950-25 (Ab)
 
 
 ### MODALITES D'APPLICATION DES ARTICLES L960-1 A L960-18<a id=1090></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-11-23
+Version Consolidée au 1973-11-23 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -51516,52 +51516,50 @@ _Cité par_:
 
 ###### Article R124-2
 
-L'inspecteur du travail et de la main-d'oeuvre, après s'être assuré de la conformité de la déclaration [*de l'entrepreneur*]
-avec les prescriptions de l'article R. 124-1 ci-dessus, en retourne un exemplaire revêtu de son visa à l'expéditeur dans la
-quinzaine de la réception.
+L'inspecteur du travail et de la main-d'oeuvre, après s'être assuré de la conformité de la déclaration avec les prescriptions
+de l'article R. 124-1 ci-dessus, en retourne un exemplaire revêtu de son visa à l'expéditeur dans la quinzaine de la
+réception.
 
-L'entrée en activité de l'entreprise, de la succursale, de l'agence ou du bureau annexe ne peut précéder [*interdiction*] la
-réception du document mentionné à l'alinéa précédent ou l'expiration du délai prévu par cet alinéa.
+L'entrée en activité de l'entreprise, de la succursale, de l'agence ou du bureau annexe ne peut précéder la réception du
+document mentionné à l'alinéa précédent ou l'expiration du délai prévu par cet alinéa.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1 1972-01-03
-  - Décret n°73-53 du 9 janvier 1973 - art. 2 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R124-1
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+  - Code du travail - art. R1251-6 (V)
 
 
 ##### Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.<a id=595></a>
 
 ###### Article R124-5
 
-A l'égard des entreprises de travail temporaire ayant exclusivement pour objet de mettre [*mis*] des salariés à la
-disposition d'entreprises utilisatrices entrant dans le champ d'application des articles 1144, 1149 et 1152 du code rural,
-les attributions conférées aux inspecteurs du travail et de la main-d'oeuvre par le présent décret sont exercées par les
+A l'égard des entreprises de travail temporaire ayant exclusivement pour objet de mettre des salariés à la disposition
+d'entreprises utilisatrices entrant dans le champ d'application des articles 1144, 1149 et 1152 du code rural, les
+attributions conférées aux inspecteurs du travail et de la main-d'oeuvre par le présent décret sont exercées par les
 inspecteurs des lois sociales en agriculture.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Loi n°72-1 1972-01-03
-  - Décret n°73-53 du 9 janvier 1973 - art. 5 (V)
+  - Code du travail - art. R8111-3 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code rural 1144, 1149, 1152
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R124-6
@@ -51630,52 +51628,34 @@ _Anciens textes_:
 ###### Article R126-1
 
 Tout commerçant ou industriel qui, à titre de cautionnement, se fait remettre par ses ouvriers et employés soit des sommes
-d'argent en espèces, quel qu'en soit le montant, soit des titres [*valeurs mobilières*], doit mentionner [*obligation*]
-exactement les sommes et titres ainsi versés sur un registre spécial, tenu à la disposition de l'inspecteur du travail.
-Lorsqu'il s'agit de titres la mention portée au registre doit en indiquer la nature et la valeur nominale.
+d'argent en espèces, quel qu'en soit le montant, soit des titres, doit mentionner exactement les sommes et titres ainsi
+versés sur un registre spécial, tenu à la disposition de l'inspecteur du travail. Lorsqu'il s'agit de titres la mention
+portée au registre doit en indiquer la nature et la valeur nominale.
 
 Ce registre est émargé par l'ouvrier ou l'employé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R152-8 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. L611-1 (M)
 
-_Anciens textes_:
-
-  - Code du travail 1032 A AL. 1, 1032 D DERNIER AL.
-
 
 ###### Article R126-2
 
 Le dépôt du cautionnement à la Caisse nationale d'épargne, dans une caisse d'épargne ordinaire ou à la Caisse des dépôts et
-consignations, doit [*obligation*] être fait par l'employeur dans un délai de quinze jours à compter [*point de départ*] de
-la remise par le salarié des sommes ou titres remis en cautionnement.
+consignations, doit être fait par l'employeur dans un délai de quinze jours à compter de la remise par le salarié des sommes
+ou titres remis en cautionnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code du travail Livre 1 article 32 A PAR. 2, article 32 D Al.1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R152-8 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -51801,14 +51781,13 @@ _Anciens textes_:
 ###### Article R140-1
 
 Les inspecteurs du travail et de la main-d'oeuvre, les inspecteurs des lois sociales en agriculture ou, le cas échéant, les
-autres fonctionnaires de contrôle assimilés peuvent exiger [*contrôle*] communication des différents éléments qui concourent
-à la détermination des rémunérations dans l'entreprise, et notamment des normes, catégories, critères et bases de calcul
+autres fonctionnaires de contrôle assimilés peuvent exiger communication des différents éléments qui concourent à la
+détermination des rémunérations dans l'entreprise, et notamment des normes, catégories, critères et bases de calcul
 mentionnés à l'article L. 140-3.
 
 Ils procèdent, le cas échéant, à une enquête contradictoire au cours de laquelle l'employeur et le ou les salariés intéressés
-peuvent se faire assister d'une personne de leur choix. En cas de mise en oeuvre d'une procédure [*de réglement des
-difficultés*] telle que celle qui est prévue par l'article L. 133-3, 2 , d, ils prennent connaissance des avis et
-observations formulés au cours de celle-ci.
+peuvent se faire assister d'une personne de leur choix. En cas de mise en oeuvre d'une procédure telle que celle qui est
+prévue par l'article L. 133-3, 2 , d, ils prennent connaissance des avis et observations formulés au cours de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -51817,17 +51796,22 @@ _Anciens textes_:
   - Loi n°72-1143 1972-12-22
   - Décret n°73-360 du 27 mars 1973 - art. 1 (V)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la nouvelle-Calédonie et dépendances
+  - Code du travail
+  - Code du travail - art. L140-3
 
 _Cité par_:
 
   - Code du travail - art. R154-0 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3221-1 (V)
 
 
 ###### Article R140-2
@@ -51871,10 +51855,10 @@ _Cité par_:
 
 ###### Article R141-1
 
-Le salaire minimum de croissance [*SMIC*] applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de moins de
-dix-huit ans [*mineur*] et de capacité physique normale, comporte un abattement désormais fixé :
+Le salaire minimum de croissance applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de moins de dix-huit ans
+et de capacité physique normale, comporte un abattement désormais fixé :
 
-A 20 p. 100 [*taux*] avant dix-sept ans ;
+A 20 p. 100 avant dix-sept ans ;
 
 A 10 p. 100 entre dix-sept et dix-huit ans.
 
@@ -51883,34 +51867,33 @@ d'activité dont ils relèvent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°71-101 1971-02-02 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°95-182 du 21 février 1995 - art. 4 (V)
   - Code du travail - art. D341-5-3 (V)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3231-3 (V)
+
 
 ###### Article R141-2
 
-Les dispositions du présent chapitre ne sont pas applicables [*non*] aux jeunes travailleurs liés par un contrat
-d'apprentissage.
+Les dispositions du présent chapitre ne sont pas applicables aux jeunes travailleurs liés par un contrat d'apprentissage.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-101 1971-02-02 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D3211-1 (V)
 
 
 ##### Section 2 : Rémunération mensuelle minimale<a id=604></a>
@@ -51921,25 +51904,20 @@ _Codifié par_:
 
 ###### Article R141-3
 
-Pour déterminer [*calcul*] la rémunération mensuelle minimale garantie d'un salarié, il est retenu le nombre d'heures
-correspondant à la durée légale du travail pour le mois considéré dans l'entreprise qui l'emploie. Les heures correspondant
-aux fêtes légales sont comprises dans cette durée.
+Pour déterminer la rémunération mensuelle minimale garantie d'un salarié, il est retenu le nombre d'heures correspondant à la
+durée légale du travail pour le mois considéré dans l'entreprise qui l'emploie. Les heures correspondant aux fêtes légales
+sont comprises dans cette durée.
 
 Lorsque des accords ou conventions de mensualisation prévoient le règlement des salaires sur une base mensuelle uniforme
 correspondant à la durée légale du travail, la rémunération mensuelle minimale applicable aux travailleurs bénéficiaires de
-ces accords est égale au produit du montant du salaire minimum de croissance [*SMIC*] par le nombre d'heures fixé par ces
-accords ou conventions de mensualisation.
+ces accords est égale au produit du montant du salaire minimum de croissance par le nombre d'heures fixé par ces accords ou
+conventions de mensualisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R141-4
@@ -52009,8 +51987,8 @@ _Nouveaux textes_:
 
 ###### Article R141-6
 
-Sous réserve de la limite fixée à l'alinéa 2 de l'article L. 141-14 l'Etat rembourse à l'employeur 50 p. 100 [*pourcentage*]
-de l'allocation complémentaire.
+Sous réserve de la limite fixée à l'alinéa 2 de l'article L. 141-14 l'Etat rembourse à l'employeur 50 p. 100 de l'allocation
+complémentaire.
 
 Le remboursement est effectué par le préfet sur production d'états nominatifs faisant apparaître les modalités de calcul de
 l'allocation complémentaire, attestés par l'employeur et visés par l'inspecteur du travail ou le fonctionnaire de contrôle
@@ -52019,32 +51997,39 @@ assimilé des états précités.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L141-14
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3232-3 (V)
+  - Code du travail - art. R3232-4 (V)
 
 
 ###### Article R141-7
 
 En cas de réduction de l'horaire de travail susceptible d'entraîner l'application de l'article L. 141-14, l'employeur est
-tenu [*obligation*] d'aviser l'inspecteur du travail ou le fonctionnaire de contrôle assimilé et de lui fournir toutes
-indications sur les causes de cette réduction, les effectifs et les qualifications des salariés concernés.
+tenu d'aviser l'inspecteur du travail ou le fonctionnaire de contrôle assimilé et de lui fournir toutes indications sur les
+causes de cette réduction, les effectifs et les qualifications des salariés concernés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L141-14
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3232-5 (V)
 
 
 ###### Article R141-8
@@ -78351,9 +78336,8 @@ _Anciens textes_:
 
 ###### Article R611-2
 
-Les inspecteurs du travail et de la main-d'oeuvre doivent fournir, chaque année, des rapports circonstanciés [*document
-obligatoire*] sur l'application, dans toute l'étendue de leur circonscription, des dispositions dont ils sont chargés
-d'assurer l'exécution.
+Les inspecteurs du travail et de la main-d'oeuvre doivent fournir, chaque année, des rapports circonstanciés sur
+l'application, dans toute l'étendue de leur circonscription, des dispositions dont ils sont chargés d'assurer l'exécution.
 
 Ces rapports mentionnent les accidents dont les ouvriers ont été victimes et leurs causes.
 
@@ -78362,17 +78346,13 @@ travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
-
-_Anciens textes_:
-
-  - Code du travail 2109
+  - Code du travail - art. R8112-4 (V)
 
 
 ###### Article R611-3
@@ -78437,21 +78417,13 @@ offices publics et ministériels, des professions libérales, des sociétés civ
 associations de quelque nature que ce soit.
 
 Toutefois, dans les offices ministériels, les inspecteurs du travail assurent l'exécution de ces dispositions concurremment
-avec les chambres de discipline [*compétence*].
+avec les chambres de discipline.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1941-07-22 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre II : Obligations des employeurs.<a id=961></a>
@@ -78459,16 +78431,14 @@ _Codifié par_:
 ###### Article R620-1
 
 La déclaration prévue à l'article L. 620-1 est effectuée par l'employeur et, dans le cas prévu au 2° de l'alinéa 2 dudit
-article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail [*condition de
-forme*] .
+article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail.
 
 Le récépissé de cette lettre doit être présenté par l'employeur ou son préposé sur la demande de l'inspecteur du travail à la
 première visite de celui-ci.
 
 La déclaration précise auxquels des cas prévus à l'article L. 620-1 elle répond et indique en outre le nom et l'adresse du
 déclarant, l'emplacement de l'établissement, la nature exacte des industries ou des commerces exercés et, le cas échéant,
-s'il y a emploi d'enfants de moins de 18 ans [*minorité*] ou de femmes ainsi qu'utilisation de force motrice ou d'outillage
-mécanique.
+s'il y a emploi d'enfants de moins de 18 ans ou de femmes ainsi qu'utilisation de force motrice ou d'outillage mécanique.
 
 **Nota:**
 
@@ -78476,21 +78446,25 @@ Code du travail R632-1 : sanctions pénales. *
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
+  - Code du travail - art. L620-1
+
+_Anciens textes_:
+
+  - Code du travail - art. R1221-32 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1221-33 (V)
 
 _Cité par_:
 
   - Code du travail - art. R632-1 (VT)
-
-_Anciens textes_:
-
-  - Code du travail 2001 b
 
 
 ###### Article R620-2
@@ -78656,9 +78630,9 @@ _Cite_:
 
 ###### Article R711-2
 
-Les jeunes travailleurs mentionnés à l'article R. 711-1 ne peuvent être occupés [*interdiction*] dans les chantiers
-souterrains des mines et carrières qu'au titre de leur formation professionnelle ou qu'en qualité d'aides dans des emplois ne
-comportant pas, sauf dérogation prévue ci-après, rémunération à la tâche.
+Les jeunes travailleurs mentionnés à l'article R. 711-1 ne peuvent être occupés dans les chantiers souterrains des mines et
+carrières qu'au titre de leur formation professionnelle ou qu'en qualité d'aides dans des emplois ne comportant pas, sauf
+dérogation prévue ci-après, rémunération à la tâche.
 
 Par dérogation à la disposition qui précéde, l'ingénieur en chef des mines peut, sur demande motivée de l'exploitant,
 autoriser l'emploi, en qualité d'aides dans des équipes rémunérées à la tâche, des jeunes travailleurs âgés de moins de dix-
@@ -78671,17 +78645,13 @@ de mesures spéciales de surveillance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°69-686 1969-06-18 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R711-1
 
 
 ###### Article R711-3
@@ -78785,9 +78755,9 @@ _Cité par_:
 
 ###### Article R712-1
 
-Chaque année [*périodicité*] le délégué mineur adresse à l'ingénieur des mines un rapport faisant connaître son opinion sur
-les mesures à prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre strictement
-professionnel tendant à favoriser le développement de la production.
+Chaque année le délégué mineur adresse à l'ingénieur des mines un rapport faisant connaître son opinion sur les mesures à
+prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre strictement professionnel
+tendant à favoriser le développement de la production.
 
 Ce rapport est communiqué à l'exploitant qui fait connaître dans le délai d'un mois la suite qu'il compte donner aux
 observations du délégué.
@@ -78796,44 +78766,29 @@ L'ingénieur des mines en rend compte dans son rapport annuel de surveillance.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R791-3 (V)
 
 _Cité par_:
 
   - Code du travail - art. R791-3 (VT)
 
-_Anciens textes_:
-
-  - Code du travail 2127 TER
-  - Loi   1928-03-25
-
 
 ###### Article R712-2
 
-Le délégué, dans ses visites, est tenu [*obligation*] de se conformer à toutes les mesures prescrites par les règlements en
-vue d'assurer l'ordre, la sécurité et l'hygiène dans les travaux.
+Le délégué, dans ses visites, est tenu de se conformer à toutes les mesures prescrites par les règlements en vue d'assurer
+l'ordre, la sécurité et l'hygiène dans les travaux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2128
-  - Loi   1928-03-25
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-4
@@ -78864,8 +78819,8 @@ _Anciens textes_:
 ###### Article R712-5
 
 Les observations relevées par le délégué dans chacune de ses visites doivent être, le jour même ou au plus tard le lendemain,
-consignées par lui sur un registre spécial [*formalités*] fourni par l'exploitant et constamment tenu sur le carreau de
-l'exploitation à la disposition des ouvriers.
+consignées par lui sur un registre spécial fourni par l'exploitant et constamment tenu sur le carreau de l'exploitation à la
+disposition des ouvriers.
 
 Le délégué inscrit sur le registre les heures auxquelles il a commencé et terminé sa visite ainsi que l'itinéraire suivi par
 lui.
@@ -78877,50 +78832,34 @@ aux ingénieurs des mines.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. R791-3 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-3 (Ab)
   - Code du travail - art. R791-3 (VT)
 
-_Anciens textes_:
+**Liens**:
 
-  - Code du travail 2130
-  - Décret-loi  1938-11-12 ART. 13
+  - TXT_ASSOCIE: Code du travail - art. R791-3 (V)
 
 
 ###### Article R712-6
 
-Lors de leurs tournées les ingénieurs du service des mines doivent [*obligation*] viser le registre de chaque
-circonscription. Ils doivent, toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la
-circonscription.
+Lors de leurs tournées les ingénieurs du service des mines doivent viser le registre de chaque circonscription. Ils doivent,
+toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la circonscription.
 
-Le service des mines prendra les mesures utiles  pour que tout délégué mineur puisse accompagner dans sa visite un ingénieur
-du service des mines au moins une fois par trimestre [*périodicité*] pour les circonscriptions comprenant plus de cinq cents
-ouvriers [*effectifs*] et au moins une fois par an pour les circonscriptions comprenant cinq cents ouvriers ou moins de cinq
-cents ouvriers.
+Le service des mines prendra les mesures utiles pour que tout délégué mineur puisse accompagner dans sa visite un ingénieur
+du service des mines au moins une fois par trimestre pour les circonscriptions comprenant plus de cinq cents ouvriers et au
+moins une fois par an pour les circonscriptions comprenant cinq cents ouvriers ou moins de cinq cents ouvriers.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2131
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-7
@@ -78945,11 +78884,11 @@ _Abrogé par_:
 ###### Article R712-10
 
 Les exploitations autres que celles qui sont mentionnées à l'article L. 712-7 sont subdivisées en deux, trois, etc.,
-circonscriptions, selon que la visite n'exige pas plus de douze, dix-huit, etc., jours [*durée*].
+circonscriptions, selon que la visite n'exige pas plus de douze, dix-huit, etc., jours.
 
 Toutefois, l'arrêté du préfet prévu à l'article R. 712-9 pourra, sur avis de l'ingénieur en chef des mines, déroger aux
 prescriptions de l'alinéa précédent lorsque leur application entraînerait la création de circonscriptions ayant plus de 1500
-ouvriers [*effectifs*].
+ouvriers.
 
 Un même arrêté statue sur la délimitation des diverses circonscriptions entre lesquelles est ainsi divisé, s'il y a lieu,
 l'ensemble des puits, galeries et chantiers voisins dépendant d'un même exploitant, sous le territoire d'une même commune ou
@@ -78958,25 +78897,22 @@ de plusieurs communes contiguës.
 Un ensemble de petites exploitations voisines, même dépendant d'exploitants différents, sur le territoire d'une même commune
 ou de plusieurs communes voisines peut être groupé dans une même circonscription à la condition que la visite détaillée des
 puits, galeries et chantiers de cet ensemble n'exige pas plus de six jours et que le nombre total d'ouvriers travaillant au
-fond dans cet ensemble d'exploitations ne soit pas supérieur à cinq cents [*maximum, limite*].
+fond dans cet ensemble d'exploitations ne soit pas supérieur à cinq cents.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. D712-2 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 2122
+  - Code du travail - art. L712-7
+  - Code du travail - art. R712-9
 
 
 ###### Article R712-12
@@ -78985,8 +78921,8 @@ A l'arrêté préfectoral est annexé un plan donnant la délimitation de chaque
 communes sous le territoire desquelles elle s'étend. Ce plan est fourni par l'exploitant en triple expédition sur la demande
 du préfet et conformément à ses indications.
 
-L'arrêté préfectoral est notifié dans la huitaine [*délai*], à l'exploitant auquel est remis en même temps un des plans
-annexés audit arrêté.
+L'arrêté préfectoral est notifié dans la huitaine, à l'exploitant auquel est remis en même temps un des plans annexés audit
+arrêté.
 
 Ampliation de l'arrêté préfectoral, avec un des plans annexés, reste déposée à la mairie de la commune qui est désignée dans
 l'arrêté parmi celles sous lesquelles s'étendent les circonscriptions qu'il délimite ; elle y est tenue, sans déplacement, à
@@ -78994,17 +78930,9 @@ la disposition de tous les intéressés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2124
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 3 : Elections.<a id=974></a>
@@ -79045,9 +78973,9 @@ _Cite_:
 
 ###### Article R712-14
 
-Dans les huit jours [*délai*] qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste
-électorale de la circonscription dressée par l'exploitant, est remise par lui en trois exemplaires au maire de chacune des
-communes sous lesquelles s'étend la circonscription.
+Dans les huit jours qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste électorale de la
+circonscription dressée par l'exploitant, est remise par lui en trois exemplaires au maire de chacune des communes sous
+lesquelles s'étend la circonscription.
 
 Le maire fait immédiatement afficher cette liste à la porte de la mairie et dresse procès-verbal de cet affichage ; il envoie
 les deux autres exemplaires au préfet et au juge du tribunal d'instance avec copie du procès-verbal d'affichage.
@@ -79058,47 +78986,30 @@ aux électeurs ou de les tenir à leur disposition à la mairie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2138
-  - Décret-loi  1938-05-02
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-15
 
-En cas de réclamation des intéressés relative aux listes électorales, le recours doit être formé dans les douze jours
-[*délai*] qui suivent l'affichage de la liste électorale par le maire le moins diligent, devant le juge du tribunal
-d'instance, qui statue d'urgence et en dernier ressort.
+En cas de réclamation des intéressés relative aux listes électorales, le recours doit être formé dans les douze jours qui
+suivent l'affichage de la liste électorale par le maire le moins diligent, devant le juge du tribunal d'instance, qui statue
+d'urgence et en dernier ressort.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2140
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-17
 
 Les électeurs sont convoqués par un arrêté du préfet.
 
-L'arrêté doit être publié et affiché dans les communes, puits et services intéressés trente jours au moins [*délai*] avant
-l'élection qui doit toujours [*obligation*] avoir lieu un jour de travail en semaine.
+L'arrêté doit être publié et affiché dans les communes, puits et services intéressés trente jours au moins avant l'élection
+qui doit toujours avoir lieu un jour de travail en semaine.
 
 L'arrêté fixe la date des élections ainsi que les heures auxquelles sera ouvert et fermé le scrutin, en permettant aux
 électeurs du poste de nuit le vote à la sortie du travail.
@@ -79107,30 +79018,21 @@ Il sera procédé au vote sur le lieu de travail, en dehors des heures de travai
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-16 (VT)
   - Code du travail - art. R712-19 (VT)
 
-_Anciens textes_:
-
-  - Code du travail 2141
-  - Loi   1949-03-07
-
 
 ###### Article R712-18
 
 Pour l'attribution des circonscriptions restantes sur la base du plus grand reste prévue à l'article L. 712-17, il est
-retranché [*calcul*] du nombre de voix obtenu par chaque liste le produit du quotient par le nombre des circonscriptions déjà
-attribuées à la liste. Les différentes listes sont classées dans l'ordre décroissant des restes ainsi obtenus. La première
+retranché du nombre de voix obtenu par chaque liste le produit du quotient par le nombre des circonscriptions déjà attribuées
+à la liste. Les différentes listes sont classées dans l'ordre décroissant des restes ainsi obtenus. La première
 circonscription non pourvue est attribuée à la liste ayant le plus grand reste.
 
 Il est procédé successivement à la même opération pour chacune des circonscriptions non pourvues jusqu'à la dernière.
@@ -79160,25 +79062,20 @@ déclaré élu. Si les nombres de suffrages sont égaux, le plus âgé des candi
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2144
-  - Loi   1949-03-07
+  - Code du travail - art. L712-17
 
 
 ###### Article R712-19
 
-Si les élections sont faites suivant un scrutin majoritaire à deux tours, nul n'est élu au premier tour de scrutin
-[*condition*] s'il n'a obtenu la majorité absolue des suffrages exprimés et un nombre de voix au moins égal au quart
-[*pourcentage*] du nombre des électeurs inscrits.
+Si les élections sont faites suivant un scrutin majoritaire à deux tours, nul n'est élu au premier tour de scrutin s'il n'a
+obtenu la majorité absolue des suffrages exprimés et un nombre de voix au moins égal au quart du nombre des électeurs
+inscrits.
 
 Au deuxième tour de scrutin la majorité relative suffit quel que soit le nombre de votants.
 
@@ -79189,41 +79086,27 @@ fixée par le préfet dans l'arrêté de convocation prévu à l'article R. 712-
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2144 A
-  - Loi   1949-03-07
+  - Code du travail - art. R712-17
 
 
 ###### Article R712-20
 
-Les protestations doivent être consignées au procès-verbal ou être adressées, à peine de nullité [*sanctions*] , dans les
-trois jours qui suivent l'élection, au préfet, qui en accuse réception.
+Les protestations doivent être consignées au procès-verbal ou être adressées, à peine de nullité, dans les trois jours qui
+suivent l'élection, au préfet, qui en accuse réception.
 
 Les exploitants peuvent, comme les électeurs, adresser dans le même délai leurs protestations au préfet.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2147
-  - Décret-loi  1938-11-12
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-21
@@ -79252,25 +79135,21 @@ Il doit être procédé à de nouvelles élections pour les circonscriptions qui
 l'article R. 712-11.
 
 Dans tous les cas où une élection doit avoir lieu pendant une suspension de l'exploitation résultant soit d'un accident, soit
-d'un conflit collectif de travail, l'élection est renvoyée à un mois [*délai*] après la reprise normale de l'exploitation.
+d'un conflit collectif de travail, l'élection est renvoyée à un mois après la reprise normale de l'exploitation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-11
 
 _Cité par_:
 
   - Code du travail - art. R712-59 (VT)
-
-_Anciens textes_:
-
-  - Code du travail 2152
 
 
 ##### Paragraphe 4 : Dispositions spéciales.<a id=975></a>
@@ -79366,8 +79245,7 @@ _Abrogé par_:
 
 ###### Article R712-26
 
-Le délégué doit [*obligation*] visiter deux fois par mois [*périodicité*] les installations et services du jour de sa
-circonscription.
+Le délégué doit visiter deux fois par mois les installations et services du jour de sa circonscription.
 
 En dehors de ces visites réglementaires, le délégué peut procéder à des visites supplémentaires dans les installations et
 services de sa circonscription où il a des raisons de craindre que la sécurité et l'hygiène du personnel ne soient
@@ -79375,40 +79253,32 @@ compromises. Il doit, dans ce cas fournir une justification motivée de sa visit
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-23
 
 
 ###### Article R712-27
 
-Le délégué doit [*obligation*] en outre, procéder sans délai à la visite des lieux où est survenu un accident ayant
-occasionné la mort ou des blessures graves à un ou plusieurs ouvriers, ou pouvant compromettre la sécurité des ouvriers. Avis
-de l'accident doit être donné sur le champ au délégué par l'exploitant.
+Le délégué doit en outre, procéder sans délai à la visite des lieux où est survenu un accident ayant occasionné la mort ou
+des blessures graves à un ou plusieurs ouvriers, ou pouvant compromettre la sécurité des ouvriers. Avis de l'accident doit
+être donné sur le champ au délégué par l'exploitant.
 
-Le délégué doit noter sur le registre [*mention*] prévu à l'article R. 712-33  les circonstances et la nature de l'accident.
+Le délégué doit noter sur le registre prévu à l'article R. 712-33 les circonstances et la nature de l'accident.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-33
 
 
 ###### Article R712-28
@@ -79416,9 +79286,9 @@ _Codifié par_:
 Si le délégué estime que l'exploitation présente, dans les installations et services du jour qu'il vient de visiter, une
 cause de danger imminent au point de vue de la sécurité ou de l'hygiène, soit par suite de l'inapplication des lois ou
 règlements en vigueur, soit pour toute autre cause, il doit en aviser immédiatement et par écrit l'exploitant ou son
-représentant sur place. Cet avis, s'il a été verbal, doit être, sans aucun retard, confirmé par écrit [*forme*] à
-l'exploitant ou à son représentant sur place, qui devra, aussitôt averti, constater ou faire constater par préposé, en
-présence du délégué, l'état de choses signalé par ce dernier et prendre sous sa responsabilité les mesures appropriées.
+représentant sur place. Cet avis, s'il a été verbal, doit être, sans aucun retard, confirmé par écrit à l'exploitant ou à son
+représentant sur place, qui devra, aussitôt averti, constater ou faire constater par préposé, en présence du délégué, l'état
+de choses signalé par ce dernier et prendre sous sa responsabilité les mesures appropriées.
 
 Le délégué doit également informer sans délai les ingénieurs des mines afin de leur permettre d'intervenir, s'il y a lieu, et
 en porter mention sur le registre prévu à l'article R. 712-33 du présent code.
@@ -79428,65 +79298,45 @@ des mines, utiliser les moyens de communication téléphonique dont dispose l'ex
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 9
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R711-12 (VT)
 
+_Cite_:
+
+  - Code du travail - art. R712-33
+
 
 ###### Article R712-29
 
-Chaque année [*périodicité*], le délégué de la surface adresse à l'ingénieur des mines un rapport faisant connaître son
-opinion sur les mesures à prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre
-strictement professionnel tendant à favoriser le développement de la production.
+Chaque année, le délégué de la surface adresse à l'ingénieur des mines un rapport faisant connaître son opinion sur les
+mesures à prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre strictement
+professionnel tendant à favoriser le développement de la production.
 
 Ce rapport est communiqué à l'exploitant, qui fait connaître dans le délai d'un mois la suite qu'il compte donner aux
 observations du délégué. L'ingénieur des mines en rend compte dans son rapport annuel de surveillance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 10
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-30
 
-Le délégué, dans ses visites, est tenu [*obligations*] de se conformer à toutes les mesures prescrites par les règlements en
-vue d'assurer l'ordre, la sécurité et l'hygiène dans les travaux.
+Le délégué, dans ses visites, est tenu de se conformer à toutes les mesures prescrites par les règlements en vue d'assurer
+l'ordre, la sécurité et l'hygiène dans les travaux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 11
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-31
@@ -79534,8 +79384,8 @@ _Abrogé par_:
 ###### Article R712-33
 
 Les observations relevées par le délégué dans chacune de ses visites doivent être, le jour même ou au plus tard le lendemain,
-consignées par lui, sur un registre spécial [*mentions obligatoires*] fourni par l'exploitant dans chaque établissement ou
-service de la circonscription, et constamment tenu à la disposition des ouvriers.
+consignées par lui, sur un registre spécial fourni par l'exploitant dans chaque établissement ou service de la
+circonscription, et constamment tenu à la disposition des ouvriers.
 
 Le délégué inscrit sur le registre les heures auxquelles il a commencé et terminé sa visite, ainsi que l'itinéraire suivi par
 lui.
@@ -79547,68 +79397,43 @@ auteurs au préfet, qui les communique aux ingénieurs des mines.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-27 (VT)
   - Code du travail - art. R712-28 (VT)
 
-_Anciens textes_:
-
-  - Décret  1949-03-11 ART. 14
-
 
 ###### Article R712-34
 
-Lors de leurs tournées, les ingénieurs du service des mines doivent viser le registre [*formalité obligatoire*] de chaque
-circonscription. Ils doivent toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la
-circonscription.
+Lors de leurs tournées, les ingénieurs du service des mines doivent viser le registre de chaque circonscription. Ils doivent
+toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la circonscription.
 
 Le service des mines prendra les mesures utiles pour que tout délégué de la surface puisse accompagner dans sa visite un
 ingénieur du service des mines au moins une fois par trimestre pour les circonscriptions comprenant plus de 500 ouvriers et
-au moins une fois par an pour les circonscriptions comprenant 500 ouvriers ou moins de 500 ouvriers [*effectifs*].
+au moins une fois par an pour les circonscriptions comprenant 500 ouvriers ou moins de 500 ouvriers.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 15
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-35
 
-Lorsqu'un ingénieur du service des mines [*condition*], au cours d'une enquête, a été accompagné par un délégué de la
-surface, les constatations matérielles relevées au cours de la visite par l'ingénieur et concernant des faits signalés par le
-délégué dans son rapport, sont consignées sur le registre du délégué [*forme*].
+Lorsqu'un ingénieur du service des mines, au cours d'une enquête, a été accompagné par un délégué de la surface, les
+constatations matérielles relevées au cours de la visite par l'ingénieur et concernant des faits signalés par le délégué dans
+son rapport, sont consignées sur le registre du délégué.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 2 : Circonscriptions.<a id=978></a>
@@ -79617,22 +79442,18 @@ _Codifié par_:
 
 Un délégué et un délégué suppléant exercent leurs fonctions dans une circonscription de la surface définie par arrêté du
 préfet, rendu sous l'autorité du ministre chargé du travail, après rapport des ingénieurs des mines, l'exploitant entendu et
-les ouvriers intéressés remplissant les conditions [*électorales*] exigées par l'article R. 712-41 du présent code ainsi que
-les syndicats auxquels ils peuvent appartenir, ayant été appelés par voie d'affiches placées aux lieux habituels pour les
-avis aux ouvriers, à présenter leurs observations.
+les ouvriers intéressés remplissant les conditions exigées par l'article R. 712-41 du présent code ainsi que les syndicats
+auxquels ils peuvent appartenir, ayant été appelés par voie d'affiches placées aux lieux habituels pour les avis aux
+ouvriers, à présenter leurs observations.
 
-L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins après [*délai*] que les intéressés auront
-été appelés à présenter leurs observations.
+L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été appelés
+à présenter leurs observations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -79640,23 +79461,23 @@ _Cité par_:
   - Code du travail - art. R712-40 (VT)
   - Code du travail - art. R712-55 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret  1949-03-11 ART. 3
+  - Code du travail - art. R712-41
 
 
 ###### Article R712-37
 
 Tout ensemble d'installations ou services du jour non rattachés à une circonscription souterraine, en vertu du premier alinéa
-de l'article L. 712-33 et dépendant d'un même exploitant, constitue une seule circonscription de la surface, si [*condition*]
-la visite détaillée de ces installations et services n'exige pas plus de six jours [*durée limite*].
+de l'article L. 712-33 et dépendant d'un même exploitant, constitue une seule circonscription de la surface, si la visite
+détaillée de ces installations et services n'exige pas plus de six jours.
 
 Les installations et services visés à l'alinéa précédent et dont la visite détaillée exige plus de six et moins de douze,
 dix-huit, etc. jours sont subdivisés en deux, trois, etc. circonscriptions de la surface.
 
 Toutefois, l'arrêté du préfet, prévu à l'article R. 712-36 peut, sur avis de l'ingénieur en chef des mines, déroger aux
 prescriptions contenues dans les deux alinéas ci-dessus, lorsque leur application entraînerait la création de
-circonscriptions ayant plus de 1500 ouvriers [*effectifs*].
+circonscriptions ayant plus de 1500 ouvriers.
 
 Un même arrêté statue sur la composition des diverses circonscriptions de la surface entre lesquelles est ainsi divisé, s'il
 y a lieu, l'ensemble des installations et services du jour non rattachés à des circonscriptions souterraines et dépendant
@@ -79664,17 +79485,14 @@ d'un même exploitant sur le territoire d'une même commune ou de plusieurs comm
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-33
+  - Code du travail - art. R712-36
 
 _Cité par_:
 
@@ -79689,22 +79507,18 @@ les ouvriers intéressés remplissant les conditions exigées par l'article R. 7
 appartiendraient, ayant été appelés, par voie d'affiches placées aux lieux habituels pour les avis aux ouvriers, à présenter
 leurs observations.
 
-L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins [*délai*] après que les intéressés auront
-été appelés à présenter leurs observations.
+L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été appelés
+à présenter leurs observations.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-41
 
 _Cité par_:
 
@@ -79717,36 +79531,27 @@ A l'arrêté préfectoral est annexé un plan indiquant les établissements et s
 portant les limites des communes sur le territoire desquelles elle s'étend. Ce plan est fourni par l'exploitant en triple
 expédition sur la demande du préfet et conformément à ses indications.
 
-L'arrêté préfectoral est notifié, dans la huitaine [*délai*] à l'exploitant auquel est remis en même temps un des plans
-annexés audit arrêté.
+L'arrêté préfectoral est notifié, dans la huitaine à l'exploitant auquel est remis en même temps un des plans annexés audit
+arrêté.
 
-Ampliation de l'arrêté préfectoral avec un des plans annexés, reste déposée à la  mairie de la commune qui est désignée dans
+Ampliation de l'arrêté préfectoral avec un des plans annexés, reste déposée à la mairie de la commune qui est désignée dans
 l'arrêté parmi celles sur lesquelles s'étendent les circonscriptions qu'il délimite ; elle y est tenue, sans déplacement, à
 la disposition de tous les intéressés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 6
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 3 : Elections.<a id=979></a>
 
 ###### Article R712-40
 
-Lorsqu'il est possible de réunir en un collège unique les électeurs d'au moins [*minimum*] trois circonscriptions de la
-surface voisines et concernant des exploitations de même substance, les délégués et les délégués suppléants de la surface
-sont élus au scrutin de liste à deux tours avec représentation proportionnelle [*mode de scrutin*] dans les conditions fixées
-aux articles suivants.
+Lorsqu'il est possible de réunir en un collège unique les électeurs d'au moins trois circonscriptions de la surface voisines
+et concernant des exploitations de même substance, les délégués et les délégués suppléants de la surface sont élus au scrutin
+de liste à deux tours avec représentation proportionnelle dans les conditions fixées aux articles suivants.
 
 Un arrêté du préfet, pris dans les mêmes formes que l'arrêté prévu à l'article R. 712-36 ci-dessus, désigne s'il y a lieu les
 circonscriptions qui sont groupées en vue des élections, ainsi qu'une mairie proche du centre géographique de ce groupe de
@@ -79764,18 +79569,15 @@ par un arrêté conjoint du ministre chargé du travail et du ministre chargé d
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°73-351 1973-03-14 ART. 1
-  - Décret n°1949-03-11 ART. 17
+  - Loi n°46-1072 du 17 mai 1946
+  - Code du travail
+  - Code du travail - art. R712-36
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, à l'exception du quatrième alinéa
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -79791,28 +79593,24 @@ de la dernière paie effectuée pour cette circonscription avant la date de l'ar
 encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code électoral :
 
 1° Les ouvriers de la surface, de nationalité française ou ressortissant d'un Etat membre de la Communauté économique
-européenne [*CEE*] ;
+européenne ;
 
 2° Les autres ouvriers de la surface répondant aux conditions prévues par les traités internationaux, sous réserve de
-réciprocité, ou bien justifiant soit d'un Travail effectif de cinq années [*durée*] dans les mines en France, soit, s'ils
-sont frontaliers, d'un travail en France de trois ans.
+réciprocité, ou bien justifiant soit d'un Travail effectif de cinq années dans les mines en France, soit, s'ils sont
+frontaliers, d'un travail en France de trois ans.
 
 Les délégués de la surface sont électeurs dans leur circonscription.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1949-03-11 ART. 18
-  - Décret n°73-351 1973-03-14 ART. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code électoral - art. L5
+  - Code électoral - art. L6
 
 _Cité par_:
 
@@ -79889,38 +79687,33 @@ _Cité par_:
 
 ###### Article R712-43
 
-Pendant les cinq premières années [*période*] qui suivent l'ouverture d'une nouvelle exploitation, peuvent être élus les
-électeurs remplissant les conditions de l'article R. 712-42 (1°), à l'exclusion de celle exigeant un temps de travail minimum
-dans la circonscription.
+Pendant les cinq premières années qui suivent l'ouverture d'une nouvelle exploitation, peuvent être élus les électeurs
+remplissant les conditions de l'article R. 712-42 (1°), à l'exclusion de celle exigeant un temps de travail minimum dans la
+circonscription.
 
-Ne peuvent être délégués de la surface [*interdiction, incompatibilité*] les débitants de boissons, ceux dont le conjoint est
-débitant de boissons, ou qui exercent cette profession par personne interposée, ou qui exercent une activité quelconque
-concourant au fonctionnement d'un débit de boissons.
+Ne peuvent être délégués de la surface les débitants de boissons, ceux dont le conjoint est débitant de boissons, ou qui
+exercent cette profession par personne interposée, ou qui exercent une activité quelconque concourant au fonctionnement d'un
+débit de boissons.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 20
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ###### Article R712-44
 
-Dans les huit jours [*délai*] qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste
-électorale de la circonscription dressée par l'exploitant est remise par lui en trois exemplaires au maire de chacune des
-communes sur lesquelles s'étend la circonscription.
+Dans les huit jours qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste électorale de la
+circonscription dressée par l'exploitant est remise par lui en trois exemplaires au maire de chacune des communes sur
+lesquelles s'étend la circonscription.
 
-Le maire fait immédiatement afficher cette liste à la porte de la mairie et dresse procès-verbal de cet affichage
-[*formalités*] ; il envoie les deux autres exemplaires au préfet et au tribunal d'instance avec copie du procès-verbal
-d'affichage.
+Le maire fait immédiatement afficher cette liste à la porte de la mairie et dresse procès-verbal de cet affichage ; il envoie
+les deux autres exemplaires au préfet et au tribunal d'instance avec copie du procès-verbal d'affichage.
 
 Dans le même délai de huit jours, l'exploitant fait afficher ladite liste aux lieux habituels pour les avis donnés aux
 ouvriers et remet les cartes électorales aux maires des communes où résident les électeurs, à charge pour eux de les remettre
@@ -79928,64 +79721,43 @@ aux électeurs ou de les tenir à leur disposition à la mairie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 21
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-45
 
 Si l'exploitant ne fait pas afficher la liste électorale et ne la remet pas au maire, ainsi que les cartes électorales, dans
 les délais et conditions ci-dessus prévus, le préfet fait dresser et afficher cette liste et assure la distribution des
-cartes électorales, le tout aux frais de l'exploitant [*sanction*], sans préjudice des peines qui pourront être prononcées
-contre ce dernier.
+cartes électorales, le tout aux frais de l'exploitant, sans préjudice des peines qui pourront être prononcées contre ce
+dernier.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1949-03-11 art. 22
-
-_Codifié par_:
-
-  - Décret n°73-1047 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-46
 
-En cas de réclamation des intéressés, le recours doit être formé dans les douze jours [*délai*] qui suivent l'affichage de la
-liste électorale par le maire le moins diligent, devant le juge du tribunal d'instance, qui statue d'urgence et en dernier
-ressort.
+En cas de réclamation des intéressés, le recours doit être formé dans les douze jours qui suivent l'affichage de la liste
+électorale par le maire le moins diligent, devant le juge du tribunal d'instance, qui statue d'urgence et en dernier ressort.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 23 AL. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-47
 
-Dans les dix jours [*délai*] qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-48, les
-organisations syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée [*forme*], la liste des
-candidats qu'elles désirent présenter aux élections de délégués de la surface. A la lettre précitée sont jointes les pièces
-établissant que les candidats satisfont aux conditions fixées à l'article R. 712-42.
+Dans les dix jours qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-48, les organisations
+syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée, la liste des candidats qu'elles désirent
+présenter aux élections de délégués de la surface. A la lettre précitée sont jointes les pièces établissant que les candidats
+satisfont aux conditions fixées à l'article R. 712-42.
 
 Dans les sept jours qui suivent, l'ingénieur en chef des mines constate l'éligibilité ou la non-éligibilité des candidats.
 
@@ -79998,24 +79770,21 @@ aux trois alinéas précédents, notifier sa candidature à l'ingénieur en chef
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 24
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-42
+  - Code du travail - art. R712-48
+  - Code du travail - art. R712-51
 
 
 ###### Article R712-48
 
-Les électeurs sont convoqués par un arrêté du préfet. L'arrêté doit [*condition de forme *] être publié et affiché dans les
-communes, installations et services intéressés, trente jours au moins avant l'élection [*délai*], qui doit toujours avoir
-lieu un jour de travail en semaine.
+Les électeurs sont convoqués par un arrêté du préfet. L'arrêté doit être publié et affiché dans les communes, installations
+et services intéressés, trente jours au moins avant l'élection, qui doit toujours avoir lieu un jour de travail en semaine.
 
 L'arrêté fixe la date des élections ainsi que les heures auxquelles sera ouvert et fermé le scrutin, de manière à permettre
 aux électeurs du poste de nuit le vote à la sortie du travail.
@@ -80024,17 +79793,9 @@ Il sera procédé au vote sur le lieu de travail, en dehors des heures de travai
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 25
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -80069,42 +79830,33 @@ _Abrogé par_:
 
 ###### Article R712-50
 
-Les bulletins de vote doivent [*conditions*] comporter autant de noms de candidats aux fonctions de délégués titulaires et
-aux fonctions de délégués suppléants de la surface qu'il y a de sièges à pourvoir. En face du nom de chaque candidat est
-indiquée la circonscription dont l'intéressé brigue le siège. Le panachage est interdit. Est réputé nul [*sanction*] tout
-bulletin portant le nom d'un candidat dont l'éligibilité n'a pas été reconnue.
+Les bulletins de vote doivent comporter autant de noms de candidats aux fonctions de délégués titulaires et aux fonctions de
+délégués suppléants de la surface qu'il y a de sièges à pourvoir. En face du nom de chaque candidat est indiquée la
+circonscription dont l'intéressé brigue le siège. Le panachage est interdit. Est réputé nul tout bulletin portant le nom d'un
+candidat dont l'éligibilité n'a pas été reconnue.
 
 Le vote a lieu, sous peine de nullité, sous enveloppe d'un type uniforme déposé à la préfecture.
 
 Avant de déposer son vote l'électeur doit passer par un isoloir où il puisse mettre son bulletin sous enveloppe.
 
-L'exploitant ne peut pas [*interdiction*] se présenter ni se faire représenter dans le local de vote pendant les opérations
-électorales.
+L'exploitant ne peut pas se présenter ni se faire représenter dans le local de vote pendant les opérations électorales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 27
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-51
 
-Si les élections sont faites suivant le régime de la représentation proportionnelle [*mode de scrutin*], et si, au prenier
-tour de scrutin le nombre de votants, bulletins blancs ou nuls non compris, est inférieur à la moitié des électeurs inscrits
-[*quorum*], il est procédé, dans les mêmes conditions de forme et de durée, à la date fixée par le préfet dans l'arrêté de
-convocation visé à l'article R. 712-48 à un second tour de scrutin, au cours duquel les électeurs peuvent voter pour des
-listes autres que celles présentées par les organisations syndicales.
+Si les élections sont faites suivant le régime de la représentation proportionnelle, et si, au prenier tour de scrutin le
+nombre de votants, bulletins blancs ou nuls non compris, est inférieur à la moitié des électeurs inscrits il est procédé,
+dans les mêmes conditions de forme et de durée, à la date fixée par le préfet dans l'arrêté de convocation visé à l'article
+R. 712-48 à un second tour de scrutin, au cours duquel les électeurs peuvent voter pour des listes autres que celles
+présentées par les organisations syndicales.
 
-Le nombre de circonscriptions de délégués de la surface à attribuer à chaque liste est déterminé [*calcul*] comme suit :
+Le nombre de circonscriptions de délégués de la surface à attribuer à chaque liste est déterminé comme suit :
 
 Il est attribué à chaque liste de candidats autant de circonscriptions que le nombre total de voix recueilli par elle
 contient de fois le quotient électoral. Le quotient électoral est égal au nombre total des suffrages valablement exprimés par
@@ -80145,17 +79897,14 @@ déclaré élu. Si les nombres des suffrages sont égaux le plus âgé des candi
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 28
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-40
+  - Code du travail - art. R712-48
 
 _Cité par_:
 
@@ -80202,49 +79951,41 @@ d'égalité de pourcentage de suffrages pour cette liste dans plusieurs circonsc
 appliquera les règles prévues à l'article R. 712-23 pour les délégués mineurs du fond.
 
 Au cas où aucun candidat de la même liste ne remplirait les conditions énumérées à l'alinéa précédent, il sera procédé à de
-nouvelles élections au scrutin de liste majoritaire [*mode de scrutin*] à deux tours dans le délai d'un mois fixé à l'article
-L. 712-23.
+nouvelles élections au scrutin de liste majoritaire à deux tours dans le délai d'un mois fixé à l'article L. 712-23.
 
 2° Si le délégué avait été élu au scrutin de liste majoritaire à deux tours, il est procédé à de nouvelles élections, avec le
 même mode de scrutin, dans le délai d'un mois fixé à l'article L. 712-23.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 30
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-23
+  - Code du travail - art. R712-23
 
 
 ###### Article R712-54
 
-Peut être annulée [*sanction*] toute élection dans laquelle les candidats auraient influencé le vote en promettant de
-s'immiscer dans les questions ou revendications étrangères à l'objet des fonctions de délégués telles qu'elles sont définies
-à l'article R. 712-25.
+Peut être annulée toute élection dans laquelle les candidats auraient influencé le vote en promettant de s'immiscer dans les
+questions ou revendications étrangères à l'objet des fonctions de délégués telles qu'elles sont définies à l'article R.
+712-25.
 
 Peut être également annulée toute élection précédée de manoeuvres qui auront permis d'éluder en fait les prescriptions de
 l'article R. 712-41.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 31
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ###### Article R712-55
@@ -80283,49 +80024,40 @@ _Anciens textes_:
 
 ###### Article R712-56
 
-Les articles L. 712-21 à L. 712-23 et R. 712-20 à R. 712-22 [*voies de recours, opérations électorales*] du présent code sont
-applicables aux élections des délégués de la surface.
+Les articles L. 712-21 à L. 712-23 et R. 712-20 à R. 712-22 du présent code sont applicables aux élections des délégués de la
+surface.
 
 **Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
 
 _Cité par_:
 
   - Code du travail - art. R712-59 (VT)
-
-_Anciens textes_:
-
-  - Décret  1949-03-11 ART. 33
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ##### Paragraphe 4 : Dispositions spéciales.<a id=980></a>
 
 ###### Article R712-57
 
-Sont applicables aux délégués de la surface, titulaires et suppléants, les articles L. 712-24 à L. 712-26 [*sanction*], les
-premier, troisième et quatrième alinéas de l'article L. 712-28 [*visites*], les articles L. 712-29 et L. 712-30 du présent
-code [*indemnités*].
+Sont applicables aux délégués de la surface, titulaires et suppléants, les articles L. 712-24 à L. 712-26, les premier,
+troisième et quatrième alinéas de l'article L. 712-28, les articles L. 712-29 et L. 712-30 du présent code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 34
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ##### Section 3 : Dispositions communes aux délégués mineurs du fond et aux délégués de la surface<a id=981></a>
@@ -80335,46 +80067,35 @@ _Codifié par_:
 ###### Article R712-58
 
 En application des dispositions du premier alinéa de l'article L. 712-33, le rattachement des installations et services du
-jour dépendant d'un même siège d'extraction et occupant moins de 150 ouvriers [*effectifs*] à la circonscription souterraine
-comprenant ledit siège d'extraction, sera constaté par arrêté du préfet, pris sur le simple rapport des ingénieurs des mines.
-Le même arrêté constatera la nouvelle composition de la circonscription de la surface considérée. Toutefois si cette dernière
-est ainsi réduite de telle façon que le temps consacré à la visite détaillée prévue à l'article R. 712-37 n'atteigne pas deux
+jour dépendant d'un même siège d'extraction et occupant moins de 150 ouvriers à la circonscription souterraine comprenant
+ledit siège d'extraction, sera constaté par arrêté du préfet, pris sur le simple rapport des ingénieurs des mines. Le même
+arrêté constatera la nouvelle composition de la circonscription de la surface considérée. Toutefois si cette dernière est
+ainsi réduite de telle façon que le temps consacré à la visite détaillée prévue à l'article R. 712-37 n'atteigne pas deux
 jours, elle pourra être rattachée, par le même arrêté, à la circonscription de la surface de même nature la plus voisine.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 37
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-33
+  - Code du travail - art. R712-37
 
 
 ###### Article R712-60
 
 En cas de suppression pure et simple d'une circonscription souterraine ou de la surface, il n'est pas procédé à de nouvelles
 élections au sein du collège électoral comprenant les ouvriers de la circonscription considérée, même si le délégué de ladite
-circonscription avait été élu au scrutin de liste avec représentation proportionnelle [*mode de scrutin*].
+circonscription avait été élu au scrutin de liste avec représentation proportionnelle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 39
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre Ier : Energie<a id=983></a>
@@ -80666,10 +80387,10 @@ _Cite_:
 
 ###### Article R721-3
 
-Tout donneur d'ouvrage à domicile doit tenir [*obligation*] une comptabilité distincte des matières premières et fournitures
-destinées au travailleur à domicile.
+Tout donneur d'ouvrage à domicile doit tenir une comptabilité distincte des matières premières et fournitures destinées au
+travailleur à domicile.
 
-Cette comptabilité doit faire ressortir séparément [*mentions*] :
+Cette comptabilité doit faire ressortir séparément :
 
 A l'entrée en magasin : la date d'entrée, la quantité et la nature de chaque article ;
 
@@ -80691,19 +80412,21 @@ _Cité par_:
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R792-1 (VT)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°64-18 1964-01-04 ART. 6
-  - Code du travail 1033 F
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R721-2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R7413-1 (V)
+  - Code du travail - art. R7413-2 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. R721-12 (V)
   - TXT_ASSOCIE: Code du travail - art. R792-1 (V)
 
 
@@ -80747,25 +80470,26 @@ _Nouveaux textes_:
 ###### Article R721-5
 
 Pour l'application aux travailleurs à domicile liés par un contrat de travail à durée indéterminée des dispositions des
-articles L. 122-4 [*résiliation*], L. 122-5 et L. 122-9 à L. 122-14 relatives au préavis, l'indemnité due, sauf rupture pour
-faute grave, en cas d'inobservation du préavis, est calculée sur la moyenne des salaires des six mois [*période*] précédant
-la rupture du contrat.
+articles L. 122-4, L. 122-5 et L. 122-9 à L. 122-14 relatives au préavis, l'indemnité due, sauf rupture pour faute grave, en
+cas d'inobservation du préavis, est calculée sur la moyenne des salaires des six mois précédant la rupture du contrat.
 
 Cette disposition n'est applicable qu'à défaut de modalités différentes prévues par une convention collective de travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-01-04 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. L122-4
+  - Code du travail - art. L122-5
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7413-4 (V)
 
 
 ##### Section 3 : Salaires.<a id=995></a>
@@ -80810,26 +80534,32 @@ _Anciens textes_:
 Les arrêtés préfectoraux prévus aux articles L. 721-11, L. 721-12 et L. 721-15 sont publiés dans le délai d'un mois au
 maximum après la date à laquelle ils ont été pris et sont insérés au recueil des actes administratifs du département.
 
-A l'expiration du délai d'un jour franc à compter de leur publication au chef-lieu du département [*point de départ*], ces
-arrêtés sont applicables dans l'étendue du département ou de la circonscription qu'ils concernent.
+A l'expiration du délai d'un jour franc à compter de leur publication au chef-lieu du département, ces arrêtés sont
+applicables dans l'étendue du département ou de la circonscription qu'ils concernent.
 
-Les arrêtés ministériels prévus aux articles L. 721-11, L. 721-12 et L. 721-15 sont publiés au Journal Officiel [*JORF*].
+Les arrêtés ministériels prévus aux articles L. 721-11, L. 721-12 et L. 721-15 sont publiés au Journal Officiel.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. L721-11
+  - Code du travail - art. L721-15
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. L721-12 (M)
   - TXT_ASSOCIE: Code du travail - art. L721-15 (AbD)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 1033 AL. 1, 2, 3
+  - Code du travail - art. R7422-4 (V)
+  - Code du travail - art. R7422-8 (V)
 
 
 ###### Article R721-8
@@ -80882,11 +80612,11 @@ _Nouveaux textes_:
 ###### Article R721-9
 
 Les temps d'exécution des travaux à domicile, les prix de façon ou les salaires applicables à ces travaux et les frais
-d'atelier et frais accessoires doivent être affichés [*obligation*] en permanence par tout donneur d'ouvrage dans les locaux
-d'attente ainsi que dans ceux où s'effectuent la remise au travailleur des matières premières ou objets et la réception des
-articles après exécution. Cette disposition ne s'applique pas au domicile privé des travailleurs, lorsque la remise de ces
-matières premières ou objets et la réception des marchandises y sont effectuées par les soins des donneurs d'ouvrages ou de
-leurs intermédiaires.
+d'atelier et frais accessoires doivent être affichés en permanence par tout donneur d'ouvrage dans les locaux d'attente ainsi
+que dans ceux où s'effectuent la remise au travailleur des matières premières ou objets et la réception des articles après
+exécution. Cette disposition ne s'applique pas au domicile privé des travailleurs, lorsque la remise de ces matières
+premières ou objets et la réception des marchandises y sont effectuées par les soins des donneurs d'ouvrages ou de leurs
+intermédiaires.
 
 Le préfet peut, en outre, décider l'affichage dans les mairies des communes intéressées des dispositions réglementaires
 relatives aux temps d'exécution, aux prix de façon, aux frais d'atelier et frais accessoires ainsi que la remise d'un extrait
@@ -80900,18 +80630,18 @@ _Cité par_:
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R792-1 (VT)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R7422-12 (V)
+  - Code du travail - art. R7422-13 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R792-1 (V)
-
-_Anciens textes_:
-
-  - Code du travail 1033 O AL. 4 ET 5
 
 
 ##### Section 4 : Règlement des litiges.<a id=996></a>
@@ -80923,21 +80653,21 @@ rémunération des travailleurs à domicile et notamment pour redresser tous com
 tarif minimum défini à l'article L. 721-9.
 
 La différence constatée en moins entre le salaire effectivement versé et celui qui aurait dû l'être doit être payée au
-travailleur sans préjudice de l'indemnité à laquelle le donneur d'ouvrage pourra être condamné [*sanction*].
+travailleur sans préjudice de l'indemnité à laquelle le donneur d'ouvrage pourra être condamné.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L721-9
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 1033 L AL. 1 ET 2
+  - Code du travail - art. R7423-1 (V)
 
 
 ##### Section 5 : Dispositions spéciales à l'agriculture.<a id=997></a>
@@ -81000,22 +80730,21 @@ _Nouveaux textes_:
 
 ###### Article R721-14
 
-Le délai minimum d'exécution de la mise en demeure prévue par l'article L. 721-22, 3e alinéa [*Hygiène et sécurité*], est
-fixé à quinze jours.
+Le délai minimum d'exécution de la mise en demeure prévue par l'article L. 721-22, 3e alinéa, est fixé à quinze jours.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 2065 A
+  - Code du travail - art. R7424-2 (V)
 
 
 #### Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes<a id=999></a>
@@ -81655,7 +81384,7 @@ _Anciens textes_:
 Les dispositions des articles L. 731-1 à L.731-13 sont applicables :
 
 1° Aux travailleurs appartenant aux activités professionnelles mentionnées par le décret du 9 avril 1959 relatif à la
-nomenclature des activités économiques [*INSEE*] sous les numéros ci-après :
+nomenclature des activités économiques sous les numéros ci-après :
 
 330.
 
@@ -81681,16 +81410,6 @@ nomenclature des activités économiques [*INSEE*] sous les numéros ci-après :
 exploitées par les entreprises du bâtiment et des travaux publics.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-484 1960-05-23
-  - Décret n°1946-12-11 ART. 1 Décret 1949-08-16
-  - Loi n°1946-10-21
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 **Liens**:
 
@@ -81734,6 +81453,18 @@ _Cité par_:
   - Code du travail - art. R731-19 (M)
   - Code du travail - art. R731-2 (VT)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-7 (V)
+
 
 ###### Article R731-2
 
@@ -81745,24 +81476,30 @@ les plus représentatives pour les activités professionnelles mentionnées à l
 chargé de la construction, l'ingénieur en chef des ponts et chaussées du service ordinaire, éventuellement l'ingénieur en
 chef du service de la navigation ou l'ingénieur en chef du service maritime. Peuvent être également appelés à siéger à cette
 commission l'ingénieur en chef de la circonscription électrique et l'ingénieur du service de la voie de la Société nationale
-des chemins de fer français [*SNCF*].
+des chemins de fer français.
 
 Ces périodes peuvent varier selon la nature des professions énumérées à l'article R. 731-1 et peuvent, chaque année, faire
-l'objet d'une révision qui doit intervenir avant le 1er août [*date limite*].
+l'objet d'une révision qui doit intervenir avant le 1er août.
 
 Les décisions du directeur départemental du travail et de la main-d'oeuvre sont soumises à l'approbation du ministre chargé
 du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 2
-  - Décret  1949-08-16 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-10 (V)
+  - Code du travail - art. D5424-8 (V)
+  - Code du travail - art. D5424-9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L731-1
+  - Code du travail - art. R731-1
 
 
 ###### Article R731-3
@@ -85026,9 +84763,9 @@ _Nouveaux textes_:
 
 ###### Article R771-3
 
-Sont réputés ouvrables [*définition*] pour la détermination du congé [*payé*], tous les jours autres que le dimanche et ceux
-qui, en vertu de la loi, de l'usage ou de la convention sont fériés et obligatoirement chômés par les catégories de
-travailleurs mentionnées à l'article R. 771-1.
+Sont réputés ouvrables pour la détermination du congé, tous les jours autres que le dimanche et ceux qui, en vertu de la loi,
+de l'usage ou de la convention sont fériés et obligatoirement chômés par les catégories de travailleurs mentionnées à
+l'article R. 771-1. 
 
 En aucun cas, le congé ne peut être confondu avec un temps de maladie, avec les périodes de cure indemnisées par la sécurité
 sociale, avec les périodes légales de repos des femmes en couches, avec les périodes obligatoires d'instruction du service
@@ -85036,17 +84773,18 @@ national ou avec les repos payés bénévolement accordés par l'employeur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 1 AL. 4, 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7213-2 (V)
+  - Code du travail - art. R7213-3 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R771-1
 
 
 ###### Article R771-4
@@ -96986,17 +96724,9 @@ autres cas, se réuniront au moins une fois par trimestre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D742-6
@@ -97065,17 +96795,13 @@ lieu dans le plus bref délai possible.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D742-7, v. 2.1 (V)
 
 
 ###### Article D742-9
@@ -97113,17 +96839,13 @@ administratif de navires ou agence tête de ligne de navires de l'entreprise, so
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L435-1
 
 
 ###### Article D742-11
@@ -97529,24 +97251,29 @@ _Cite_:
 
 La validation annuelle prévue par l'article R. 751-5 est effectuée [*condition préalable*] sur présentation d'une déclaration
 du modèle prévu à l'article D. 751-2 pour la délivrance de la carte, accompagnée des pièces justificatives des attestations
-du ou des employeurs prévues à l'article D. 751-3 ci-dessus.
+du ou des employeurs prévues à l'article D. 751-3 ci-dessus. 
 
 S'il ressort des pièces produites que l'activité du représentant a été modifiée, les indications portées sur la carte sont
-modifiées en conséquence.
+modifiées en conséquence. 
 
-La carte d'identité renouvelée doit porter [*mentions obligatoires*], quelle que soit la date à laquelle elle est demandée ou
-délivrée, le numéro de la carte primitive, l'indication de la date de sa délivrance et de l'autorité l'ayant délivrée.
+La carte d'identité renouvelée doit porter    , quelle que soit la date à laquelle elle est demandée ou délivrée, le numéro
+de la carte primitive, l'indication de la date de sa délivrance et de l'autorité l'ayant délivrée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 9
-  - Décret  1966-01-04
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. D751-5
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7312-16 (V)
+  - Code du travail - art. D7312-17 (V)
 
 
 ###### Article D751-8

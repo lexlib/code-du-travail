@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-01
+Version Consolidée au 1980-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -60575,9 +60575,17 @@ la banque ou l'établissement financier peut légalement exercer son activité e
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R124-7
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-18 (V)
 
 
 ###### Article R124-16
@@ -60666,9 +60674,13 @@ réglées au marc le franc.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-21 (V)
 
 
 ###### Article R124-20
@@ -60678,9 +60690,13 @@ l'assigner directement devant les juridictions compétentes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1251-23 (V)
 
 
 ###### Article R124-21
@@ -60856,9 +60872,9 @@ circonscription desquels sont situés le siège de l'entreprise de travail tempo
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -60866,9 +60882,9 @@ _Cité par_:
   - Code du travail - art. R152-6 (M)
   - Code du travail - art. R152-6-1 (VT)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - TXT_ASSOCIE: Code du travail R152-6-1 : SANCTIONS PENALES
+  - Code du travail - art. R1251-31 (V)
 
 
 #### Chapitre V : Marchandage.<a id=629></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-08-26
+Version Consolidée au 1977-09-13
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -77607,35 +77607,30 @@ _Cité par_:
 
 ###### Article R322-17
 
-Une indemnité de double résidence est attribuée aux travailleurs licenciés et chargés de famille qui se trouvent dans
-l'impossibilité de réinstaller à bref délai leur foyer au lieu du nouvel emploi lorsque l'occupation de ce dernier implique
-déplacement du foyer.
+Une indemnité de double résidence est attribuée aux demandeurs d'emploi chargés de famille inscrits dans les services de
+l'Agence nationale pour l'emploi [*ANPE*] qui se trouvent dans l'impossibilité de réinstaller à bref délai leur foyer au lieu
+du nouvel emploi lorsque l'occupation de ce dernier implique déplacement du foyer.
 
 Cette indemnité est versée pendant une durée maximum de six mois, son taux journalier est fixé à trois fois le minimum
-garanti [*SMIC*] prévu à l'article L. 141-8.
-
-Cette indemnité ne peut être attribuée si les ressources du foyer de l'intéressé excèdent, à l'époque de la demande
-d'attribution, un montant fixé, compte tenu des charges de famille de ce travailleur, par l'arrêté prévu au premier alinéa de
-l'article R. 322-20.
+garanti prévu à l'article L. 141-8.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail - art. L141-8 (AbD)
-  - Code du travail - art. R322-20 (Ab)
-
-_Cité par_:
-
-  - Code du travail - art. R322-17-11 (VT)
-
-_Anciens textes_:
-
-  - Décret  1970-03-16 ART. 17
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
+
+_Cite_:
+
+  - Code du travail - art. L141-8 (AbD)
+
+_Cité par_:
+
+  - Code du travail - art. R322-17-11 (VT)
 
 
 ###### Article R322-18

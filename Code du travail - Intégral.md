@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-07-11
+Version Consolidée au 1973-08-04
 ## Contenu: 
   - [Partie législative ancienne (art. L143-7 à L833-1)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L143-7 à L143-8)](#2)
@@ -80,6 +80,16 @@ Version Consolidée au 1973-07-11
         - [SERVICES MEDICAUX DU TRAVAIL . (art. L822-1 à L822-3)](#77)
       - [PLACEMENT ET EMPLOI (art. L833-1)](#78)
         - [GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI . (art. L833-1)](#79)
+  - [Partie réglementaire ancienne - Décrets simples (art. D811-2 à D811-79)](#80)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. D811-2 à D811-79)](#81)
+      - [CONVENTIONS RELATIVES AU TRAVAIL (art. D811-2 à D811-79)](#82)
+        - [APPRENTISSAGE (art. D811-2 à D811-79)](#83)
+          - [CENTRES DE FORMATION D'APPRENTIS (art. D811-2)](#84)
+            - [CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS . (art. D811-2)](#85)
+          - [DISPOSITIONS PROVISOIRES (art. D811-62 à D811-79)](#86)
+            - [ACCORDS PROVISOIRES . (art. D811-62 à D811-68)](#87)
+              - [ACCORDS DE TRANSFORMATION . (art. D811-68)](#88)
+            - [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS . (art. D811-79)](#89)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -2491,5 +2501,168 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code du travail L351-1 A L351-18
+
+
+# Partie réglementaire ancienne - Décrets simples<a id=80></a>
+
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=81></a>
+
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=82></a>
+
+#### APPRENTISSAGE<a id=83></a>
+
+##### CENTRES DE FORMATION D'APPRENTIS<a id=84></a>
+
+##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS .<a id=85></a>
+
+###### Article D811-2
+
+Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les conventions
+portant création de centres de formation d'apprentis doivent être conformes [*condition*] à une convention type propre à ces
+départements, établie par arrêté conjoint des ministres de l'éducation nationale, de l'agriculture, de l'économie et des
+finances, du développement industriel et scientifique, du commerce et de l'artisanat, des départements et territoires
+d'outre-mer et du secrétaire d'Etat chargé de la jeunesse, des sports et des loisirs.
+
+La convention type est assortie d'annexes pédagogiques établies par branche professionnelle ou type de métier. Ces annexes
+pédagogiques sont les mêmes que celles qui sont applicables dans les départements métropolitains en vertu de l'article R.
+116-1, alinéa 2. Toutefois, elles ne sont applicables dans chacun des départements ci-dessus visés qu'après avis de leur
+comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, qui peut proposer toute mesure
+d'adaptation. Les adaptations sont opérées, le cas échéant, selon les règles fixées par l'alinéa 1er du présent article.
+
+Sont obligatoires les clauses de la convention type qui correspondent aux dispositions des articles D. 811-3 à D. 811-11, D.
+811-14 et D. 811-21.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Code du travail - art. R116-1 (M)
+  - Code du travail D811-3 A D811-11, D811-14 ET D811-21
+
+
+##### DISPOSITIONS PROVISOIRES<a id=86></a>
+
+##### ACCORDS PROVISOIRES .<a id=87></a>
+
+###### Article D811-62
+
+Les accords provisoires conclus par le préfet de département ont pour objet d'habiliter les organismes mentionnés à l'article
+ci-dessus à accueillir les apprentis ayant souscrit un contrat d'apprentissage avant une date qui sera fixée par chaque
+accord et qui ne pourra être postérieure au 1er octobre 1977 [*date limite*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Code du travail - art. D811-61 (Ab)
+
+
+###### Article D811-63
+
+Les accords provisoires peuvent être soit des accords simples, soit des accords de transformation.
+
+Les accords simples prévoient et organisent le maintien du fonctionnement de cours professionnels ou d'autres organismes de
+formation en attendant la mise en place d'un centre de formation d'apprentis susceptible d'accueillir les apprentis du
+secteur intéressé.
+
+Les accords de transformation prévoient la conclusion, avant le 1er octobre 1977, d'une convention comportant la
+transformation d'un ou de plusieurs cours professionnels, ou organismes de formation préexistants, en un centre de formation
+d'apprentis, ou l'intégration desdits cours ou organismes dans un centre de formation d'apprentis déjà créé ou en cours de
+création.
+
+Dans l'attente de la conclusion de l'un de ces accords, ou de la convention régie par les dispositions de la section I du
+présent chapitre, les organismes visés à l'article D. 811-61 peuvent être autorisés pour la période du 1er octobre 1973 au 30
+juin 1974 à continuer la formation des apprentis selon les mêmes modalités que pendant l'année scolaire 1972-1973.
+
+La demande d'autorisation doit être adressée au préfet de département avant le 1er octobre 1973 [*date limite*].
+L'autorisation est réputée accordée si une décision de refus n'a pas été notifiée au demandeur dans le mois suivant la
+réception de cette demande.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Code du travail - art. D811-61 (Ab)
+  - Code du travail D811-1 A D811-50, D811-61
+
+
+##### ACCORDS DE TRANSFORMATION .<a id=88></a>
+
+###### Article D811-68
+
+L'accord de transformation définit les conditions dans lesquelles les cours ou organismes de formation sont appelés à une
+date fixée par ledit accord et qui ne peut être postérieure au 1er octobre 1977 [*date limite*] :
+
+Soit à être transformés en centres de formation d'apprentis ;
+
+Soit à être intégrés dans un ou des centres déjà créés ou à créer.
+
+Dans ce dernier cas, le ou les organismes signataires de l'accord s'engagent soit à passer avec le ou les gestionnaires de ce
+ou de ces centres une convention organisant cette intégration, soit à participer à la constitution du ou des organismes
+gestionnaires du ou des nouveaux centres.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Code du travail - art. D811-78 (Ab)
+
+
+##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .<a id=89></a>
+
+###### Article D811-79
+
+A compter du 1er octobre 1973 et jusqu'au 1er octobre 1977 [*période*] les employeurs ne pourront souscrire des contrats
+d'apprentissage que s'ils ont [*condition*] préalablement déposé la demande d'agrément prévue à l'article L. 117-5.
+
+Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi devra statuer sur cette
+demande dans le délai d'un an. Eventuellement, en cas de refus d'agrément, il précisera si les contrats en cours peuvent être
+exécutés jusqu'à leur terme.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-576 1971-07-16
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Code du travail - art. L117-5 (M)
 
 

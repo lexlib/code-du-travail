@@ -154,6 +154,10 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
+_Modifié par_:
+
+  - Décret n°93-40 1993-01-11 art. 4 II, art. 5 I JORF 13 janvier 1993 en vigueur le 15 janvier 1993
+
 _Cite_:
 
   - Code du travail - art. R233-83 (M)

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-02-26
+Version Consolidée au 1977-03-30
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -105818,14 +105818,14 @@ _Anciens textes_:
 
 ###### Article D351-8
 
-A compter du 23 février 1976 *date*, les taux journaliers des allocations d'aide publique aux travailleurs privés d'emploi
-fixés à l'article R. 351-8 du code du travail sont modifiés ainsi qu'il suit :
+A compter du 4 avril 1977 *date*, les taux journaliers des allocations d'aide publique aux travailleurs privés d'emploi fixés
+à l'article R. 351-8 du code du travail sont modifiés ainsi qu'il suit :
 
-Ayant-Droit ;
+Ayant-Droit :
 
-- Allocation principale pendant les trois premiers mois : 13,50 Francs, après le troisième mois : 12,40 Francs .
+- Allocation principale pendant les trois premiers mois : 15 Francs après le troisième mois : 13,80 Francs .
 
-- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 5,40 Francs, après le troisième mois : 5,40
+- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 6 Francs, après le troisième mois : 6
 Francs .
 
 **Liens relatifs à cet article**

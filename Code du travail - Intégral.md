@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-12-10
+Version Consolidée au 1977-12-10 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -115830,108 +115830,144 @@ _Anciens textes_:
 
 ###### Article Annexe à l'article R438-1
 
-V FORMATION
+IV AUTRES CONDITIONS DE TRAVAIL
 
-51 Formation professionnelle continue (44)
+41 Durée et aménagement du temps de travail
 
-Pourcentage de la masse salariale afférent à la formation continue    Montant consacré à la formation continue : formation
-interne ; formation effectuée en application de conventions ; versement à des fonds assurance formation ; versement auprès
-d'organismes agréés ; trésor et autres ; total
+Horaire hebdomadaire moyen affiché des ouvriers et employés ou catégories assimilées (30) I
 
-Nombre de stagiaires II
+Nombre de salariés ayant bénéficié d'un repos compensateur I :
 
-Nombre d'heures de stage II
+au titre du Code du travail (31)
 
-rémunérées
+au titre d'un système conventionnel
 
-non rémunérées
+Nombre de salariés bénéficiant d'un système d'horaires individualisés (32) I
 
-Décomposition par type de stages à titre d'exemple : adaptation, formation professionnelle, entretien ou perfectionnement des
-connaissances
+Nombre de salariés occupés à temps partiel I :
 
-52 Congés formation
+entre 20 et 30 heures (33)
 
-Nombre de salariés ayant bénéficié d'un congé formation rémunéré
+autres formes de temps partiel
 
-Nombre de salariés ayant bénéficié d'un congé formation non rémunéré
+Nombre de salariés ayant bénéficié tout au long de l'année considérée de 2 jours de repos hebdomadaire consécutifs I
 
-Nombre de salariés auxquels a été refusé un congé formation
+Nombre moyen de jours de congés annuels (non compris le repos compensateur) (34) I
 
-53 Apprentissage
+Nombre de jours fériés payés (35) I
 
-Nombre de contrats d'apprentissage conclus dans l'année
+42 Organisation et contenu du travail
 
-VI RELATIONS PROFESSIONNELLES
+Nombre de personnes occupant des emplois à horaires alternants ou de nuit :
 
-61 Représentants du personnel et délégués syndicaux
+Nombre de personnes occupant des emplois à horaires alternants ou de nuit de plus de 50 ans
 
-Composition des comités d'entreprise et/ou d'établissement avec indication, s'il y a lieu, de l'appartenance syndicale
-Participation aux élections (par collège) par collège par catégories de représentants du personnel
+Personnel utilisé à des tâches répétitives au sens de la définition du travail à la chaîne résultant du décret n° 76-404 du
+10 mai 1976 (36) (distinguer hommes - femmes)
 
-Volume global des crédits utilisés pendant l'année considérée    Nombre de réunions avec les représentants du personnel et
-les délégués syndicaux pendant l'année considérée
+43 Conditions physiques de travail
 
-Dates et signatures et objet des accords conclus dans l'entreprise pendant l'année considérée    Nombre de personnes
-bénéficiaires d'un congé d'éducation ouvrière (45)
+Nombre de personnes exposées de façon habituelle et régulière à plus de 85 dbs à leur poste de travail
 
-62 Information et communication
+Réaliser une carte du son par atelier (37)
 
-Nombre d'heures consacrées aux différentes  formes de réunion du personnel (46)
+Nombre de salariés exposés à la chaleur au sens de la définition contenue dans le décret du 10 mai 1976 (38)
 
-Eléments caractéristiques du système d'accueil
+Nombre de salariés travaillant aux intempéries de façon habituelle et régulière, au sens de la définition contenue dans le
+décret du 10 mai 1976 (39)
 
-Eléments caractéristiques du système d'information ascendante ou descendante et niveau d'application
+Nombre de prélèvements, d'analyses de produits toxiques et mesures (40)
 
-Eléments caractéristiques du système d'entretiens individuels (47)
+44 Transformation de l'organisation du travail
 
-63 Différends concernant l'application du droit du travail (48)
+Expériences de transformation de l'organisation du travail en vue d'en améliorer le contenu (41)    45 Dépenses
+d'amélioration des conditions de travail
 
-Nombre de recours à des modes de solution non juridictionnels engagés dans l'année
+Montant des dépenses consacrées à l'amélioration des conditions de travail dans l'entreprise, au sens de l'article L. 437-2
+du Code du travail (42)
 
-Nombre d'instances judiciaires engagées dans l'année et où l'entreprise est en cause
+Taux de réalisation du programme d'amélioration des conditions de travail dans l'entreprise l'année précédente
 
-Nombre de mises en demeure et nombre de procès-verbaux de l'inspecteur du travail pendant l'année considérée
+46 Médecine du travail (43)
 
-VII AUTRES CONDITIONS DE VIE RELEVANT DE L'ENTREPRISE
+Nombre d'examens cliniques (distinguer les travailleurs soumis à surveillance médicale et les autres)
 
-71 Oeuvres sociales
+Nombre d'examens complémentaires (distinguer les travailleurs soumis à surveillance et les autres)
 
-Contribution au financement, le cas échéant, du comité d'entreprise et des comités d'établissement
+Part du temps consacré par le médecin du travail à l'analyse et à l'intervention en milieu de travail
 
-Autres dépenses directement supportées par l'entreprise :
+47 Travailleurs inaptes
 
-logement, transport, restauration, loisirs, vacances, divers, total (49)
+Nombre de salariés déclarés définitivement inaptes à leur emploi par le médecin du travail
 
-72 Autres charges sociales
-
-Coût pour l'entreprise des prestations complémentaires (maladie, décès (50)
+Nombre de salariés reclassés dans l'entreprise à la suite d'une inaptitude
 
 NOTES
 
-(44) Conformément à la déclaration annuelle des employeurs n° 2483 relative au financement de la formation professionnelle
-continue.
+(30) Il est possible de remplacer cet indicateur par la somme des heures travaillées durant l'année.
 
-(45) Au sens de l'article L. 454-1 du Code du travail.
+(31) Au sens des dispositions introduites dans le Code du travail et le Code rural par la loi n° 76-657 du 16 juillet 1976
+instituant un repos compensateur en matière d'heures supplémentaires de travail.
 
-(46) On entend par réunion du personnel, les réunions régulières de concertation, concernant les relations et conditions de
-travail organisées par l'entreprise.
+(32) Au sens de l'article L. 212-4-1 du Code du travail.
 
-(47) Préciser leur périodicité.
+(33) Au sens de l'article L. 212-4-2 du Code du travail.
 
-(48) Avec indication de la nature du différend et, le cas échéant, de la solution qui y a mis fin.
+(34) Cet indicateur peut être calculé sur la dernière période de référence.
 
-(49) Dépenses consolidées de l'entreprise. La répartition est indiquée ici à titre d'exemple.
+(35) Préciser, le cas échéant, les conditions restrictives.
 
-(50) Versements directs ou par l'intermédiaire d'assurances
+(36) Article 70-3, c) du décret du 29 décembre 1945 modifié par celui du 10 mai 1976 :
+
+"Sont considérés comme travaux à la chaîne :
+
+les travaux effectués dans une organisation comportant un dispositif automatique d'avancement à cadence constante des pièces
+en cours de fabrication ou de montage en vue de la réalisation d'opérations élémentaires et successives aux différents postes
+de travail ;
+
+les travaux effectués sur des postes de travail indépendants consistant en la conduite ou l'approvisionnement de machines à
+cycle automatique et à cadence préréglée en vue de la réalisation d'opérations élémentaires et successives aux différents
+postes de travail ;
+
+les travaux effectués sur des postes indépendants sans dispositif automatique d'avancement des pièces où la cadence est
+imposée par le mode de rémunération ou le temps alloué pour chaque opération élémentaire".
+
+(37) Cette carte n'est à réaliser que par les établissements qui ont une réponse non nulle à l'indicateur précédent.
+
+(38) Article 70-3, d) du décret du 29 décembre 1945 modifié par le décret du 10 mai 1976 : "sont considérés comme travaux au
+four, les travaux exposant de façon habituelle et régulière à une forte chaleur ambiante ou rayonnante résultant de
+l'utilisation d'un traitement thermique, d'un processus de cuisson, de la transformation de produits en état de fusion,
+d'ignition ou d'incandescence ou de la production d'énergie thermique".
+
+(39) Article 70-3, e) du décret du 29 décembre 1945 modifié par le décret du 10 mai 1976 : "sont considérés comme travaux
+exposant aux intempéries sur les chantiers, les travaux soumis au régime d'indemnisation définie aux articles L. 731-1 et
+suivants du Code du travail ainsi que les travaux effectués de façon habituelle et régulière sur les chantiers souterrains ou
+subaquatiques, ou en plein air sur les constructions et ouvrages, les aires de stockage et de manutention".
+
+(40) Renseignements tirés du rapport annuel du médecin du travail (arrêté du 10 décembre 1971).
+
+(41) Pour l'explication de ces expériences d'amélioration du contenu du travail au sens des articles L. 437-1, alinéa 2, du
+Code du travail, donner le nombre de salariés concernés.
+
+(42) Non compris l'évaluation des dépenses en matière d'hygiène et de sécurité.
+
+(43) Renseignements tirés du rapport annuel du médecin du travail (arrêté du 10 décembre 1971).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Arrêté 1971-12-10
+  - Décret n°76-404 du 10 mai 1976
+  - Loi n°76-657 du 16 juillet 1976
+  - Code du travail
+  - Code du travail - art. L212-4-1
+  - Code du travail - art. L212-4-2
+  - Code du travail - art. L437-1
+  - Code du travail - art. L437-2
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_SOURCE: Code du travail - art. L438-4 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 

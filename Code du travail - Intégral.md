@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-03-01
+Version Consolidée au 1974-03-15
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)

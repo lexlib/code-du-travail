@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-23
+Version Consolidée au 1978-03-23 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -90235,22 +90235,26 @@ Le nombre maximum des indemnités journalières prévu audit article est fixé �
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°63-131 1963-02-16 ART. 1
-  - Décret n°69-624 1969-06-14 ART. 2
-  - Loi n°1946-10-21 ART. 5 AL. 1 ET AL. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Arrêté du 18 février 2003 - art. 4 (V)
   - Arrêté du 18 février 2003 - art. 5 (M)
   - Code du travail - art. R731-17 (VT)
   - Code du travail - art. R731-20 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-12 (V)
+  - Code du travail - art. D5424-13 (V)
+  - Code du travail - art. D5424-14 (V)
 
 **Liens**:
 

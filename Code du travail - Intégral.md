@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-01-05
+Version Consolidée au 1982-01-17
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -29981,6 +29981,113 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
+
+
+###### Article L351-5
+
+Le revenu de remplacement des salariés mentionnés à l'article L. 351-3 est compris [*montant*] entre un plancher et un
+plafond. Il est servi pendant une durée limitée.
+
+Il est constitué par l'une des prestations suivantes :
+
+- l'allocation de base, servie, pendant une durée qui peut varier en fonction de leur âge, aux salariés qui n'ont droit ni à
+l'allocation spéciale ni à l'allocation de garantie de ressources ;
+
+- l'allocation spéciale, servie pendant une durée maximum de douze mois aux seuls salariés de moins de soixante ans qui ont
+fait l'objet d'un licenciement pour motif économique ;
+
+- l'allocation de garantie de ressources, servie aux salariés âgés de soixante ans au moins, dans des conditions
+d'attribution pouvant déroger aux dispositions des articles L. 351-1 et L. 351-7, 1er alinéa.
+
+//ORD. 40 1982-01-16 :
+
+Le revenu de remplacement versé à des salariés dont l'emploi à temps plein est transformé avec leur accord en emploi à mi-
+temps au titre d'un contrat de solidarité ; la condition posée à l'article L. 351-1 n'est pas applicable aux bénéficiaires de
+ce revenu.//
+
+Les prestations sont calculées sur la base du salaire antérieurement perçu, sans pouvoir excéder son montant net ; ce salaire
+est plafonné. L'allocation spéciale est, sauf convention particulière, conclue au niveau national et professionnel, et agréée
+par les pouvoirs publics dans des conditions fixées par décret, affectée d'une dégressivité trimestrielle.
+
+Les bénéficiaires de l'allocation spéciale allouée à la suite d'un licenciement pour cause économique peuvent percevoir, en
+cas de reprise d'emploi, une prime d'incitation au reclassement.
+
+Le montant de l'allocation spéciale ne peut être inférieur à 90 p. 100 du montant du salaire minimum de croissance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Cité par_:
+
+  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
+  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
+  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
+  - Décret n°79-250 du 27 mars 1979 - art. 3 (Ab)
+  - Loi n°79-1129 du 28 décembre 1979 - art. 14 (Ab)
+  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
+  - Ordonnance n°82-204 du 1 mars 1982
+  - Ordonnance n°82-204 du 1 mars 1982 - art. 2 (V)
+  - Décret n°82-340 du 16 avril 1982 - art. 6 (V)
+  - Décret n°82-445 du 28 mai 1982 - art. 1 (M)
+  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
+  - Décret n°82-991 du 24 novembre 1982 - art. 10 (V)
+  - Décret n°82-991 du 24 novembre 1982 - art. 12 (V)
+  - Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
+  - Décret n°83-458 du 7 juin 1983 - art. 5 (V)
+  - Décret n°83-714 du 2 août 1983 - art. 1 (V)
+  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+  - Décret n°84-216 du 29 mars 1984 - art. 7 (Ab)
+  - Décret n°85-475 du 26 avril 1985 - art. 17 (Ab)
+  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
+  - Décret n°85-916 du 16 août 1985 - art. 4 (V)
+  - Décret n°85-932 du 30 août 1985 - art. 15 (V)
+  - Décret n°85-960 du 11 septembre 1985 - art. 5 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
+  - Code de la sécurité sociale. - art. R351-12 (V)
+  - Code de la sécurité sociale. - art. R351-13 (V)
+  - Code de la sécurité sociale. - art. R531-16 (Ab)
+  - Code de la sécurité sociale. - art. R532-2 (M)
+  - Code de la sécurité sociale. - art. R755-11-1 (Ab)
+  - Code du travail - art. D351-1 (VT)
+  - Code du travail - art. D351-4 (Ab)
+  - Code du travail - art. L351-10 (M)
+  - Code du travail - art. L351-12 (VT)
+  - Code du travail - art. L351-20 (MMN)
+  - Code du travail - art. L351-21 (M)
+  - Code du travail - art. L351-6-1 (M)
+  - Code du travail - art. L351-6-2 (P)
+  - Code du travail - art. L351-7 (M)
+  - Code du travail - art. L352-3 (M)
+  - Code du travail - art. R351-2 (M)
+  - Code du travail - art. R365-1 (VT)
+  - Code du travail - art. R833-7 (VT)
+  - Code rural ancien - art. 1031 (M)
+
+_Modifié par_:
+
+  - Ordonnance 82-40 1982-01-16 ART. 11 JORF 17 JANVIER 1982
+
+**Liens**:
+
+  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
+
+_Cite_:
+
+  - Code du travail - art. L351-1 (M)
+  - Code du travail - art. L351-3 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L5422-14 (VD)
 
 
 ###### Article L351-6

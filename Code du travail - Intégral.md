@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-06
+Version Consolidée au 1979-10-06 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -90329,8 +90329,8 @@ _Anciens textes_:
 Les chefs des établissements, autres qu'agricoles, énumérés à l'article L231-1 doivent tenir à la disposition de l'inspecteur
 du travail, au siège de leur établissement, une liste de leurs chantiers et autres lieux de travail à caractère temporaire.
 
-Ils doivent, en outre aviser par écrit [*condition de forme*] l'inspecteur du travail de l'ouverture de tout chantier ou
-autre lieu de travail occupant dix personnes au moins pendant plus d'une semaine [*information*].
+Ils doivent, en outre aviser par écrit l'inspecteur du travail de l'ouverture de tout chantier ou autre lieu de travail
+occupant dix personnes au moins pendant plus d'une semaine.
 
 **Nota:**
 
@@ -90338,20 +90338,24 @@ Code du travail R632-1 : sanctions pénales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, à l'exception des mots :"autres qu' agricoles" (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
-
 _Cité par_:
 
   - Décret n°85-682 du 4 juillet 1985 - art. 16 (M)
   - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
   - Arrêté du 2 mars 2004 - art. 9 (V)
   - Code du travail - art. R632-1 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L231-1
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R8113-1 (V)
 
 
 ###### Article R620-5
@@ -90362,7 +90366,7 @@ travail et de la protection sociale agricoles, le lieu de travail de chacun de l
 Ils doivent en outre, dans les huit jours de l'ouverture de tout chantier comptant plus de deux salariés et devant durer au
 moins un mois, en aviser par écrit le chef du service départemental du travail et de la protection sociale agricoles du
 département dans lequel se trouve le chantier, en précisant sa situation exacte, le nombre des salariés et la durée
-prévisible des travaux [*information*].
+prévisible des travaux.
 
 **Nota:**
 
@@ -90370,16 +90374,20 @@ Code du travail R632-1 : sanctions pénales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
   - Arrêté du 2 mars 2004 - art. 9 (V)
   - Code du travail - art. R324-10 (VT)
   - Code du travail - art. R632-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L231-1
 
 
 ### Titre III : Pénalités<a id=1063></a>

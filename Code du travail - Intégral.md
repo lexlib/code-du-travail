@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-08-15
+Version Consolidée au 1975-08-15 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -61272,14 +61272,18 @@ En cas de froid, des moyens de chauffage suffisants sont aménagés pour les emp
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
-  - SPEC_APPLI: Code du travail R234-4-1 : ETEND L'APPLICATION AUX STANDS AGRICOLES
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D4153-18 (V)
+  - Code du travail - art. D4153-19 (V)
 
 _Cité par_:
 
@@ -61373,18 +61377,25 @@ femmes pour lesquelles le médecin du travail estime nécessaire cette interdict
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
-
 _Cité par_:
 
   - Arrêté du 15 juin 1993 - art. Annexe (Ab)
   - Décret n°2006-534 du 10 mai 2006 - art. 8 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D4152-12 (V)
+  - Code du travail - art. D4153-39 (Ab)
+  - Code du travail - art. D4153-40 (Ab)
+  - Code du travail - art. R4541-9 (V)
+
+_Cite_:
+
+  - Code du travail - art. R234-5
 
 _Anciens textes_:
 

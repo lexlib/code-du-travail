@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-07-01
+Version Consolidée au 1977-07-01 00:00:01 +0200
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -72384,14 +72384,22 @@ Communication des statuts doit être donnée par le maire, au procureur de la R�
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code des assurances - art. R322-119-1 (V)
   - Code du travail - art. R461-1 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L411-3
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R2131-1 (V)
 
 **Liens**:
 

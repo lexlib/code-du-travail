@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-06
+Version Consolidée au 1979-10-06 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -94585,20 +94585,24 @@ Code du travail R632-1 : sanctions pénales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, à l'exception des mots :"autres qu' agricoles" (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
-
 _Cité par_:
 
   - Décret n°85-682 du 4 juillet 1985 - art. 16 (M)
   - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
   - Arrêté du 2 mars 2004 - art. 9 (V)
   - Code du travail - art. R632-1 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L231-1
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R8113-1 (V)
 
 _Anciens textes_:
 
@@ -94621,16 +94625,20 @@ Code du travail R632-1 : sanctions pénales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
   - Arrêté du 2 mars 2004 - art. 9 (V)
   - Code du travail - art. R324-10 (VT)
   - Code du travail - art. R632-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L231-1
 
 
 ### Titre III : Pénalités<a id=1063></a>

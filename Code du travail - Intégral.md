@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-07-09
+Version Consolidée au 1976-07-10
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -85,11 +85,11 @@ Version Consolidée au 1976-07-09
       - [CONTRAT DE TRAVAIL . (art. L120-1 à L125-3)](#82)
         - [REGLES PROPRES AU CONTRAT DE TRAVAIL . (art. L122-1 à L122-42)](#83)
           - [RESILIATION DU CONTRAT DE TRAVAIL A DUREE INDETERMINEE . (art. L122-5 à L122-10)](#84)
-          - [(REGLES PARTICULIERES AUX FEMMES EN COUCHES) (art. L122-25-2)](#85)
-            - [PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS . (art. L122-25-2)](#86)
-          - [(REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES) (art. L122-28 à L122-31)](#87)
-            - [PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS . (art. L122-26 à L122-31)](#88)
-          - [REGLEMENT INTERIEUR . (art. L122-33 à L122-42)](#89)
+          - [(REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES) (art. L122-28 à L122-31)](#85)
+            - [PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS . (art. L122-26 à L122-31)](#86)
+          - [REGLEMENT INTERIEUR . (art. L122-33 à L122-42)](#87)
+        - [REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES) (art. L122-25-2)](#88)
+          - [PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS . (art. L122-25-2)](#89)
         - [LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE . (art. L123-1)](#90)
         - [TRAVAIL TEMPORAIRE . (art. L124-2 à L124-12)](#91)
           - [REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL . (art. L124-4 à L124-8)](#92)
@@ -8243,61 +8243,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES)<a id=85></a>
-
-##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .<a id=86></a>
-
-###### Article L122-25-2
-
-Aucun employeur ne peut résilier le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement
-constatée et pendant une période de douze semaines suivant l'accouchement. Toutefois et sous réserve d'observer les
-dispositions de l'article L. 122-27 ci-dessous, il peut résilier le contrat s'il justifie d'une faute grave de
-l'intéressée //LOI  0625 11-07-1975 : non liée à son état de grossesse//, ou de l'impossibilité où il se trouve, pour un
-motif étranger à la grossesse ou à l'accouchement, de maintenir ledit contrat.
-
-Si un licenciement est notifié avant la constatation médicale de la grossesse, la salariée peut, dans un délai de huit jours
-à compter de la notification du licenciement justifier de son état par l'envoi d'un certificat médical par lettre recommandée
-avec demande d'avis de réception. Le licenciement se trouve de ce fait, annulé, sauf s'il est prononcé pour un des motifs
-justifiant par application de l'alinéa précédent la résiliation du contrat de travail.
-
-Les dispositions des précédents alinéas ne font pas obstacle à l'échéance du contrat de travail à durée déterminée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-1044 1966-12-30
-  - Code du travail - art. L122-25 (M)
-  - Code du travail 1029 I
-
-_Modifié par_:
-
-  - Loi n°75-625 1975-07-11 ART. 1 II JORF 13 juillet 1975
-
-_Cité par_:
-
-  - Décret n°88-145 du 15 février 1988 - art. 41 (M)
-  - Arrêté du 19 février 1986 - art. Annexe (V)
-  - Code du travail - art. L122-25-1-1 (AbD)
-  - Code du travail - art. L122-25-1-2 (AbD)
-  - Code du travail - art. L122-26 (AbD)
-  - Code du travail - art. L122-26-1 (AbD)
-  - Code du travail - art. L122-27 (AbD)
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L1225-39 (VD)
-  - Code du travail - art. L1225-4 (VD)
-  - Code du travail - art. L1225-5 (VD)
-  - Code du travail - art. L1225-6 (VD)
-  - Code du travail L1225-4, L1225-5, L1225-39, L1225-6, R1225-2, R1225-1
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
-
-##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)<a id=87></a>
+##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)<a id=85></a>
 
 ###### Article L122-28
 
@@ -8349,7 +8295,7 @@ _Anciens textes_:
   - Code du travail 1029 IV
 
 
-##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .<a id=88></a>
+##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .<a id=86></a>
 
 ###### Article L122-26
 
@@ -8476,7 +8422,7 @@ _Codifié par_:
   - Décret n°73-1046 1973-11-15
 
 
-##### REGLEMENT INTERIEUR .<a id=89></a>
+##### REGLEMENT INTERIEUR .<a id=87></a>
 
 ###### Article L122-33
 
@@ -8832,6 +8778,61 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Code du travail 1022 b AL. 9
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+#### REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)<a id=88></a>
+
+##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .<a id=89></a>
+
+###### Article L122-25-2
+
+Aucun employeur ne peut résilier le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement
+constatée et pendant une période de douze semaines suivant l'accouchement ou pendant la période du congé d'adoption prévu à
+l'article L. 122-26. Toutefois et sous réserve d'observer les dispositions de l'article L. 122-27, il peut résilier le
+contrat s'il justifie d'une faute grave de l'intéressée, non liée à l'état de grossesse, ou de l'impossibilité où se il se
+trouve, pour un motif étranger à la grossesse, à l'accouchement ou à l'adoption de maintenir ledit contrat.
+
+Si un licenciement est notifié avant la constatation médicale de la grossesse ou dans les huit jours qui précèdent l'arrivée
+au foyer d'un enfant placé en vue de son adoption, la salariée peut dans un délai de huit jours à compter de la notification
+du licenciement, justifier de son état ou de sa situation par l'envoi par lettre recommandée avec demande d'avis de
+réception, d'un certificat médical ou d'une attestation délivrée par le service départemental d'aide sociale à l'enfance ou
+l'oeuvre d'adoption autorisée qui a procédé au placement. Le licenciement se trouve de ce fait annulé sauf s'il est prononcé
+pour un des motifs justifiant, par application de l'alinéa précédent, la résiliation du contrat de travail.
+
+Les dispositions des précédents alinéas ne font pas obstacle à l'échéance du contrat de travail à durée déterminée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-1044 1966-12-30
+  - Code du travail - art. L122-25 (M)
+  - Code du travail 1029 I
+
+_Cité par_:
+
+  - Décret n°88-145 du 15 février 1988 - art. 41 (M)
+  - Arrêté du 19 février 1986 - art. Annexe (V)
+  - Code du travail - art. L122-25-1-1 (AbD)
+  - Code du travail - art. L122-25-1-2 (AbD)
+  - Code du travail - art. L122-26 (AbD)
+  - Code du travail - art. L122-26-1 (AbD)
+
+_Cite_:
+
+  - Code du travail - art. L122-27 (AbD)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L1225-39 (VD)
+  - Code du travail - art. L1225-4 (VD)
+  - Code du travail - art. L1225-5 (VD)
+  - Code du travail - art. L1225-6 (VD)
+  - Code du travail L1225-4, L1225-5, L1225-39, L1225-6, R1225-2, R1225-1
 
 _Codifié par_:
 

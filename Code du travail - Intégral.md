@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-01-25
+Version Consolidée au 1978-01-29
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -54070,9 +54070,6 @@ des travaux publics et des transports exercent en vertu d'une disposition légis
 l'inspection du travail et de la main-d'oeuvre, les commissions ou sections prévues aux articles R. 523-4 à R. 523-6 sont
 complétées par un représentant de l'administration compétente.
 
-Lorsque le conflit concerne la catégorie des cadres, un représentant de cette catégorie est adjoint aux représentants des
-salariés et le nombre des représentants des employeurs est porté à cinq.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -54080,13 +54077,13 @@ _Anciens textes_:
   - Décret n°58-615 1958-07-18 ART. 7
   - Décret n°68-763 1968-03-23 ART. 2
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cite_:
 
   - Code du travail R523-4 A R523-6
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
 
 
 ###### Article R523-8

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-01-08
+Version Consolidée au 1975-01-17
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -65457,22 +65457,22 @@ _Codifié par_:
 
 ###### Article R145-1
 
-Les proportions dans lesquelles les rémunérations mentionnées à l'article L. 145-1 sont saisissables ou cessibles sont fixées
-comme suit :
+Les proportions dans lesquelles les rémunérations annuelles [*salaire et ses accessoires*] visées à l'article L. 145-1 du
+code du travail sont saisissables ou cessibles sont fixées comme suit :
 
-Au vingtième, sur la proportion inférieure ou égale à 4.000 F [*montant*].
+Au vingtième, sur la portion inférieure ou égale à 6.000 F ;
 
-Au dixième, sur la portion supérieure à 4.000 F et inférieure ou égale à 8.000 F ;
+Au dixième, sur la portion supèrieure à 6.000 F et inférieure ou égale à 12.000 F ;
 
-Au cinquième, sur la portion supérieure à 8.000 F et inférieure ou égale à 12.000 F ;
+Au cinquième, sur la portion supérieure à 12.000 F et inférieure ou égale à 18.000 F ;
 
-Au quart, sur la portion supérieure à 12.000 F et inférieure ou égale à 16.000 F ;
+Au quart, sur la portion supérieure à 18.000 F et inférieure ou égale à 24.000 F ;
 
-Au tiers, sur la portion supérieure à 16.000 F et inférieure ou égale à 20.000 F ;
+Au tiers, sur la portion supérieure à 24.000 F et inférieure ou égale à 30.000 F ;
 
-Aux deux tiers, sur la portion supérieure à 20.000 F et inférieure ou égale à 24.000 F ;
+Aux deux tiers, sur la portion supérieure à 30.000 F et inférieure ou égale à 36.000 F ;
 
-A la totalité, sur la portion supérieure à 24.000 F.
+A la totalité, sur la portion supérieure à 36.000 F.
 
 **Liens relatifs à cet article**
 

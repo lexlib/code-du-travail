@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-11-23
+Version Consolidée au 1973-11-23 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -48221,13 +48221,13 @@ l'apprenti prévu à l'article L. 620-10.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 2 al. 6
+  - Code du travail - art. L620-10
 
 
 ###### Article R111-4
@@ -48295,13 +48295,13 @@ professionnelle ou, à son défaut, par le comité départemental de l'enseignem
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 11
+  - Code du travail - art. L112-4
 
 
 #### Chapitre III : Compétence.<a id=525></a>
@@ -48313,13 +48313,14 @@ le conseil de prud'hommes ou devant le tribunal d'instance du lieu de leur domic
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 17
+  - Code du travail - art. L112-6
+  - Code du travail - art. L113-4
 
 
 ###### Article R113-2
@@ -48330,13 +48331,13 @@ par le tribunal d'instance.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 18
+  - Code du travail
 
 
 ### Titre Ier : CONTRAT D'APPRENTISSAGE<a id=526></a>
@@ -51052,18 +51053,18 @@ général les procédés de fabrication dont ils pourraient prendre connaissance
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°73-50 1973-01-09 ART. 13
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R119-57 (VT)
   - Code du travail - art. R119-67 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R6251-6 (V)
 
 
 ### Titre II : Contrat de travail<a id=588></a>
@@ -51204,52 +51205,50 @@ _Cité par_:
 
 ###### Article R124-2
 
-L'inspecteur du travail et de la main-d'oeuvre, après s'être assuré de la conformité de la déclaration [*de l'entrepreneur*]
-avec les prescriptions de l'article R. 124-1 ci-dessus, en retourne un exemplaire revêtu de son visa à l'expéditeur dans la
-quinzaine de la réception.
+L'inspecteur du travail et de la main-d'oeuvre, après s'être assuré de la conformité de la déclaration avec les prescriptions
+de l'article R. 124-1 ci-dessus, en retourne un exemplaire revêtu de son visa à l'expéditeur dans la quinzaine de la
+réception.
 
-L'entrée en activité de l'entreprise, de la succursale, de l'agence ou du bureau annexe ne peut précéder [*interdiction*] la
-réception du document mentionné à l'alinéa précédent ou l'expiration du délai prévu par cet alinéa.
+L'entrée en activité de l'entreprise, de la succursale, de l'agence ou du bureau annexe ne peut précéder la réception du
+document mentionné à l'alinéa précédent ou l'expiration du délai prévu par cet alinéa.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1 1972-01-03
-  - Décret n°73-53 du 9 janvier 1973 - art. 2 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R124-1
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+  - Code du travail - art. R1251-6 (V)
 
 
 ##### Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.<a id=595></a>
 
 ###### Article R124-5
 
-A l'égard des entreprises de travail temporaire ayant exclusivement pour objet de mettre [*mis*] des salariés à la
-disposition d'entreprises utilisatrices entrant dans le champ d'application des articles 1144, 1149 et 1152 du code rural,
-les attributions conférées aux inspecteurs du travail et de la main-d'oeuvre par le présent décret sont exercées par les
+A l'égard des entreprises de travail temporaire ayant exclusivement pour objet de mettre des salariés à la disposition
+d'entreprises utilisatrices entrant dans le champ d'application des articles 1144, 1149 et 1152 du code rural, les
+attributions conférées aux inspecteurs du travail et de la main-d'oeuvre par le présent décret sont exercées par les
 inspecteurs des lois sociales en agriculture.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Loi n°72-1 1972-01-03
-  - Décret n°73-53 du 9 janvier 1973 - art. 5 (V)
+  - Code du travail - art. R8111-3 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code rural 1144, 1149, 1152
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R124-6
@@ -51318,52 +51317,34 @@ _Anciens textes_:
 ###### Article R126-1
 
 Tout commerçant ou industriel qui, à titre de cautionnement, se fait remettre par ses ouvriers et employés soit des sommes
-d'argent en espèces, quel qu'en soit le montant, soit des titres [*valeurs mobilières*], doit mentionner [*obligation*]
-exactement les sommes et titres ainsi versés sur un registre spécial, tenu à la disposition de l'inspecteur du travail.
-Lorsqu'il s'agit de titres la mention portée au registre doit en indiquer la nature et la valeur nominale.
+d'argent en espèces, quel qu'en soit le montant, soit des titres, doit mentionner exactement les sommes et titres ainsi
+versés sur un registre spécial, tenu à la disposition de l'inspecteur du travail. Lorsqu'il s'agit de titres la mention
+portée au registre doit en indiquer la nature et la valeur nominale.
 
 Ce registre est émargé par l'ouvrier ou l'employé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R152-8 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. L611-1 (M)
 
-_Anciens textes_:
-
-  - Code du travail 1032 A AL. 1, 1032 D DERNIER AL.
-
 
 ###### Article R126-2
 
 Le dépôt du cautionnement à la Caisse nationale d'épargne, dans une caisse d'épargne ordinaire ou à la Caisse des dépôts et
-consignations, doit [*obligation*] être fait par l'employeur dans un délai de quinze jours à compter [*point de départ*] de
-la remise par le salarié des sommes ou titres remis en cautionnement.
+consignations, doit être fait par l'employeur dans un délai de quinze jours à compter de la remise par le salarié des sommes
+ou titres remis en cautionnement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code du travail Livre 1 article 32 A PAR. 2, article 32 D Al.1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R152-8 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -51376,22 +51357,13 @@ L'acte de dépôt à la Caisse des dépôts et consignations mentionne le caract
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
 _Cité par_:
 
   - Code du travail - art. L611-1 (M)
-
-_Anciens textes_:
-
-  - Code du travail Livre 1, article 32 d AL. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R152-8 : SANCTIONS PENALES
 
 
 ###### Article R126-4
@@ -51405,17 +51377,13 @@ Un certificat de dépôt est remis à l'employeur par la Caisse nationale ou la 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. L611-1 (M)
-
-_Anciens textes_:
-
-  - Code du travail 32 a par. 2
 
 
 ###### Article R126-5
@@ -51434,13 +51402,9 @@ contrat de travail et dans les conditions prévues en matière de procédure dev
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Anciens textes_:
-
-  - Code du travail 32 b et e
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre III : Conventions collectives de travail<a id=598></a>
@@ -51477,14 +51441,13 @@ _Anciens textes_:
 ###### Article R140-1
 
 Les inspecteurs du travail et de la main-d'oeuvre, les inspecteurs des lois sociales en agriculture ou, le cas échéant, les
-autres fonctionnaires de contrôle assimilés peuvent exiger [*contrôle*] communication des différents éléments qui concourent
-à la détermination des rémunérations dans l'entreprise, et notamment des normes, catégories, critères et bases de calcul
+autres fonctionnaires de contrôle assimilés peuvent exiger communication des différents éléments qui concourent à la
+détermination des rémunérations dans l'entreprise, et notamment des normes, catégories, critères et bases de calcul
 mentionnés à l'article L. 140-3.
 
 Ils procèdent, le cas échéant, à une enquête contradictoire au cours de laquelle l'employeur et le ou les salariés intéressés
-peuvent se faire assister d'une personne de leur choix. En cas de mise en oeuvre d'une procédure [*de réglement des
-difficultés*] telle que celle qui est prévue par l'article L. 133-3, 2 , d, ils prennent connaissance des avis et
-observations formulés au cours de celle-ci.
+peuvent se faire assister d'une personne de leur choix. En cas de mise en oeuvre d'une procédure telle que celle qui est
+prévue par l'article L. 133-3, 2 , d, ils prennent connaissance des avis et observations formulés au cours de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -51493,17 +51456,22 @@ _Anciens textes_:
   - Loi n°72-1143 1972-12-22
   - Décret n°73-360 du 27 mars 1973 - art. 1 (V)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la nouvelle-Calédonie et dépendances
+  - Code du travail
+  - Code du travail - art. L140-3
 
 _Cité par_:
 
   - Code du travail - art. R154-0 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3221-1 (V)
 
 
 ###### Article R140-2
@@ -51512,20 +51480,14 @@ L'affichage prévu à l'article L. 140-7 doit être effectué dans les condition
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1143 1972-12-22
-  - Décret n°73-360 1973-03-27 ART. 2 A 5
-  - Code du travail - art. R154-0 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R154-0 : SANCTIONS PENALES
+  - Code du travail - art. L140-7
+  - Code du travail - art. R122-12
 
 _Cité par_:
 
@@ -51538,10 +51500,10 @@ _Cité par_:
 
 ###### Article R141-1
 
-Le salaire minimum de croissance [*SMIC*] applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de moins de
-dix-huit ans [*mineur*] et de capacité physique normale, comporte un abattement désormais fixé :
+Le salaire minimum de croissance applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de moins de dix-huit ans
+et de capacité physique normale, comporte un abattement désormais fixé :
 
-A 20 p. 100 [*taux*] avant dix-sept ans ;
+A 20 p. 100 avant dix-sept ans ;
 
 A 10 p. 100 entre dix-sept et dix-huit ans.
 
@@ -51550,34 +51512,33 @@ d'activité dont ils relèvent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°71-101 1971-02-02 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°95-182 du 21 février 1995 - art. 4 (V)
   - Code du travail - art. D341-5-3 (V)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3231-3 (V)
+
 
 ###### Article R141-2
 
-Les dispositions du présent chapitre ne sont pas applicables [*non*] aux jeunes travailleurs liés par un contrat
-d'apprentissage.
+Les dispositions du présent chapitre ne sont pas applicables aux jeunes travailleurs liés par un contrat d'apprentissage.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-101 1971-02-02 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D3211-1 (V)
 
 
 ##### Section 2 : Rémunération mensuelle minimale<a id=604></a>
@@ -51588,25 +51549,20 @@ _Codifié par_:
 
 ###### Article R141-3
 
-Pour déterminer [*calcul*] la rémunération mensuelle minimale garantie d'un salarié, il est retenu le nombre d'heures
-correspondant à la durée légale du travail pour le mois considéré dans l'entreprise qui l'emploie. Les heures correspondant
-aux fêtes légales sont comprises dans cette durée.
+Pour déterminer la rémunération mensuelle minimale garantie d'un salarié, il est retenu le nombre d'heures correspondant à la
+durée légale du travail pour le mois considéré dans l'entreprise qui l'emploie. Les heures correspondant aux fêtes légales
+sont comprises dans cette durée.
 
 Lorsque des accords ou conventions de mensualisation prévoient le règlement des salaires sur une base mensuelle uniforme
 correspondant à la durée légale du travail, la rémunération mensuelle minimale applicable aux travailleurs bénéficiaires de
-ces accords est égale au produit du montant du salaire minimum de croissance [*SMIC*] par le nombre d'heures fixé par ces
-accords ou conventions de mensualisation.
+ces accords est égale au produit du montant du salaire minimum de croissance par le nombre d'heures fixé par ces accords ou
+conventions de mensualisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R141-4
@@ -51676,8 +51632,8 @@ _Nouveaux textes_:
 
 ###### Article R141-6
 
-Sous réserve de la limite fixée à l'alinéa 2 de l'article L. 141-14 l'Etat rembourse à l'employeur 50 p. 100 [*pourcentage*]
-de l'allocation complémentaire.
+Sous réserve de la limite fixée à l'alinéa 2 de l'article L. 141-14 l'Etat rembourse à l'employeur 50 p. 100 de l'allocation
+complémentaire.
 
 Le remboursement est effectué par le préfet sur production d'états nominatifs faisant apparaître les modalités de calcul de
 l'allocation complémentaire, attestés par l'employeur et visés par l'inspecteur du travail ou le fonctionnaire de contrôle
@@ -51686,32 +51642,39 @@ assimilé des états précités.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L141-14
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3232-3 (V)
+  - Code du travail - art. R3232-4 (V)
 
 
 ###### Article R141-7
 
 En cas de réduction de l'horaire de travail susceptible d'entraîner l'application de l'article L. 141-14, l'employeur est
-tenu [*obligation*] d'aviser l'inspecteur du travail ou le fonctionnaire de contrôle assimilé et de lui fournir toutes
-indications sur les causes de cette réduction, les effectifs et les qualifications des salariés concernés.
+tenu d'aviser l'inspecteur du travail ou le fonctionnaire de contrôle assimilé et de lui fournir toutes indications sur les
+causes de cette réduction, les effectifs et les qualifications des salariés concernés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L141-14
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3232-5 (V)
 
 
 ###### Article R141-8
@@ -51744,14 +51707,13 @@ salariés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R3232-7 (V)
 
 
 ##### Dispositions particulières à certaines catégories.<a id=608></a>
@@ -51768,18 +51730,17 @@ aux salariés. Le préfet adresse aux employeurs les indications leur permettant
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 10
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R141-12 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3232-8 (V)
 
 
 ###### Article R141-12
@@ -51840,14 +51801,9 @@ Les dispositions concernant les travailleurs handicapés feront l'objet d'un dé
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°72-1169 1972-12-23
-  - Décret n°73-184 1973-02-23 ART. 14
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 #### Chapitre Ier : Salaire minimum de croissance<a id=609></a>
@@ -51922,10 +51878,6 @@ Il ne peut avoir lieu dans les débits de boissons ou magasins de vente, sauf po
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°95-182 du 21 février 1995 - art. 4 (V)
@@ -51933,13 +51885,17 @@ _Cité par_:
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R154-3 (VT)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. R154-3 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 45
+  - Code du travail - art. R3241-1 (V)
 
 
 #### Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur<a id=615></a>
@@ -52188,9 +52144,13 @@ L'employeur est tenu de justifier de l'encaissement et de la remise à son perso
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L147-1
 
 _Cité par_:
 
@@ -52201,9 +52161,9 @@ _Cité par_:
 
   - TXT_ASSOCIE: Code du travail - art. R154-3 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 42
+  - Code du travail - art. R3244-1 (V)
 
 
 ###### Article R147-2
@@ -53928,24 +53888,23 @@ Viscose (fabriques de).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1907-08-14 ART. 1
-  - Décret n°72-299 1972-04-14
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°77-816 du 30 juin 1977 - art. 1 (Ab)
   - Code du travail - art. R221-5 (VT)
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. R221-5 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L221-10
+  - Code du travail - art. L221-9
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3132-5 (V)
 
 
 ###### Article R221-5
@@ -54021,17 +53980,17 @@ Corderies de plein air.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1913-04-29 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L221-20
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R3132-2 (V)
 
 
 ###### Article R221-8
@@ -54059,17 +54018,18 @@ Etablissements de bains des stations balnéaires thermales ou climatiques.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1913-04-29 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L221-21
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R3132-3 (V)
+  - Code du travail - art. R3132-4 (V)
 
 
 ###### Article R221-9
@@ -54182,17 +54142,17 @@ Voiles de navires armés pour la grande pêche (confection et réparation des).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1913-04-29 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L221-22
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R3132-1 (V)
 
 
 ###### Article R221-10
@@ -54216,24 +54176,24 @@ contrôle qu'un cahier régulièrement tenu portant l'indication du nom et la da
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1906-08-24 ART. 1
-  - Loi n°1906-07-13
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 :dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - SPEC_APPLI: Code du travail R221-22 : dispositions applicables aux entreprises de navigation intérieure
-
 _Cité par_:
 
   - Décret n°2000-118 du 14 février 2000 - art. 9 (V)
   - Code du travail - art. R221-22 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L221-1
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3172-1 (M)
+  - Code du travail - art. R3172-2 (V)
+  - Code du travail - art. R3172-3 (V)
 
 
 ###### Article R221-11
@@ -54252,22 +54212,19 @@ demande. Il est visé par les agents chargés du contrôle au cours de leurs vis
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - SPEC_APPLI: Code du travail R221-22 : dispositions applicables aux entreprises de navigation intérieure
-
 _Cité par_:
 
   - Décret n°2000-118 du 14 février 2000 - art. 9 (M)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1906-08-24 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3172-1 (M)
+  - Code du travail - art. R3172-4 (V)
+  - Code du travail - art. R3172-5 (V)
 
 
 ###### Article R221-12
@@ -54287,21 +54244,25 @@ salariés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1906-08-24 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L221-12
+  - Code du travail - art. L221-21
+  - Code du travail - art. L221-22
 
 _Cité par_:
 
   - Code du travail - art. R221-13 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3172-6 (V)
+  - Code du travail - art. R3172-7 (V)
+  - Code du travail - art. R3172-8 (V)
 
 
 ###### Article R221-13
@@ -54311,17 +54272,17 @@ toute la durée de la dérogation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1906-08-24 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R221-12
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R3172-9 (M)
 
 
 #### Chapitre II : Jours fériés.<a id=645></a>
@@ -54334,22 +54295,25 @@ pratiquée dans l'établissement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3133-1 (V)
+
+_Cite_:
+
+  - Code du travail - art. L222-6
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R262-5 (V)
 
 _Cité par_:
 
   - Code du travail - art. R262-5 (VT)
-
-_Anciens textes_:
-
-  - Loi  1947-04-30 ART. 2 AL. 2 DERNIERE PHRASE
 
 
 #### Chapitre III : Congés annuels.<a id=646></a>
@@ -54393,9 +54357,13 @@ compte tenu de la durée de ses services.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3141-9 (VT)
 
 _Cité par_:
 
@@ -54405,9 +54373,9 @@ _Cité par_:
   - Code du travail - art. R620-6-3 (VT)
   - Code du travail - art. R771-6 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 54 k al. 3
+  - Code du travail - art. L223-16
 
 
 ###### Article R223-3
@@ -54418,17 +54386,21 @@ le cas échéant, chez les employeurs dont l'affiliation à une caisse de congé
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3141-10 (V)
+
+_Cite_:
+
+  - Code du travail - art. L223-16
 
 _Cité par_:
 
   - Code du travail - art. R225-7 (VT)
-
-_Anciens textes_:
-
-  - Code du travail 54 l al. 2
 
 
 ###### Article R223-4
@@ -54442,14 +54414,13 @@ La prestation de serment doit être renouvelée à l'occasion de tout renouvelle
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°68-1050 1968-11-29
-  - Décret-loi 1939-07-29 ART. 47 AL. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D3141-11 (V)
 
 _Cité par_:
 
@@ -54470,17 +54441,17 @@ défaut d'accord il est placé au milieu de chaque demi-journée de travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1225-5 (V)
 
 _Cité par_:
 
   - Code du travail - art. R224-5 (VT)
-
-_Anciens textes_:
-
-  - Code du travail 54 al. 2
 
 
 ##### Section 2 : Local où l'enfant est simplement allaité.<a id=649></a>
@@ -54506,23 +54477,24 @@ d'insalubrité ou dangers qui ont motivé lesdites prescriptions.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. L224-3
+  - Code du travail - art. L231-2
 
 _Cité par_:
 
   - Code du travail - art. R224-3 (VT)
   - Code du travail - art. R232-10-3 (VT)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1926-03-11 ART. 2
+  - Code du travail - art. R4152-13 (V)
+  - Code du travail - art. R4152-14 (V)
 
 
 ###### Article R224-3
@@ -54534,18 +54506,17 @@ mesures doivent être prises pour que la présence des mères n'y apporte aucun 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R224-2
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-15 (V)
 
 
 ##### Section 3 : Chambres d'allaitement.<a id=650></a>
@@ -54558,13 +54529,17 @@ générale observée pour l'ensemble des femmes de plus de quinze ans occupées 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 54 d al. 1
+  - Code du travail - art. L224-4
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4152-16 (V)
 
 
 ###### Article R224-5
@@ -54575,13 +54550,17 @@ minutes prévue à l'article R. 224-1 est réduite à vingt minutes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 54 c al. 2
+  - Code du travail - art. R1225-6 (V)
+
+_Cite_:
+
+  - Code du travail - art. R224-1
 
 
 ###### Article R224-6
@@ -54594,14 +54573,18 @@ Le délai minimum pour l'exécution de cette mise en demeure ne peut être infé
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 54 d al. 2
-  - Décret n°1926-03-11 art. 23
+  - Code du travail
+  - Code du travail - art. L231-3
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4721-5 (V)
 
 
 ###### Article R224-7
@@ -54670,18 +54653,13 @@ Les chambres ne doivent pas avoir de communication directe avec des cabinets d'a
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-18 (V)
 
 
 ###### Article R224-10
@@ -54695,18 +54673,13 @@ Les murs doivent être recouverts, soit d'un enduit permettant un lavage efficac
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 9
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-19 (V)
 
 
 ###### Article R224-11
@@ -54716,18 +54689,13 @@ aspiration. Cette opération doit être répétée tous les jours où la chambre
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 10
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-13 (V)
 
 
 ###### Article R224-12
@@ -54739,22 +54707,17 @@ qu'il est nécessaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R224-13 (VT)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1926-03-11 ART. 11
+  - Code du travail - art. R4152-20 (V)
 
 
 ###### Article R224-13
@@ -54764,18 +54727,19 @@ articles R. 224-12 et R. 224-22 doivent être tenus constamment en bon état d'e
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 12
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R224-12
+  - Code du travail - art. R224-22
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-20 (V)
+  - Code du travail - art. R4152-27 (V)
 
 
 ###### Article R224-14
@@ -54801,18 +54765,9 @@ Les enfants sont soignés et tenus dans un état de propreté rigoureuse.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
-
-_Anciens textes_:
-
-  - Décret  1926-03-11 ART. 14
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R224-16
@@ -54827,18 +54782,13 @@ l'admission et, s'il y a lieu, au moment des réadmissions.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-22 (V)
 
 
 ###### Article R224-17
@@ -54883,18 +54833,13 @@ réglementaires prévues à ce sujet pour les crèches doivent être observées.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1926-03-11 ART. 17
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R4152-24 (V)
 
 
 ###### Article R224-19
@@ -54905,18 +54850,13 @@ Tout enfant qui, aprés admission, paraîtrait atteint d'une maladie transmissib
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-17 ART. 18
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-15 (V)
 
 
 ###### Article R224-20
@@ -54926,18 +54866,13 @@ chambre [*prévention*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 19 AL. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-25 (V)
 
 
 ###### Article R224-21
@@ -54948,18 +54883,14 @@ Pendant la nuit, tous les objets dont se compose la literie doivent être dispos
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 20
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-20 (V)
+  - Code du travail - art. R4152-26 (V)
 
 
 ###### Article R224-22
@@ -54974,22 +54905,17 @@ Il est tenu à la disposition des mères de l'eau chaude, des serviettes individ
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R224-13 (VT)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1926-03-11 ART. 21
+  - Code du travail - art. R4152-27 (V)
 
 
 ###### Article R224-23
@@ -55001,18 +54927,13 @@ Aucune contribution ne peut être réclamée [*interdiction*] aux mères dont le
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1926-03-11 ART. 22
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail R262-7 : SANCTIONS PENALES
+  - Code du travail - art. R4152-28 (V)
 
 
 ### Titre II : CONGES<a id=651></a>
@@ -57041,18 +56962,22 @@ moins de dix-huit ans [*âge*] qu'ils emploient.
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D4153-13 (V)
+
 _Anciens textes_:
 
   - Décret  1913-06-21 ART. 2
   - Décret  1958-07-19 ART. 12
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
 
 
 ###### Article R234-2
@@ -57088,17 +57013,14 @@ Les jeunes travailleurs de moins de dix-huit ans [*âge*] ne peuvent y être emp
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1913-06-21 ART. 1 al. 1 et 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-17 (V)
+  - Code du travail - art. D4153-19 (V)
 
 
 ##### Section 2 : Limitation des charges.<a id=668></a>
@@ -57112,17 +57034,13 @@ d'enseignement professionnel ou de bienfaisance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1909-12-28 art. 1 al. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail
 
 _Cité par_:
 
@@ -57324,13 +57242,9 @@ courroies, câbles, chaînes, bielles, volants, roues, arbres, engrenages, cône
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -57339,9 +57253,9 @@ _Cité par_:
   - Code de l'éducation - art. D331-15 (M)
   - Code de l'éducation - art. D331-9 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1958-07-19 art. 1
+  - Code du travail - art. D4153-21 (V)
 
 
 ###### Article R234-12
@@ -57355,21 +57269,17 @@ Au travail d'alimentation en marche des scies, machines à cylindres, broyeurs, 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1958-07-19 art. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
-
 _Cité par_:
 
   - Décret n°2006-534 du 10 mai 2006 - art. 11 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D4153-21 (V)
 
 
 ###### Article R234-13
@@ -57383,17 +57293,13 @@ l'opérateur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1958-07-19 art. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-20 (V)
 
 
 ###### Article R234-14
@@ -57429,17 +57335,14 @@ l'emploi de ces dispositifs et en assurer l'entretien.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1958-07-19 art. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-37 (V)
+  - Code du travail - art. D4153-49 (Ab)
 
 
 ###### Article R234-15
@@ -57450,17 +57353,17 @@ bateaux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1958-07-19 art. 5 al. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D4153-31 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Décret  1946-04-02
 
 
 ###### Article R234-16
@@ -57478,17 +57381,20 @@ l'usage des substances vénéneuses.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°1958-07-19 art. 5 al. 2
+  - Arrêté  1945-04-15
+  - Décret  1943-01-18
+  - Décret  1948-11-19
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-25 (V)
+  - Code du travail - art. D4153-30 (V)
 
 
 ###### Article R234-17
@@ -57500,17 +57406,13 @@ Toutefois cette disposition n'est pas applicable dans le cas où les doubleurs s
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1958-07-19 art. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-21 (V)
 
 
 ###### Article R234-19
@@ -57532,18 +57434,13 @@ dépasse 600 volts en courant continu et 250 volts en courant alternatif.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1935-08-04 art. 2
-  - Décret  1958-07-19 art. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-29 (V)
 
 
 ###### Article R234-20
@@ -57640,21 +57537,21 @@ Tétrachlorure de carbone : fabrication et emploi.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Code du travail - art. D4153-26 (V)
+  - Code du travail - art. D4153-32 (V)
+  - Code du travail - art. D4153-33 (V)
+  - Code du travail - art. D4153-35 (V)
+  - Code du travail - art. D4153-38 (Ab)
 
 _Cité par_:
 
   - Code du travail - art. R234-22 (VT)
-
-_Anciens textes_:
-
-  - Décret  1958-07-19 art. 11 et tableau B par. 1
 
 
 ###### Article R234-21
@@ -57699,21 +57596,18 @@ Soude caustique : fabrication et manipulation.
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D4153-24 (V)
+  - Code du travail - art. D4153-27 (V)
+
 _Cité par_:
 
   - Code du travail - art. R234-22 (VT)
-
-_Anciens textes_:
-
-  - Décret  1958-07-19 art. 11, tableau B par. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
 
 
 ###### Article R234-23
@@ -57724,21 +57618,17 @@ sous réserve de l'avis favorable du médecin du travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Arrêté du 30 juillet 1974 - art. Annexe art. 24 (Ab)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1958-07-19 art. 10
+  - Code du travail - art. D4153-47 (Ab)
 
 
 #### Chapitre IV : DISPOSITIONS PARTICULIERES AUX JEUNES TRAVAILLEURS<a id=671></a>
@@ -59337,25 +59227,13 @@ du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Nouveaux textes_:
 
   - Code du travail - art. L4631-1 (VD)
-
-_Anciens textes_:
-
-  - Loi  1942-07-28 art. 9 al. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 
 
 ###### Article R250-2
@@ -59390,17 +59268,17 @@ Le comité d'entreprise utilise le service social prévu aux articles précéden
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1945-11-02 art. 12 al. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D4632-1 (M)
 
 
 ###### Article R250-4
@@ -59410,17 +59288,13 @@ financière du service social. Ce rapport est adressé à l'inspecteur du travai
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1945-11-02 art. 15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D4632-1 (M)
 
 
 ###### Article R250-5
@@ -59468,17 +59342,13 @@ d'entreprise.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1945-11-02 art. 12 al. 2, 3, 4, 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D4632-4 (M)
 
 
 ###### Article R250-7
@@ -59489,17 +59359,13 @@ désaccord, la décision est prise par l'inspecteur du travail [*compétence*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1945-11-02 art. 13 et 16 al. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D4632-5 (M)
 
 
 ###### Article R250-8
@@ -59509,17 +59375,13 @@ de 250 [*nombre*] salariés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Loi  1942-07-28 art. 9 al. 2
+  - Code du travail - art. D4632-6 (V)
 
 
 ###### Article R250-9
@@ -59528,18 +59390,13 @@ Le service social dispose d'un bureau au moins [*nombre minimum*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1946-11-09
-  - Loi  1942-07-28 art. 11
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D4632-3 (V)
 
 
 ### Titre VI : Pénalités<a id=691></a>
@@ -65285,14 +65142,17 @@ au chef d'entreprise et aux membres du comité [*formalité*].
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. L434-8 (T)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R2325-3 (Ab)
 
 _Cité par_:
 
@@ -67770,17 +67630,13 @@ un représentant du ministre chargé de l'éducation nationale, un représentant
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Loi n°57-821 1957-07-28 ART. 1 AL. 3
+  - Code du travail - art. R3142-2 (M)
 
 
 ###### Article R451-2
@@ -67814,24 +67670,22 @@ compter de la réception de la demande.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°57-821 1957-07-23 ART. 2 AL. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. R465-1 (V)
-  - TXT_ASSOCIE: Code du travail R465-1 : SANCTIONS PENALES
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R236-17 (VT)
   - Code du travail - art. R465-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R3142-4 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail - art. R465-1 (V)
 
 
 ###### Article R451-4
@@ -67842,17 +67696,13 @@ travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Loi n°57-821 1957-07-25 ART. 2 AL. 4
+  - Code du travail - art. R3142-5 (VT)
 
 
 ### Titre VI : Pénalités<a id=842></a>
@@ -75347,17 +75197,13 @@ politiques.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°58-615 1958-07-18 ART. 24
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R2522-16 (V)
 
 _Cité par_:
 
@@ -75373,13 +75219,13 @@ Le secrétariat des commissions est assuré par les services du ministère charg
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°58-615 1958-07-18 ART. 14
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R2522-22 (V)
 
 
 ###### Article R523-16
@@ -75390,17 +75236,13 @@ activité, les vacations.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°58-615 1958-07-18 ART. 26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R2522-23 (V)
 
 _Cité par_:
 
@@ -75416,13 +75258,9 @@ La commission nationale de conciliation siège au ministère de l'agriculture.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°58-615 1958-07-18 ART. 16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 #### Chapitre IV : Médiation<a id=919></a>
@@ -77371,24 +77209,19 @@ d'établir la statistique des conditions du travail industriel dans la région q
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
-
-_Anciens textes_:
-
-  - Code du travail 2108
+  - Code du travail - art. R8112-3 (V)
 
 
 ###### Article R611-2
 
-Les inspecteurs du travail et de la main-d'oeuvre doivent fournir, chaque année, des rapports circonstanciés [*document
-obligatoire*] sur l'application, dans toute l'étendue de leur circonscription, des dispositions dont ils sont chargés
-d'assurer l'exécution.
+Les inspecteurs du travail et de la main-d'oeuvre doivent fournir, chaque année, des rapports circonstanciés sur
+l'application, dans toute l'étendue de leur circonscription, des dispositions dont ils sont chargés d'assurer l'exécution.
 
 Ces rapports mentionnent les accidents dont les ouvriers ont été victimes et leurs causes.
 
@@ -77397,17 +77230,13 @@ travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
-
-_Anciens textes_:
-
-  - Code du travail 2109
+  - Code du travail - art. R8112-4 (V)
 
 
 ###### Article R611-3
@@ -77443,17 +77272,14 @@ d'hygiène industrielle ou de la commission de sécurité du travail et de la co
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
-
-_Anciens textes_:
-
-  - Code du travail 2101 a
+  - Code du travail - art. R8123-8 (V)
+  - Code du travail - art. R8123-9 (V)
 
 
 ###### Article R611-5
@@ -77463,21 +77289,13 @@ offices publics et ministériels, des professions libérales, des sociétés civ
 associations de quelque nature que ce soit.
 
 Toutefois, dans les offices ministériels, les inspecteurs du travail assurent l'exécution de ces dispositions concurremment
-avec les chambres de discipline [*compétence*].
+avec les chambres de discipline.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1941-07-22 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre II : Obligations des employeurs.<a id=961></a>
@@ -77485,16 +77303,14 @@ _Codifié par_:
 ###### Article R620-1
 
 La déclaration prévue à l'article L. 620-1 est effectuée par l'employeur et, dans le cas prévu au 2° de l'alinéa 2 dudit
-article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail [*condition de
-forme*] .
+article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail.
 
 Le récépissé de cette lettre doit être présenté par l'employeur ou son préposé sur la demande de l'inspecteur du travail à la
 première visite de celui-ci.
 
 La déclaration précise auxquels des cas prévus à l'article L. 620-1 elle répond et indique en outre le nom et l'adresse du
 déclarant, l'emplacement de l'établissement, la nature exacte des industries ou des commerces exercés et, le cas échéant,
-s'il y a emploi d'enfants de moins de 18 ans [*minorité*] ou de femmes ainsi qu'utilisation de force motrice ou d'outillage
-mécanique.
+s'il y a emploi d'enfants de moins de 18 ans ou de femmes ainsi qu'utilisation de force motrice ou d'outillage mécanique.
 
 **Nota:**
 
@@ -77502,21 +77318,25 @@ Code du travail R632-1 : sanctions pénales. *
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
+  - Code du travail - art. L620-1
+
+_Anciens textes_:
+
+  - Code du travail - art. R1221-32 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R1221-33 (V)
 
 _Cité par_:
 
   - Code du travail - art. R632-1 (VT)
-
-_Anciens textes_:
-
-  - Code du travail 2001 b
 
 
 ###### Article R620-2
@@ -77654,29 +77474,25 @@ engins mécaniques ou de la mise en oeuvre de certaines méthodes d'exploitation
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°69-686 1969-06-18 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R711-2 (VT)
   - Code du travail - art. R711-4 (VT)
 
+_Cite_:
+
+  - Code du travail - art. R711-5
+
 
 ###### Article R711-2
 
-Les jeunes travailleurs mentionnés à l'article R. 711-1 ne peuvent être occupés [*interdiction*] dans les chantiers
-souterrains des mines et carrières qu'au titre de leur formation professionnelle ou qu'en qualité d'aides dans des emplois ne
-comportant pas, sauf dérogation prévue ci-après, rémunération à la tâche.
+Les jeunes travailleurs mentionnés à l'article R. 711-1 ne peuvent être occupés dans les chantiers souterrains des mines et
+carrières qu'au titre de leur formation professionnelle ou qu'en qualité d'aides dans des emplois ne comportant pas, sauf
+dérogation prévue ci-après, rémunération à la tâche.
 
 Par dérogation à la disposition qui précéde, l'ingénieur en chef des mines peut, sur demande motivée de l'exploitant,
 autoriser l'emploi, en qualité d'aides dans des équipes rémunérées à la tâche, des jeunes travailleurs âgés de moins de dix-
@@ -77689,17 +77505,13 @@ de mesures spéciales de surveillance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°69-686 1969-06-18 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R711-1
 
 
 ###### Article R711-3
@@ -77770,17 +77582,13 @@ l'article R. 711-1 et fixent une liste des emplois et postes de travail types vi
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°69-686 1969-06-18 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 _Cité par_:
 
@@ -77795,9 +77603,9 @@ _Cité par_:
 
 ###### Article R712-1
 
-Chaque année [*périodicité*] le délégué mineur adresse à l'ingénieur des mines un rapport faisant connaître son opinion sur
-les mesures à prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre strictement
-professionnel tendant à favoriser le développement de la production.
+Chaque année le délégué mineur adresse à l'ingénieur des mines un rapport faisant connaître son opinion sur les mesures à
+prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre strictement professionnel
+tendant à favoriser le développement de la production.
 
 Ce rapport est communiqué à l'exploitant qui fait connaître dans le délai d'un mois la suite qu'il compte donner aux
 observations du délégué.
@@ -77806,44 +77614,29 @@ L'ingénieur des mines en rend compte dans son rapport annuel de surveillance.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R791-3 (V)
 
 _Cité par_:
 
   - Code du travail - art. R791-3 (VT)
 
-_Anciens textes_:
-
-  - Code du travail 2127 TER
-  - Loi   1928-03-25
-
 
 ###### Article R712-2
 
-Le délégué, dans ses visites, est tenu [*obligation*] de se conformer à toutes les mesures prescrites par les règlements en
-vue d'assurer l'ordre, la sécurité et l'hygiène dans les travaux.
+Le délégué, dans ses visites, est tenu de se conformer à toutes les mesures prescrites par les règlements en vue d'assurer
+l'ordre, la sécurité et l'hygiène dans les travaux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2128
-  - Loi   1928-03-25
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-4
@@ -77853,25 +77646,16 @@ tant à l'exploitant qu'au délégué suppléant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2129
-  - Décret-loi  1938-05-02
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-5
 
 Les observations relevées par le délégué dans chacune de ses visites doivent être, le jour même ou au plus tard le lendemain,
-consignées par lui sur un registre spécial [*formalités*] fourni par l'exploitant et constamment tenu sur le carreau de
-l'exploitation à la disposition des ouvriers.
+consignées par lui sur un registre spécial fourni par l'exploitant et constamment tenu sur le carreau de l'exploitation à la
+disposition des ouvriers.
 
 Le délégué inscrit sur le registre les heures auxquelles il a commencé et terminé sa visite ainsi que l'itinéraire suivi par
 lui.
@@ -77883,50 +77667,34 @@ aux ingénieurs des mines.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. R791-3 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-3 (Ab)
   - Code du travail - art. R791-3 (VT)
 
-_Anciens textes_:
+**Liens**:
 
-  - Code du travail 2130
-  - Décret-loi  1938-11-12 ART. 13
+  - TXT_ASSOCIE: Code du travail - art. R791-3 (V)
 
 
 ###### Article R712-6
 
-Lors de leurs tournées les ingénieurs du service des mines doivent [*obligation*] viser le registre de chaque
-circonscription. Ils doivent, toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la
-circonscription.
+Lors de leurs tournées les ingénieurs du service des mines doivent viser le registre de chaque circonscription. Ils doivent,
+toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la circonscription.
 
-Le service des mines prendra les mesures utiles  pour que tout délégué mineur puisse accompagner dans sa visite un ingénieur
-du service des mines au moins une fois par trimestre [*périodicité*] pour les circonscriptions comprenant plus de cinq cents
-ouvriers [*effectifs*] et au moins une fois par an pour les circonscriptions comprenant cinq cents ouvriers ou moins de cinq
-cents ouvriers.
+Le service des mines prendra les mesures utiles pour que tout délégué mineur puisse accompagner dans sa visite un ingénieur
+du service des mines au moins une fois par trimestre pour les circonscriptions comprenant plus de cinq cents ouvriers et au
+moins une fois par an pour les circonscriptions comprenant cinq cents ouvriers ou moins de cinq cents ouvriers.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2131
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-7
@@ -77951,11 +77719,11 @@ _Abrogé par_:
 ###### Article R712-10
 
 Les exploitations autres que celles qui sont mentionnées à l'article L. 712-7 sont subdivisées en deux, trois, etc.,
-circonscriptions, selon que la visite n'exige pas plus de douze, dix-huit, etc., jours [*durée*].
+circonscriptions, selon que la visite n'exige pas plus de douze, dix-huit, etc., jours.
 
 Toutefois, l'arrêté du préfet prévu à l'article R. 712-9 pourra, sur avis de l'ingénieur en chef des mines, déroger aux
 prescriptions de l'alinéa précédent lorsque leur application entraînerait la création de circonscriptions ayant plus de 1500
-ouvriers [*effectifs*].
+ouvriers.
 
 Un même arrêté statue sur la délimitation des diverses circonscriptions entre lesquelles est ainsi divisé, s'il y a lieu,
 l'ensemble des puits, galeries et chantiers voisins dépendant d'un même exploitant, sous le territoire d'une même commune ou
@@ -77964,25 +77732,22 @@ de plusieurs communes contiguës.
 Un ensemble de petites exploitations voisines, même dépendant d'exploitants différents, sur le territoire d'une même commune
 ou de plusieurs communes voisines peut être groupé dans une même circonscription à la condition que la visite détaillée des
 puits, galeries et chantiers de cet ensemble n'exige pas plus de six jours et que le nombre total d'ouvriers travaillant au
-fond dans cet ensemble d'exploitations ne soit pas supérieur à cinq cents [*maximum, limite*].
+fond dans cet ensemble d'exploitations ne soit pas supérieur à cinq cents.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. D712-2 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code du travail 2122
+  - Code du travail - art. L712-7
+  - Code du travail - art. R712-9
 
 
 ###### Article R712-12
@@ -77991,8 +77756,8 @@ A l'arrêté préfectoral est annexé un plan donnant la délimitation de chaque
 communes sous le territoire desquelles elle s'étend. Ce plan est fourni par l'exploitant en triple expédition sur la demande
 du préfet et conformément à ses indications.
 
-L'arrêté préfectoral est notifié dans la huitaine [*délai*], à l'exploitant auquel est remis en même temps un des plans
-annexés audit arrêté.
+L'arrêté préfectoral est notifié dans la huitaine, à l'exploitant auquel est remis en même temps un des plans annexés audit
+arrêté.
 
 Ampliation de l'arrêté préfectoral, avec un des plans annexés, reste déposée à la mairie de la commune qui est désignée dans
 l'arrêté parmi celles sous lesquelles s'étendent les circonscriptions qu'il délimite ; elle y est tenue, sans déplacement, à
@@ -78000,17 +77765,9 @@ la disposition de tous les intéressés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2124
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 3 : Elections.<a id=974></a>
@@ -78023,29 +77780,24 @@ circonscriptions où sera opérée la centralisation des résultats électoraux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-1131 1971-12-31
-  - Code du travail 2134 AL. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-59 (M)
 
+_Cite_:
+
+  - Code du travail - art. R712-9
+
 
 ###### Article R712-14
 
-Dans les huit jours [*délai*] qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste
-électorale de la circonscription dressée par l'exploitant, est remise par lui en trois exemplaires au maire de chacune des
-communes sous lesquelles s'étend la circonscription.
+Dans les huit jours qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste électorale de la
+circonscription dressée par l'exploitant, est remise par lui en trois exemplaires au maire de chacune des communes sous
+lesquelles s'étend la circonscription.
 
 Le maire fait immédiatement afficher cette liste à la porte de la mairie et dresse procès-verbal de cet affichage ; il envoie
 les deux autres exemplaires au préfet et au juge du tribunal d'instance avec copie du procès-verbal d'affichage.
@@ -78056,47 +77808,30 @@ aux électeurs ou de les tenir à leur disposition à la mairie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2138
-  - Décret-loi  1938-05-02
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-15
 
-En cas de réclamation des intéressés relative aux listes électorales, le recours doit être formé dans les douze jours
-[*délai*] qui suivent l'affichage de la liste électorale par le maire le moins diligent, devant le juge du tribunal
-d'instance, qui statue d'urgence et en dernier ressort.
+En cas de réclamation des intéressés relative aux listes électorales, le recours doit être formé dans les douze jours qui
+suivent l'affichage de la liste électorale par le maire le moins diligent, devant le juge du tribunal d'instance, qui statue
+d'urgence et en dernier ressort.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2140
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-17
 
 Les électeurs sont convoqués par un arrêté du préfet.
 
-L'arrêté doit être publié et affiché dans les communes, puits et services intéressés trente jours au moins [*délai*] avant
-l'élection qui doit toujours [*obligation*] avoir lieu un jour de travail en semaine.
+L'arrêté doit être publié et affiché dans les communes, puits et services intéressés trente jours au moins avant l'élection
+qui doit toujours avoir lieu un jour de travail en semaine.
 
 L'arrêté fixe la date des élections ainsi que les heures auxquelles sera ouvert et fermé le scrutin, en permettant aux
 électeurs du poste de nuit le vote à la sortie du travail.
@@ -78105,30 +77840,21 @@ Il sera procédé au vote sur le lieu de travail, en dehors des heures de travai
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-16 (VT)
   - Code du travail - art. R712-19 (VT)
 
-_Anciens textes_:
-
-  - Code du travail 2141
-  - Loi   1949-03-07
-
 
 ###### Article R712-18
 
 Pour l'attribution des circonscriptions restantes sur la base du plus grand reste prévue à l'article L. 712-17, il est
-retranché [*calcul*] du nombre de voix obtenu par chaque liste le produit du quotient par le nombre des circonscriptions déjà
-attribuées à la liste. Les différentes listes sont classées dans l'ordre décroissant des restes ainsi obtenus. La première
+retranché du nombre de voix obtenu par chaque liste le produit du quotient par le nombre des circonscriptions déjà attribuées
+à la liste. Les différentes listes sont classées dans l'ordre décroissant des restes ainsi obtenus. La première
 circonscription non pourvue est attribuée à la liste ayant le plus grand reste.
 
 Il est procédé successivement à la même opération pour chacune des circonscriptions non pourvues jusqu'à la dernière.
@@ -78158,25 +77884,20 @@ déclaré élu. Si les nombres de suffrages sont égaux, le plus âgé des candi
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2144
-  - Loi   1949-03-07
+  - Code du travail - art. L712-17
 
 
 ###### Article R712-19
 
-Si les élections sont faites suivant un scrutin majoritaire à deux tours, nul n'est élu au premier tour de scrutin
-[*condition*] s'il n'a obtenu la majorité absolue des suffrages exprimés et un nombre de voix au moins égal au quart
-[*pourcentage*] du nombre des électeurs inscrits.
+Si les élections sont faites suivant un scrutin majoritaire à deux tours, nul n'est élu au premier tour de scrutin s'il n'a
+obtenu la majorité absolue des suffrages exprimés et un nombre de voix au moins égal au quart du nombre des électeurs
+inscrits.
 
 Au deuxième tour de scrutin la majorité relative suffit quel que soit le nombre de votants.
 
@@ -78187,41 +77908,27 @@ fixée par le préfet dans l'arrêté de convocation prévu à l'article R. 712-
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2144 A
-  - Loi   1949-03-07
+  - Code du travail - art. R712-17
 
 
 ###### Article R712-20
 
-Les protestations doivent être consignées au procès-verbal ou être adressées, à peine de nullité [*sanctions*] , dans les
-trois jours qui suivent l'élection, au préfet, qui en accuse réception.
+Les protestations doivent être consignées au procès-verbal ou être adressées, à peine de nullité, dans les trois jours qui
+suivent l'élection, au préfet, qui en accuse réception.
 
 Les exploitants peuvent, comme les électeurs, adresser dans le même délai leurs protestations au préfet.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Code du travail 2147
-  - Décret-loi  1938-11-12
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-21
@@ -78250,25 +77957,21 @@ Il doit être procédé à de nouvelles élections pour les circonscriptions qui
 l'article R. 712-11.
 
 Dans tous les cas où une élection doit avoir lieu pendant une suspension de l'exploitation résultant soit d'un accident, soit
-d'un conflit collectif de travail, l'élection est renvoyée à un mois [*délai*] après la reprise normale de l'exploitation.
+d'un conflit collectif de travail, l'élection est renvoyée à un mois après la reprise normale de l'exploitation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-11
 
 _Cité par_:
 
   - Code du travail - art. R712-59 (VT)
-
-_Anciens textes_:
-
-  - Code du travail 2152
 
 
 ##### Paragraphe 4 : Dispositions spéciales.<a id=975></a>
@@ -78294,23 +77997,19 @@ même mode de scrutin, dans le délai d'un mois visé à l'article L. 712-23.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-23
 
 _Cité par_:
 
   - Code du travail - art. R712-25 (VT)
   - Code du travail - art. R712-26 (VT)
   - Code du travail - art. R712-53 (VT)
-
-_Anciens textes_:
-
-  - Décret  1949-03-11 ART. 1
 
 
 ##### Section 2 : Délégués mineurs de la surface<a id=976></a>
@@ -78332,23 +78031,19 @@ code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 9
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
+  - Code du travail - art. R712-23
 
 
 ###### Article R712-26
 
-Le délégué doit [*obligation*] visiter deux fois par mois [*périodicité*] les installations et services du jour de sa
-circonscription.
+Le délégué doit visiter deux fois par mois les installations et services du jour de sa circonscription.
 
 En dehors de ces visites réglementaires, le délégué peut procéder à des visites supplémentaires dans les installations et
 services de sa circonscription où il a des raisons de craindre que la sécurité et l'hygiène du personnel ne soient
@@ -78356,40 +78051,32 @@ compromises. Il doit, dans ce cas fournir une justification motivée de sa visit
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-23
 
 
 ###### Article R712-27
 
-Le délégué doit [*obligation*] en outre, procéder sans délai à la visite des lieux où est survenu un accident ayant
-occasionné la mort ou des blessures graves à un ou plusieurs ouvriers, ou pouvant compromettre la sécurité des ouvriers. Avis
-de l'accident doit être donné sur le champ au délégué par l'exploitant.
+Le délégué doit en outre, procéder sans délai à la visite des lieux où est survenu un accident ayant occasionné la mort ou
+des blessures graves à un ou plusieurs ouvriers, ou pouvant compromettre la sécurité des ouvriers. Avis de l'accident doit
+être donné sur le champ au délégué par l'exploitant.
 
-Le délégué doit noter sur le registre [*mention*] prévu à l'article R. 712-33  les circonstances et la nature de l'accident.
+Le délégué doit noter sur le registre prévu à l'article R. 712-33 les circonstances et la nature de l'accident.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-33
 
 
 ###### Article R712-28
@@ -78397,9 +78084,9 @@ _Codifié par_:
 Si le délégué estime que l'exploitation présente, dans les installations et services du jour qu'il vient de visiter, une
 cause de danger imminent au point de vue de la sécurité ou de l'hygiène, soit par suite de l'inapplication des lois ou
 règlements en vigueur, soit pour toute autre cause, il doit en aviser immédiatement et par écrit l'exploitant ou son
-représentant sur place. Cet avis, s'il a été verbal, doit être, sans aucun retard, confirmé par écrit [*forme*] à
-l'exploitant ou à son représentant sur place, qui devra, aussitôt averti, constater ou faire constater par préposé, en
-présence du délégué, l'état de choses signalé par ce dernier et prendre sous sa responsabilité les mesures appropriées.
+représentant sur place. Cet avis, s'il a été verbal, doit être, sans aucun retard, confirmé par écrit à l'exploitant ou à son
+représentant sur place, qui devra, aussitôt averti, constater ou faire constater par préposé, en présence du délégué, l'état
+de choses signalé par ce dernier et prendre sous sa responsabilité les mesures appropriées.
 
 Le délégué doit également informer sans délai les ingénieurs des mines afin de leur permettre d'intervenir, s'il y a lieu, et
 en porter mention sur le registre prévu à l'article R. 712-33 du présent code.
@@ -78409,65 +78096,45 @@ des mines, utiliser les moyens de communication téléphonique dont dispose l'ex
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 9
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R711-12 (VT)
 
+_Cite_:
+
+  - Code du travail - art. R712-33
+
 
 ###### Article R712-29
 
-Chaque année [*périodicité*], le délégué de la surface adresse à l'ingénieur des mines un rapport faisant connaître son
-opinion sur les mesures à prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre
-strictement professionnel tendant à favoriser le développement de la production.
+Chaque année, le délégué de la surface adresse à l'ingénieur des mines un rapport faisant connaître son opinion sur les
+mesures à prendre en ce qui concerne la sécurité des ouvriers mineurs et donnant ses suggestions d'ordre strictement
+professionnel tendant à favoriser le développement de la production.
 
 Ce rapport est communiqué à l'exploitant, qui fait connaître dans le délai d'un mois la suite qu'il compte donner aux
 observations du délégué. L'ingénieur des mines en rend compte dans son rapport annuel de surveillance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 10
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-30
 
-Le délégué, dans ses visites, est tenu [*obligations*] de se conformer à toutes les mesures prescrites par les règlements en
-vue d'assurer l'ordre, la sécurité et l'hygiène dans les travaux.
+Le délégué, dans ses visites, est tenu de se conformer à toutes les mesures prescrites par les règlements en vue d'assurer
+l'ordre, la sécurité et l'hygiène dans les travaux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 11
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-31
@@ -78479,17 +78146,9 @@ l'exploitation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 12
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-32
@@ -78511,8 +78170,8 @@ _Abrogé par_:
 ###### Article R712-33
 
 Les observations relevées par le délégué dans chacune de ses visites doivent être, le jour même ou au plus tard le lendemain,
-consignées par lui, sur un registre spécial [*mentions obligatoires*] fourni par l'exploitant dans chaque établissement ou
-service de la circonscription, et constamment tenu à la disposition des ouvriers.
+consignées par lui, sur un registre spécial fourni par l'exploitant dans chaque établissement ou service de la
+circonscription, et constamment tenu à la disposition des ouvriers.
 
 Le délégué inscrit sur le registre les heures auxquelles il a commencé et terminé sa visite, ainsi que l'itinéraire suivi par
 lui.
@@ -78524,68 +78183,43 @@ auteurs au préfet, qui les communique aux ingénieurs des mines.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. R712-27 (VT)
   - Code du travail - art. R712-28 (VT)
 
-_Anciens textes_:
-
-  - Décret  1949-03-11 ART. 14
-
 
 ###### Article R712-34
 
-Lors de leurs tournées, les ingénieurs du service des mines doivent viser le registre [*formalité obligatoire*] de chaque
-circonscription. Ils doivent toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la
-circonscription.
+Lors de leurs tournées, les ingénieurs du service des mines doivent viser le registre de chaque circonscription. Ils doivent
+toutes les fois qu'ils le jugent utile, se faire accompagner par le délégué de la circonscription.
 
 Le service des mines prendra les mesures utiles pour que tout délégué de la surface puisse accompagner dans sa visite un
 ingénieur du service des mines au moins une fois par trimestre pour les circonscriptions comprenant plus de 500 ouvriers et
-au moins une fois par an pour les circonscriptions comprenant 500 ouvriers ou moins de 500 ouvriers [*effectifs*].
+au moins une fois par an pour les circonscriptions comprenant 500 ouvriers ou moins de 500 ouvriers.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 15
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-35
 
-Lorsqu'un ingénieur du service des mines [*condition*], au cours d'une enquête, a été accompagné par un délégué de la
-surface, les constatations matérielles relevées au cours de la visite par l'ingénieur et concernant des faits signalés par le
-délégué dans son rapport, sont consignées sur le registre du délégué [*forme*].
+Lorsqu'un ingénieur du service des mines, au cours d'une enquête, a été accompagné par un délégué de la surface, les
+constatations matérielles relevées au cours de la visite par l'ingénieur et concernant des faits signalés par le délégué dans
+son rapport, sont consignées sur le registre du délégué.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 2 : Circonscriptions.<a id=978></a>
@@ -78594,22 +78228,18 @@ _Codifié par_:
 
 Un délégué et un délégué suppléant exercent leurs fonctions dans une circonscription de la surface définie par arrêté du
 préfet, rendu sous l'autorité du ministre chargé du travail, après rapport des ingénieurs des mines, l'exploitant entendu et
-les ouvriers intéressés remplissant les conditions [*électorales*] exigées par l'article R. 712-41 du présent code ainsi que
-les syndicats auxquels ils peuvent appartenir, ayant été appelés par voie d'affiches placées aux lieux habituels pour les
-avis aux ouvriers, à présenter leurs observations.
+les ouvriers intéressés remplissant les conditions exigées par l'article R. 712-41 du présent code ainsi que les syndicats
+auxquels ils peuvent appartenir, ayant été appelés par voie d'affiches placées aux lieux habituels pour les avis aux
+ouvriers, à présenter leurs observations.
 
-L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins après [*délai*] que les intéressés auront
-été appelés à présenter leurs observations.
+L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été appelés
+à présenter leurs observations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -78617,23 +78247,23 @@ _Cité par_:
   - Code du travail - art. R712-40 (VT)
   - Code du travail - art. R712-55 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret  1949-03-11 ART. 3
+  - Code du travail - art. R712-41
 
 
 ###### Article R712-37
 
 Tout ensemble d'installations ou services du jour non rattachés à une circonscription souterraine, en vertu du premier alinéa
-de l'article L. 712-33 et dépendant d'un même exploitant, constitue une seule circonscription de la surface, si [*condition*]
-la visite détaillée de ces installations et services n'exige pas plus de six jours [*durée limite*].
+de l'article L. 712-33 et dépendant d'un même exploitant, constitue une seule circonscription de la surface, si la visite
+détaillée de ces installations et services n'exige pas plus de six jours.
 
 Les installations et services visés à l'alinéa précédent et dont la visite détaillée exige plus de six et moins de douze,
 dix-huit, etc. jours sont subdivisés en deux, trois, etc. circonscriptions de la surface.
 
 Toutefois, l'arrêté du préfet, prévu à l'article R. 712-36 peut, sur avis de l'ingénieur en chef des mines, déroger aux
 prescriptions contenues dans les deux alinéas ci-dessus, lorsque leur application entraînerait la création de
-circonscriptions ayant plus de 1500 ouvriers [*effectifs*].
+circonscriptions ayant plus de 1500 ouvriers.
 
 Un même arrêté statue sur la composition des diverses circonscriptions de la surface entre lesquelles est ainsi divisé, s'il
 y a lieu, l'ensemble des installations et services du jour non rattachés à des circonscriptions souterraines et dépendant
@@ -78641,17 +78271,14 @@ d'un même exploitant sur le territoire d'une même commune ou de plusieurs comm
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-33
+  - Code du travail - art. R712-36
 
 _Cité par_:
 
@@ -78666,22 +78293,18 @@ les ouvriers intéressés remplissant les conditions exigées par l'article R. 7
 appartiendraient, ayant été appelés, par voie d'affiches placées aux lieux habituels pour les avis aux ouvriers, à présenter
 leurs observations.
 
-L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins [*délai*] après que les intéressés auront
-été appelés à présenter leurs observations.
+L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été appelés
+à présenter leurs observations.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-41
 
 _Cité par_:
 
@@ -78694,36 +78317,27 @@ A l'arrêté préfectoral est annexé un plan indiquant les établissements et s
 portant les limites des communes sur le territoire desquelles elle s'étend. Ce plan est fourni par l'exploitant en triple
 expédition sur la demande du préfet et conformément à ses indications.
 
-L'arrêté préfectoral est notifié, dans la huitaine [*délai*] à l'exploitant auquel est remis en même temps un des plans
-annexés audit arrêté.
+L'arrêté préfectoral est notifié, dans la huitaine à l'exploitant auquel est remis en même temps un des plans annexés audit
+arrêté.
 
-Ampliation de l'arrêté préfectoral avec un des plans annexés, reste déposée à la  mairie de la commune qui est désignée dans
+Ampliation de l'arrêté préfectoral avec un des plans annexés, reste déposée à la mairie de la commune qui est désignée dans
 l'arrêté parmi celles sur lesquelles s'étendent les circonscriptions qu'il délimite ; elle y est tenue, sans déplacement, à
 la disposition de tous les intéressés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 6
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 3 : Elections.<a id=979></a>
 
 ###### Article R712-40
 
-Lorsqu'il est possible de réunir en un collège unique les électeurs d'au moins [*minimum*] trois circonscriptions de la
-surface voisines et concernant des exploitations de même substance, les délégués et les délégués suppléants de la surface
-sont élus au scrutin de liste à deux tours avec représentation proportionnelle [*mode de scrutin*] dans les conditions fixées
-aux articles suivants.
+Lorsqu'il est possible de réunir en un collège unique les électeurs d'au moins trois circonscriptions de la surface voisines
+et concernant des exploitations de même substance, les délégués et les délégués suppléants de la surface sont élus au scrutin
+de liste à deux tours avec représentation proportionnelle dans les conditions fixées aux articles suivants.
 
 Un arrêté du préfet, pris dans les mêmes formes que l'arrêté prévu à l'article R. 712-36 ci-dessus, désigne s'il y a lieu les
 circonscriptions qui sont groupées en vue des élections, ainsi qu'une mairie proche du centre géographique de ce groupe de
@@ -78741,18 +78355,15 @@ par un arrêté conjoint du ministre chargé du travail et du ministre chargé d
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°73-351 1973-03-14 ART. 1
-  - Décret n°1949-03-11 ART. 17
+  - Loi n°46-1072 du 17 mai 1946
+  - Code du travail
+  - Code du travail - art. R712-36
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, à l'exception du quatrième alinéa
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -78768,28 +78379,24 @@ de la dernière paie effectuée pour cette circonscription avant la date de l'ar
 encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code électoral :
 
 1° Les ouvriers de la surface, de nationalité française ou ressortissant d'un Etat membre de la Communauté économique
-européenne [*CEE*] ;
+européenne ;
 
 2° Les autres ouvriers de la surface répondant aux conditions prévues par les traités internationaux, sous réserve de
-réciprocité, ou bien justifiant soit d'un Travail effectif de cinq années [*durée*] dans les mines en France, soit, s'ils
-sont frontaliers, d'un travail en France de trois ans.
+réciprocité, ou bien justifiant soit d'un Travail effectif de cinq années dans les mines en France, soit, s'ils sont
+frontaliers, d'un travail en France de trois ans.
 
 Les délégués de la surface sont électeurs dans leur circonscription.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1949-03-11 ART. 18
-  - Décret n°73-351 1973-03-14 ART. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code électoral - art. L5
+  - Code électoral - art. L6
 
 _Cité par_:
 
@@ -78866,38 +78473,33 @@ _Cité par_:
 
 ###### Article R712-43
 
-Pendant les cinq premières années [*période*] qui suivent l'ouverture d'une nouvelle exploitation, peuvent être élus les
-électeurs remplissant les conditions de l'article R. 712-42 (1°), à l'exclusion de celle exigeant un temps de travail minimum
-dans la circonscription.
+Pendant les cinq premières années qui suivent l'ouverture d'une nouvelle exploitation, peuvent être élus les électeurs
+remplissant les conditions de l'article R. 712-42 (1°), à l'exclusion de celle exigeant un temps de travail minimum dans la
+circonscription.
 
-Ne peuvent être délégués de la surface [*interdiction, incompatibilité*] les débitants de boissons, ceux dont le conjoint est
-débitant de boissons, ou qui exercent cette profession par personne interposée, ou qui exercent une activité quelconque
-concourant au fonctionnement d'un débit de boissons.
+Ne peuvent être délégués de la surface les débitants de boissons, ceux dont le conjoint est débitant de boissons, ou qui
+exercent cette profession par personne interposée, ou qui exercent une activité quelconque concourant au fonctionnement d'un
+débit de boissons.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 20
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ###### Article R712-44
 
-Dans les huit jours [*délai*] qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste
-électorale de la circonscription dressée par l'exploitant est remise par lui en trois exemplaires au maire de chacune des
-communes sur lesquelles s'étend la circonscription.
+Dans les huit jours qui suivent la publication de l'arrêté préfectoral convoquant les électeurs, la liste électorale de la
+circonscription dressée par l'exploitant est remise par lui en trois exemplaires au maire de chacune des communes sur
+lesquelles s'étend la circonscription.
 
-Le maire fait immédiatement afficher cette liste à la porte de la mairie et dresse procès-verbal de cet affichage
-[*formalités*] ; il envoie les deux autres exemplaires au préfet et au tribunal d'instance avec copie du procès-verbal
-d'affichage.
+Le maire fait immédiatement afficher cette liste à la porte de la mairie et dresse procès-verbal de cet affichage ; il envoie
+les deux autres exemplaires au préfet et au tribunal d'instance avec copie du procès-verbal d'affichage.
 
 Dans le même délai de huit jours, l'exploitant fait afficher ladite liste aux lieux habituels pour les avis donnés aux
 ouvriers et remet les cartes électorales aux maires des communes où résident les électeurs, à charge pour eux de les remettre
@@ -78905,64 +78507,43 @@ aux électeurs ou de les tenir à leur disposition à la mairie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 21
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-45
 
 Si l'exploitant ne fait pas afficher la liste électorale et ne la remet pas au maire, ainsi que les cartes électorales, dans
 les délais et conditions ci-dessus prévus, le préfet fait dresser et afficher cette liste et assure la distribution des
-cartes électorales, le tout aux frais de l'exploitant [*sanction*], sans préjudice des peines qui pourront être prononcées
-contre ce dernier.
+cartes électorales, le tout aux frais de l'exploitant, sans préjudice des peines qui pourront être prononcées contre ce
+dernier.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1949-03-11 art. 22
-
-_Codifié par_:
-
-  - Décret n°73-1047 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-46
 
-En cas de réclamation des intéressés, le recours doit être formé dans les douze jours [*délai*] qui suivent l'affichage de la
-liste électorale par le maire le moins diligent, devant le juge du tribunal d'instance, qui statue d'urgence et en dernier
-ressort.
+En cas de réclamation des intéressés, le recours doit être formé dans les douze jours qui suivent l'affichage de la liste
+électorale par le maire le moins diligent, devant le juge du tribunal d'instance, qui statue d'urgence et en dernier ressort.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 23 AL. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-47
 
-Dans les dix jours [*délai*] qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-48, les
-organisations syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée [*forme*], la liste des
-candidats qu'elles désirent présenter aux élections de délégués de la surface. A la lettre précitée sont jointes les pièces
-établissant que les candidats satisfont aux conditions fixées à l'article R. 712-42.
+Dans les dix jours qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-48, les organisations
+syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée, la liste des candidats qu'elles désirent
+présenter aux élections de délégués de la surface. A la lettre précitée sont jointes les pièces établissant que les candidats
+satisfont aux conditions fixées à l'article R. 712-42.
 
 Dans les sept jours qui suivent, l'ingénieur en chef des mines constate l'éligibilité ou la non-éligibilité des candidats.
 
@@ -78975,24 +78556,21 @@ aux trois alinéas précédents, notifier sa candidature à l'ingénieur en chef
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 24
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-42
+  - Code du travail - art. R712-48
+  - Code du travail - art. R712-51
 
 
 ###### Article R712-48
 
-Les électeurs sont convoqués par un arrêté du préfet. L'arrêté doit [*condition de forme *] être publié et affiché dans les
-communes, installations et services intéressés, trente jours au moins avant l'élection [*délai*], qui doit toujours avoir
-lieu un jour de travail en semaine.
+Les électeurs sont convoqués par un arrêté du préfet. L'arrêté doit être publié et affiché dans les communes, installations
+et services intéressés, trente jours au moins avant l'élection, qui doit toujours avoir lieu un jour de travail en semaine.
 
 L'arrêté fixe la date des élections ainsi que les heures auxquelles sera ouvert et fermé le scrutin, de manière à permettre
 aux électeurs du poste de nuit le vote à la sortie du travail.
@@ -79001,17 +78579,9 @@ Il sera procédé au vote sur le lieu de travail, en dehors des heures de travai
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 25
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -79027,57 +78597,40 @@ ayant présenté une liste de candidats. Le temps passé par les assesseurs ouvr
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-50
 
-Les bulletins de vote doivent [*conditions*] comporter autant de noms de candidats aux fonctions de délégués titulaires et
-aux fonctions de délégués suppléants de la surface qu'il y a de sièges à pourvoir. En face du nom de chaque candidat est
-indiquée la circonscription dont l'intéressé brigue le siège. Le panachage est interdit. Est réputé nul [*sanction*] tout
-bulletin portant le nom d'un candidat dont l'éligibilité n'a pas été reconnue.
+Les bulletins de vote doivent comporter autant de noms de candidats aux fonctions de délégués titulaires et aux fonctions de
+délégués suppléants de la surface qu'il y a de sièges à pourvoir. En face du nom de chaque candidat est indiquée la
+circonscription dont l'intéressé brigue le siège. Le panachage est interdit. Est réputé nul tout bulletin portant le nom d'un
+candidat dont l'éligibilité n'a pas été reconnue.
 
 Le vote a lieu, sous peine de nullité, sous enveloppe d'un type uniforme déposé à la préfecture.
 
 Avant de déposer son vote l'électeur doit passer par un isoloir où il puisse mettre son bulletin sous enveloppe.
 
-L'exploitant ne peut pas [*interdiction*] se présenter ni se faire représenter dans le local de vote pendant les opérations
-électorales.
+L'exploitant ne peut pas se présenter ni se faire représenter dans le local de vote pendant les opérations électorales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 27
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-51
 
-Si les élections sont faites suivant le régime de la représentation proportionnelle [*mode de scrutin*], et si, au prenier
-tour de scrutin le nombre de votants, bulletins blancs ou nuls non compris, est inférieur à la moitié des électeurs inscrits
-[*quorum*], il est procédé, dans les mêmes conditions de forme et de durée, à la date fixée par le préfet dans l'arrêté de
-convocation visé à l'article R. 712-48 à un second tour de scrutin, au cours duquel les électeurs peuvent voter pour des
-listes autres que celles présentées par les organisations syndicales.
+Si les élections sont faites suivant le régime de la représentation proportionnelle, et si, au prenier tour de scrutin le
+nombre de votants, bulletins blancs ou nuls non compris, est inférieur à la moitié des électeurs inscrits il est procédé,
+dans les mêmes conditions de forme et de durée, à la date fixée par le préfet dans l'arrêté de convocation visé à l'article
+R. 712-48 à un second tour de scrutin, au cours duquel les électeurs peuvent voter pour des listes autres que celles
+présentées par les organisations syndicales.
 
-Le nombre de circonscriptions de délégués de la surface à attribuer à chaque liste est déterminé [*calcul*] comme suit :
+Le nombre de circonscriptions de délégués de la surface à attribuer à chaque liste est déterminé comme suit :
 
 Il est attribué à chaque liste de candidats autant de circonscriptions que le nombre total de voix recueilli par elle
 contient de fois le quotient électoral. Le quotient électoral est égal au nombre total des suffrages valablement exprimés par
@@ -79118,17 +78671,14 @@ déclaré élu. Si les nombres des suffrages sont égaux le plus âgé des candi
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 28
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-40
+  - Code du travail - art. R712-48
 
 _Cité par_:
 
@@ -79175,49 +78725,41 @@ d'égalité de pourcentage de suffrages pour cette liste dans plusieurs circonsc
 appliquera les règles prévues à l'article R. 712-23 pour les délégués mineurs du fond.
 
 Au cas où aucun candidat de la même liste ne remplirait les conditions énumérées à l'alinéa précédent, il sera procédé à de
-nouvelles élections au scrutin de liste majoritaire [*mode de scrutin*] à deux tours dans le délai d'un mois fixé à l'article
-L. 712-23.
+nouvelles élections au scrutin de liste majoritaire à deux tours dans le délai d'un mois fixé à l'article L. 712-23.
 
 2° Si le délégué avait été élu au scrutin de liste majoritaire à deux tours, il est procédé à de nouvelles élections, avec le
 même mode de scrutin, dans le délai d'un mois fixé à l'article L. 712-23.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 30
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-23
+  - Code du travail - art. R712-23
 
 
 ###### Article R712-54
 
-Peut être annulée [*sanction*] toute élection dans laquelle les candidats auraient influencé le vote en promettant de
-s'immiscer dans les questions ou revendications étrangères à l'objet des fonctions de délégués telles qu'elles sont définies
-à l'article R. 712-25.
+Peut être annulée toute élection dans laquelle les candidats auraient influencé le vote en promettant de s'immiscer dans les
+questions ou revendications étrangères à l'objet des fonctions de délégués telles qu'elles sont définies à l'article R.
+712-25.
 
 Peut être également annulée toute élection précédée de manoeuvres qui auront permis d'éluder en fait les prescriptions de
 l'article R. 712-41.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 31
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ###### Article R712-55
@@ -79232,64 +78774,52 @@ proclame les élus et adresse au préfet le procès-verbal détaillé des opéra
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 32
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R712-36
+  - Code du travail - art. R712-40
 
 
 ###### Article R712-56
 
-Les articles L. 712-21 à L. 712-23 et R. 712-20 à R. 712-22 [*voies de recours, opérations électorales*] du présent code sont
-applicables aux élections des délégués de la surface.
+Les articles L. 712-21 à L. 712-23 et R. 712-20 à R. 712-22 du présent code sont applicables aux élections des délégués de la
+surface.
 
 **Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
 
 _Cité par_:
 
   - Code du travail - art. R712-59 (VT)
-
-_Anciens textes_:
-
-  - Décret  1949-03-11 ART. 33
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ##### Paragraphe 4 : Dispositions spéciales.<a id=980></a>
 
 ###### Article R712-57
 
-Sont applicables aux délégués de la surface, titulaires et suppléants, les articles L. 712-24 à L. 712-26 [*sanction*], les
-premier, troisième et quatrième alinéas de l'article L. 712-28 [*visites*], les articles L. 712-29 et L. 712-30 du présent
-code [*indemnités*].
+Sont applicables aux délégués de la surface, titulaires et suppléants, les articles L. 712-24 à L. 712-26, les premier,
+troisième et quatrième alinéas de l'article L. 712-28, les articles L. 712-29 et L. 712-30 du présent code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 34
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ##### Section 3 : Dispositions communes aux délégués mineurs du fond et aux délégués de la surface<a id=981></a>
@@ -79299,46 +78829,35 @@ _Codifié par_:
 ###### Article R712-58
 
 En application des dispositions du premier alinéa de l'article L. 712-33, le rattachement des installations et services du
-jour dépendant d'un même siège d'extraction et occupant moins de 150 ouvriers [*effectifs*] à la circonscription souterraine
-comprenant ledit siège d'extraction, sera constaté par arrêté du préfet, pris sur le simple rapport des ingénieurs des mines.
-Le même arrêté constatera la nouvelle composition de la circonscription de la surface considérée. Toutefois si cette dernière
-est ainsi réduite de telle façon que le temps consacré à la visite détaillée prévue à l'article R. 712-37 n'atteigne pas deux
+jour dépendant d'un même siège d'extraction et occupant moins de 150 ouvriers à la circonscription souterraine comprenant
+ledit siège d'extraction, sera constaté par arrêté du préfet, pris sur le simple rapport des ingénieurs des mines. Le même
+arrêté constatera la nouvelle composition de la circonscription de la surface considérée. Toutefois si cette dernière est
+ainsi réduite de telle façon que le temps consacré à la visite détaillée prévue à l'article R. 712-37 n'atteigne pas deux
 jours, elle pourra être rattachée, par le même arrêté, à la circonscription de la surface de même nature la plus voisine.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 37
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L712-33
+  - Code du travail - art. R712-37
 
 
 ###### Article R712-60
 
 En cas de suppression pure et simple d'une circonscription souterraine ou de la surface, il n'est pas procédé à de nouvelles
 élections au sein du collège électoral comprenant les ouvriers de la circonscription considérée, même si le délégué de ladite
-circonscription avait été élu au scrutin de liste avec représentation proportionnelle [*mode de scrutin*].
+circonscription avait été élu au scrutin de liste avec représentation proportionnelle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-11 ART. 39
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre Ier : Energie<a id=983></a>
@@ -79630,10 +79149,10 @@ _Cite_:
 
 ###### Article R721-3
 
-Tout donneur d'ouvrage à domicile doit tenir [*obligation*] une comptabilité distincte des matières premières et fournitures
-destinées au travailleur à domicile.
+Tout donneur d'ouvrage à domicile doit tenir une comptabilité distincte des matières premières et fournitures destinées au
+travailleur à domicile.
 
-Cette comptabilité doit faire ressortir séparément [*mentions*] :
+Cette comptabilité doit faire ressortir séparément :
 
 A l'entrée en magasin : la date d'entrée, la quantité et la nature de chaque article ;
 
@@ -79655,19 +79174,21 @@ _Cité par_:
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R792-1 (VT)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°64-18 1964-01-04 ART. 6
-  - Code du travail 1033 F
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R721-2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R7413-1 (V)
+  - Code du travail - art. R7413-2 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. R721-12 (V)
   - TXT_ASSOCIE: Code du travail - art. R792-1 (V)
 
 
@@ -79681,17 +79202,17 @@ domicile.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-01-04 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7413-3 (V)
 
 
 ##### Section 2 : Contrat de travail.<a id=994></a>
@@ -79699,25 +79220,26 @@ _Codifié par_:
 ###### Article R721-5
 
 Pour l'application aux travailleurs à domicile liés par un contrat de travail à durée indéterminée des dispositions des
-articles L. 122-4 [*résiliation*], L. 122-5 et L. 122-9 à L. 122-14 relatives au préavis, l'indemnité due, sauf rupture pour
-faute grave, en cas d'inobservation du préavis, est calculée sur la moyenne des salaires des six mois [*période*] précédant
-la rupture du contrat.
+articles L. 122-4, L. 122-5 et L. 122-9 à L. 122-14 relatives au préavis, l'indemnité due, sauf rupture pour faute grave, en
+cas d'inobservation du préavis, est calculée sur la moyenne des salaires des six mois précédant la rupture du contrat.
 
 Cette disposition n'est applicable qu'à défaut de modalités différentes prévues par une convention collective de travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-01-04 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. L122-4
+  - Code du travail - art. L122-5
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7413-4 (V)
 
 
 ##### Section 3 : Salaires.<a id=995></a>
@@ -79731,17 +79253,18 @@ sur les salaires et les frais d'atelier.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-01-04 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L721-11
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7422-2 (V)
+  - Code du travail - art. R7422-3 (V)
 
 
 ###### Article R721-7
@@ -79749,26 +79272,32 @@ _Codifié par_:
 Les arrêtés préfectoraux prévus aux articles L. 721-11, L. 721-12 et L. 721-15 sont publiés dans le délai d'un mois au
 maximum après la date à laquelle ils ont été pris et sont insérés au recueil des actes administratifs du département.
 
-A l'expiration du délai d'un jour franc à compter de leur publication au chef-lieu du département [*point de départ*], ces
-arrêtés sont applicables dans l'étendue du département ou de la circonscription qu'ils concernent.
+A l'expiration du délai d'un jour franc à compter de leur publication au chef-lieu du département, ces arrêtés sont
+applicables dans l'étendue du département ou de la circonscription qu'ils concernent.
 
-Les arrêtés ministériels prévus aux articles L. 721-11, L. 721-12 et L. 721-15 sont publiés au Journal Officiel [*JORF*].
+Les arrêtés ministériels prévus aux articles L. 721-11, L. 721-12 et L. 721-15 sont publiés au Journal Officiel.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. L721-11
+  - Code du travail - art. L721-15
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. L721-12 (M)
   - TXT_ASSOCIE: Code du travail - art. L721-15 (AbD)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 1033 AL. 1, 2, 3
+  - Code du travail - art. R7422-4 (V)
+  - Code du travail - art. R7422-8 (V)
 
 
 ###### Article R721-8
@@ -79789,27 +79318,31 @@ Dans le cas d'exécution d'heures supplémentaires le pourcentage correspondant 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-01-04 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. L721-11
+  - Code du travail - art. L721-13
+  - Code du travail - art. L721-16
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7422-10 (V)
+  - Code du travail - art. R7422-11 (V)
 
 
 ###### Article R721-9
 
 Les temps d'exécution des travaux à domicile, les prix de façon ou les salaires applicables à ces travaux et les frais
-d'atelier et frais accessoires doivent être affichés [*obligation*] en permanence par tout donneur d'ouvrage dans les locaux
-d'attente ainsi que dans ceux où s'effectuent la remise au travailleur des matières premières ou objets et la réception des
-articles après exécution. Cette disposition ne s'applique pas au domicile privé des travailleurs, lorsque la remise de ces
-matières premières ou objets et la réception des marchandises y sont effectuées par les soins des donneurs d'ouvrages ou de
-leurs intermédiaires.
+d'atelier et frais accessoires doivent être affichés en permanence par tout donneur d'ouvrage dans les locaux d'attente ainsi
+que dans ceux où s'effectuent la remise au travailleur des matières premières ou objets et la réception des articles après
+exécution. Cette disposition ne s'applique pas au domicile privé des travailleurs, lorsque la remise de ces matières
+premières ou objets et la réception des marchandises y sont effectuées par les soins des donneurs d'ouvrages ou de leurs
+intermédiaires.
 
 Le préfet peut, en outre, décider l'affichage dans les mairies des communes intéressées des dispositions réglementaires
 relatives aux temps d'exécution, aux prix de façon, aux frais d'atelier et frais accessoires ainsi que la remise d'un extrait
@@ -79823,18 +79356,18 @@ _Cité par_:
   - Code du travail - art. L611-1 (M)
   - Code du travail - art. R792-1 (VT)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R7422-12 (V)
+  - Code du travail - art. R7422-13 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R792-1 (V)
-
-_Anciens textes_:
-
-  - Code du travail 1033 O AL. 4 ET 5
 
 
 ##### Section 4 : Règlement des litiges.<a id=996></a>
@@ -79846,21 +79379,21 @@ rémunération des travailleurs à domicile et notamment pour redresser tous com
 tarif minimum défini à l'article L. 721-9.
 
 La différence constatée en moins entre le salaire effectivement versé et celui qui aurait dû l'être doit être payée au
-travailleur sans préjudice de l'indemnité à laquelle le donneur d'ouvrage pourra être condamné [*sanction*].
+travailleur sans préjudice de l'indemnité à laquelle le donneur d'ouvrage pourra être condamné.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L721-9
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 1033 L AL. 1 ET 2
+  - Code du travail - art. R7423-1 (V)
 
 
 ##### Section 5 : Dispositions spéciales à l'agriculture.<a id=997></a>
@@ -79923,22 +79456,21 @@ _Nouveaux textes_:
 
 ###### Article R721-14
 
-Le délai minimum d'exécution de la mise en demeure prévue par l'article L. 721-22, 3e alinéa [*Hygiène et sécurité*], est
-fixé à quinze jours.
+Le délai minimum d'exécution de la mise en demeure prévue par l'article L. 721-22, 3e alinéa, est fixé à quinze jours.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Code du travail 2065 A
+  - Code du travail - art. R7424-2 (V)
 
 
 #### Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes<a id=999></a>
@@ -80578,7 +80110,7 @@ _Anciens textes_:
 Les dispositions des articles L. 731-1 à L.731-13 sont applicables :
 
 1° Aux travailleurs appartenant aux activités professionnelles mentionnées par le décret du 9 avril 1959 relatif à la
-nomenclature des activités économiques [*INSEE*] sous les numéros ci-après :
+nomenclature des activités économiques sous les numéros ci-après :
 
 330.
 
@@ -80604,16 +80136,6 @@ nomenclature des activités économiques [*INSEE*] sous les numéros ci-après :
 exploitées par les entreprises du bâtiment et des travaux publics.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-484 1960-05-23
-  - Décret n°1946-12-11 ART. 1 Décret 1949-08-16
-  - Loi n°1946-10-21
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 **Liens**:
 
@@ -80657,6 +80179,18 @@ _Cité par_:
   - Code du travail - art. R731-19 (M)
   - Code du travail - art. R731-2 (VT)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-7 (V)
+
 
 ###### Article R731-2
 
@@ -80668,24 +80202,30 @@ les plus représentatives pour les activités professionnelles mentionnées à l
 chargé de la construction, l'ingénieur en chef des ponts et chaussées du service ordinaire, éventuellement l'ingénieur en
 chef du service de la navigation ou l'ingénieur en chef du service maritime. Peuvent être également appelés à siéger à cette
 commission l'ingénieur en chef de la circonscription électrique et l'ingénieur du service de la voie de la Société nationale
-des chemins de fer français [*SNCF*].
+des chemins de fer français.
 
 Ces périodes peuvent varier selon la nature des professions énumérées à l'article R. 731-1 et peuvent, chaque année, faire
-l'objet d'une révision qui doit intervenir avant le 1er août [*date limite*].
+l'objet d'une révision qui doit intervenir avant le 1er août.
 
 Les décisions du directeur départemental du travail et de la main-d'oeuvre sont soumises à l'approbation du ministre chargé
 du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 2
-  - Décret  1949-08-16 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-10 (V)
+  - Code du travail - art. D5424-8 (V)
+  - Code du travail - art. D5424-9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L731-1
+  - Code du travail - art. R731-1
 
 
 ###### Article R731-3
@@ -80696,10 +80236,6 @@ La période prévue au même article est constituée par les deux mois précéda
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Arrêté du 18 février 2003 - art. 3 (V)
@@ -80707,13 +80243,21 @@ _Cité par_:
   - Arrêté du 18 février 2003 - art. 5 (M)
   - Code du travail - art. R731-17 (VT)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-11 (V)
+
+_Cite_:
+
+  - Code du travail - art. L731-4
+
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. L731-4 (AbD)
-
-_Anciens textes_:
-
-  - Loi   1946-10-21 ART. 4
 
 
 ###### Article R731-5
@@ -80780,18 +80324,22 @@ fixées par arrêté du ministre chargé du travail pris sur proposition de la C
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-501 1965-06-28 ART. 1
-  - Loi n°1946-10-21 ART. 9
-
 _Cité par_:
 
   - Décret n°72-230 du 24 mars 1972 - art. 6 (Ab)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-41 (V)
+
+_Cite_:
+
+  - Code du travail - art. D732-1
+  - Code du travail - art. L731-9
 
 
 ###### Article R731-8
@@ -80802,17 +80350,21 @@ articles L. 731-1 à L. 731-13 du présent code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1946-12-11 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Arrêté du 25 septembre 1998 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-17 (V)
 
 
 ###### Article R731-9
@@ -80837,13 +80389,20 @@ partir de la date de cette réouverture [*sanction*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-08-16 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-18 (V)
+  - Code du travail - art. D5424-19 (V)
+  - Code du travail - art. D5424-20 (V)
+  - Code du travail - art. D5424-21 (V)
 
 
 ###### Article R731-10
@@ -80857,13 +80416,13 @@ cours de la période d'inactivité lorsque le délai-congé a été donné avant
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-08-16 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-22 (V)
 
 
 ###### Article R731-11
@@ -80873,24 +80432,27 @@ exerçant une ou plusieurs activités professionnelles mentionnées à l'article
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 **Liens**:
 
   - TXT_ASSOCIE: Arrêté du 11 août 1995
   - TXT_ASSOCIE: Arrêté du 11 août 1995 - art. 1 (V)
   - TXT_ASSOCIE: Arrêté du 11 août 1995 - art. 2 (V)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
 _Cité par_:
 
   - Arrêté du 6 mai 1986 - art. 1 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret  1946-12-11 ART. 5
-  - Décret  1949-08-16
+  - Code du travail - art. D5424-29 (V)
+
+_Cite_:
+
+  - Code du travail - art. R731-1
 
 
 ###### Article R731-12
@@ -80901,13 +80463,17 @@ caisse de compensation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-30 (V)
+
+_Cite_:
+
+  - Code du travail - art. L731-5
 
 
 ###### Article R731-13
@@ -80919,13 +80485,17 @@ des indemnités prévues.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-44 (V)
+
+_Cite_:
+
+  - Code du travail - art. R143-3
 
 
 ###### Article R731-14
@@ -80937,13 +80507,17 @@ l'entreprise.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-31 (V)
+
+_Cite_:
+
+  - Code du travail - art. R731-1
 
 _Cité par_:
 
@@ -80969,18 +80543,25 @@ des ouvriers ou employés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Arrêté du 18 février 2003 - art. 1 (V)
   - Code du travail - art. R731-5 (VT)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 9
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-32 (V)
+  - Code du travail - art. D5424-33 (V)
+  - Code du travail - art. D5424-34 (V)
+  - Code du travail - art. D5424-35 (V)
 
 
 ###### Article R731-16
@@ -81027,13 +80608,23 @@ prévues à l'article R. 731-14.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-12-11 ART. 12
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. R731-14
+  - Code du travail - art. R731-3
+  - Code du travail - art. R731-4
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-46 (V)
+  - Code du travail - art. D5424-47 (V)
+  - Code du travail - art. D5424-48 (V)
+  - Code du travail - art. D5424-49 (V)
 
 
 ###### Article R731-18
@@ -81044,10 +80635,6 @@ montant est fixé annuellement [*périodicité*] par arrêté des ministres char
 économiques, sans pouvoir être inférieur [*limite*] à 8000 fois le salaire horaire du manoeuvre de l'industrie du bâtiment.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 **Liens**:
 
@@ -81065,9 +80652,13 @@ _Cité par_:
   - Code du travail - art. R731-19 (VT)
   - Code du travail - art. R731-20 (VT)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-01 ART. 2 AL. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5424-36 (V)
 
 
 ###### Article R731-19
@@ -81123,13 +80714,13 @@ des cotisations des entreprises, d'effectuer des remboursements.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1949-03-01 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5424-42 (V)
 
 
 ### Titre IV : Transports et télécommunications.<a id=1008></a>
@@ -82635,18 +82226,14 @@ La carte d'identité professionnelle doit indiquer si l'activité du représenta
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-03-09
-  - Loi   1919-10-08 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D7312-13 (V)
+  - Code du travail - art. D7312-7 (V)
 
 
 ###### Article R751-3
@@ -82662,23 +82249,24 @@ avis dans le délai d'un mois à l'autorité qui a délivré la carte.
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7312-1 (V)
+  - Code du travail - art. D7312-20 (V)
+  - Code du travail - art. D7312-5 (V)
+
 _Cité par_:
 
   - Code du travail - art. D751-3 (VT)
   - Code du travail - art. D751-6 (VT)
-
-_Anciens textes_:
-
-  - Décret  1959-03-09
-  - Loi   1919-10-08 ART. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ###### Article R751-4
@@ -82691,21 +82279,22 @@ l'article 4 de ladite loi.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
+  - Loi   1947-08-30 ART. 4
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7312-22 (V)
 
 _Cité par_:
 
   - Code du travail - art. D751-9 (VT)
-
-_Anciens textes_:
-
-  - Loi   1919-10-08 ART. 4
 
 
 ###### Article R751-5
@@ -82715,17 +82304,14 @@ de ce délai, elle peut être validée à quatre reprises chaque fois pour une d
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Loi   1919-10-08 ART. 5
+  - Code du travail - art. D7312-15 (V)
+  - Code du travail - art. D7312-9 (V)
 
 
 ### Titre VI : Journalistes, artistes, mannequins<a id=1027></a>
@@ -82747,19 +82333,18 @@ heures [*délai*] par les soins de l'un des arbitres ou du président de la comm
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D7112-3 (V)
+  - Code du travail - art. D7112-4 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°1938-03-04 ART. 15
-  - Loi n°50-205 1950-02-11 ART. 19 AL. 7
-  - Loi n°53-282 1953-04-03
+  - Code du travail - art. L761-5
 
 
 ##### Section 3 : Rémunération et congés.<a id=1030></a>
@@ -82771,18 +82356,17 @@ et le 15 janvier de chaque année [*période*].
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L761-10
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. L761-10 (AbD)
-
-_Anciens textes_:
-
-  - Loi n°29-335 1929-00-00 ART. 3 AL. 1
 
 
 ##### Section 4 : Carte d'identité professionnelle<a id=1031></a>
@@ -82798,21 +82382,28 @@ Cette carte ne peut être délivrée qu'aux personnes répondant aux conditions 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L761-15
+  - Code du travail - art. L761-16
+  - Code du travail - art. L761-2
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. L761-2 (M)
 
+_Nouveaux textes_:
+
+  - Code du travail - art. R7111-1 (V)
+  - Code du travail - art. R7111-18 (V)
+
 _Cité par_:
 
   - Code du travail - art. R761-4 (VT)
-
-_Anciens textes_:
-
-  - Décret  1936-01-17 ART. 1
 
 
 ###### Article R761-4
@@ -82825,17 +82416,18 @@ dès lors que ces journalistes répondent à toutes les autres conditions fixée
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°63-951 1963-09-14 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. D871-1 (VT)
+
+_Cite_:
+
+  - Code du travail - art. L761-4
+  - Code du travail - art. R761-3
 
 
 ###### Article R761-9
@@ -82879,17 +82471,18 @@ justifications déjà produites à l'appui de la demande initiale, en exécution
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1936-01-17 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7111-7 (V)
+  - Code du travail - art. R7111-8 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R761-8
 
 
 ###### Article R761-15
@@ -82903,13 +82496,15 @@ l'intéressé par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7111-10 (V)
+  - Code du travail - art. R7111-12 (V)
+  - Code du travail - art. R7111-13 (V)
 
 _Cité par_:
 
@@ -82917,11 +82512,6 @@ _Cité par_:
   - Code du travail - art. R761-18 (VT)
   - Code du travail - art. R761-22 (VT)
   - Code du travail - art. R761-23 (VT)
-
-_Anciens textes_:
-
-  - Décret  1936-01-17 ART. 9
-  - Décret  1949-06-22
 
 
 ###### Article R761-17
@@ -82936,17 +82526,22 @@ La réclamation formulée dans le délai prévu au présent article est suspensi
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R7111-30 (V)
+  - Code du travail - art. R7111-31 (V)
+
+_Cite_:
+
+  - Code du travail - art. R761-15
 
 _Cité par_:
 
   - Code du travail - art. R761-23 (VT)
-
-_Anciens textes_:
-
-  - Décret  1936-01-17 ART. 10 AL. 8, 9, 11
 
 
 ##### Paragraphe 2 : Carte d'identité de journaliste professionnel honoraire<a id=1033></a>
@@ -82966,18 +82561,9 @@ un journal non clandestin.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°54-859 1954-09-02 ART. 2
-  - Loi n°1953-12-15
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R761-21
@@ -82987,18 +82573,17 @@ conditions prévues à l'article R. 761-7.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°54-859 1954-09-02 ART. 4
-  - Loi n°1953-12-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7111-15 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R761-7
 
 
 ###### Article R761-22
@@ -83012,18 +82597,18 @@ inexactes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°54-859 1954-09-02 ART. 5
-  - Loi n°1953-12-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7111-16 (V)
+  - Code du travail - art. R7111-17 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R761-15
 
 
 ###### Article R761-23
@@ -83034,18 +82619,19 @@ et R. 761-18.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°54-859 1954-09-02 ART. 6
-  - Loi n°1953-12-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7111-29 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R761-15
+  - Code du travail - art. R761-17
+  - Code du travail - art. R761-18
 
 
 #### Chapitre II : Artistes, auteurs, compositeurs, gens de lettres<a id=1034></a>
@@ -83140,18 +82726,14 @@ siège d'une agence artistique ou à la création de succursales ou de bureaux a
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°69-1185 1969-12-26
-  - Décret n°71-971 du 3 décembre 1971 - art. 2, v. init.
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7121-15 (Ab)
+  - Code du travail - art. R7121-21 (Ab)
 
 _Cité par_:
 
@@ -83191,21 +82773,22 @@ possédant une compétence particulière.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-971 1971-12-03 ART. 3 LOI 69-1185 1969-12-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7121-16 (V)
+  - Code du travail - art. R7121-17 (Ab)
 
 _Cité par_:
 
   - Code du travail - art. R762-14 (VT)
+
+_Cite_:
+
+  - Code du travail - art. R762-3
 
 
 ###### Article R762-5
@@ -83217,18 +82800,9 @@ partage, le président a voix prépondérante.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°69-1185 1969-12-26
-  - Décret n°71-971 1971-12-03 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R762-6
@@ -83295,22 +82869,22 @@ représentants devront être munis d'une procuration établie sur papier libre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°69-1185 1969-12-26
-  - Décret n°71-971 1971-12-03 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7121-6 (V)
+  - Code du travail - art. R7121-7 (Ab)
 
 _Cité par_:
 
   - Code du travail - art. R762-2 (VT)
+
+_Cite_:
+
+  - Code du travail - art. R762-3
 
 
 ###### Article R762-9
@@ -83374,18 +82948,16 @@ lettre recommandée avec demande d'avis de réception [*formalités*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-971 1971-11-03 ART. 10
-  - Loi n°69-1185 1969-12-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7121-23 (Ab)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R796-3 (M)
 
 _Cité par_:
@@ -83401,18 +82973,16 @@ le siège de l'agence. Cette notification doit être faite par lettre recommand�
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°69-1185 1969-12-26
-  - Décret n°71-971 1971-12-03 ART. 11
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7121-24 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R796-3 (M)
 
 _Cité par_:
@@ -83438,18 +83008,22 @@ Les succursales et bureaux annexes des agences artistiques doivent satisfaire au
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°69-1185 1969-12-26
-  - Décret n°71-971 1971-12-03 ART. 12
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7121-25 (V)
+  - Code du travail - art. R7121-26 (Ab)
+  - Code du travail - art. R7121-27 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. R762-7
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. R796-3 (M)
 
 _Cité par_:
@@ -83470,17 +83044,17 @@ le remboursement à l'artiste, en sus de la rémunération de leurs services de 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-971 1971-12-03 ART. 13, 14 ET 15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7121-20 (Ab)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R762-4
 
 
 ### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1038></a>
@@ -83495,22 +83069,19 @@ déterminée conformément aux dispositions des articles L. 223-2 à L. 223-6.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
+  - Code du travail - art. L771-1
 
 _Cité par_:
 
   - Code du travail - art. R771-3 (VT)
   - Code du travail - art. R771-7 (VT)
-
-_Anciens textes_:
-
-  - Décret  1956-05-14 ART. 1 AL. 1
 
 
 ###### Article R771-2
@@ -83540,9 +83111,9 @@ _Nouveaux textes_:
 
 ###### Article R771-3
 
-Sont réputés ouvrables [*définition*] pour la détermination du congé [*payé*], tous les jours autres que le dimanche et ceux
-qui, en vertu de la loi, de l'usage ou de la convention sont fériés et obligatoirement chômés par les catégories de
-travailleurs mentionnées à l'article R. 771-1.
+Sont réputés ouvrables pour la détermination du congé, tous les jours autres que le dimanche et ceux qui, en vertu de la loi,
+de l'usage ou de la convention sont fériés et obligatoirement chômés par les catégories de travailleurs mentionnées à
+l'article R. 771-1. 
 
 En aucun cas, le congé ne peut être confondu avec un temps de maladie, avec les périodes de cure indemnisées par la sécurité
 sociale, avec les périodes légales de repos des femmes en couches, avec les périodes obligatoires d'instruction du service
@@ -83550,17 +83121,18 @@ national ou avec les repos payés bénévolement accordés par l'employeur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 1 AL. 4, 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7213-2 (V)
+  - Code du travail - art. R7213-3 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R771-1
 
 
 ###### Article R771-4
@@ -83578,23 +83150,23 @@ plus favorable, de la règle du douzième ci-dessus rappelée.
 
 **Liens relatifs à cet article**
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L223-5
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R7213-9 (VT)
+  - Code du travail - art. R7221-2 (V)
+
 _Cité par_:
 
   - Code du travail - art. R771-5 (VT)
   - Code du travail - art. R771-6 (VT)
-
-_Anciens textes_:
-
-  - Décret  1956-05-14 ART. 2
-  - Loi   1969-05-16
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ###### Article R771-5
@@ -83607,17 +83179,17 @@ département, localité ou groupe de localités, par arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7213-11 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R771-4
 
 _Cité par_:
 
@@ -83631,17 +83203,20 @@ déterminées par les articles L. 223-14 et R. 223-2 en cas de licenciement, de 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L223-14
+  - Code du travail - art. R223-2
+  - Code du travail - art. R771-4
+  - Code du travail - art. R771-5
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7213-12 (VT)
 
 
 ###### Article R771-7
@@ -83652,17 +83227,18 @@ nature, est considérée, sauf accord contraire, comme due pour moitié à chacu
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. R7213-1 (V)
+  - Code du travail - art. R7213-10 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R771-1
 
 
 ###### Article R771-8
@@ -83672,17 +83248,14 @@ toute personne de proposer une occupation rémunérée à un travailleur lorsqu'
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7213-13 (V)
+  - Code du travail - art. R7213-14 (V)
 
 
 ###### Article R771-9
@@ -83697,17 +83270,14 @@ congés légaux à venir et sur les indemnités correspondant à ceux-ci.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1956-05-14 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R7213-6 (V)
+  - Code du travail - art. R7221-1 (V)
 
 
 ###### Article R771-10
@@ -83717,17 +83287,21 @@ par le salarié est de huit jours.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L771-5
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. L771-5 (AbD)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Loi   1939-01-13 ART. 6
+  - Code du travail - art. R7213-8 (V)
 
 
 #### Chapitre II : Litiges nés du contrat de travail.<a id=1040></a>
@@ -83739,17 +83313,13 @@ son logement de fonction*] est le juge des référés de la situation de l'immeu
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Loi   1939-01-13 ART. 4
+  - Code du travail - art. L771-3
 
 
 ###### Article R772-2
@@ -88598,19 +88168,24 @@ finances fait connaître le nouveau montant de ce salaire, ainsi que celui du mi
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°70-7 1970-01-02
-  - Décret n°70-160 1970-02-27 ART. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
   - Décret n°97-427 du 28 avril 1997 - art. 9 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L141-3
+  - Code du travail - art. L141-8
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R*3231-17 (V)
+  - Code du travail - art. R*3231-4 (V)
 
 
 ###### Article D141-2
@@ -88708,19 +88283,13 @@ rémunération est, de manière habituelle, constituée, pour partie, par la fou
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°50-1029 1950-08-23
-  - Décret n°51-364 1951-03-24
-  - Décret n°51-435 1951-04-17
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ###### Article D141-6
@@ -88732,24 +88301,25 @@ pour un seul repas, à une fois ledit minimum.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°51-435 1951-04-17 ART. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Arrêté du 10 décembre 2002 - art. 1 (V)
   - Loi n°2004-804 du 9 août 2004 - art. 10 (Ab)
   - Décret n°2004-1239 du 22 novembre 2004 - art. 1 (Ab)
   - Décret n°2008-458 du 15 mai 2008 - art. 1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3231-10 (V)
+  - Code du travail - art. D3231-9 (V)
+
+_Cite_:
+
+  - Code du travail - art. L141-8
 
 
 ###### Article D141-8
@@ -88762,19 +88332,19 @@ compte que pour la moitié [*pourcentage*] de sa valeur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°51-435 1951-04-17 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°2004-1239 du 22 novembre 2004 - art. 1 (Ab)
   - Code de la sécurité sociale. - art. D241-12 (T)
   - Code de la sécurité sociale. - art. D241-14 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3231-13 (V)
 
 
 ###### Article D141-10
@@ -88785,17 +88355,17 @@ rémunération.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°51-435 1951-04-17 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D3231-14 (V)
 
 
 #### Chapitre Ier : Salaire minimum de croissance<a id=1120></a>
@@ -88900,17 +88470,17 @@ de fer français [*SNCF*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°70-89 1970-01-30 ART. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. D142-1
 
 
 ## CONVENTIONS RELATIVES AU TRAVAIL<a id=1124></a>
@@ -89147,17 +88717,13 @@ suspendue pour cette catégorie :
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1938-05-24 art. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R3122-7 (V)
 
 
 ### Titre II : Repos et congés<a id=1137></a>
@@ -89172,19 +88738,21 @@ condamné en vertu de l'article ci-après.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1936-08-01 art. 6
-  - Loi n°1938-06-20
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D223-2
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. D223-2 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3141-1 (VT)
 
 _Cité par_:
 
@@ -89206,23 +88774,18 @@ dans les mêmes conditions, de l'action en dommages-intérêts prévue par le pr
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. D223-1 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. D223-1 (VT)
   - Code du travail - art. D762-11 (VT)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°1936-08-01 art. 7
+  - Code du travail - art. D3141-2 (VT)
 
 
 ###### Article D223-4
@@ -89236,17 +88799,14 @@ compte de la situation de famille des bénéficiaires et de la durée de leurs s
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Décret n°1936-08-01 art. 3
+  - Code du travail - art. D3141-5 (VT)
+  - Code du travail - art. D3141-6 (M)
 
 
 ###### Article D223-5
@@ -89325,10 +88885,6 @@ satisfaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°81-408 du 15 avril 1981 - art. 30 (Ab)
@@ -89337,13 +88893,14 @@ _Cité par_:
   - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
   - Code du travail - art. D233-3 (VT)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code du travail 66 c
-  - Décret n°1946-05-28 art. 1
-  - Décret n°1951-08-20
-  - Décret n°1955-01-31
-  - Décret n°1965-03-29
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. L233-5
 
 
 ###### Article D233-2
@@ -89352,15 +88909,6 @@ Une commission d'homologation des dispositifs de sécurité, dont la composition
 par arrêté ministériel, est instituée auprès du ministre chargé du travail.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1946-05-28 art. 2
-  - Décret  1947-05-14
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 _Cité par_:
 
@@ -89375,9 +88923,9 @@ _Cité par_:
   - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
   - Code du travail - art. D233-4 (M)
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code du travail - art. D233-4 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D233-3
@@ -89392,16 +88940,13 @@ travail après avis de la commission d'homologation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-05-28 art. 3
-  - Décret  1947-06-14
-  - Décret  1951-08-20
-  - Décret  1965-03-29
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D233-1
 
 
 ###### Article D233-5
@@ -89411,17 +88956,6 @@ partir de laquelle s'applique aux machines et dispositifs de protection amovible
 l'interdiction de l'exposition, de la mise en vente, de la vente ou de la location.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1946-05-28 art. 5
-  - Décret  1947-06-14
-  - Décret  1951-08-20
-  - Décret  1955-01-31
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
 
 _Cité par_:
 
@@ -89435,6 +88969,14 @@ _Cité par_:
   - Décret n°81-411 du 15 avril 1981 - art. 15 (Ab)
   - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
   - Code du travail - art. D233-7 (M)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
 
 
 ###### Article D233-6
@@ -89455,15 +88997,6 @@ de sécurité de la décision générale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1946-05-28 art. 5 bis
-  - Décret n°1951-08-20
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°81-170 du 20 février 1981 - art. 38 (Ab)
@@ -89476,6 +89009,10 @@ _Cité par_:
   - Décret n°81-411 du 15 avril 1981 - art. 15 (Ab)
   - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
 
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
 
 ###### Article D233-9
 
@@ -89484,14 +89021,13 @@ conditions fixées par arrêté du ministre chargé du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1946-05-28 art. 7 BIS
-  - Décret  1951-08-20
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
 
 ### Titre IV : Médecine du travail<a id=1141></a>
@@ -90724,17 +90260,9 @@ lieu qu'à une seule transmission.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°72-1046 1972-06-09 art. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D311-4
@@ -90745,17 +90273,17 @@ auxquels ces offres se rapportent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°72-476 1972-06-09 art. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D311-1
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. R5332-2 (V)
 
 
 ### Titre II : Emploi<a id=1163></a>
@@ -90826,13 +90354,9 @@ coordonner l'action des différentes administrations et de proposer les mesures 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Anciens textes_:
-
-  - Décret n°73-96 1973-02-02 JORF 21 novembre
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D321-4
@@ -90841,13 +90365,9 @@ Le comité se réunit au moins deux fois par an.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-96 1971-02-02 art. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D321-5
@@ -90879,13 +90399,9 @@ mission qui lui serait confiée par le comité. Elle se réunit au moins une foi
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-96 1971-02-02 art. 6
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D321-7
@@ -90895,13 +90411,9 @@ travail [*fonctionnaire*] .
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-96 1971-02-02 art. 7
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 #### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=1165></a>
@@ -90926,17 +90438,17 @@ admission en stage.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1962-11-24 art. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D323-4
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D5213-16 (Ab)
 
 
 ###### Article D323-8
@@ -90948,17 +90460,19 @@ rééducation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1962-11-24 art. 4 al. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D323-4
+  - Code du travail - art. D323-6
+  - Code du travail - art. D323-7
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D5213-19 (Ab)
 
 
 ##### Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.<a id=1168></a>
@@ -91472,18 +90986,19 @@ ci-dessus ou à celles relatives à la durée du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1941-01-22 art. 2, 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
   - Code du travail - art. D324-2 (V)
+  - Code du travail - art. D8261-2 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L324-3
+  - Code du travail - art. L324-4
 
 
 ### Titre III : Agence nationale pour l'emploi.<a id=1172></a>
@@ -91495,13 +91010,9 @@ l'emploi est admise à circuler en franchise sous pli fermé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Anciens textes_:
-
-  - Code du travail 85 b
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale<a id=1173></a>
@@ -91576,15 +91087,14 @@ l'exploitation ainsi que les régions où ces professions doivent s'exercer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code des marchés publics R114
-  - Décret n°1932-10-19 art. 1
-  - Loi n°1932-08-10 art. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D342-4
+  - Code du travail - art. L342-1
 
 
 ###### Article D342-2
@@ -91598,13 +91108,13 @@ complémentaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
 
 ###### Article D342-3
@@ -91620,13 +91130,9 @@ Le projet est établi après consultation de la commission départementale de la
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D342-4
@@ -91640,13 +91146,9 @@ passer des marchés de travaux publics ou de fournitures dans le département.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -91662,13 +91164,13 @@ En dehors de cette révision annuelle une révision totale ou partielle du table
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
 
 ###### Article D342-6
@@ -91678,13 +91180,9 @@ les représentants de celle-ci doivent être convoqués pour être entendus par 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 8
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D342-7
@@ -91746,13 +91244,13 @@ La procédure prévue à l'article précédent s'applique également en cas de r
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 11
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D342-8
 
 
 ###### Article D342-10
@@ -91778,14 +91276,13 @@ au nom d'un département, d'une commune ou d'un établissement public dépendant
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 12
-  - Décret n°1938-05-17
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. L342-1
 
 
 ###### Article D342-11
@@ -91796,13 +91293,13 @@ l'administration qui passe le contrat de concession et après consultation des s
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-19 art. 13
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
 
 ###### Article D342-12
@@ -91814,17 +91311,17 @@ cette dernière proportion.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. L342-1 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°1932-10-19 art. 14
 
 
 ###### Article D342-13
@@ -91853,14 +91350,15 @@ Elles doivent, en outre, être affichées dans l'entreprise ou l'établissement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1932-10-10 art. 15
-  - Décret n°1938-05-17
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D342-7
+  - Code du travail - art. D342-8
+  - Code du travail - art. L342-2
 
 
 ### Titre V : Travailleurs privés d'emploi<a id=1177></a>
@@ -91878,9 +91376,9 @@ et des affaires économiques.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -91891,9 +91389,9 @@ _Cité par_:
   - Code du travail - art. D352-6 (VT)
   - Code du travail - art. D352-8 (VT)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°59-1287 1959-11-12 art. 1
+  - Code du travail - art. D5427-4 (V)
 
 
 ###### Article D352-2
@@ -91983,13 +91481,13 @@ ans après la clôture de l'exercice pour être présentées à toute réquisiti
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°59-1287 1959-11-12 art. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D5427-8 (V)
 
 
 ###### Article D352-6
@@ -92000,17 +91498,21 @@ renseignements d'ordre statistique et financier permettant de suivre leur foncti
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. D352-1
 
 _Cité par_:
 
   - Code du travail - art. D352-9 (VT)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Décret n°59-1287 1959-11-12 art. 6
+  - Code du travail - art. D5427-9 (V)
 
 
 ###### Article D352-7
@@ -92088,13 +91590,19 @@ travail, celle-ci est considérée comme approuvée [*accord tacite*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°59-1287 1959-11-12 art. 9
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D352-6
+  - Convention 1958-12-31 art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5427-13 (V)
+  - Code du travail - art. D5427-14 (V)
 
 
 ###### Article D352-10
@@ -92105,13 +91613,18 @@ mentionnées à l'article L. 352-2.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°59-1287 1959-11-12 art. 10
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D352-1
+  - Code du travail - art. L352-2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D5427-15 (V)
 
 
 #### Chapitre III : Caisses d'assurance chômage.<a id=1179></a>
@@ -93476,17 +92989,17 @@ dans le ressort duquel se trouve la résidence de leur première affectation, le
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°71-926 1971-11-09 ART. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D8113-9 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L611-11
 
 
 #### Chapitre II : Inspection médicale du travail.<a id=1212></a>
@@ -93511,18 +93024,20 @@ provisoirement inaptes au travail ou handicapés physiquement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1947-01-16 ART. 13
-  - Décret n°1949-12-31 ART. 38
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D8123-2 (V)
+  - Code du travail - art. D8123-3 (V)
+  - Code du travail - art. D8123-4 (V)
+  - Code du travail - art. D8123-5 (V)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L241-1
 
 
 ## Livre VII : Dispositions particulières à certaines professions<a id=1213></a>
@@ -93541,17 +93056,13 @@ suivantes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°64-972 1964-09-12 ART. 1
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ##### Paragraphe 1 : Organisation générale.<a id=1217></a>
@@ -93566,23 +93077,18 @@ fixée par arrêté du ministre chargé des mines.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - TXT_ASSOCIE: Arrêté 1965-07-23
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Anciens textes_:
-
-  - Décret n°64-972 1964-09-12 ART. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Arrêté  1965-07-23 JORF 30 JUILLET
 
 _Cité par_:
 
   - Arrêté du 9 juillet 1998 - art. Annexe (Ab)
   - Code du travail - art. D711-3 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D711-3
@@ -93600,19 +93106,15 @@ application de l'article D. 241-4 du présent code.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1952-09-27
-  - Décret n°1969-06-13
-  - Décret n°64-972 1964-09-12 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
+  - Code du travail - art. D241-4
+  - Code du travail - art. D711-2
 
 
 ###### Article D711-4
@@ -93622,24 +93124,15 @@ représentés, défini par arrêté du ministre chargé des mines.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Arrêté  1965-07-23 JORF 30 JUILLET
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. D711-13 (VT)
   - Code du travail - art. D711-20 (VT)
   - Code du travail - art. D711-5 (VT)
-
-_Anciens textes_:
-
-  - Décret  1964-09-12 ART. 4
 
 
 ###### Article D711-5
@@ -93730,22 +93223,17 @@ par le médecin du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret  1964-09-12 ART. 7
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Décret  1954-12-24
 
 _Cité par_:
 
   - Décret n°80-331 du 7 mai 1980 - art. 12 (Ab)
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. D711-10 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D711-8
@@ -93756,18 +93244,13 @@ chantiers.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°61-350 1961-04-10
+  - Décret n°54-1277 du 24 décembre 1954
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. D711-10 (V)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D711-9
@@ -93780,18 +93263,9 @@ réadaptation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 8
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail - art. D711-10 (V)
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D711-10
@@ -93803,24 +93277,23 @@ l'employeur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1964-09-12 ART. 9
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-  - TXT_ASSOCIE: Code du travail - art. D711-7 (V)
-  - TXT_ASSOCIE: Code du travail - art. D711-8 (V)
-  - TXT_ASSOCIE: Code du travail - art. D711-9 (V)
-
 _Cité par_:
 
   - Arrêté du 9 juillet 1998 - art. Annexe (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail - art. D711-7 (V)
+  - TXT_ASSOCIE: Code du travail - art. D711-8 (V)
+  - TXT_ASSOCIE: Code du travail - art. D711-9 (V)
 
 
 ###### Article D711-11
@@ -93839,17 +93312,13 @@ prenant comme base le salaire de la catégorie de l'intéressé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 10
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ###### Article D711-12
@@ -93921,17 +93390,13 @@ professionnelle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 13
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D711-13
 
 
 ###### Article D711-15
@@ -93945,17 +93410,16 @@ de l'article D. 711-16 ci-après.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 14
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D711-16
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. D711-16 (V)
 
 
@@ -93978,22 +93442,17 @@ médicales concernant le malade et relatives à ladite maladie.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code du travail - art. D711-15 (V)
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
   - Code du travail - art. D711-15 (VT)
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret  1964-09-12 ART. 15
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
+  - Code de la sécurité sociale.
 
 
 ##### Paragraphe 4 : Incompatibilités.<a id=1219></a>
@@ -94012,17 +93471,9 @@ assimilées. Le médecin du travail ne peut cependant, en aucun cas, être le m�
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 17
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 5 : Qualification des médecins du travail<a id=1220></a>
@@ -94034,17 +93485,9 @@ d'études spéciales de médecine du travail et d'hygiène industrielle.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 18 ET 19
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 6 : Dispositions diverses.<a id=1221></a>
@@ -94058,17 +93501,13 @@ du travail dans les mines [*recours*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1964-09-12 ART. 20 ET 21
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D711-4
 
 
 #### Chapitre II : Délégués mineurs.<a id=1222></a>
@@ -94155,17 +93594,13 @@ Il en est de même des remboursements de frais liés à l'exécution du travail.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°72-124 1972-02-14 ART. 3
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 _Cité par_:
 
@@ -94183,17 +93618,14 @@ L'ingénieur en chef des mines peut à tout moment obtenir de l'exploitant commu
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°72-124 1972-02-14 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D712-1
+  - Code du travail - art. D712-3
 
 
 ###### Article D712-5
@@ -94202,17 +93634,16 @@ L'autorité administrative mentionnée à l'article L. 712-30 (3° alinéa) est 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1937-06-19
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Code du travail - art. L712-30 (AbD)
 
 
@@ -94223,17 +93654,13 @@ d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°72-124 1972-02-14 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail
 
 
 ### Titre III : Bâtiment et travaux publics<a id=1223></a>
@@ -94352,13 +93779,19 @@ la période de référence écoulée [*limite*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°49-629 1949-04-30 ART. 4
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3141-23 (V)
+  - Code du travail - art. D3141-24 (V)
+  - Code du travail - art. D3141-25 (V)
 
 
 ###### Article D732-5
@@ -94372,20 +93805,20 @@ vérifications auxquelles doivent se soumettre les adhérents.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°49-629 1949-04-30 ART. 5
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°85-701 du 9 juillet 1985 - art. 4 (V)
   - Décret n°86-554 du 13 mars 1986 - art. 4 (V)
   - Décret n°98-67 du 4 février 1998 - art. 4 (V)
   - Décret n°2002-1534 du 24 décembre 2002 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3141-29 (V)
 
 
 ###### Article D732-6
@@ -94436,14 +93869,6 @@ l'indemnité mentionnée à l'alinéa précédent par le nombre des jours de con
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°49-629 1949-04-30 ART. 7
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°89-365 du 8 juin 1989 - art. 4 (P)
@@ -94452,6 +93877,19 @@ _Cité par_:
   - Décret n°98-67 du 4 février 1998 - art. 4 (V)
   - Décret n°2002-1534 du 24 décembre 2002 - art. 4 (V)
   - Code du travail - art. D732-8 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3141-32 (V)
+  - Code du travail - art. D3141-33 (V)
+
+_Cite_:
+
+  - Code du travail - art. L223-2
 
 
 ###### Article D732-8
@@ -94466,13 +93904,17 @@ et l'adresse de la caisse d'affiliation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°49-629 1949-04-30 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D3141-34 (V)
+
+_Cite_:
+
+  - Code du travail - art. D732-7
 
 
 ###### Article D732-9
@@ -94737,25 +94179,15 @@ Lorsque [*condition*] le contrat d'engagement prévoit qu'il sera nourri par l'a
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1950-08-23
-  - Décret  1950-11-15 ART. 2
-  - Loi   1970-01-02
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°94-595 du 15 juillet 1994 - art. 1 (Ab)
   - Décret n°99-195 du 16 mars 1999 - art. ANNEXE (VT)
   - Code du travail - art. D742-2 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D742-2
@@ -94766,23 +94198,17 @@ est dit à l'article D. 742-1 que pour les trois quarts de sa valeur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1950-08-23
-  - Décret  1950-11-15 ART. 3
-  - Loi   1970-01-02
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°94-595 du 15 juillet 1994 - art. 1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. D742-1
 
 
 ##### Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.<a id=1230></a>
@@ -94835,17 +94261,9 @@ autres cas, se réuniront au moins une fois par trimestre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 3
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D742-6
@@ -94860,17 +94278,9 @@ des sièges de délégué titulaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°1955-09-19 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D742-7
@@ -94881,17 +94291,9 @@ avant la clôture du scrutin.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 5
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -94906,17 +94308,13 @@ lieu dans le plus bref délai possible.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 6
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D742-7, v. 2.1 (V)
 
 
 ###### Article D742-9
@@ -94926,17 +94324,13 @@ Le temps dû aux membres titulaires du comité pour l'exercice de leurs fonction
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L434-3
 
 
 ###### Article D742-10
@@ -94946,17 +94340,13 @@ administratif de navires ou agence tête de ligne de navires de l'entreprise, so
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 8
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L435-1
 
 
 ###### Article D742-11
@@ -94966,17 +94356,13 @@ et du Code disciplinaire et pénal de la marine marchande.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1955-09-19 ART. 9
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. L436-1
 
 
 #### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1231></a>
@@ -95174,19 +94560,13 @@ ministre chargé du commerce et le ministre chargé de l'industrie. Les feuillet
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-03-09
-  - Décret  1959-07-09 ART. 1
-  - Loi   1959-10-08
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Code du travail - art. D7312-14 (V)
 
 
 ###### Article D751-2
@@ -95199,13 +94579,13 @@ justificatives doivent être fournies à l'appui de la déclaration.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 2
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-4 (V)
 
 _Cité par_:
 
@@ -95222,13 +94602,18 @@ registre des agents commerciaux prévue à l'article 4 du décret du 23 décembr
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 3 Décret  1966-01-04
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-2 (V)
+
+_Cite_:
+
+  - Code du travail - art. R751-3
+  - Décret  1958-12-23 ART. 4
 
 
 ###### Article D751-4
@@ -95238,13 +94623,13 @@ visée par l'agent consulaire français dans le ressort duquel est domicilié l'
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 5
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-3 (V)
 
 
 ###### Article D751-5
@@ -95317,24 +94702,29 @@ _Cite_:
 
 La validation annuelle prévue par l'article R. 751-5 est effectuée [*condition préalable*] sur présentation d'une déclaration
 du modèle prévu à l'article D. 751-2 pour la délivrance de la carte, accompagnée des pièces justificatives des attestations
-du ou des employeurs prévues à l'article D. 751-3 ci-dessus.
+du ou des employeurs prévues à l'article D. 751-3 ci-dessus. 
 
 S'il ressort des pièces produites que l'activité du représentant a été modifiée, les indications portées sur la carte sont
-modifiées en conséquence.
+modifiées en conséquence. 
 
-La carte d'identité renouvelée doit porter [*mentions obligatoires*], quelle que soit la date à laquelle elle est demandée ou
-délivrée, le numéro de la carte primitive, l'indication de la date de sa délivrance et de l'autorité l'ayant délivrée.
+La carte d'identité renouvelée doit porter    , quelle que soit la date à laquelle elle est demandée ou délivrée, le numéro
+de la carte primitive, l'indication de la date de sa délivrance et de l'autorité l'ayant délivrée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 9
-  - Décret  1966-01-04
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. D751-5
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7312-16 (V)
+  - Code du travail - art. D7312-17 (V)
 
 
 ###### Article D751-8
@@ -95345,13 +94735,14 @@ dont la production est imposée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 10
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-18 (V)
+  - Code du travail - art. D7312-8 (V)
 
 
 ###### Article D751-9
@@ -95363,13 +94754,19 @@ d'identité professionnelle à l'autorité qui la lui a délivrée, cette autori
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 11
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-24 (V)
+
+_Cite_:
+
+  - Code du travail - art. L751-1
+  - Code du travail - art. L751-14
+  - Code du travail - art. R751-4
 
 
 ###### Article D751-10
@@ -95379,13 +94776,13 @@ papier libre adressée au service qui l'a délivrée, en obtenir sans frais une 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 12
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-25 (V)
 
 
 ###### Article D751-11
@@ -95401,13 +94798,18 @@ contre la carte d'identité.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 13
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-10 (V)
+  - Code du travail - art. D7312-11 (V)
+
+_Cite_:
+
+  - Code du travail - art. L751-14
 
 
 ###### Article D751-12
@@ -95418,13 +94820,14 @@ présentation du récépissé d'envoi remis par la poste.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1959-07-09 ART. 14
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7312-12 (V)
+  - Code du travail - art. D7312-21 (V)
 
 
 ### Titre VI : Journalistes, artistes, mannequins<a id=1235></a>
@@ -95549,18 +94952,18 @@ des cotisations les justifications dont ce versement doit être accompagné, les
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1939-02-27 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°99-320 du 26 avril 1999 - art. 2 (Ab)
   - Décret n°99-320 du 26 avril 1999 - art. 6 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7121-44 (V)
 
 
 ###### Article D762-5
@@ -95575,18 +94978,21 @@ collectives ou de contrats individuels de travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7121-31 (M)
 
 _Cité par_:
 
   - Code du travail - art. D762-9 (VT)
-
-_Anciens textes_:
-
-  - Décret n°1939-02-27 ART. 5
-  - Loi n°69-434 1969-05-15
 
 
 ###### Article D762-6
@@ -95608,17 +95014,25 @@ salarié ayant au moins un mois de services dans l'entreprise [*durée*] et n'ay
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1939-02-27 ART. 6
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°99-320 du 26 avril 1999 - art. 5 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7121-32 (V)
+  - Code du travail - art. D7121-33 (V)
+  - Code du travail - art. D7121-34 (V)
+  - Code du travail - art. D7121-35 (M)
+
+_Cite_:
+
+  - Code du travail - art. L223-14
+  - Code du travail - art. R223-2
 
 
 ###### Article D762-7
@@ -95632,13 +95046,17 @@ justifiant, le cas échéant, qu'il est immatriculé à la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1939-02-27 ART. 7
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7121-36 (V)
 
 
 ###### Article D762-8
@@ -95716,13 +95134,15 @@ compensation qui lui est appliqué et, en outre, qu'il est à jour de ses obliga
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1939-02-27 ART. 10
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail - art. D7121-45 (M)
+  - Code du travail - art. D7121-46 (V)
+  - Code du travail - art. D7121-47 (V)
 
 
 ###### Article D762-11
@@ -95735,13 +95155,19 @@ travailleur et à celui-ci d'exécuter des travaux rétribués pendant la durée
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret  1973-02-27 ART. 11
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
+  - Code du travail
+  - Code du travail - art. D223-1
+  - Code du travail - art. D223-2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D7121-30 (V)
 
 
 ### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1238></a>
@@ -95824,17 +95250,17 @@ chaque département d'outre-mer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°70-160 1970-02-27 ART. 2
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
 
 
 ###### Article D814-2

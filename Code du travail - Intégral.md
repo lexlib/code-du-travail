@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-12-30
+Version Consolidée au 1975-12-31
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -25937,6 +25937,214 @@ _Nouveaux textes_:
   - Code du travail - art. L5422-1 (VD)
   - Code du travail - art. L5422-2 (VD)
   - Code du travail - art. L5422-3 (VD)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
+###### Article L351-4
+
+Pour être admis au bénéfice de l'allocation publique les travailleurs doivent satisfaire à des conditions d'âge, d'aptitude
+au travail, d'activité préalable et de privation d'emploi qui sont précisées par un décret en Conseil d'Etat.
+
+Ce décret détermine également le délai de carence.
+
+//LOI  1281 30-12-1975 : Les détenus libérés peuvent également être admis au bénéfice de cette allocation, après avis de la
+commission de l'application des peines ou, s'il s'agit d'un prévenu, du ministère public, à des conditions qui seront fixées
+par décret en Conseil d'Etat. Toutefois, sont exclues du bénéfice de ces dispositions les personnes qui ont été libérées
+après exécution d'une peine privative de liberté prononcée pour l'un des crimes ou délits prévus par les articles 354, 334-1,
+335, 462 du code pénal et L. 627 du code de la santé publique, ainsi que celles qui ont été condamnées à deux peines de
+réclusion criminelle ou trois peines d'emprisonnement sans sursis pour délit de droit commun dès lors que la dernière
+infraction a été commise postérieurement à l'incarcération précédente// .
+
+L'allocation d'aide publique comprend une allocation principale à laquelle s'ajoutent une ou des majorations liées à
+l'existence de personnes ou enfants à charge. Le taux de l'allocation principale et celui de la ou des majorations sont fixés
+par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 67-580 1967-07-13 ART. 4
+
+_Cité par_:
+
+  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (Ab)
+  - Loi n°82-939 du 4 novembre 1982 - art. 2 (AbD)
+  - Décret n°83-397 du 19 mai 1983 - art. 21 (Ab)
+  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+  - Décret n°84-157 du 2 mars 1984 - art. 1 (Ab)
+  - Décret n°84-410 du 30 mai 1984 - art. 1 (Ab)
+  - Décret n°84-522 du 27 juin 1984 - art. 1 (Ab)
+  - Décret n°84-802 du 28 août 1984 - art. 2 (V)
+  - Décret n°84-1057 du 30 novembre 1984 - art. 13 (Ab)
+  - Décret n°85-581 du 7 juin 1985 - art. 5 (Ab)
+  - Décret n°86-297 du 4 mars 1986 - art. 2 (V)
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 1 (V)
+  - Loi n°de du 31 décembre 1986 - art. 9 (V)
+  - Loi n°87-518 du 10 juillet 1987 - art. 4 (V)
+  - Décret n°87-670 du 14 août 1987 - art. 11 (Ab)
+  - Arrêté du 7 mars 1988 - art. 1 (V)
+  - Arrêté du 18 avril 1988 - art. 1 (V)
+  - Arrêté du 13 juin 1988 - art. 1 (V)
+  - Arrêté du 21 août 1988 - art. 1 (V)
+  - Arrêté du 16 septembre 1988 - art. 1 (V)
+  - Arrêté du 19 octobre 1988 - art. 1 (V)
+  - Arrêté du 30 janvier 1989 - art. 1 (V)
+  - Décret n°89-129 du 27 février 1989 - art. 9 (Ab)
+  - Arrêté du 23 juin 1989 - art. 1 (V)
+  - Arrêté du 8 août 1989 - art. 1 (V)
+  - Arrêté du 28 août 1989 - art. 1 (V)
+  - Arrêté du 21 septembre 1989 - art. 1 (V)
+  - Arrêté du 3 novembre 1989 - art. 1 (V)
+  - Loi n°89-924 du 23 décembre 1989 - art. 6 (M)
+  - Décret n°90-106 du 30 janvier 1990 - art. 9 (Ab)
+  - Arrêté du 14 mai 1990 - art. 1 (V)
+  - Arrêté du 25 juillet 1990 - art. 1 (V)
+  - Arrêté du 17 octobre 1990 - art. 1 (V)
+  - Arrêté du 7 novembre 1990 - art. 1 (V)
+  - Arrêté du 20 décembre 1990 - art. 1 (V)
+  - Arrêté du 21 février 1991 - art. 1 (V)
+  - Arrêté du 27 février 1991 - art. 1 (V)
+  - Arrêté du 12 mars 1991 - art. 1 (V)
+  - Arrêté du 24 avril 1991 - art. 1 (V)
+  - Arrêté du 30 juillet 1991 - art. 1 (V)
+  - Arrêté du 20 août 1991 - art. 1 (V)
+  - Arrêté du 6 janvier 1992 - art. 1 (V)
+  - Arrêté du 6 janvier 1992 - art. 2 (V)
+  - Arrêté du 13 février 1992 - art. 1 (V)
+  - Arrêté du 19 février 1992 - art. 1 (V)
+  - Arrêté du 7 mai 1992 - art. 1 (V)
+  - Arrêté du 19 juin 1992 - art. 1 (V)
+  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
+  - Arrêté du 17 juillet 1992 - art. 1 (V)
+  - Arrêté du 17 août 1992 - art. 1 (V)
+  - Arrêté du 17 août 1992 - art. 2 (V)
+  - Arrêté du 16 octobre 1992 - art. 1 (V)
+  - Arrêté du 16 octobre 1992 - art. 2 (V)
+  - Arrêté du 16 octobre 1992 - art. 3 (V)
+  - Arrêté du 27 octobre 1992 - art. 1 (V)
+  - Arrêté du 27 octobre 1992 - art. 2 (V)
+  - Arrêté du 27 octobre 1992 - art. 3 (V)
+  - Arrêté du 4 janvier 1993 - art. 1 (V)
+  - Arrêté du 26 janvier 1993 - art. 1 (V)
+  - Arrêté du 26 janvier 1993 - art. 2 (V)
+  - Arrêté du 24 février 1993 - art. 1 (V)
+  - Arrêté du 1 mars 1993 - art. 1 (V)
+  - Arrêté du 19 mars 1993 - art. 1 (M)
+  - Arrêté du 27 mars 1993 - art. 1 (V)
+  - Arrêté du 29 juillet 1993 - art. 1 (V)
+  - Arrêté du 29 juillet 1993 - art. 2 (V)
+  - Arrêté du 7 août 1993 - art. 1 (V)
+  - Arrêté n°2 du 19 août 1997 - art. 1 (V)
+  - Arrêté n°3 du 19 août 1993 - art. 1 (V)
+  - Arrêté n°3 du 19 août 1993 - art. 2 (V)
+  - Arrêté du 24 novembre 1993 - art. 1 (V)
+  - Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
+  - Décret n°93-1319 du 13 décembre 1993 - art. 2 (V)
+  - Arrêté du 4 janvier 1994 - art. 1 (V)
+  - Arrêté du 8 janvier 1994 - art. 1 (V)
+  - Arrêté du 11 janvier 1994 - art. 1 (V)
+  - Arrêté du 21 février 1994 - art. 1 (V)
+  - Arrêté du 16 mars 1994 - art. 1 (V)
+  - Arrêté du 24 février 1994 - art. 1 (V)
+  - Décret n°94-281 du 11 avril 1994 - art. 2 (V)
+  - Arrêté du 5 mai 1994 - art. 1 (V)
+  - Arrêté du 3 juin 1994 - art. 1 (V)
+  - Arrêté du 13 juin 1994 - art. 1 (V)
+  - Arrêté du 9 juin 1994 - art. 1 (V)
+  - Loi n°94-629 du 25 juillet 1994 - art. 15 (V)
+  - Arrêté du 4 août 1994 - art. 1 (V)
+  - Arrêté du 31 octobre 1994 - art. 1 (V)
+  - Loi n°95-116 du 4 février 1995 - art. 93 (Ab)
+  - Arrêté du 6 février 1995 - art. 1 (V)
+  - Arrêté du 7 février 1995 - art. 1 (V)
+  - Arrêté du 4 mai 1995 - art. 1 (V)
+  - Décret n°95-710 du 9 mai 1995 - art. 48 (Ab)
+  - Arrêté du 4 août 1995 - art. 1 (V)
+  - Arrêté du 2 novembre 1995 - art. 1 (V)
+  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
+  - Arrêté du 18 mars 1996 - art. 1 (V)
+  - Arrêté du 11 avril 1996 - art. 1 (V)
+  - Arrêté du 26 avril 1996 - art. 1 (V)
+  - Arrêté du 27 juin 1996 - art. 1 (V)
+  - Loi n°96-987 du 14 novembre 1996 - art. 12 (V)
+  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 28-7 (VD)
+  - Arrêté du 23 février 1997 - art. 1 (V)
+  - Arrêté du 18 février 1997 - art. 1 (V)
+  - Arrêté du 5 mars 1997 - art. 1 (V)
+  - Arrêté du 27 mars 1997 - art. 1 (V)
+  - Arrêté du 19 juin 1997 - art. 1 (V)
+  - Arrêté du 17 juillet 1997 - art. 1 (V)
+  - Arrêté du 6 octobre 1997 - art. 1 (V)
+  - Arrêté du 2 mars 1998 - art. 1 (V)
+  - Arrêté du 9 décembre 1998 - art. 1 (V)
+  - Arrêté du 19 février 1999 - art. 1 (V)
+  - Arrêté du 2 avril 1999 - art. 1 (V)
+  - Arrêté du 12 avril 1999 - art. 1 (V)
+  - Arrêté du 28 mai 1999 - art. 1 (V)
+  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
+  - Loi n°2003-322 du 9 avril 2003 - art. 3 (V)
+  - Arrêté du 24 avril 2003 - art. 1 (V)
+  - Arrêté du 14 août 2003 - art. 1 (V)
+  - Loi n°2003-1311 du 30 décembre 2003 - art. 131 (V)
+  - Loi n°2004-734 du 26 juillet 2004 - art. 3 (V)
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 24 (V)
+  - Décret n°2005-1054 du 29 août 2005 - art. 1 (V)
+  - Arrêté du 12 novembre 1986 - art. 1 (V)
+  - Arrêté du 18 août 1986 - art. 1 (V)
+  - Arrêté du 4 avril 1989 - art. 1 (V)
+  - Code de l'action sociale et des familles - art. R522-52 (Ab)
+  - Code de la sécurité sociale. - art. L161-1-2 (Ab)
+  - Code de la sécurité sociale. - art. L241-13 (V)
+  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
+  - Code de la sécurité sociale. - art. L241-6-2 (M)
+  - Code de la sécurité sociale. - art. L241-6-4 (VT)
+  - Code de la sécurité sociale. - art. R241-0-1 (VD)
+  - Code du travail - art. D980-11 (Ab)
+  - Code du travail - art. D981-9 (Ab)
+  - Code du travail - art. L143-11-1 (AbD)
+  - Code du travail - art. L322-12 (Ab)
+  - Code du travail - art. L322-13 (VT)
+  - Code du travail - art. L322-4-1 (M)
+  - Code du travail - art. L322-4-10 (Ab)
+  - Code du travail - art. L322-4-11 (T)
+  - Code du travail - art. L322-4-13 (Ab)
+  - Code du travail - art. L322-4-15-1 (AbD)
+  - Code du travail - art. L322-4-21 (AbD)
+  - Code du travail - art. L322-4-3 (Ab)
+  - Code du travail - art. L322-4-4 (M)
+  - Code du travail - art. L322-4-6-1 (Ab)
+  - Code du travail - art. L322-4-8 (AbD)
+  - Code du travail - art. L351-12 (VT)
+  - Code du travail - art. L351-21 (MMN)
+  - Code du travail - art. L351-5 (AbD)
+  - Code du travail - art. L351-8 (AbD)
+  - Code du travail - art. L365-3 (VT)
+  - Code du travail - art. L832-2 (M)
+  - Code du travail - art. R351-1 (M)
+  - Code du travail - art. R351-16 (Ab)
+  - Code du travail - art. R351-2 (VT)
+  - Code du travail - art. R351-20 (VT)
+  - Code du travail - art. R351-5 (M)
+  - Code du travail - art. R351-7 (M)
+  - Code du travail - art. R365-1 (VT)
+  - Code du travail - art. R833-7 (VT)
+
+_Cite_:
+
+  - Code pénal 354, 334-1, 335, 462
+  - Code de la santé publique - art. L627 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L5422-13 (VD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
 
 _Codifié par_:
 

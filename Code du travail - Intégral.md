@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-08-04
+Version Consolidée au 1973-11-15
 ## Contenu: 
   - [Partie législative ancienne (art. L143-7 à L833-1)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L143-7 à L143-8)](#2)
@@ -80,16 +80,21 @@ Version Consolidée au 1973-08-04
         - [SERVICES MEDICAUX DU TRAVAIL . (art. L822-1 à L822-3)](#77)
       - [PLACEMENT ET EMPLOI (art. L833-1)](#78)
         - [GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI . (art. L833-1)](#79)
-  - [Partie réglementaire ancienne - Décrets simples (art. D811-2 à D811-79)](#80)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. D811-2 à D811-79)](#81)
-      - [CONVENTIONS RELATIVES AU TRAVAIL (art. D811-2 à D811-79)](#82)
-        - [APPRENTISSAGE (art. D811-2 à D811-79)](#83)
-          - [CENTRES DE FORMATION D'APPRENTIS (art. D811-2)](#84)
-            - [CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS . (art. D811-2)](#85)
-          - [DISPOSITIONS PROVISOIRES (art. D811-62 à D811-79)](#86)
-            - [ACCORDS PROVISOIRES . (art. D811-62 à D811-68)](#87)
-              - [ACCORDS DE TRANSFORMATION . (art. D811-68)](#88)
-            - [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS . (art. D811-79)](#89)
+  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat (art. R532-2)](#80)
+    - [Livre V : Conflits du travail (art. R532-2)](#81)
+      - [Titre III : Pénalités (art. R532-2)](#82)
+        - [Chapitre II : Conflits collectifs (art. R532-2)](#83)
+          - [Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation. (art. R532-2)](#84)
+  - [Partie réglementaire ancienne - Décrets simples (art. D811-2 à D811-79)](#85)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. D811-2 à D811-79)](#86)
+      - [CONVENTIONS RELATIVES AU TRAVAIL (art. D811-2 à D811-79)](#87)
+        - [APPRENTISSAGE (art. D811-2 à D811-79)](#88)
+          - [CENTRES DE FORMATION D'APPRENTIS (art. D811-2)](#89)
+            - [CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS . (art. D811-2)](#90)
+          - [DISPOSITIONS PROVISOIRES (art. D811-62 à D811-79)](#91)
+            - [ACCORDS PROVISOIRES . (art. D811-62 à D811-68)](#92)
+              - [ACCORDS DE TRANSFORMATION . (art. D811-68)](#93)
+            - [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS . (art. D811-79)](#94)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -2484,17 +2489,65 @@ _Cite_:
   - Code du travail L351-1 A L351-18
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=80></a>
+# Partie réglementaire ancienne - Décrets en Conseil d'Etat<a id=80></a>
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=81></a>
+## Livre V : Conflits du travail<a id=81></a>
 
-### CONVENTIONS RELATIVES AU TRAVAIL<a id=82></a>
+### Titre III : Pénalités<a id=82></a>
 
-#### APPRENTISSAGE<a id=83></a>
+#### Chapitre II : Conflits collectifs<a id=83></a>
 
-##### CENTRES DE FORMATION D'APPRENTIS<a id=84></a>
+##### Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.<a id=84></a>
 
-##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS .<a id=85></a>
+###### Article R532-2
+
+Les employeurs des professions et régions comprises dans le champ d'application d'un accord de conciliation ou d'une sentence
+arbitrale dont les dispositions auront fait l'objet d'un arrêté d'extension pris en application de l'article L. 526-2, qui
+auront payé des salaires inférieurs à ceux qui sont fixés par cet accord de conciliation ou cette sentence arbitrale seront
+passibles d'une amende de 600 F à 1.200 F.
+
+L'amende sera appliquée autant de fois qu'il y aura de salariés ayant reçu un salaire inférieur à celui qui est fixé pour
+leur catégorie par l'accord de conciliation ou la sentence arbitrale. 
+
+En cas de récidive, le contrevenant sera puni d'une amende de 1.200 F à 3.000 F [*taux résultant du décret 567 du 18 juillet
+1980*].
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail - art. L526-2 (P)
+
+_Anciens textes_:
+
+  - Décret n°72-985 1972-10-24 ART. 8
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+# Partie réglementaire ancienne - Décrets simples<a id=85></a>
+
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=86></a>
+
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=87></a>
+
+#### APPRENTISSAGE<a id=88></a>
+
+##### CENTRES DE FORMATION D'APPRENTIS<a id=89></a>
+
+##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS .<a id=90></a>
 
 ###### Article D811-2
 
@@ -2529,9 +2582,9 @@ _Cite_:
   - Code du travail D811-3 A D811-11, D811-14 ET D811-21
 
 
-##### DISPOSITIONS PROVISOIRES<a id=86></a>
+##### DISPOSITIONS PROVISOIRES<a id=91></a>
 
-##### ACCORDS PROVISOIRES .<a id=87></a>
+##### ACCORDS PROVISOIRES .<a id=92></a>
 
 ###### Article D811-62
 
@@ -2591,7 +2644,7 @@ _Cite_:
   - Code du travail D811-1 A D811-50, D811-61
 
 
-##### ACCORDS DE TRANSFORMATION .<a id=88></a>
+##### ACCORDS DE TRANSFORMATION .<a id=93></a>
 
 ###### Article D811-68
 
@@ -2621,7 +2674,7 @@ _Cité par_:
   - Code du travail - art. D811-78 (Ab)
 
 
-##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .<a id=89></a>
+##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .<a id=94></a>
 
 ###### Article D811-79
 

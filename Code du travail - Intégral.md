@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-12-09
+Version Consolidée au 1977-01-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -75865,30 +75865,35 @@ _Cite_:
 
 ###### Article R322-14
 
-Les travailleurs salariés et non salariés ainsi que les jeunes gens libérés du service national mentionnés aux articles R.
-322-11 à R. 322-13, bénéficient :
+Les travailleurs salariés ou non salariés ainsi que les jeunes gens libérés du service national mentionnés aux articles R.
+322-11 à R. 322-13 bénéficient :
 
-1. D'une prime de transfert variable en fonction de l'importance du dépaysement et de la situation de famille [*critères*] et
-d'une indemnité de réinstallation attribuée en considération de la composition de la famille et des conditions du relogement.
-Le montant cumulé de ces prime et indemnité ne peut être [*limite*] inférieur à 800 fois ni supérieur à 2.400 fois le minimum
-garanti [*SMIC*] prévu à l'article L. 141-8 ;
+1. D'une indemnité pour frais de déplacement pour eux-mêmes, leur conjoint et les personnes à leur charge ;
 
-2. D'une indemnité pour frais de déplacement pour eux-mêmes, leur conjoint et les personnes à leur charge ;
+2. D'une indemnité forfaitaire pour frais de transport de leur mobilier lorsque le transfert aura été effectué dans les six
+mois de l'arrivée des intéressés dans la commune où ils doivent fixer leur nouveau domicile. Toutefois le délai de six mois
+peut être exceptionnellement prorogé après examen de la situation individuelle des bénéficiaires ;
 
-3. D'une indemnité forfaitaire pour frais de transport de leur mobilier lorsque le transfert aura été effectué dans les six
-mois de l'arrivée des intéressés dans la commune où ils doivent fixer leur nouveau domicile. Toutefois, le délai de six mois
-peut être exceptionnellement prorogé après examen de la situation individuelle des bénéficiaires.
+3. D'une prime de transfert et d'une indemnité de réinstallation variables en fonction de la composition de la famille. Le
+montant cumulé de ces prime et indemnité ne peut être inférieur à 800 fois ni supérieur à 2.000 fois le minimum garanti
+[*SMIC*] prévu à l'article L. 141-8, sous réserve toutefois que les ressources mensuelles du foyer de l'intéressé, déduction
+faite des prestations familiales, n'excèdent pas, au moment de la demande d'attribution, 1.000 fois le minimum garanti.
+Lorsque les ressources ainsi définies dépassent 1.000 fois le minimum garanti, le montant cumulé des prime et indemnité est
+réduit de moitié.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CODE DU TRAVAIL R322-11 à R322-13, L141-8
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
-_Cite_:
+_Abrogé par_:
 
-  - Code du travail - art. L141-8 (AbD)
-  - Code du travail R322-11 A R322-13
+  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
 
 _Cité par_:
 
@@ -75905,18 +75910,20 @@ _Anciens textes_:
 
 ###### Article R322-15
 
-Un bon de transport gratuit est délivré aux travailleurs salariés privés d'emploi ou menacés de licenciement qui sont
-inscrits comme demandeurs d'emploi auprès des services publics de l'emploi, pour leur permettre de répondre aux convocations
-que ces services leur adressent en vue de leur reclassement.
-
-Ce bon n'est délivré que dans le cas où le déplacement à effectuer excède [*condition*] un minimum fixé par l'arrêté prévu au
-premier alinéa de l'article R. 322-20.
+Un bon de transport gratuit est délivré aux demandeurs d'emploi inscrits dans les services de l'Agence nationale pour
+l'emploi [*ANPE*] pour leur permettre de répondre aux convocations que ces services leur adressent en vue de leur placement
+ou de leur reclassement. Ce bon n'est délivré que dans le cas où le déplacement à effectuer excède un minimum fixé par
+l'arrêté prévu au premier alinéa de l'article R. 322-20.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
 
 _Cite_:
 
@@ -75935,26 +75942,30 @@ _Anciens textes_:
 
 ###### Article R322-16
 
-Une indemnité pour recherche d'emploi est accordée aux travailleurs salariés privés d'emploi ou menacés de licenciement en
-vue de faciliter leur reclassement. Cette indemnité a pour objet de permettre à ces travailleurs d'aller s'informer sur place
-des conditions de travail et de logement au lieu de l'emploi offert.
+Une indemnité pour recherche d'emploi est accordée aux demandeurs d'emploi inscrits dans les services de l'Agence nationale
+pour l'emploi [*ANPE*] en vue de faciliter leur placement ou leur reclassement. Cette indemnité a pour objet de permettre à
+ces travailleurs d'aller s'informer sur place des conditions de travail et de logement au lieu de l'emploi offert.
 
 Cette indemnité comprend le remboursement des frais de transport et une allocation forfaitaire de séjour pour eux-mêmes et,
 le cas échéant, pour leur conjoint. Si la situation du travailleur intéressé l'exige, le remboursement des frais de transport
 est remplacé par l'attribution d'un bon de transport gratuit.
 
-L'attribution de cette indemnité est subordonnée [*conditions*] à la vérification de l'existence de l'emploi offert, du
-caractère non saisonnier et non temporaire de celui-ci et de l'aptitude de l'intéressé à occuper ledit emploi.
-
-Cette indemnité ne peut être attribuée si les ressources du foyer de l'intéressé excèdent, à l'époque de la demande
-d'attribution, un montant fixé, compte tenu des charges de famille de ce travailleur, par l'arrêté prévu au premier alinéa de
-l'article R. 322-20.
+L'attribution de cette indemnité est subordonnée [*condition*] à la vérification de l'existence de l'emploi offert, du
+caractère non saisonnier et non temporaire de cet emploi et de l'aptitude de l'intéressé à l'occuper.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret  1970-03-16 ART. 16
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
 
 _Cité par_:
 
@@ -75963,14 +75974,6 @@ _Cité par_:
   - Code du travail - art. R330-14 (M)
   - Code du travail - art. R330-4 (M)
   - Code du travail - art. R330-8 (M)
-
-_Cite_:
-
-  - Code du travail - art. R322-20 (Ab)
-
-_Anciens textes_:
-
-  - Décret  1970-03-16 ART. 16
 
 
 ###### Article R322-17
@@ -76070,9 +76073,15 @@ _Cite_:
 
 ###### Article R322-28
 
-Le délai prévu au premier alinéa de l'article L. 322-8 est fixé à six mois. Toutefois, ce délai est augmenté d'une durée
-égale à celle du service national obligatoire effectivement accompli pour les personnes qui ont été incorporées à l'issue de
-leur scolarité ou d'un stage de formation professionnelle ou à l'expiration d'un contrat d'apprentissage.
+Le délai prévu au premier alinéa de l'article L. 322-8 est fixé à douze mois. Le point de départ de ce délai est fixé :
+
+1. A la date de la libération effective du service national, pour les jeunes qui ont été incorporés moins d'un an après
+l'achèvement de leur scolarité, d'un stage de formation professionnelle ou d'un contrat d'apprentissage ;
+
+2. A la date de la fin des vacances d'été, telle qu'elle est fixée par décision du ministre de l'éducation nationale, pour
+les jeunes gens, la scolarité prend fin lors des examens des sessions d'été ou d'automne ;
+
+3. A la date de cessation effective de la scolarité pour les jeunes qui l'interrompent au cours d'une année scolaire.
 
 **Liens relatifs à cet article**
 
@@ -76084,13 +76093,17 @@ _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
 
+_Abrogé par_:
+
+  - Décret n°83-665 1983-07-22 ART. 5 JORF 24 JUILLET 1983
+
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail - art. L322-8 (Ab)
 
 _Cite_:
 
-  - Code du travail - art. R322-8 (M)
+  - Code du travail - art. L322-8 (Ab)
 
 
 ###### Article R322-29

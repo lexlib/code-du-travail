@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-07-11
+Version Consolidée au 1976-07-18
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -128,8 +128,8 @@ Version Consolidée au 1976-07-11
         - [Chapitre II : JOURS FERIES (art. L222-4 à L222-8)](#125)
           - [SECTION 1 : DISPOSITIONS GENERALES. (art. L222-4)](#126)
           - [Section 2 : Dispositions particulières à la journée du 1er mai. (art. L222-5 à L222-8)](#127)
-        - [Chapitre III : Congés annuels (art. L223-5 à L223-17)](#128)
-          - [Section 2 : Durée du congé. (art. L223-5 à L223-10)](#129)
+        - [Chapitre III : Congés annuels (art. L223-4 à L223-17)](#128)
+          - [Section 2 : Durée du congé. (art. L223-4 à L223-10)](#129)
           - [Section 3 : Indemnités de congé. (art. L223-12 à L223-14)](#130)
           - [Section 4 : Caisse de congés payés. (art. L223-16 à L223-17)](#131)
         - [Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. L224-1 à L224-5)](#132)
@@ -13747,6 +13747,38 @@ _Abrogé par_:
 
 ##### Section 2 : Durée du congé.<a id=129></a>
 
+###### Article L223-4
+
+Sont assimilées à un mois de travail effectif pour la détermination de la durée du congé les périodes équivalentes à quatre
+semaines ou ving-quatre jours de travail. Les périodes de congé payé, les repos compensateurs prévus par l'article L. 212-5-1
+du présent code et par l'article 993-1 du Code Rural, les périodes de repos des femmes en couches prévues aux articles L.
+122-25 à L. 122-30 et les périodes limitées à une durée ininterrompue d'un an pendant lesquelles l'exécution du contrat de
+travail est suspendue pour cause d'accident du travail ou de maladie professionnelle, sont considérées comme périodes de
+travail effectif. Sont également considérées comme période de travail effectif pour la détermination de la durée du congé,
+les périodes pendant lesquelles un salarié ou un apprenti se trouve maintenu ou rappelé au service national à un titre
+quelconque.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail - art. L212-5-1 (M)
+  - Code du travail L122-25 A L122-30
+  - Code rural ART. 993-1
+
+_Cité par_:
+
+  - Code du travail - art. L223-11 (AbD)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L223-5
 
 Les femmes salariées ou apprenties âgées de moins de vingt et un ans au 30 avril de l'année précédente bénéficient de deux
@@ -17508,39 +17540,6 @@ _Cité par_:
 
   - Code du travail - art. D341-5-4 (V)
   - Code du travail - art. L117 BIS-5 (AbD)
-
-
-###### Article L223-4
-
-Sont assimilées à un mois de travail effectif pour la détermination de la durée du congé les périodes équivalentes à quatre
-semaines ou ving-quatre jours de travail. Les périodes de congé payé, les périodes de repos des femmes en couches prévues /R/
-A l'article L. 122-33/R/LOI 0004 02-01-1973 : aux articles L. 122-25 à L. 122-30// et les périodes limitées à une durée
-ininterrompue d'un an pendant lesquelles l'exécution du contrat de travail est suspendue pour cause d'accident du travail ou
-de maladie professionnelle, sont considérées comme périodes de travail effectif. Sont également considérées comme période de
-travail effectif pour la détermination de la durée du congé, les périodes pendant lesquelles un salarié ou un apprenti se
-trouve maintenu ou rappelé au service national à un titre quelconque.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code du travail - art. L223-11 (AbD)
-
-_Anciens textes_:
-
-  - Code du travail 2054 g AL. 3
-
-_Cite_:
-
-  - Code du travail L122-25 A L122-30
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L223-7

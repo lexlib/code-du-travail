@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-02-01
+Version Consolidée au 1981-02-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -68469,13 +68469,17 @@ agricoles.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°80-857 du 30 octobre 1980 - art. 4 () JORF 1er novembre 1980 en vigueur le 1er février 1981
+  - Code du travail - art. D4153-19 (V)
+
+_Cite_:
+
+  - Code du travail - art. R234-4
 
 
 ##### Section 2 : Limitation des charges.<a id=729></a>
@@ -68736,13 +68740,13 @@ usage agricole comportant des fonctions ou mouvements multiples [*interdiction d
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°80-857 du 30 octobre 1980 - art. 5 () JORF 1ER novembre date d'entrée en vigueur 1ER février 1981
+  - Code du travail - art. D4153-22 (V)
 
 
 ###### Article R234-13
@@ -68774,13 +68778,13 @@ citernes, fosses et galeries. Les travaux d'élagage et d'éhoupage sont interdi
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°80-857 du 30 octobre 1980 - art. 6 () JORF 1ER novembre date d'entrée en vigueur 1ER février 1981
+  - Code du travail - art. D4153-23 (V)
 
 
 ###### Article R234-14

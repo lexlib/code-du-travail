@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-12-30
+Version Consolidée au 1974-01-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L950-3)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -44606,23 +44606,20 @@ _Codifié par_:
 
 ###### Article L960-14
 
-Les stagiaires titulaires d'un contrat de travail restent affiliés au régime de sécurité sociale dont dépend leur activité
-salariée.
-
-Les stagiaires qui ne sont pas titulaires d'un contrat de travail et qui n'ont pas la qualité d'ayants droit sont, compte
-tenu de la nature de l'activité à laquelle prépare le stage, affiliés soit au régime général de sécurité sociale, soit au
-régime d'assurances sociales des salariés agricoles, soit au régime de sécurité sociale des professions non-salariés
-agricoles, soit au régime de sécurité sociale des professions non-salariées non-agricoles, soit au régime spécial de sécurité
-sociale des marins français.
-
-Pour les stagiaires relevant du régime général, l'Etat participe aux cotisations de sécurité sociale à la charge des
-employeurs dans la même proportion qu'aux rémunérations. Lorsque les stagiaires ne sont pas titulaires d'un contrat de
-travail, le taux des cotisations sociales est forfaitaire ; ce taux est fixé par décret.
-
-Pour les stagiaires ne relevant pas du régime général, des décrets fixent les conditions de prise en charge, totale ou
-partielle, par l'Etat, des cotisations sociales.
+Les frais de transport exposés par les travailleurs pour se rendre au lieu des stages qui font l'objet du présent titre et
+pour en revenir ou pour se déplacer, en fonction des nécessités de ces stages, donnent lieu à un remboursement total ou
+partiel.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°71-575 du 16 juillet 1971 - art. 38 (V)
+  - Code du travail L960-16 (1973)
+
+_Cite_:
+
+  - Code du travail L960-1 A L960-18
 
 _Codifié par_:
 
@@ -44631,10 +44628,20 @@ _Codifié par_:
 
 ###### Article L960-15
 
-Le 2. de l'article L. 416 du titre 1er du livre IV du code de la sécurité sociale, relatif aux accidents du travail et
-maladies professionnelles est applicable à tous les stagiaires relevant du présent titre.
+Tous les litiges auxquels peuvent donner lieu la liquidation, le versement et le remboursement des rémunérations et
+indemnités prévues au présent titre /A/Ainsi que le versement et la prise en charge des cotisations de sécurité sociale et
+d'accidents du travail/A/ LOI  1171 31-12-1974// relèvent de la compétence des tribunaux de l'ordre judiciaire.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°74-1171 1974-12-31 ART. 3 III
+  - Code du travail L960-17 (1973)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L960-11 (P)
 
 _Cité par_:
 
@@ -44642,8 +44649,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail L960-1 A L960-16
-  - Code de la sécurité sociale L416
+  - Code du travail L960-1 A L960-18
 
 _Codifié par_:
 

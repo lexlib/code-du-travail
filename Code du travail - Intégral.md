@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-06-07
+Version Consolidée au 1980-06-07 00:00:01 +0200
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -106501,18 +106501,23 @@ déplacement à l'intérieur de leur résidence, nécessités par l'accomplissem
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°80-400 1980-06-04 ART. 1 JORF 7 JUIN
-
 _Cité par_:
 
   - Arrêté du 4 juin 1980 - art. 1 (V)
   - Code du travail - art. D524-3 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. R524-12
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R2523-17 (V)
 
 
 ###### Article D524-2
@@ -106523,18 +106528,18 @@ Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°80-400 1980-06-04 ART. 1 JORF 7 JUIN
-
 _Cité par_:
 
   - Arrêté du 4 juin 1980 - art. 1 (V)
   - Code du travail - art. D524-3 (VT)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R2523-18 (V)
 
 
 ###### Article D524-3
@@ -106546,17 +106551,22 @@ et des finances [*autorités compétentes*].
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°80-400 1980-06-04 ART. 1 JORF 7 JUIN
-
 _Cité par_:
 
   - Arrêté du 4 juin 1980 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. D524-1
+  - Code du travail - art. D524-2
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R2523-19 (V)
 
 
 ###### Article D524-4
@@ -108144,22 +108154,14 @@ Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°80-400 1980-06-04 ART. 2 JORF 7 JUIN
-
 _Cité par_:
 
   - Arrêté du 4 juin 1980 - art. 1 (V)
   - Code du travail - art. D742-14 (VT)
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D742-14
@@ -108171,21 +108173,18 @@ travail et des finances [*autorités compétentes*].
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°80-400 1980-06-04 ART. 2 JORF 7 JUIN
-
 _Cité par_:
 
   - Arrêté du 4 juin 1980 - art. 1 (V)
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail - art. D742-12
+  - Code du travail - art. D742-13
 
 
 ###### Article D742-15
@@ -108201,17 +108200,9 @@ fonctionnaires du groupe I.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°80-400 1980-06-04 ART. 2 JORF 7 JUIN
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 #### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.<a id=1325></a>

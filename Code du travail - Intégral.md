@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-12-13
+Version Consolidée au 1981-12-18
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -908,11 +908,11 @@ Version Consolidée au 1981-12-13
           - [Section 1 : Contrat d'intéressement ou d'association. (art. R441-1 à R441-9)](#905)
           - [Section 2 : Contrat d'intéressement à la productivité. (art. R441-10 à R441-17)](#906)
         - [Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises (art. R442-1 à R442-43)](#907)
-          - [Section 1 : Réserve spéciale de participation des travailleurs (art. R442-1 à R442-14)](#908)
+          - [Section 1 : Réserve spéciale de participation des travailleurs (art. R442-1 à R442-15)](#908)
             - [Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation. (art. R442-1)](#909)
             - [Paragraphe 2 : Modalités de calcul de la réserve spéciale. (art. R442-3 à R442-5)](#910)
             - [Paragraphe 3 : Modalités de répartition de la réserve spéciale. (art. R442-6)](#911)
-            - [Paragraphe 4 : Modalités de gestion de la réserve spéciale. (art. R442-7 à R442-14)](#912)
+            - [Paragraphe 4 : Modalités de gestion de la réserve spéciale. (art. R442-7 à R442-15)](#912)
           - [Section 2 : Accords passés entre les entreprises et leur personnel. (art. R442-16 à R442-22)](#913)
           - [Section 3 : Information des salariés. (art. R442-23 à R442-26)](#914)
           - [Section 4 : Dispositions diverses. (art. R442-27 à R442-32)](#915)
@@ -1058,10 +1058,10 @@ Version Consolidée au 1981-12-13
       - [INTERESSEMENT ET PARTICIPATION (art. R441-5 à R443-10)](#1055)
         - [ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE (art. R441-5 à R441-6)](#1056)
           - [CONTRAT D'INTERESSEMENT OU D'ASSOCIATION . (art. R441-5 à R441-6)](#1057)
-        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES (art. R442-2 à R442-15)](#1058)
-          - [RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS (art. R442-2 à R442-15)](#1059)
+        - [PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES (art. R442-2 à R442-11)](#1058)
+          - [RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS (art. R442-2 à R442-11)](#1059)
             - [MODALITES DE CALCUL DE LA RESERVE SPECIALE . (art. R442-2)](#1060)
-            - [MODALITES DE GESTION DE LA RESERVE SPECIALE . (art. R442-11 à R442-15)](#1061)
+            - [MODALITES DE GESTION DE LA RESERVE SPECIALE . (art. R442-11)](#1061)
         - [PLAN D'EPARGNE D'ENTREPRISE (art. R443-10)](#1062)
           - [COMPOSITION ET GESTION DU PORTEFEUILLE . (art. R443-10)](#1063)
     - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R611-1 à R632-2)](#1064)
@@ -80876,6 +80876,62 @@ _Cite_:
   - Code du travail - art. L442-5 (M)
 
 
+###### Article R442-15
+
+Indépendamment des cas prévus au troisième alinéa de l'article L. 442-7 et à l'article 4 de la loi n° 76-463 du 31 mai 1976,
+les faits en raison desquels, en application de l'alinéa 2 de l'article L. 442-7, les droits constitués au profit des
+salariés deviennent négociables ou exigibles avant l'expiration du délai prévu aux articles L. 442-7 (alinéa 1er) et L.
+442-12 sont les suivants :
+
+Mariage de l'intéressé ;
+
+Cessation du contrat de travail ;
+
+Invalidité du bénéficiaire ou de son conjoint entrant dans la prévision du 2° ou du 3° de l'article L. 310 du code de la
+sécurité sociale ;
+
+Divorce lorsque l'intéressé conserve la garde d'au moins un enfant ;
+
+Décès du conjoint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cite_:
+
+  - Loi n°76-463 du 31 mai 1976 - art. 4 (AbD)
+  - Code du travail - art. L442-12 (M)
+  - Code du travail - art. L442-7 (M)
+  - Code de la sécurité sociale L310
+
+_Créé par_:
+
+  - Décret n°81-1116 1981-12-16 ART. 1 JORF 18 DECEMBRE 1981
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - TXT_ASSOCIE: Code du travail - art. L442-7 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+_Anciens textes_:
+
+  - Décret n°87-544 du 17 juillet 1987 - art. 20 (T)
+
+_Cité par_:
+
+  - Code du travail - art. R442-11 (Ab)
+  - Code du travail - art. R442-13 (Ab)
+  - Code du travail - art. R442-26 (Ab)
+  - Code du travail - art. R442-7 (Ab)
+
+
 ##### Section 2 : Accords passés entre les entreprises et leur personnel.<a id=913></a>
 
 ###### Article R442-16
@@ -94001,56 +94057,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Décret n°87-544 du 17 juillet 1987 - art. 16 (T)
-
-
-###### Article R442-15
-
-Les cas dans lesquels en application de l'article L. 442-7 les droits constitués au profit des salariés deviennent
-négociables ou exigibles avant l'expiration du délai prévu à l'article L. 442-7 ou à l'article L. 442-12 sont les suivants :
-
-Mariage de l'intéressé ;
-
-Licenciement ;
-
-Mise à la retraite ;
-
-Invalidité du bénéficiaire ou de son conjoint, correspondant au classement dans la deuxième ou la troisième des catégories
-prévues à l'article 310 du code de la sécurité sociale ;
-
-Décès du bénéficiaire ou de son conjoint.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Modifié par_:
-
-  - Décret n°81-1116 1981-12-16 ART. 1 JORF 18 DECEMBRE 1981
-
-_Anciens textes_:
-
-  - Décret n°87-544 du 17 juillet 1987 - art. 20 (T)
-  - Décret n°67-1112 1967-12-19 ART. 16
-  - Ordonnance 67-693 1967-04-17
-
-_Cite_:
-
-  - Code du travail - art. L442-12 (M)
-  - Code du travail - art. L442-7 (M)
-  - Code de la sécurité sociale 310
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail - art. L442-7 (Ab)
-
-_Cité par_:
-
-  - Code du travail - art. R442-11 (Ab)
-  - Code du travail - art. R442-13 (Ab)
-  - Code du travail - art. R442-26 (Ab)
-  - Code du travail - art. R442-7 (Ab)
 
 
 #### PLAN D'EPARGNE D'ENTREPRISE<a id=1062></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-10-01
+Version Consolidée au 1981-10-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -136,8 +136,8 @@ Version Consolidée au 1981-10-01
           - [Section 3 : Dispositions particulières à la boulangerie. (art. L213-11 à L213-12)](#133)
       - [Titre II : Repos et congés (art. L221-2 à L225-6)](#134)
         - [Chapitre Ier : Repos hebdomadaire. (art. L221-2 à L221-27)](#135)
-        - [Chapitre II : JOURS FERIES (art. L222-4 à L222-9)](#136)
-          - [SECTION 1 : DISPOSITIONS GENERALES. (art. L222-4)](#137)
+        - [Chapitre II : JOURS FERIES (art. L222-1 à L222-9)](#136)
+          - [SECTION 1 : DISPOSITIONS GENERALES. (art. L222-1 à L222-4)](#137)
           - [Section 2 : Dispositions particulières à la journée du 1er mai. (art. L222-5 à L222-9)](#138)
         - [Chapitre III : Congés annuels (art. L223-1 à L223-17)](#139)
           - [Section 1 : Droit au congé. (art. L223-1)](#140)
@@ -150,8 +150,8 @@ Version Consolidée au 1981-10-01
           - [Section 2 : Congés d'éducation ouvrière. (art. L225-6)](#147)
       - [Titre II : REPOS (art. L221-10 à L222-3)](#148)
         - [Chapitre Ier : REPOS HEBDOMADAIRE. (art. L221-10)](#149)
-        - [Chapitre II : JOURS FERIES (art. L222-1 à L222-3)](#150)
-          - [SECTION 1 : DISPOSITIONS GENERALES. (art. L222-1 à L222-3)](#151)
+        - [Chapitre II : JOURS FERIES (art. L222-2 à L222-3)](#150)
+          - [SECTION 1 : DISPOSITIONS GENERALES. (art. L222-2 à L222-3)](#151)
       - [Titre II : CONGES (art. L223-2 à L223-6)](#152)
         - [Chapitre III : CONGES ANNUELS (art. L223-2 à L223-6)](#153)
           - [SECTION 2 : DUREE DU CONGE *PAYE*. (art. L223-2 à L223-6)](#154)
@@ -15590,6 +15590,71 @@ _Codifié par_:
 
 ##### SECTION 1 : DISPOSITIONS GENERALES.<a id=137></a>
 
+###### Article L222-1
+
+Les fêtes légales ci-après désignées sont des jours fériés :
+
+- le 1er janvier ;
+
+- le lundi de Pâques ;
+
+- le 1er mai ;
+
+- le 8 mai ;
+
+- l'Ascension ;
+
+- le lundi de Pentecôte ;
+
+- le 14 juillet ;
+
+- l'Assomption ;
+
+- la Toussaint ;
+
+- le 11 novembre ;
+
+- le jour de Noël.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-844 du 8 août 1985 - art. 17 (V)
+  - Code du travail - art. L212-4-2 (M)
+  - Code du travail - art. L212-8 (M)
+  - Code du travail maritime - art. 24-3 (M)
+  - Code rural - art. L713-14 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Anciens textes_:
+
+  - Loi n°1880-07-06
+  - Loi n°1905-12-09 art. 42
+  - Loi n°1922-10-24
+  - Loi n°1947-04-30 art. 1
+  - Loi n°1886-03-08
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Nouveaux textes_:
+
+  - Code du travail - art. L3133-1 (VD)
+
+
 ###### Article L222-4
 
 Les apprentis ne peuvent être tenus en aucun cas, vis-à-vis de leur maître, à aucun travail de leur profession les jours de
@@ -16858,57 +16923,6 @@ _Codifié par_:
 #### Chapitre II : JOURS FERIES<a id=150></a>
 
 ##### SECTION 1 : DISPOSITIONS GENERALES.<a id=151></a>
-
-###### Article L222-1
-
-Les fêtes légales ci-après désignées sont des jours fériés :
-
-- le 1er janvier ;
-
-- le lundi de Pâques ;
-
-- le 1er mai ;
-
-- l'Ascension ;
-
-- le lundi de Pentecôte ;
-
-- le 14 juillet ;
-
-- l'Assomption ;
-
-- la Toussaint ;
-
-- le 11 novembre ;
-
-- le jour de Noël.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1046 1973-11-15
-
-_Cité par_:
-
-  - Décret n°85-844 du 8 août 1985 - art. 17 (V)
-  - Code du travail - art. L212-4-2 (M)
-  - Code du travail - art. L212-8 (M)
-  - Code du travail maritime - art. 24-3 (M)
-  - Code rural - art. L713-14 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1880-07-06
-  - Loi n°1905-12-09 art. 42
-  - Loi n°1922-10-24
-  - Loi n°1947-04-30 art. 1
-  - Loi n°1886-03-08
-
-_Nouveaux textes_:
-
-  - Code du travail - art. L3133-1 (VD)
-
 
 ###### Article L222-2
 

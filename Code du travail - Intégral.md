@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-07-06
+Version Consolidée au 1979-07-06 00:00:01 +0200
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -113618,17 +113618,21 @@ travailleurs sont déterminées par arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°48-592 1948-03-30 ART. 2 AL. 1
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
 _Cité par_:
 
   - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. D3423-10 (V)
+
+_Cite_:
+
+  - Code du travail - art. R147-2
 
 
 ### Titre II : Réglementation du travail<a id=1385></a>

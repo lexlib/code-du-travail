@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-05-15
+Version Consolidée au 1981-05-21
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -83928,18 +83928,22 @@ _Abrogé par_:
 
 ###### Article R322-32
 
-La demande d'attribution de la prime de mobilité doit être présentée dans un délai de quatre mois à compter de l'occupation
-de l'emploi [*point de départ*] .
+La demande d'attribution de la prime de mobilité des jeunes doit être présentée dans un délai de six mois à compter de
+l'occupation de l'emploi.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-345 1973-03-26 ART. 6
 
 _Codifié par_:
 
   - Décret n°73-1048 1973-11-15
+
+_Créé par_:
+
+  - Décret n°81-623 1981-05-20 ART. 3 JORF 21 MAI 1981
+
+_Abrogé par_:
+
+  - Décret n°83-665 1983-07-22 ART. 5 JORF 24 JUILLET 1983
 
 
 ### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS<a id=964></a>

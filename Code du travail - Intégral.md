@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-03-10
+Version Consolidée au 1976-04-06
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -73289,11 +73289,21 @@ suivantes :
 
 2. Nature de l'activité de l'entreprise ;
 
-3. Nom, prénoms, nationalité, date de naissance, sexe adresse emploi et qualification du ou des salariés dont le contrat a
-été conclu ou résilié ;
+3. Nom, prénoms, nationalité, date de naissance, sexe, emploi et qualification du ou des salariés dont le contrat a été
+conclu ou résilié ;
 
 4. Date d'effet du ou des contrats de travail ou de leur résiliation avec, dans le cas de résiliation pour motif économique,
 l'indication de la nature de ce motif.
+
+Sur la demande expresse des services chargés du contrôle de l'emploi, l'adresse du ou des salariés visés au 3° ci-dessus
+devra en outre être communiquée.
+
+Tout employeur qui embauche une personne inscrite comme demandeur d'emploi à l'Agence nationale pour l'emploi doit dans les
+quarante-huit heures suivant l'embauche en informer le service de l'agence dont il relève [*délai*].
+
+Cette information est transmise par un document fourni au demandeur par l'Agence nationale pour l'emploi au demandeur
+d'emploi qui est tenu de le remettre à son nouvel employeur. La date d'embauche doit être mentionnée sur ce document, cette
+mention est certifiée exacte par l'employeur.
 
 **Liens relatifs à cet article**
 
@@ -73311,6 +73321,15 @@ _Cité par_:
   - Code du travail - art. R362-1 (T)
   - Code du travail - art. R362-1-1 (VT)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
+
+_Transféré par_:
+
+  - Décret n°87-134 du 27 février 1987 - art. 2 () JORF 28 février 1987
+
 _Nouveaux textes_:
 
   - Code du travail - art. R320-1 (T)
@@ -73318,10 +73337,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code du travail L321-1 PAR. 1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
 
 
 ###### Article R321-2
@@ -73467,21 +73482,21 @@ _Cite_:
 
 Dans tout établissement ou profession relevant de l'article L. 321-1, les engagements, licenciements et démissions ainsi que
 l'expiration des contrats à durée déterminée sont consignés sur un registre spécial constamment tenu à la disposition des
-fonctionnaires chargés de veiller à l'application des dispositions du présent chapitre ainsi que des délégués du personnel.
+fonctionnaires chargés de veiller à l'application des dispositions du présent chapitre ainsi que des délégués du personnel. 
 
-Ce registre indique pour chaque personne concernée [*mentions obligatoires*] :
+Ce registre indique pour chaque personne concernée    : 
 
-1. Les nom, prénoms, nationalité, date de naissance, sexe adresse, emploi et qualification ;
+1. Les nom, prénoms, nationalité, date de naissance, sexe, emploi et qualification ; 
 
-2. Les dates d'entrée et de sortie de l'établissement ;
+2. Les dates d'entrée et de sortie de l'établissement ; 
 
 3. Quand elles sont requises, la date des autorisations prévues aux articles R. 321-2 et R. 321-3 ou, à défaut, la date des
-demandes de l'employeur.
+demandes de l'employeur. 
 
 Lorsque l'employeur d'au moins un salarié permanent fait appel à au moins un travailleur mis à sa disposition par une
 entreprise de travail temporaire, il est en outre tenu de consigner sur ce registre, pour chaque travailleur mis à
-disposition, les indications prévues aux 1. et 2. de l'alinéa précédent avec la mention "travailleur employé à titre
-temporaire". Le nom et l'adresse de l'entrepreneur de travail temporaire doivent également être précisés.
+disposition, les indications prévues aux 1. et 2. de l'alinéa précédent avec la mention " travailleur employé à titre
+temporaire ". Le nom et l'adresse de l'entrepreneur de travail temporaire doivent également être précisés.
 
 **Liens relatifs à cet article**
 
@@ -73500,8 +73515,13 @@ _Cité par_:
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
   - TXT_ASSOCIE: Décret n°93-631 du 26 mars 1993
   - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
+
+_Abrogé par_:
+
+  - Décret n°86-524 1986-03-13 art. 3 JORF 16 mars 1986
 
 _Cite_:
 
@@ -73513,7 +73533,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code du travail - art. R321-11 (M)
-  - Code du travail R321-11 (1973)
 
 
 ###### Article R321-6

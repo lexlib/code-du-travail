@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-26 00:00:01 +0100
+Version Consolidée au 1978-04-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -1316,88 +1316,90 @@ Version Consolidée au 1978-03-26 00:00:01 +0100
         - [Chapitre II : Artistes, compositeurs, gens de lettres (art. D762-1 à D762-11)](#1313)
           - [Section 2 : Artistes du spectacle : congés payés. (art. D762-1 à D762-11)](#1314)
       - [Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison (art. D773-1 à D773-4)](#1315)
-        - [Chapitre Ier : Surveillance médicale. (art. D773-1 à D773-4)](#1316)
-      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (art. D783-1)](#1317)
-        - [Chapitre III : Halles centrales de Paris. (art. D783-1)](#1318)
-    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer (art. D811-1 à D871-1)](#1319)
-      - [Titre Ier : Conventions relatives au travail (art. D811-1 à D814-1)](#1320)
-        - [Chapitre Ier : Apprentissage (art. D811-1 à D811-80)](#1321)
-          - [Section 1 : Des centres de formation d'apprentis (art. D811-1 à D811-31)](#1322)
-            - [Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis (art. D811-1 à D811-16)](#1323)
-              - [Dispositions générales. (art. D811-1 à D811-3)](#1324)
-              - [De l'organisation des centres. (art. D811-4 à D811-8)](#1325)
-              - [Du fonctionnement pédagogique des centres. (art. D811-9 à D811-13)](#1326)
-              - [De l'organisation financière des centres. (art. D811-14 à D811-16)](#1327)
-            - [Paragraphe 2 : De la conclusion et du renouvellement des conventions. (art. D811-17 à D811-22)](#1328)
-            - [Paragraphe 3 : Du personnel des centres de formation d'apprentis. (art. D811-23 à D811-27)](#1329)
-            - [Paragraphe 4 : Du contrôle des centres de formation d'apprentis. (art. D811-28 à D811-31)](#1330)
-          - [Section 2 : Du contrat d'apprentissage (art. D811-33 à D811-50)](#1331)
-            - [De l'agrément de l'employeur. (art. D811-33 à D811-36)](#1332)
-            - [De la durée de l'apprentissage. (art. D811-37 à D811-39)](#1333)
-            - [Du contenu des contrats d'apprentissage. (art. D811-43)](#1334)
-            - [De l'enregistrement du contrat d'apprentissage. (art. D811-44 à D811-46)](#1335)
-            - [Cas de l'apprenti employé par un ascendant. (art. D811-47 à D811-48)](#1336)
-            - [Constatation de l'aptitude de l'apprenti. (art. D811-49 à D811-50)](#1337)
-          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage. (art. D811-51)](#1338)
-          - [Section 4 : Dispositions financières. (art. D811-53 à D811-60)](#1339)
-          - [Section 5 : Dispositions provisoires (art. D811-61 à D811-80)](#1340)
-            - [Paragraphe 1 : Des accords provisoires (art. D811-61 à D811-78)](#1341)
-              - [Dispositions générales. (art. D811-61 à D811-64)](#1342)
-              - [Des accords simples. (art. D811-65 à D811-67)](#1343)
-              - [Des accords de transformation. (art. D811-69 à D811-73)](#1344)
-              - [Dispositions relatives au personnel. (art. D811-74 à D811-78)](#1345)
-            - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage. (art. D811-80)](#1346)
-        - [Chapitre IV : Salaire (art. D814-1)](#1347)
-          - [Section 1 : Salaire minimum de croissance. (art. D814-1)](#1348)
-      - [Titre II : Réglementation du travail (art. D822-1 à D822-27)](#1349)
-        - [Chapitre II : Services médicaux du travail (art. D822-1 à D822-27)](#1350)
-          - [Section 1 : Organisation et fonctionnement des services médicaux du travail. (art. D822-1 à D822-21)](#1351)
-            - [Paragraphe a) Les médecins du travail. (art. D822-10 à D822-11)](#1352)
-            - [Paragraphe b) Visites d'embauchage. (art. D822-12)](#1353)
-            - [Paragraphe c) Examens médicaux périodiques des salariés. (art. D822-13)](#1354)
-            - [Paragraphe d) Visite de reprise. (art. D822-14)](#1355)
-            - [Paragraphe e) Examens complémentaires. (art. D822-15 à D822-16)](#1356)
-            - [Paragraphe f) Surveillance de l'hygiène des entreprises. (art. D822-17 à D822-21)](#1357)
-          - [Section 3 : Infirmiers et infirmières. (art. D822-22 à D822-25)](#1358)
-          - [Section 4 : Locaux et matériel. (art. D822-26)](#1359)
-          - [Section 5 : Dispositions particulières. (art. D822-27)](#1360)
-      - [Titre III : Placement et emploi (art. D831-1)](#1361)
-        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère. (art. D831-1)](#1362)
-      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail (art. D861-1)](#1363)
-        - [Chapitre Ier : Inspection du travail. (art. D861-1)](#1364)
-      - [Titre VII : Dispositions particulières à certaines professions (art. D871-1)](#1365)
-        - [Chapitre Ier : Journalistes professionnels. (art. D871-1)](#1366)
-    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. D811-32 à D811-79)](#1367)
-      - [CONVENTIONS RELATIVES AU TRAVAIL (art. D811-32 à D811-79)](#1368)
-        - [APPRENTISSAGE (art. D811-32 à D811-79)](#1369)
-          - [CONTRAT D'APPRENTISSAGE (art. D811-32 à D811-42)](#1370)
-            - [AGREMENT DE L'EMPLOYEUR . (art. D811-32)](#1371)
-            - [AVIS D'ORIENTATION . (art. D811-40)](#1372)
-            - [CONTENU DES CONTRATS D'APPRENTISSAGE . (art. D811-41 à D811-42)](#1373)
-          - [DISPOSITIONS FINANCIERES . (art. D811-52 à D811-54)](#1374)
-          - [DISPOSITIONS PROVISOIRES (art. D811-62 à D811-79)](#1375)
-            - [ACCORDS PROVISOIRES . (art. D811-62 à D811-68)](#1376)
-              - [ACCORDS DE TRANSFORMATION . (art. D811-68)](#1377)
-            - [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS . (art. D811-79)](#1378)
-    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente (art. D910-7 à D981-5)](#1379)
-      - [Titre Ier : Des institutions de la formation professionnelle (art. D910-7 à D910-24)](#1380)
-        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi. (art. D910-7 à D910-21)](#1381)
-        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris. (art. D910-22 à D910-24)](#1382)
-      - [Titre IV : De l'aide de l'Etat. (art. D940-1 à D940-6)](#1383)
-      - [Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18 (art. D981-1 à D981-5)](#1384)
-        - [Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires. (art. D981-1 à D981-5)](#1385)
-    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE (art. D910-1 à D940-5)](#1386)
-      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-1 à D910-5)](#1387)
-        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI . (art. D910-1 à D910-5)](#1388)
-      - [AIDE DE L'ETAT . (art. D940-5)](#1389)
-    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE (art. D910-2)](#1390)
-      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-2)](#1391)
-        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI. (art. D910-2)](#1392)
-  - [Annexes (art. Annexe à l'article R438-1)](#1393)
-    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés (art. Annexe à l'article R438-1)](#1394)
-      - [Titre 3 : Les comités d'entreprise (art. Annexe à l'article R438-1)](#1395)
-        - [Chapitre 8 : Bilan social (art. Annexe à l'article R438-1)](#1396)
-          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4. (art. Annexe à l'article R438-1)](#1397)
+        - [Chapitre III : Assistantes maternelles (art. D773-1 à D773-4)](#1316)
+          - [Section 1 : Dispositions générales. (art. D773-1 à D773-2)](#1317)
+          - [Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé. (art. D773-3 à D773-4)](#1318)
+      - [Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (art. D783-1)](#1319)
+        - [Chapitre III : Halles centrales de Paris. (art. D783-1)](#1320)
+    - [Livre VIII : Dispositions spéciales aux départements d'outre-mer (art. D811-1 à D871-1)](#1321)
+      - [Titre Ier : Conventions relatives au travail (art. D811-1 à D814-1)](#1322)
+        - [Chapitre Ier : Apprentissage (art. D811-1 à D811-80)](#1323)
+          - [Section 1 : Des centres de formation d'apprentis (art. D811-1 à D811-31)](#1324)
+            - [Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis (art. D811-1 à D811-16)](#1325)
+              - [Dispositions générales. (art. D811-1 à D811-3)](#1326)
+              - [De l'organisation des centres. (art. D811-4 à D811-8)](#1327)
+              - [Du fonctionnement pédagogique des centres. (art. D811-9 à D811-13)](#1328)
+              - [De l'organisation financière des centres. (art. D811-14 à D811-16)](#1329)
+            - [Paragraphe 2 : De la conclusion et du renouvellement des conventions. (art. D811-17 à D811-22)](#1330)
+            - [Paragraphe 3 : Du personnel des centres de formation d'apprentis. (art. D811-23 à D811-27)](#1331)
+            - [Paragraphe 4 : Du contrôle des centres de formation d'apprentis. (art. D811-28 à D811-31)](#1332)
+          - [Section 2 : Du contrat d'apprentissage (art. D811-33 à D811-50)](#1333)
+            - [De l'agrément de l'employeur. (art. D811-33 à D811-36)](#1334)
+            - [De la durée de l'apprentissage. (art. D811-37 à D811-39)](#1335)
+            - [Du contenu des contrats d'apprentissage. (art. D811-43)](#1336)
+            - [De l'enregistrement du contrat d'apprentissage. (art. D811-44 à D811-46)](#1337)
+            - [Cas de l'apprenti employé par un ascendant. (art. D811-47 à D811-48)](#1338)
+            - [Constatation de l'aptitude de l'apprenti. (art. D811-49 à D811-50)](#1339)
+          - [Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage. (art. D811-51)](#1340)
+          - [Section 4 : Dispositions financières. (art. D811-53 à D811-60)](#1341)
+          - [Section 5 : Dispositions provisoires (art. D811-61 à D811-80)](#1342)
+            - [Paragraphe 1 : Des accords provisoires (art. D811-61 à D811-78)](#1343)
+              - [Dispositions générales. (art. D811-61 à D811-64)](#1344)
+              - [Des accords simples. (art. D811-65 à D811-67)](#1345)
+              - [Des accords de transformation. (art. D811-69 à D811-73)](#1346)
+              - [Dispositions relatives au personnel. (art. D811-74 à D811-78)](#1347)
+            - [Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage. (art. D811-80)](#1348)
+        - [Chapitre IV : Salaire (art. D814-1)](#1349)
+          - [Section 1 : Salaire minimum de croissance. (art. D814-1)](#1350)
+      - [Titre II : Réglementation du travail (art. D822-1 à D822-27)](#1351)
+        - [Chapitre II : Services médicaux du travail (art. D822-1 à D822-27)](#1352)
+          - [Section 1 : Organisation et fonctionnement des services médicaux du travail. (art. D822-1 à D822-21)](#1353)
+            - [Paragraphe a) Les médecins du travail. (art. D822-10 à D822-11)](#1354)
+            - [Paragraphe b) Visites d'embauchage. (art. D822-12)](#1355)
+            - [Paragraphe c) Examens médicaux périodiques des salariés. (art. D822-13)](#1356)
+            - [Paragraphe d) Visite de reprise. (art. D822-14)](#1357)
+            - [Paragraphe e) Examens complémentaires. (art. D822-15 à D822-16)](#1358)
+            - [Paragraphe f) Surveillance de l'hygiène des entreprises. (art. D822-17 à D822-21)](#1359)
+          - [Section 3 : Infirmiers et infirmières. (art. D822-22 à D822-25)](#1360)
+          - [Section 4 : Locaux et matériel. (art. D822-26)](#1361)
+          - [Section 5 : Dispositions particulières. (art. D822-27)](#1362)
+      - [Titre III : Placement et emploi (art. D831-1)](#1363)
+        - [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère. (art. D831-1)](#1364)
+      - [Titre VI : Contrôle de l'application de la législation et de la réglementation du travail (art. D861-1)](#1365)
+        - [Chapitre Ier : Inspection du travail. (art. D861-1)](#1366)
+      - [Titre VII : Dispositions particulières à certaines professions (art. D871-1)](#1367)
+        - [Chapitre Ier : Journalistes professionnels. (art. D871-1)](#1368)
+    - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM* (art. D811-32 à D811-79)](#1369)
+      - [CONVENTIONS RELATIVES AU TRAVAIL (art. D811-32 à D811-79)](#1370)
+        - [APPRENTISSAGE (art. D811-32 à D811-79)](#1371)
+          - [CONTRAT D'APPRENTISSAGE (art. D811-32 à D811-42)](#1372)
+            - [AGREMENT DE L'EMPLOYEUR . (art. D811-32)](#1373)
+            - [AVIS D'ORIENTATION . (art. D811-40)](#1374)
+            - [CONTENU DES CONTRATS D'APPRENTISSAGE . (art. D811-41 à D811-42)](#1375)
+          - [DISPOSITIONS FINANCIERES . (art. D811-52 à D811-54)](#1376)
+          - [DISPOSITIONS PROVISOIRES (art. D811-62 à D811-79)](#1377)
+            - [ACCORDS PROVISOIRES . (art. D811-62 à D811-68)](#1378)
+              - [ACCORDS DE TRANSFORMATION . (art. D811-68)](#1379)
+            - [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS . (art. D811-79)](#1380)
+    - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente (art. D910-7 à D981-5)](#1381)
+      - [Titre Ier : Des institutions de la formation professionnelle (art. D910-7 à D910-24)](#1382)
+        - [Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi. (art. D910-7 à D910-21)](#1383)
+        - [Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris. (art. D910-22 à D910-24)](#1384)
+      - [Titre IV : De l'aide de l'Etat. (art. D940-1 à D940-6)](#1385)
+      - [Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18 (art. D981-1 à D981-5)](#1386)
+        - [Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires. (art. D981-1 à D981-5)](#1387)
+    - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE (art. D910-1 à D940-5)](#1388)
+      - [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-1 à D910-5)](#1389)
+        - [ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI . (art. D910-1 à D910-5)](#1390)
+      - [AIDE DE L'ETAT . (art. D940-5)](#1391)
+    - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE (art. D910-2)](#1392)
+      - [Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE (art. D910-2)](#1393)
+        - [SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI. (art. D910-2)](#1394)
+  - [Annexes (art. Annexe à l'article R438-1)](#1395)
+    - [Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés (art. Annexe à l'article R438-1)](#1396)
+      - [Titre 3 : Les comités d'entreprise (art. Annexe à l'article R438-1)](#1397)
+        - [Chapitre 8 : Bilan social (art. Annexe à l'article R438-1)](#1398)
+          - [Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4. (art. Annexe à l'article R438-1)](#1399)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : Conventions relatives au travail<a id=2></a>
@@ -108971,14 +108973,16 @@ _Nouveaux textes_:
 
 ### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison<a id=1315></a>
 
-#### Chapitre Ier : Surveillance médicale.<a id=1316></a>
+#### Chapitre III : Assistantes maternelles<a id=1316></a>
+
+##### Section 1 : Dispositions générales.<a id=1317></a>
 
 ###### Article D773-1
 
-La création et la constitution des services médicaux du travail interentreprises destinés uniquement à assurer la
-surveillance médicale des gardiens d'immeubles à usage d'habitation et des employés de maison, sont soumises aux règles
-applicables aux autres services interentreprises en ce qui concerne tant la définition de leur compétence territoriale que
-leur agrément.
+Sans préjudice des sommes et des fournitures destinées à l'entretien des enfants, la rémunération des assistantes maternelles
+visées à l'article 123-1 du code de la famille et de l'aide sociale ne peut être inférieure à deux fois le montant du salaire
+minimum de croissance [*SMIC*] par enfant et par jour, pour une durée de garde égale ou supérieure à huit heures ; pour une
+durée inférieure, la rémunération minimale est égale à un quart du salaire minimum de croissane par heure.
 
 **Liens relatifs à cet article**
 
@@ -108989,16 +108993,16 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
 
 
 ###### Article D773-2
 
-Le président du service interentreprises doit établir chaque année dans la forme prévue par un arrêté du ministre chargé du
-travail, un rapport sur l'organisation, le fonctionnement et la gestion financière du service médical dont un exemplaire est
-transmis à l'inspecteur du travail et un exemplaire au médecin inspecteur du travail compétents.
-
-Dans les services administrés paritairement, ce rapport est transmis aux services d'inspection par le président du conseil
-d'administration avec les observations du conseil.
+L'indemnité compensatrice prévue à l'article L. 773-5 ne peut être inférieure au montant du salaire minimum de croissance
+[*SMIC*] par journée entière  d'absence d'un enfant.
 
 **Liens relatifs à cet article**
 
@@ -109009,12 +109013,41 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L773-5 (M)
+
+
+##### Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.<a id=1318></a>
+
+###### Article D773-3
+
+La rémunération des assistantes maternelles est majorée, conformément à l'article L. 773-10 dans les cas où des contraintes
+réelles, dues aux soins particuliers ou à l'éducation spéciale entraînés par l'état de l'enfant pèsent sur elles.
+
+Cette majoration est révisée périodiquement compte tenu de l'évolution de l'état de l'enfant. Elle ne peut être inférieure à
+la moitié du salaire de croissance par enfant et par journée de garde.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Cité par_:
+
+  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L773-10 (M)
 
 
 ###### Article D773-4
 
-Le médecin du travail établit chaque année dans la forme prévue par un arrêté du ministre chargé du travail un rapport dont
-un exemplaire est transmis à l'inspecteur du travail et un exemplaire au médecin inspecteur du travail compétents.
+Le montant minimal de l'indemnité de licenciement prévue à l'article L. 773-15 est égal, par année d'ancienneté, à deux
+dixièmes de la moyenne mensuelle des sommes que l'intéressée a perçues au cours des six derniers mois.
 
 **Liens relatifs à cet article**
 
@@ -109026,10 +109059,14 @@ _Cité par_:
 
   - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
 
+_Cite_:
 
-### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1317></a>
+  - Code du travail - art. L773-15 (M)
 
-#### Chapitre III : Halles centrales de Paris.<a id=1318></a>
+
+### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises<a id=1319></a>
+
+#### Chapitre III : Halles centrales de Paris.<a id=1320></a>
 
 ###### Article D783-1
 
@@ -109058,17 +109095,17 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L783-7 (Ab)
 
 
-## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1319></a>
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer<a id=1321></a>
 
-### Titre Ier : Conventions relatives au travail<a id=1320></a>
+### Titre Ier : Conventions relatives au travail<a id=1322></a>
 
-#### Chapitre Ier : Apprentissage<a id=1321></a>
+#### Chapitre Ier : Apprentissage<a id=1323></a>
 
-##### Section 1 : Des centres de formation d'apprentis<a id=1322></a>
+##### Section 1 : Des centres de formation d'apprentis<a id=1324></a>
 
-##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis<a id=1323></a>
+##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis<a id=1325></a>
 
-##### Dispositions générales.<a id=1324></a>
+##### Dispositions générales.<a id=1326></a>
 
 ###### Article D811-1
 
@@ -109166,7 +109203,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### De l'organisation des centres.<a id=1325></a>
+##### De l'organisation des centres.<a id=1327></a>
 
 ###### Article D811-4
 
@@ -109349,7 +109386,7 @@ _Cité par_:
   - Code du travail - art. D811-72 (Ab)
 
 
-##### Du fonctionnement pédagogique des centres.<a id=1326></a>
+##### Du fonctionnement pédagogique des centres.<a id=1328></a>
 
 ###### Article D811-9
 
@@ -109514,7 +109551,7 @@ _Cité par_:
   - Code du travail - art. D811-12 (Ab)
 
 
-##### De l'organisation financière des centres.<a id=1327></a>
+##### De l'organisation financière des centres.<a id=1329></a>
 
 ###### Article D811-14
 
@@ -109598,7 +109635,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.<a id=1328></a>
+##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.<a id=1330></a>
 
 ###### Article D811-17
 
@@ -109789,7 +109826,7 @@ _Cité par_:
   - Code du travail - art. D811-20 (Ab)
 
 
-##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.<a id=1329></a>
+##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.<a id=1331></a>
 
 ###### Article D811-23
 
@@ -109979,7 +110016,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.<a id=1330></a>
+##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.<a id=1332></a>
 
 ###### Article D811-28
 
@@ -110128,9 +110165,9 @@ _Cite_:
   - Code du travail L811-30
 
 
-##### Section 2 : Du contrat d'apprentissage<a id=1331></a>
+##### Section 2 : Du contrat d'apprentissage<a id=1333></a>
 
-##### De l'agrément de l'employeur.<a id=1332></a>
+##### De l'agrément de l'employeur.<a id=1334></a>
 
 ###### Article D811-33
 
@@ -110246,7 +110283,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### De la durée de l'apprentissage.<a id=1333></a>
+##### De la durée de l'apprentissage.<a id=1335></a>
 
 ###### Article D811-37
 
@@ -110349,7 +110386,7 @@ _Cite_:
   - Code du travail - art. L117-13 (M)
 
 
-##### Du contenu des contrats d'apprentissage.<a id=1334></a>
+##### Du contenu des contrats d'apprentissage.<a id=1336></a>
 
 ###### Article D811-43
 
@@ -110388,7 +110425,7 @@ _Cite_:
   - Code du travail - art. D811-55 (Ab)
 
 
-##### De l'enregistrement du contrat d'apprentissage.<a id=1335></a>
+##### De l'enregistrement du contrat d'apprentissage.<a id=1337></a>
 
 ###### Article D811-44
 
@@ -110492,7 +110529,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Cas de l'apprenti employé par un ascendant.<a id=1336></a>
+##### Cas de l'apprenti employé par un ascendant.<a id=1338></a>
 
 ###### Article D811-47
 
@@ -110558,7 +110595,7 @@ _Cite_:
   - Code du travail - art. D811-45 (Ab)
 
 
-##### Constatation de l'aptitude de l'apprenti.<a id=1337></a>
+##### Constatation de l'aptitude de l'apprenti.<a id=1339></a>
 
 ###### Article D811-49
 
@@ -110619,7 +110656,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1338></a>
+##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.<a id=1340></a>
 
 ###### Article D811-51
 
@@ -110680,7 +110717,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### Section 4 : Dispositions financières.<a id=1339></a>
+##### Section 4 : Dispositions financières.<a id=1341></a>
 
 ###### Article D811-53
 
@@ -110928,11 +110965,11 @@ _Cité par_:
   - Code du travail - art. D811-80 (Ab)
 
 
-##### Section 5 : Dispositions provisoires<a id=1340></a>
+##### Section 5 : Dispositions provisoires<a id=1342></a>
 
-##### Paragraphe 1 : Des accords provisoires<a id=1341></a>
+##### Paragraphe 1 : Des accords provisoires<a id=1343></a>
 
-##### Dispositions générales.<a id=1342></a>
+##### Dispositions générales.<a id=1344></a>
 
 ###### Article D811-61
 
@@ -110999,7 +111036,7 @@ _Cite_:
   - Code du travail - art. D811-31 (Ab)
 
 
-##### Des accords simples.<a id=1343></a>
+##### Des accords simples.<a id=1345></a>
 
 ###### Article D811-65
 
@@ -111097,7 +111134,7 @@ _Abrogé par_:
   - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
 
 
-##### Des accords de transformation.<a id=1344></a>
+##### Des accords de transformation.<a id=1346></a>
 
 ###### Article D811-69
 
@@ -111244,7 +111281,7 @@ _Cite_:
   - Code du travail D811-14 A D811-16
 
 
-##### Dispositions relatives au personnel.<a id=1345></a>
+##### Dispositions relatives au personnel.<a id=1347></a>
 
 ###### Article D811-74
 
@@ -111415,7 +111452,7 @@ _Cite_:
   - Code du travail - art. D811-74 (Ab)
 
 
-##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1346></a>
+##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.<a id=1348></a>
 
 ###### Article D811-80
 
@@ -111455,9 +111492,9 @@ _Cite_:
   - Code du travail D811-57 a , D811-59, D811-60
 
 
-#### Chapitre IV : Salaire<a id=1347></a>
+#### Chapitre IV : Salaire<a id=1349></a>
 
-##### Section 1 : Salaire minimum de croissance.<a id=1348></a>
+##### Section 1 : Salaire minimum de croissance.<a id=1350></a>
 
 ###### Article D814-1
 
@@ -111481,11 +111518,11 @@ _Cite_:
   - Code du travail
 
 
-### Titre II : Réglementation du travail<a id=1349></a>
+### Titre II : Réglementation du travail<a id=1351></a>
 
-#### Chapitre II : Services médicaux du travail<a id=1350></a>
+#### Chapitre II : Services médicaux du travail<a id=1352></a>
 
-##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1351></a>
+##### Section 1 : Organisation et fonctionnement des services médicaux du travail.<a id=1353></a>
 
 ###### Article D822-1
 
@@ -111743,7 +111780,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe a) Les médecins du travail.<a id=1352></a>
+##### Paragraphe a) Les médecins du travail.<a id=1354></a>
 
 ###### Article D822-10
 
@@ -111813,7 +111850,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe b) Visites d'embauchage.<a id=1353></a>
+##### Paragraphe b) Visites d'embauchage.<a id=1355></a>
 
 ###### Article D822-12
 
@@ -111864,7 +111901,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1354></a>
+##### Paragraphe c) Examens médicaux périodiques des salariés.<a id=1356></a>
 
 ###### Article D822-13
 
@@ -111895,7 +111932,7 @@ _Cité par_:
   - Code du travail - art. D822-20 (Ab)
 
 
-##### Paragraphe d) Visite de reprise.<a id=1355></a>
+##### Paragraphe d) Visite de reprise.<a id=1357></a>
 
 ###### Article D822-14
 
@@ -111920,7 +111957,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe e) Examens complémentaires.<a id=1356></a>
+##### Paragraphe e) Examens complémentaires.<a id=1358></a>
 
 ###### Article D822-15
 
@@ -111966,7 +112003,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1357></a>
+##### Paragraphe f) Surveillance de l'hygiène des entreprises.<a id=1359></a>
 
 ###### Article D822-17
 
@@ -112117,7 +112154,7 @@ _Cite_:
   - Loi   1964-10-30 ART. 73
 
 
-##### Section 3 : Infirmiers et infirmières.<a id=1358></a>
+##### Section 3 : Infirmiers et infirmières.<a id=1360></a>
 
 ###### Article D822-22
 
@@ -112240,7 +112277,7 @@ _Cite_:
   - Code du travail - art. D822-22 (Ab)
 
 
-##### Section 4 : Locaux et matériel.<a id=1359></a>
+##### Section 4 : Locaux et matériel.<a id=1361></a>
 
 ###### Article D822-26
 
@@ -112289,7 +112326,7 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-##### Section 5 : Dispositions particulières.<a id=1360></a>
+##### Section 5 : Dispositions particulières.<a id=1362></a>
 
 ###### Article D822-27
 
@@ -112312,9 +112349,9 @@ _Abrogé par_:
   - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
 
 
-### Titre III : Placement et emploi<a id=1361></a>
+### Titre III : Placement et emploi<a id=1363></a>
 
-#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1362></a>
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.<a id=1364></a>
 
 ###### Article D831-1
 
@@ -112344,9 +112381,9 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. R341-8 (M)
 
 
-### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1363></a>
+### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=1365></a>
 
-#### Chapitre Ier : Inspection du travail.<a id=1364></a>
+#### Chapitre Ier : Inspection du travail.<a id=1366></a>
 
 ###### Article D861-1
 
@@ -112368,9 +112405,9 @@ _Nouveaux textes_:
   - Code du travail - art. D8322-1 (V)
 
 
-### Titre VII : Dispositions particulières à certaines professions<a id=1365></a>
+### Titre VII : Dispositions particulières à certaines professions<a id=1367></a>
 
-#### Chapitre Ier : Journalistes professionnels.<a id=1366></a>
+#### Chapitre Ier : Journalistes professionnels.<a id=1368></a>
 
 ###### Article D871-1
 
@@ -112392,15 +112429,15 @@ _Cite_:
   - Code du travail - art. R761-4
 
 
-## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1367></a>
+## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*<a id=1369></a>
 
-### CONVENTIONS RELATIVES AU TRAVAIL<a id=1368></a>
+### CONVENTIONS RELATIVES AU TRAVAIL<a id=1370></a>
 
-#### APPRENTISSAGE<a id=1369></a>
+#### APPRENTISSAGE<a id=1371></a>
 
-##### CONTRAT D'APPRENTISSAGE<a id=1370></a>
+##### CONTRAT D'APPRENTISSAGE<a id=1372></a>
 
-##### AGREMENT DE L'EMPLOYEUR .<a id=1371></a>
+##### AGREMENT DE L'EMPLOYEUR .<a id=1373></a>
 
 ###### Article D811-32
 
@@ -112432,7 +112469,7 @@ _Cite_:
   - Code du travail - art. L117-5 (M)
 
 
-##### AVIS D'ORIENTATION .<a id=1372></a>
+##### AVIS D'ORIENTATION .<a id=1374></a>
 
 ###### Article D811-40
 
@@ -112461,7 +112498,7 @@ _Cite_:
   - Code de l'artisanat - art. 39 (M)
 
 
-##### CONTENU DES CONTRATS D'APPRENTISSAGE .<a id=1373></a>
+##### CONTENU DES CONTRATS D'APPRENTISSAGE .<a id=1375></a>
 
 ###### Article D811-41
 
@@ -112534,7 +112571,7 @@ _Cité par_:
   - Code du travail - art. D811-47 (Ab)
 
 
-##### DISPOSITIONS FINANCIERES .<a id=1374></a>
+##### DISPOSITIONS FINANCIERES .<a id=1376></a>
 
 ###### Article D811-52
 
@@ -112590,9 +112627,9 @@ _Cite_:
   - Code du travail - art. L117-9 (M)
 
 
-##### DISPOSITIONS PROVISOIRES<a id=1375></a>
+##### DISPOSITIONS PROVISOIRES<a id=1377></a>
 
-##### ACCORDS PROVISOIRES .<a id=1376></a>
+##### ACCORDS PROVISOIRES .<a id=1378></a>
 
 ###### Article D811-62
 
@@ -112652,7 +112689,7 @@ _Cite_:
   - Code du travail D811-1 A D811-50, D811-61
 
 
-##### ACCORDS DE TRANSFORMATION .<a id=1377></a>
+##### ACCORDS DE TRANSFORMATION .<a id=1379></a>
 
 ###### Article D811-68
 
@@ -112682,7 +112719,7 @@ _Cité par_:
   - Code du travail - art. D811-78 (Ab)
 
 
-##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .<a id=1378></a>
+##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .<a id=1380></a>
 
 ###### Article D811-79
 
@@ -112708,11 +112745,11 @@ _Cite_:
   - Code du travail - art. L117-5 (M)
 
 
-## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1379></a>
+## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente<a id=1381></a>
 
-### Titre Ier : Des institutions de la formation professionnelle<a id=1380></a>
+### Titre Ier : Des institutions de la formation professionnelle<a id=1382></a>
 
-#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1381></a>
+#### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=1383></a>
 
 ###### Article D910-7
 
@@ -113293,7 +113330,7 @@ _Cité par_:
   - Code de l'éducation - art. D251-8 (M)
 
 
-#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1382></a>
+#### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.<a id=1384></a>
 
 ###### Article D910-22
 
@@ -113461,7 +113498,7 @@ _Abrogé par_:
   - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
-### Titre IV : De l'aide de l'Etat.<a id=1383></a>
+### Titre IV : De l'aide de l'Etat.<a id=1385></a>
 
 ###### Article D940-1
 
@@ -113583,9 +113620,9 @@ _Abrogé par_:
   - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18<a id=1384></a>
+### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18<a id=1386></a>
 
-#### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.<a id=1385></a>
+#### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.<a id=1387></a>
 
 ###### Article D981-1
 
@@ -113741,11 +113778,11 @@ _Cite_:
   - Code du travail R960-11 A R960-14
 
 
-## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1386></a>
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1388></a>
 
-### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1387></a>
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1389></a>
 
-#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1388></a>
+#### ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .<a id=1390></a>
 
 ###### Article D910-1
 
@@ -113894,7 +113931,7 @@ _Codifié par_:
   - Décret n°73-1048 1973-11-15
 
 
-### AIDE DE L'ETAT .<a id=1389></a>
+### AIDE DE L'ETAT .<a id=1391></a>
 
 ###### Article D940-5
 
@@ -113920,11 +113957,11 @@ _Cite_:
   - Code du travail - art. D940-2 (V)
 
 
-## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1390></a>
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE<a id=1392></a>
 
-### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1391></a>
+### Titre Ier : DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE<a id=1393></a>
 
-#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1392></a>
+#### SECTION 1 : ATTRIBUTIONS, COMPOSITION ET MODALITES DE FONCTIONNEMENT DES COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI.<a id=1394></a>
 
 ###### Article D910-2
 
@@ -113983,15 +114020,15 @@ _Anciens textes_:
   - Décret n°70-827 1970-09-16 ART. 2
 
 
-# Annexes<a id=1393></a>
+# Annexes<a id=1395></a>
 
-## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1394></a>
+## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés<a id=1396></a>
 
-### Titre 3 : Les comités d'entreprise<a id=1395></a>
+### Titre 3 : Les comités d'entreprise<a id=1397></a>
 
-#### Chapitre 8 : Bilan social<a id=1396></a>
+#### Chapitre 8 : Bilan social<a id=1398></a>
 
-##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1397></a>
+##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.<a id=1399></a>
 
 ###### Article Annexe à l'article R438-1
 

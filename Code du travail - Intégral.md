@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-07-01
+Version Consolidée au 1977-07-06
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -26339,6 +26339,49 @@ _Nouveaux textes_:
 _Codifié par_:
 
   - Décret n°73-1046 1973-11-15
+
+
+###### Article L322-8-1
+
+La prime de mobilité est également attribuée aux jeunes visés au premier paragraphe du premier alinéa de l'article L. 322-8
+ci-dessus qui sont embauchés par une entreprise française ou par la filiale d'une entreprise française pour occuper un emploi
+salarié comportant résidence à l'étranger.
+
+Dans ce cas, l'indemnité pour frais de déplacement est calculée sur une base forfaitaire.
+
+Ne peuvent toutefois bénéficier de cette prime les étrangers tenus de posséder un titre les autorisant à exercer une activité
+salariée en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1046 1973-11-15
+
+_Créé par_:
+
+  - Loi n°77-704 1977-07-05 ART. 6 JORF 6 juillet
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 5 juillet 1977
+  - TXT_SOURCE: Arrêté du 5 juillet 1977 - art. 1 (V)
+  - TXT_SOURCE: Décret n°77-717 du 5 juillet 1977
+  - TXT_SOURCE: Décret n°77-717 du 5 juillet 1977 - art. 1 (V)
+  - TXT_SOURCE: Décret n°77-717 du 5 juillet 1977 - art. 2 (V)
+
+_Cité par_:
+
+  - Décret n°77-717 du 5 juillet 1977 - art. 1 (V)
+  - Décret n°77-717 du 5 juillet 1977 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Loi n°82-1126 du 29 décembre 1982 - art. 101 () JORF 30 décembre 1982 en vigueur le 1er janvier 1983
+
+_Cite_:
+
+  - Code du travail - art. L322-8 (Ab)
 
 
 ###### Article L322-9

@@ -7,11 +7,12 @@ paragraphes 1.7.3 et 1.7.4 sont applicables aux composants de sécurité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°96-725 du 14 août 1996 - art. 21 () JORF 18 août 1996
-  - Décret n°96-725 du 14 août 1996 - art. 34 () JORF 18 août 1996
+  - Code du travail - art. L233-5
+  - Code du travail - art. R233-83
+  - Code du travail - art. R233-83-2

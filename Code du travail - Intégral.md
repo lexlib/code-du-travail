@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-01 00:00:01 +0100
+Version Consolidée au 1980-01-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -928,7 +928,7 @@ Version Consolidée au 1980-01-01 00:00:01 +0100
         - [CONVENTIONS DE COOPERATION (art. R322-7)](#925)
           - [CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES . (art. R322-7)](#926)
         - [AIDES A LA MOBILITE GEOGRAPHIQUE (art. R322-19 à R322-18)](#927)
-          - [PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION . (art. R322-11 à R322-14)](#928)
+          - [PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION . (art. R322-11 à R322-14-1)](#928)
           - [AUTRES AIDES A LA MOBILITE . (art. R322-15 à R322-18)](#929)
       - [PRIME DE MOBILITE DES JEUNES . (art. R322-27 à R322-32)](#930)
       - [DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS (art. R323-6 à R323-119)](#931)
@@ -83397,6 +83397,34 @@ _Anciens textes_:
 
   - Code du travail - art. R322-24 (T)
   - Décret  1970-03-16 ART. 14
+
+
+###### Article R322-14-1
+
+Les travailleurs mentionnés au troisième alinéa de l'article L. 322-3 bénéficient :
+
+1. D'une indemnité pour frais de déplacement pour eux-mêmes, leur conjoint et les personnes à leur charge ;
+
+2. D'une indemnité forfaitaire pour frais de transport de leur mobilier ;
+
+3. D'une prime de transfert et d'une indemnité de réinstallation variables en fonction de la composition de la famille. Le
+montant cumulé de ces prime et indemnité ne peut être inférieur à 800 fois ni supérieur à 2.000 fois le minimum garanti prévu
+à l'article L. 141-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1048 1973-11-15
+
+_Abrogé par_:
+
+  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
+
+_Cite_:
+
+  - Code du travail - art. L141-8 (AbD)
+  - Code du travail - art. L322-3 (Ab)
 
 
 ##### AUTRES AIDES A LA MOBILITE .<a id=929></a>

@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-01
+Version Consolidée au 1979-10-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L930-1-12)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-2)](#2)
@@ -66613,17 +66613,27 @@ mêmes domaines, pour l'année à venir, au bénéfice des salariés définis au
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code du travail - art. L950-1
+  - Code du travail - art. R231-35
+  - Code du travail - art. R231-36
+  - Code du travail - art. R231-37
+  - Code du travail - art. R231-38
+  - Code du travail - art. R231-39
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4143-2 (M)
 
 
 ##### Section 5 : Substances et préparations dangereuses pour les travailleurs<a id=738></a>

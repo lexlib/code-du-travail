@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-07-26
+Version Consolidée au 1975-07-26 00:00:01 +0100
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L980-4)](#1)
     - [Livre Ier : Conventions relatives au travail (art. L111-1 à L154-1)](#2)
@@ -56947,9 +56947,13 @@ notamment en fournissant des informations et en donnant la possibilité de consu
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail - art. R4642-2 (M)
 
 
 ### Titre Ier : Conditions du travail<a id=646></a>
@@ -91329,22 +91333,15 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°65-836 du 24 septembre 1965
+  - Code du travail
+  - Code du travail - art. L970-3
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.<a id=1094></a>
@@ -91369,22 +91366,9 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
-
-_Codifié par_:
-
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 _Cité par_:
 
@@ -91406,22 +91390,13 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Code du travail
 
 
 ###### Article R970-25
@@ -91436,22 +91411,13 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Code du travail
 
 
 ###### Article R970-26
@@ -91473,22 +91439,13 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Code du travail - art. R970-23
 
 
 ##### Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.<a id=1095></a>
@@ -91506,22 +91463,13 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Code du travail
 
 
 ###### Article R970-28
@@ -91552,22 +91500,13 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-  - Décret n°75-205 1975-03-26
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+  - Code du travail
 
 
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE<a id=1096></a>

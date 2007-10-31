@@ -220,10 +220,6 @@ Libellé : Activités diverses.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°73-1048 1973-11-15
-
-_Créé par_:
-
-  - Décret n°2007-1548 2007-10-30 annexe JORF 31 octobre 2007 en vigueur le 1er novembre 2007
+  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)

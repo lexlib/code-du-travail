@@ -3780,7 +3780,7 @@ Ressort du tribunal de grande instance de Vannes.
     <tr>
       <td align="left">
 
-Cour d'appel de Riom
+**Cour d'appel de Riom**
 
 </td>
     </tr>
@@ -3935,7 +3935,7 @@ Ressort du tribunal de grande instance de Riom.
     <tr>
       <td align="left">
 
-Cour d'appel de Rouen
+**Cour d'appel de Rouen**
 
 </td>
     </tr>
@@ -4064,7 +4064,7 @@ Ressort du tribunal de grande instance de Rouen.
     <tr>
       <td align="left">
 
-Cour d'appel de Toulouse
+**Cour d'appel de Toulouse**
 
 </td>
     </tr>
@@ -4199,7 +4199,7 @@ Ressort du tribunal de grande instance de Montauban.
     <tr>
       <td align="left">
 
-Cour d'appel de Versailles
+**Cour d'appel de Versailles**
 
 </td>
     </tr>
@@ -4221,7 +4221,7 @@ Chartres
 </td>
       <td align="left">
 
-Ressort des tribunaux d'instance de Chartres et Nogent-le-Rotrou.
+Ressort des tribunaux d'instance de Chartres et de Nogent-le-Rotrou.
 
 </td>
     </tr>
@@ -4457,7 +4457,7 @@ Ressort du tribunal d'instance de Versailles.
     <tr>
       <td align="left">
 
-Cour d'appel de Basse-Terre
+**Cour d'appel de Basse-Terre**
 
 </td>
     </tr>
@@ -4557,7 +4557,7 @@ Ressort du tribunal de grande instance de Fort-de-France.
     <tr>
       <td align="left">
 
-Cour d'appel de Saint-Denis de la Réunion
+**Cour d'appel de Saint-Denis de la Réunion **
 
 </td>
     </tr>
@@ -4639,4 +4639,4 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 _Modifié par_:
 
-  - Décret n°2008-514 du 29 mai 2008 - art.
+  - Décret n°2009-1610 du 18 décembre 2009 - art. 2

@@ -1,41 +1,41 @@
 # Article Annexe Tableau
 
-TABLEAU B 
+TABLEAU C 
 
-EN VIGUEUR AU 1er JANVIER 2010 
+EN VIGUEUR AU 1er JANVIER 2011 
 
-SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES 
+SIEGE ET RESSORT DES CONSEILS DE PRUD'HOMMES 
 
 <table>
   <tbody>
     <tr>
-      <td valign="top" align="left" rowspan="2">
+      <td align="left" rowspan="2" valign="top">
 
 DÉPARTEMENT 
 
 </td>
-      <td rowspan="2" align="left" valign="top">
+      <td align="left" rowspan="2" valign="top">
 
 TRIBUNAL
 
-de grande instance 
+de grande instance
 
 </td>
-      <td align="left" colspan="2" valign="top">
+      <td colspan="2" align="left" valign="top">
 
-SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
+SIÈGE ET RESSORT DES CONSEILs DE PRUD'HOMMES 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Siège du conseil
 
 de prud'hommes
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du conseil
 
@@ -56,17 +56,17 @@ Cour d'appel d'Agen
 Gers 
 
 </td>
+      <td valign="top" align="left">
+
+Auch 
+
+</td>
       <td align="left" valign="top">
 
 Auch 
 
 </td>
-      <td valign="top" align="left">
-
-Auch 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance d'Auch. 
 
@@ -78,19 +78,19 @@ Ressort du tribunal de grande instance d'Auch.
 Lot 
 
 </td>
-      <td align="left" valign="top">
-
-Cahors 
-
-</td>
-      <td align="left" valign="top">
-
-Cahors 
-
-</td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Cahors. 
+Cahors 
+
+</td>
+      <td align="left" valign="top">
+
+Cahors 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal de grande instance de Cahors 
 
 </td>
     </tr>
@@ -112,15 +112,15 @@ Agen
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance d'Agen. 
+Ressort des tribunaux d'instance d'Agen et Villeneuve-sur-Lot. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      <td align="left" valign="top">
 
-Marmande 
+</td>
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -128,9 +128,9 @@ Marmande
 Marmande 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Marmande. 
+Ressort du tribunal d'instance de Marmande. 
 
 </td>
     </tr>
@@ -142,22 +142,22 @@ Cour d'appel d'Aix-en-Provence
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Alpes-de-Haute-Provence 
 
 </td>
+      <td valign="top" align="left">
+
+Digne-les-Bains 
+
+</td>
+      <td valign="top" align="left">
+
+Digne-les-Bains 
+
+</td>
       <td align="left" valign="top">
-
-Digne-les-Bains 
-
-</td>
-      <td valign="top" align="left">
-
-Digne-les-Bains 
-
-</td>
-      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Digne-les-Bains 
 
@@ -169,7 +169,7 @@ Ressort du tribunal de grande instance de Digne-les-Bains
 Alpes-Maritimes 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Grasse 
 
@@ -179,7 +179,7 @@ Grasse
 Cannes 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Cannes. 
 
@@ -187,13 +187,17 @@ Ressort du tribunal d'instance de Cannes.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Grasse 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort des tribunaux d'instance d'Antibes, Cagnes-sur-Mer et Grasse. 
 
@@ -201,17 +205,19 @@ Ressort des tribunaux d'instance d'Antibes, Cagnes-sur-Mer et Grasse.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Nice 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Nice 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Nice. 
 
@@ -223,17 +229,17 @@ Ressort du tribunal de grande instance de Nice.
 Bouches-du-Rhône 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Aix-en-Provence 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Aix-en-Provence 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence. 
 
@@ -241,8 +247,12 @@ Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Martigues 
 
@@ -254,10 +264,7 @@ Ressort du tribunal d'instance de Martigues.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Marseille 
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -265,7 +272,12 @@ Marseille
 Marseille 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
+
+Marseille 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Marseille. 
 
@@ -273,12 +285,14 @@ Ressort du tribunal de grande instance de Marseille.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Tarascon 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Arles 
 
@@ -290,12 +304,12 @@ Ressort du tribunal de grande instance de Tarascon.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Var 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Draguignan 
 
@@ -312,14 +326,18 @@ Ressort des tribunaux d'instance de Brignoles et Draguignan.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Fréjus 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Fréjus. 
 
@@ -327,24 +345,26 @@ Ressort du tribunal d'instance de Fréjus.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Toulon 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toulon 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Toulon. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cour d'appel d'Amiens 
 
@@ -374,7 +394,9 @@ Ressort du tribunal de grande instance de Laon.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Saint-Quentin 
 
@@ -392,7 +414,9 @@ Ressort du tribunal de grande instance de Saint-Quentin.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Soissons 
 
@@ -402,16 +426,21 @@ Soissons
 Soissons 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Soissons. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Oise 
+
+</td>
+      <td align="left" valign="top">
+
+Beauvais 
 
 </td>
       <td valign="top" align="left">
@@ -419,12 +448,7 @@ Oise
 Beauvais 
 
 </td>
-      <td align="left" valign="top">
-
-Beauvais 
-
-</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Beauvais. 
 
@@ -432,9 +456,6 @@ Ressort du tribunal de grande instance de Beauvais.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Compiègne 
 
 </td>
       <td align="left" valign="top">
@@ -443,6 +464,11 @@ Compiègne
 
 </td>
       <td align="left" valign="top">
+
+Compiègne 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Compiègne. 
 
@@ -450,7 +476,9 @@ Ressort du tribunal de grande instance de Compiègne.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Senlis 
 
@@ -474,43 +502,43 @@ Somme
 </td>
       <td valign="top" align="left">
 
-Abbeville 
-
-</td>
-      <td valign="top" align="left">
-
-Abbeville 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance d'Abbeville. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Amiens 
-
-</td>
-      <td valign="top" align="left">
-
 Amiens 
 
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance d'Amiens. 
+Abbeville 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance d'Abbeville. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
 
-Péronne 
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+Amiens 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance d'Amiens. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -518,9 +546,9 @@ Péronne
 Péronne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Péronne. 
+Ressort du tribunal d'instance de Péronne. 
 
 </td>
     </tr>
@@ -532,47 +560,47 @@ Cour d'appel d'Angers
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Maine-et-Loire 
 
 </td>
+      <td valign="top" align="left">
+
+Angers 
+
+</td>
       <td align="left" valign="top">
 
 Angers 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Angers 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance d'Angers. 
+Ressort des tribunaux d'instance d'Angers et Cholet. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Saumur 
 
 </td>
       <td align="left" valign="top">
 
-Saumur 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Saumur. 
+Ressort du tribunal d'instance de Saumur. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Mayenne 
 
@@ -582,12 +610,12 @@ Mayenne
 Laval 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Laval 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Laval. 
 
@@ -599,7 +627,7 @@ Ressort du tribunal de grande instance de Laval.
 Sarthe 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le Mans 
 
@@ -638,50 +666,45 @@ Ajaccio
 Ajaccio 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance d'Ajaccio. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Haute-Corse 
 
 </td>
-      <td align="left" valign="top">
-
-Bastia 
-
-</td>
-      <td align="left" valign="top">
-
-Bastia 
-
-</td>
       <td valign="top" align="left">
+
+Bastia 
+
+</td>
+      <td align="left" valign="top">
+
+Bastia 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Bastia. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Besançon 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Territoire de Belfort 
-
-</td>
-      <td valign="top" align="left">
-
-Belfort 
 
 </td>
       <td align="left" valign="top">
@@ -691,12 +714,17 @@ Belfort
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Belfort. 
+Belfort 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal de grande d'instance de Belfort. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Doubs 
 
@@ -706,7 +734,7 @@ Doubs
 Besançon 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Besançon 
 
@@ -718,50 +746,52 @@ Ressort du tribunal de grande instance de Besançon.
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+Montbéliard 
+
+</td>
+      <td align="left" valign="top">
 
 Montbéliard 
 
 </td>
       <td valign="top" align="left">
-
-Montbéliard 
-
-</td>
-      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Montbéliard. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Jura 
 
 </td>
-      <td align="left" valign="top">
-
-Dole 
-
-</td>
-      <td align="left" valign="top">
-
-Dole 
-
-</td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Dole. 
+Lons-le-Saunier 
+
+</td>
+      <td align="left" valign="top">
+
+Dole 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance de Dole. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Lons-le-Saunier 
 
 </td>
       <td valign="top" align="left">
@@ -769,9 +799,9 @@ Lons-le-Saunier
 Lons-le-Saunier 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Lons-le-Saunier. 
+Ressort des tribunaux d'instance de Lons-le-Saunier et Saint-Claude. 
 
 </td>
     </tr>
@@ -783,35 +813,35 @@ Haute-Saône
 </td>
       <td align="left" valign="top">
 
+Vesoul 
+
+</td>
+      <td valign="top" align="left">
+
 Lure 
 
 </td>
       <td align="left" valign="top">
 
-Lure 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Lure. 
+Ressort du tribunal d'instance de Lure. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-
-Vesoul 
-
-</td>
-      <td valign="top" align="left">
-
-Vesoul 
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Vesoul. 
+</td>
+      <td align="left" valign="top">
+
+Vesoul 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Vesoul. 
 
 </td>
     </tr>
@@ -838,14 +868,14 @@ Angoulême
 Angoulême 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance d'Angoulême. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dordogne 
 
@@ -860,7 +890,7 @@ Bergerac
 Bergerac 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Bergerac. 
 
@@ -868,9 +898,6 @@ Ressort du tribunal de grande instance de Bergerac.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-Périgueux 
 
 </td>
       <td valign="top" align="left">
@@ -879,23 +906,28 @@ Périgueux
 
 </td>
       <td align="left" valign="top">
+
+Périgueux 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Périgueux. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Gironde 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Bordeaux 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bordeaux 
 
@@ -907,13 +939,15 @@ Ressort du tribunal de grande instance de Bordeaux.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Libourne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Libourne 
 
@@ -937,7 +971,7 @@ Cour d'appel de Bourges
 Cher 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bourges 
 
@@ -954,14 +988,9 @@ Ressort du tribunal de grande instance de Bourges.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Indre 
-
-</td>
-      <td valign="top" align="left">
-
-Châteauroux 
 
 </td>
       <td align="left" valign="top">
@@ -970,13 +999,18 @@ Châteauroux
 
 </td>
       <td valign="top" align="left">
+
+Châteauroux 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Châteauroux. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Nièvre 
 
@@ -986,12 +1020,12 @@ Nièvre
 Nevers 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Nevers 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Nevers. 
 
@@ -1005,7 +1039,7 @@ Cour d'appel de Caen
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Calvados 
 
@@ -1015,12 +1049,12 @@ Calvados
 Caen 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Caen 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Caen. 
 
@@ -1028,12 +1062,14 @@ Ressort du tribunal de grande instance de Caen.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Lisieux 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Lisieux 
 
@@ -1050,30 +1086,12 @@ Ressort du tribunal de grande instance de Lisieux.
 Manche 
 
 </td>
-      <td align="left" valign="top">
-
-Avranches 
-
-</td>
       <td valign="top" align="left">
-
-Avranches 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance d'Avranches. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
 
 Cherbourg 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cherbourg 
 
@@ -1085,10 +1103,7 @@ Ressort du tribunal de grande instance de Cherbourg.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Coutances 
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
@@ -1096,29 +1111,66 @@ Coutances
 Coutances 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Coutances. 
+Coutances 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Coutances. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+Avranches 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance d'Avranches. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 Orne 
 
 </td>
+      <td valign="top" align="left">
+
+Alençon 
+
+</td>
       <td align="left" valign="top">
 
 Alençon 
 
 </td>
-      <td valign="top" align="left">
-
-Alençon 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance d'Alençon. 
 
@@ -1126,7 +1178,9 @@ Ressort du tribunal de grande instance d'Alençon.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Argentan 
 
@@ -1173,7 +1227,9 @@ Ressort du tribunal de grande d'instance d'Albertville.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Chambéry 
 
@@ -1191,8 +1247,12 @@ Cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Al
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Chambéry 
 
@@ -1205,9 +1265,14 @@ les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Haute-Savoie 
+
+</td>
+      <td align="left" valign="top">
+
+Annecy 
 
 </td>
       <td valign="top" align="left">
@@ -1215,38 +1280,37 @@ Haute-Savoie
 Annecy 
 
 </td>
-      <td align="left" valign="top">
-
-Annecy 
-
-</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance d'Annecy. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
 
 Bonneville 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bonneville 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Bonneville. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Thonon-les-Bains 
 
@@ -1263,14 +1327,14 @@ Ressort du tribunal de grande instance de Thonon-les-Bains.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Colmar 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Bas-Rhin 
 
@@ -1280,7 +1344,7 @@ Bas-Rhin
 Saverne 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Saverne 
 
@@ -1292,8 +1356,10 @@ Ressort du tribunal de grande instance de Saverne.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Strasbourg 
 
@@ -1303,21 +1369,25 @@ Strasbourg
 Haguenau 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal d'instance d'Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
 
 Schiltigheim 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim. 
 
@@ -1325,13 +1395,17 @@ Ressort du tribunal d'instance de Schiltigheim et cantons de Brumath, Hochfelden
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Strasbourg 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort des tribunaux d'instance d'Illkirch-Graffenstaden et Strasbourg. 
 
@@ -1343,12 +1417,12 @@ Ressort des tribunaux d'instance d'Illkirch-Graffenstaden et Strasbourg.
 Haut-Rhin 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Colmar 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Colmar 
 
@@ -1360,25 +1434,27 @@ Ressort du tribunal de grande instance de Colmar.
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+Mulhouse 
+
+</td>
+      <td align="left" valign="top">
+
+Mulhouse 
+
+</td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
-
-Mulhouse 
-
-</td>
-      <td align="left" valign="top">
-
-Mulhouse 
-
-</td>
-      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Mulhouse. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cour d'appel de Dijon 
 
@@ -1390,12 +1466,12 @@ Cour d'appel de Dijon
 Côte-d'Or 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dijon 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dijon 
 
@@ -1412,7 +1488,7 @@ Ressort du tribunal de grande instance de Dijon.
 Haute-Marne 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Chaumont 
 
@@ -1422,16 +1498,21 @@ Chaumont
 Chaumont 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Chaumont. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Saône-et-Loire 
+
+</td>
+      <td valign="top" align="left">
+
+Chalon-sur-Saône 
 
 </td>
       <td align="left" valign="top">
@@ -1439,12 +1520,7 @@ Saône-et-Loire
 Chalon-sur-Saône 
 
 </td>
-      <td valign="top" align="left">
-
-Chalon-sur-Saône 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Chalon-sur-Saône. 
 
@@ -1452,17 +1528,19 @@ Ressort du tribunal de grande instance de Chalon-sur-Saône.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Mâcon 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Mâcon 
 
 </td>
       <td align="left" valign="top">
+
+Mâcon 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Mâcon. 
 
@@ -1481,17 +1559,17 @@ Cour d'appel de Douai
 Nord 
 
 </td>
-      <td valign="top" align="left">
-
-Avesnes-sur-Helpe 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Avesnes-sur-Helpe 
 
 </td>
       <td align="left" valign="top">
+
+Avesnes-sur-Helpe 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance d'Avesnes-sur-Helpe. 
 
@@ -1499,7 +1577,9 @@ Ressort du tribunal de grande instance d'Avesnes-sur-Helpe.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Cambrai 
 
@@ -1509,7 +1589,7 @@ Cambrai
 Cambrai 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Cambrai. 
 
@@ -1517,7 +1597,9 @@ Ressort du tribunal de grande instance de Cambrai.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Douai 
 
@@ -1534,28 +1616,30 @@ Ressort du tribunal de grande instance de Douai.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-Dunkerque 
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dunkerque 
 
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Dunkerque. 
+Dunkerque 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Dunkerque. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
 
-Hazebrouck 
+</td>
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
@@ -1563,25 +1647,27 @@ Hazebrouck
 Hazebrouck 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Ressort du tribunal de grande instance d'Hazebrouck. 
+Ressort du tribunal d'instance d'Hazebrouck. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Lille 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lannoy 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud. 
 
@@ -1589,13 +1675,17 @@ Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Lille 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Lille, à l'exception des cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud
 et des communes de Comines et Wervicq-Sud. 
@@ -1603,9 +1693,13 @@ et des communes de Comines et Wervicq-Sud.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Roubaix 
 
@@ -1618,8 +1712,12 @@ Ressort du tribunal d'instance de Roubaix.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Tourcoing 
 
@@ -1631,8 +1729,10 @@ Ressort du tribunal d'instance de Tourcoing et communes de Comines et Wervicq-Su
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Valenciennes 
 
@@ -1659,7 +1759,7 @@ Pas-de-Calais
 Arras 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Arras 
 
@@ -1672,9 +1772,6 @@ Ressort du tribunal de grande instance d'Arras.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Béthune 
 
 </td>
       <td align="left" valign="top">
@@ -1683,20 +1780,29 @@ Béthune
 
 </td>
       <td valign="top" align="left">
+
+Béthune 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Béthune. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
 
 Lens 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Lens. 
 
@@ -1704,12 +1810,14 @@ Ressort du tribunal d'instance de Lens.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Boulogne-sur-Mer 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Boulogne-sur-Mer 
 
@@ -1722,23 +1830,24 @@ Ressort des tribunaux d'instance de Montreuil et Boulogne-sur-Mer.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Calais 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Calais. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Saint-Omer 
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -1747,20 +1856,25 @@ Saint-Omer
 
 </td>
       <td valign="top" align="left">
+
+Saint-Omer 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Saint-Omer. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Grenoble 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hautes-Alpes 
 
@@ -1770,12 +1884,12 @@ Hautes-Alpes
 Gap 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Gap 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Gap. 
 
@@ -1792,7 +1906,7 @@ Drôme
 Valence 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Montélimar 
 
@@ -1804,9 +1918,13 @@ Ressort du tribunal d'instance de Montélimar.
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Valence 
 
@@ -1818,14 +1936,14 @@ Ressort des tribunaux d'instance de Romans-sur-Isère et Valence.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Isère 
 
 </td>
       <td align="left" valign="top">
 
-Bourgoin-Jallieu 
+Vienne (*) 
 
 </td>
       <td valign="top" align="left">
@@ -1833,15 +1951,35 @@ Bourgoin-Jallieu
 Bourgoin-Jallieu 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu. 
+Ressort du tribunal d'instance de Bourgoin-Jallieu. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+Vienne 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Vienne. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Grenoble 
 
@@ -1858,25 +1996,21 @@ Ressort du tribunal de grande instance de Grenoble.
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
 
-Vienne 
+</td>
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
-
-Vienne 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Vienne. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Limoges 
 
@@ -1888,42 +2022,42 @@ Cour d'appel de Limoges
 Corrèze 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Brive 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Brive 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Brive. 
+Ressort du tribunal d'instance de Brive. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Tulle 
 
 </td>
       <td align="left" valign="top">
 
-Tulle 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Tulle. 
+Ressort du tribunal d'instance de Tulle. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Creuse 
 
@@ -1938,7 +2072,7 @@ Guéret
 Guéret 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Guéret. 
 
@@ -1950,7 +2084,7 @@ Ressort du tribunal de grande instance de Guéret.
 Haute-Vienne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Limoges 
 
@@ -1960,7 +2094,7 @@ Limoges
 Limoges 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Limoges. 
 
@@ -1979,35 +2113,35 @@ Cour d'appel de Lyon
 Ain 
 
 </td>
-      <td valign="top" align="left">
-
-Belley 
-
-</td>
-      <td valign="top" align="left">
-
-Belley 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Belley. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-
-Bourg-en-Bresse 
-
-</td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bourg-en-Bresse 
 
 </td>
       <td align="left" valign="top">
+
+Belley 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Belley. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+Bourg-en-Bresse 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort des tribunaux d'instance de Bourg-en-Bresse et Trévoux. 
 
@@ -2015,13 +2149,17 @@ Ressort des tribunaux d'instance de Bourg-en-Bresse et Trévoux.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Oyonnax 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal d'instance de Nantua. 
 
@@ -2033,25 +2171,7 @@ Ressort du tribunal d'instance de Nantua.
 Loire 
 
 </td>
-      <td valign="top" align="left">
-
-Montbrison 
-
-</td>
       <td align="left" valign="top">
-
-Montbrison 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Montbrison. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
 
 Roanne 
 
@@ -2068,10 +2188,7 @@ Ressort du tribunal de grande instance de Roanne.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Saint-Etienne 
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -2081,7 +2198,44 @@ Saint-Etienne
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Saint-Etienne. 
+Montbrison 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance de Montbrison. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+Saint-Etienne 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance de Saint-Etienne. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 </td>
     </tr>
@@ -2096,7 +2250,7 @@ Rhône
 Lyon 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lyon 
 
@@ -2108,8 +2262,10 @@ Ressort du tribunal de grande instance de Lyon.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Villefranche-sur-Saône 
 
@@ -2126,24 +2282,24 @@ Ressort du tribunal de grande instance de Villefranche-sur-Saône.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Metz 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Moselle 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Metz 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Metz 
 
@@ -2156,42 +2312,46 @@ Ressort du tribunal de grande instance de Metz.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Sarreguemines 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Forbach 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Sarreguemines. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Thionville 
-
-</td>
-      <td align="left" valign="top">
-
-Thionville 
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
+
+Thionville 
+
+</td>
+      <td align="left" valign="top">
+
+Thionville 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Thionville. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Montpellier 
 
@@ -2208,7 +2368,7 @@ Aude
 Carcassonne 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Carcassonne 
 
@@ -2221,12 +2381,14 @@ Ressort du tribunal de grande instance de Carcassonne.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Narbonne 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Narbonne 
 
@@ -2243,29 +2405,6 @@ Ressort du tribunal de grande instance de Narbonne.
 Aveyron 
 
 </td>
-      <td align="left" valign="top">
-
-Millau 
-
-</td>
-      <td valign="top" align="left">
-
-Millau 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Millau. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Rodez 
-
-</td>
       <td valign="top" align="left">
 
 Rodez 
@@ -2273,12 +2412,35 @@ Rodez
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Rodez. 
+Millau 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Millau. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+Rodez 
+
+</td>
       <td align="left" valign="top">
+
+Ressort du tribunal d'instance de Rodez. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 Hérault 
 
@@ -2288,12 +2450,12 @@ Hérault
 Béziers 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Béziers 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Béziers. 
 
@@ -2301,9 +2463,6 @@ Ressort du tribunal de grande instance de Béziers.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-Montpellier 
 
 </td>
       <td valign="top" align="left">
@@ -2313,19 +2472,28 @@ Montpellier
 </td>
       <td align="left" valign="top">
 
+Montpellier 
+
+</td>
+      <td valign="top" align="left">
+
 Ressort du tribunal d'instance de Montpellier. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Sète 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal d'instance de Sète. 
 
@@ -2337,12 +2505,12 @@ Ressort du tribunal d'instance de Sète.
 Pyrénées-Orientales 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Perpignan 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Perpignan 
 
@@ -2366,7 +2534,7 @@ Cour d'appel de Nancy
 Meurthe-et-Moselle 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Briey 
 
@@ -2376,17 +2544,14 @@ Briey
 Longwy 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Briey. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Nancy 
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -2395,6 +2560,11 @@ Nancy
 
 </td>
       <td align="left" valign="top">
+
+Nancy 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Nancy. 
 
@@ -2406,12 +2576,12 @@ Ressort du tribunal de grande instance de Nancy.
 Meuse 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bar-le-Duc 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bar-le-Duc 
 
@@ -2423,13 +2593,15 @@ Ressort du tribunal de grande instance de Bar-le-Duc.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Verdun 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Verdun 
 
@@ -2446,7 +2618,7 @@ Ressort du tribunal de grande instance de Verdun.
 Vosges 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Epinal 
 
@@ -2458,47 +2630,47 @@ Epinal
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal de grande instance d'Epinal. 
+Ressort du tribunal d'instance d'Epinal. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Saint-Dié-des-Vosges 
+      <td align="left" valign="top">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Saint-Dié-des-Vosges 
 
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Saint-Dié-des-Vosges. 
+Ressort du tribunal d'instance de Saint-Dié-des-Vosges. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Nîmes 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ardèche 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Privas 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Annonay 
 
@@ -2510,9 +2682,13 @@ Ressort du tribunal d'instance d'Annonay.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Aubenas 
 
@@ -2534,7 +2710,7 @@ Gard
 Alès 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Alès 
 
@@ -2546,10 +2722,7 @@ Ressort du tribunal de grande instance d'Alès.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Nîmes 
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -2559,12 +2732,17 @@ Nîmes
 </td>
       <td valign="top" align="left">
 
+Nîmes 
+
+</td>
+      <td align="left" valign="top">
+
 Ressort du tribunal de grande instance de Nîmes. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lozère 
 
@@ -2574,19 +2752,19 @@ Lozère
 Mende 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Mende 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Mende. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Vaucluse 
 
@@ -2601,20 +2779,22 @@ Avignon
 Avignon 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance d'Avignon. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Carpentras 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Orange 
 
@@ -2633,7 +2813,7 @@ Cour d'appel d'Orléans
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Indre-et-Loire 
 
@@ -2660,12 +2840,12 @@ Ressort du tribunal de grande instance de Tours.
 Loir-et-Cher 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Blois 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Blois 
 
@@ -2677,7 +2857,7 @@ Ressort du tribunal de grande instance de Blois.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Loiret 
 
@@ -2687,7 +2867,7 @@ Loiret
 Montargis 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Montargis 
 
@@ -2699,32 +2879,34 @@ Ressort du tribunal de grande instance de Montargis.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Orléans 
-
-</td>
-      <td align="left" valign="top">
-
-Orléans 
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
+
+Orléans 
+
+</td>
+      <td align="left" valign="top">
+
+Orléans 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance d'Orléans. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Paris 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Essonne 
 
@@ -2734,7 +2916,7 @@ Essonne
 Evry 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Evry 
 
@@ -2746,21 +2928,25 @@ Ressort des tribunaux d'instance d'Etampes, Evry et Juvisy-sur-Orge.
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Longjumeau 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort des tribunaux d'instance de Longjumeau et Palaiseau. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Seine-et-Marne 
 
@@ -2775,15 +2961,17 @@ Fontainebleau
 Fontainebleau 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Fontainebleau. 
 
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
 
 Meaux 
 
@@ -2801,12 +2989,14 @@ Ressort du tribunal de grande instance de Meaux.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Melun 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Melun 
 
@@ -2818,12 +3008,12 @@ Ressort du tribunal de grande instance de Melun.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Seine-Saint-Denis 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bobigny 
 
@@ -2840,17 +3030,17 @@ Ressort du tribunal de grande instance de Bobigny.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Val-de-Marne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Créteil 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Créteil 
 
@@ -2858,21 +3048,25 @@ Créteil
       <td align="left" valign="top">
 
 Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif,
-à l'exception des cantons de Choisy-le-Roi et Orly et de l'emprise de l'aérodrome de Paris-Orly. 
+à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Villeneuve-Saint-Georges 
 
 </td>
       <td valign="top" align="left">
 
-Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly et l'emprise de l'aérodrome de Paris-
+Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-
 Orly. 
 
 </td>
@@ -2883,12 +3077,12 @@ Orly.
 Yonne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Auxerre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Auxerre 
 
@@ -2900,8 +3094,10 @@ Ressort du tribunal de grande instance d'Auxerre.
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
 
 Sens 
 
@@ -2918,7 +3114,7 @@ Ressort du tribunal de grande instance de Sens.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Paris 
 
@@ -2952,12 +3148,12 @@ Cour d'appel de Pau
 Landes 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dax 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dax 
 
@@ -2969,10 +3165,7 @@ Ressort du tribunal de grande instance de Dax.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Mont-de-Marsan 
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -2980,14 +3173,19 @@ Mont-de-Marsan
 Mont-de-Marsan 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
+
+Mont-de-Marsan 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Mont-de-Marsan. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pyrénées-Atlantiques 
 
@@ -3002,7 +3200,7 @@ Bayonne
 Bayonne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Bayonne. 
 
@@ -3010,12 +3208,14 @@ Ressort du tribunal de grande instance de Bayonne.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Pau 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pau 
 
@@ -3027,17 +3227,17 @@ Ressort du tribunal de grande instance de Pau.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hautes-Pyrénées 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tarbes 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tarbes 
 
@@ -3049,23 +3249,18 @@ Ressort du tribunal de grande instance de Tarbes.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Poitiers 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Charente-Maritime 
 
 </td>
-      <td valign="top" align="left">
-
-La Rochelle 
-
-</td>
       <td align="left" valign="top">
 
 La Rochelle 
@@ -3073,31 +3268,38 @@ La Rochelle
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de La Rochelle. 
+La Rochelle 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de La Rochelle. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Rochefort 
 
 </td>
       <td valign="top" align="left">
 
-Rochefort 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Rochefort. 
+Ressort du tribunal d'instance de Rochefort. 
 
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
 
 Saintes 
 
@@ -3114,52 +3316,52 @@ Ressort du tribunal de grande instance de Saintes.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Deux-Sèvres 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Bressuire 
+Niort 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Thouars 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Bressuire. 
+Ressort du tribunal d'instance de Bressuire. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Niort 
 
 </td>
       <td valign="top" align="left">
 
-Niort 
-
-</td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Niort. 
+Ressort du tribunal d'instance de Niort. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Vendée 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 La Roche-sur-Yon 
 
@@ -3176,18 +3378,20 @@ Ressort du tribunal de grande instance de La Roche-sur-Yon.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Les Sables-d'Olonne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Les Sables-d'Olonne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance des Sables-d'Olonne. 
 
@@ -3199,7 +3403,7 @@ Ressort du tribunal de grande instance des Sables-d'Olonne.
 Vienne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Poitiers 
 
@@ -3209,7 +3413,7 @@ Poitiers
 Poitiers 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Poitiers. 
 
@@ -3228,17 +3432,17 @@ Cour d'appel de Reims
 Ardennes 
 
 </td>
-      <td valign="top" align="left">
-
-Charleville-Mézières 
-
-</td>
-      <td valign="top" align="left">
-
-Charleville-Mézières 
-
-</td>
       <td align="left" valign="top">
+
+Charleville-Mézières 
+
+</td>
+      <td valign="top" align="left">
+
+Charleville-Mézières 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Charleville-Mézières. 
 
@@ -3250,12 +3454,12 @@ Ressort du tribunal de grande instance de Charleville-Mézières.
 Aube 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Troyes 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Troyes 
 
@@ -3282,7 +3486,7 @@ Châlons-en-Champagne
 Châlons-en-Champagne 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er
 canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. 
@@ -3290,14 +3494,18 @@ canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Luc
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
 
 Epernay 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-
 Lucy et Sézanne. 
@@ -3306,17 +3514,19 @@ Lucy et Sézanne.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Reims 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Reims 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Reims. 
 
@@ -3330,32 +3540,14 @@ Cour d'appel de Rennes
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Côtes-d'Armor 
 
 </td>
       <td valign="top" align="left">
 
-Dinan 
-
-</td>
-      <td align="left" valign="top">
-
-Dinan 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Dinan. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Guingamp 
+Saint-Brieuc 
 
 </td>
       <td align="left" valign="top">
@@ -3365,25 +3557,25 @@ Guingamp
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Guingamp. 
+Ressort du tribunal d'instance de Guingamp. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Saint-Brieuc 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Saint-Brieuc 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Saint-Brieuc. 
+Ressort du tribunal d'instance de Saint-Brieuc. 
 
 </td>
     </tr>
@@ -3393,43 +3585,45 @@ Ressort du tribunal de grande instance de Saint-Brieuc.
 Finistère 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Brest 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Brest 
 
 </td>
-      <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Brest. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Morlaix 
-
-</td>
       <td align="left" valign="top">
 
-Morlaix 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Morlaix. 
+Ressort du tribunal d'instance de Brest. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+Morlaix 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Morlaix. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Quimper 
 
@@ -3461,27 +3655,47 @@ Rennes
 Rennes 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Rennes. 
 
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
 
 Saint-Malo 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Saint-Malo 
+Dinan (Côtes-d'Armor) 
 
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Saint-Malo. 
+Ressort du tribunal d'instance de Dinan. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+Saint-Malo 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Saint-Malo. 
 
 </td>
     </tr>
@@ -3501,7 +3715,7 @@ Nantes
 Nantes 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Nantes. 
 
@@ -3509,9 +3723,6 @@ Ressort du tribunal de grande instance de Nantes.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
-
-Saint-Nazaire 
 
 </td>
       <td valign="top" align="left">
@@ -3520,13 +3731,18 @@ Saint-Nazaire
 
 </td>
       <td valign="top" align="left">
+
+Saint-Nazaire 
+
+</td>
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Saint-Nazaire. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Morbihan 
 
@@ -3536,12 +3752,12 @@ Morbihan
 Lorient 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Lorient 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Lorient. 
 
@@ -3549,17 +3765,19 @@ Ressort du tribunal de grande instance de Lorient.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Vannes 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Vannes 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Vannes. 
 
@@ -3573,7 +3791,7 @@ Cour d'appel de Riom
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Allier 
 
@@ -3583,25 +3801,45 @@ Allier
 Cusset 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Vichy 
 
 </td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Vichy. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Cusset. 
+Moulins 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal d'instance de Moulins. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Montluçon 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Montluçon 
 
@@ -3609,24 +3847,6 @@ Montluçon
       <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Montluçon. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
-
-Moulins 
-
-</td>
-      <td align="left" valign="top">
-
-Moulins 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Moulins. 
 
 </td>
     </tr>
@@ -3641,7 +3861,7 @@ Cantal
 Aurillac 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Aurillac 
 
@@ -3658,7 +3878,7 @@ Ressort du tribunal de grande instance d'Aurillac.
 Haute-Loire 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le Puy-en-Velay 
 
@@ -3680,7 +3900,7 @@ Ressort du tribunal de grande instance du Puy-en-Velay.
 Puy-de-Dôme 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Clermont-Ferrand 
 
@@ -3690,32 +3910,32 @@ Clermont-Ferrand
 Clermont-Ferrand 
 
 </td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Clermont-Ferrand. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-      </td><td valign="top" align="left">
-
-Riom 
-
-</td>
       <td valign="top" align="left">
 
-Riom 
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Riom. 
+Ressort des tribunaux d'instance de Clermont-Ferrand et Thiers. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+Riom 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance de Riom. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 Cour d'appel de Rouen 
 
@@ -3727,30 +3947,30 @@ Cour d'appel de Rouen
 Eure 
 
 </td>
-      <td align="left" valign="top">
-
-Bernay 
-
-</td>
-      <td align="left" valign="top">
-
-Bernay 
-
-</td>
       <td valign="top" align="left">
-
-Ressort du tribunal de grande instance de Bernay. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
 
 Evreux 
 
 </td>
       <td align="left" valign="top">
+
+Bernay 
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal d'instance de Bernay. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Evreux 
 
@@ -3763,9 +3983,13 @@ Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
 
 Louviers 
 
@@ -3778,7 +4002,7 @@ Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Seine-Maritime 
 
@@ -3788,7 +4012,7 @@ Seine-Maritime
 Dieppe 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dieppe 
 
@@ -3801,12 +4025,14 @@ Ressort du tribunal de grande instance de Dieppe.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Le Havre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le Havre 
 
@@ -3819,12 +4045,14 @@ Ressort du tribunal de grande instance du Havre.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Rouen 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Rouen 
 
@@ -3843,7 +4071,7 @@ Cour d'appel de Toulouse
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ariège 
 
@@ -3853,19 +4081,19 @@ Ariège
 Foix 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Foix 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Foix. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Haute-Garonne 
 
@@ -3875,32 +4103,32 @@ Haute-Garonne
 Toulouse 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toulouse 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Toulouse. 
+Ressort des tribunaux d'instance de Muret et Toulouse. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-Saint-Gaudens 
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
 
+</td>
+      <td valign="top" align="left">
+
 Saint-Gaudens 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Ressort du tribunal de grande instance de Saint-Gaudens 
+Ressort du tribunal d'instance de Saint-Gaudens 
 
 </td>
     </tr>
@@ -3910,7 +4138,7 @@ Ressort du tribunal de grande instance de Saint-Gaudens
 Tarn 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Albi 
 
@@ -3928,29 +4156,31 @@ Ressort du tribunal de grande instance d'Albi
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-
-Castres 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Castres 
 
 </td>
       <td align="left" valign="top">
+
+Castres 
+
+</td>
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Castres. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tarn-et-Garonne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Montauban 
 
@@ -3967,7 +4197,7 @@ Ressort du tribunal de grande instance de Montauban.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cour d'appel de Versailles 
 
@@ -3984,7 +4214,7 @@ Eure-et-Loir
 Chartres 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Chartres 
 
@@ -3997,14 +4227,18 @@ Orgères-en-Beauce.
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Châteaudun 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. 
 
@@ -4012,8 +4246,12 @@ Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Dreux 
 
@@ -4025,7 +4263,7 @@ Ressort du tribunal d'instance de Dreux.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hauts-de-Seine 
 
@@ -4035,7 +4273,7 @@ Hauts-de-Seine
 Nanterre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Boulogne-Billancourt 
 
@@ -4047,9 +4285,13 @@ Ressort des tribunaux d'instance d'Antony, Boulogne-Billancourt et Vanves.
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Nanterre 
 
@@ -4061,7 +4303,7 @@ Ressort des tribunaux d'instance d'Asnières-sur-Seine, Colombes, Courbevoie et 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Val-d'Oise 
 
@@ -4071,12 +4313,12 @@ Val-d'Oise
 Pontoise 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Argenteuil 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal d'instance de Sannois. 
 
@@ -4084,8 +4326,12 @@ Ressort du tribunal d'instance de Sannois.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Montmorency 
 
@@ -4098,8 +4344,12 @@ Ressort des tribunaux d'instance de Gonesse et Montmorency.
     </tr>
     <tr>
       <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td valign="top" align="left">
 
 Cergy-Pontoise 
 
@@ -4116,7 +4366,7 @@ Ressort du tribunal d'instance de Pontoise.
 Yvelines 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Versailles 
 
@@ -4133,23 +4383,31 @@ Ressort du tribunal d'instance de Mantes-la-Jolie.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Poissy 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Poissy. 
 
 </td>
     </tr>
     <tr>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
-      </td><td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Rambouillet 
 
@@ -4162,8 +4420,12 @@ Ressort du tribunal d'instance de Rambouillet.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Saint-Germain-en-Laye 
 
@@ -4176,8 +4438,12 @@ Ressort du tribunal d'instance de Saint-Germain-en-Laye.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
+      <td align="left" valign="top">
 
 Versailles 
 
@@ -4189,7 +4455,7 @@ Ressort du tribunal d'instance de Versailles.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Basse-Terre 
 
@@ -4201,7 +4467,7 @@ Cour d'appel de Basse-Terre
 Guadeloupe 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Basse-Terre 
 
@@ -4219,9 +4485,6 @@ Ressort du tribunal de grande instance de Basse-Terre.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
-
-Pointe-à-Pitre 
 
 </td>
       <td valign="top" align="left">
@@ -4231,19 +4494,24 @@ Pointe-à-Pitre
 </td>
       <td align="left" valign="top">
 
+Pointe-à-Pitre 
+
+</td>
+      <td valign="top" align="left">
+
 Ressort du tribunal de grande instance de Pointe-à-Pitre. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cour d'appel de Fort-de-France 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Guyane 
 
@@ -4258,19 +4526,19 @@ Cayenne
 Cayenne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal de grande instance de Cayenne. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Martinique 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Fort-de-France 
 
@@ -4294,12 +4562,12 @@ Cour d'appel de Saint-Denis de la Réunion
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Réunion 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Saint-Denis 
 
@@ -4317,7 +4585,9 @@ Ressort du tribunal de grande instance de Saint-Denis.
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
 
 Saint-Pierre 
 
@@ -4327,14 +4597,14 @@ Saint-Pierre
 Saint-Pierre 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal de grande instance de Saint-Pierre. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tribunal supérieur de Saint-Pierre 
 
@@ -4346,11 +4616,6 @@ Tribunal supérieur de Saint-Pierre
 Saint-Pierre-et-Miquelon 
 
 </td>
-      <td valign="top" align="left">
-
-Saint-Pierre 
-
-</td>
       <td align="left" valign="top">
 
 Saint-Pierre 
@@ -4358,7 +4623,19 @@ Saint-Pierre
 </td>
       <td valign="top" align="left">
 
+Saint-Pierre 
+
+</td>
+      <td align="left" valign="top">
+
 Ressort du tribunal supérieur d'appel de Saint-Pierre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" colspan="4" valign="top">
+
+(*) Siège provisoire dans l'attente de la future localisation du TGI.
 
 </td>
     </tr>
@@ -4376,7 +4653,6 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 _Modifié par_:
 
   - Décret n°2008-514 du 29 mai 2008 -  Annexe (V)
-  - Décret n°2009-1610 du 18 décembre 2009 - art. 2 (V)
 
 _Cité par_:
 

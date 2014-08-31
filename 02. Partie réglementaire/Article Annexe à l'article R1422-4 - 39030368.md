@@ -2,7 +2,7 @@
 
 <font color="black">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES</font>
 
-<table cellspacing="0" align="center" border="1" cellpadding="0">
+<table cellpadding="0" align="center" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -739,25 +739,7 @@ Escarbotin, Gamaches et Saint-Valéry-sur-Somme.</font>
 </td>
       <td>
 
-<font color="black">Ressort des tribunaux d'instance d'Angers et Segré.</font>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-<font color="black">Cholet.</font>
-
-</td>
-      <td>
-
-<font color="black">Ressort du tribunal d'instance de Cholet.</font>
+Ressort des tribunaux d'instance d'Angers et de Cholet.
 
 </td>
     </tr>
@@ -777,7 +759,7 @@ Escarbotin, Gamaches et Saint-Valéry-sur-Somme.</font>
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Saumur.</font>
+Ressort du tribunal de grande instance de Saumur.
 
 </td>
     </tr>
@@ -2684,7 +2666,7 @@ Pont et Voiron.</font>
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Brive.</font>
+Ressort du tribunal d'instance de Brive.
 
 </td>
     </tr>
@@ -2704,7 +2686,7 @@ Pont et Voiron.</font>
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Tulle.</font>
+Ressort du tribunal de grande instance de Tulle.
 
 </td>
     </tr>
@@ -5220,7 +5202,7 @@ Lillebonne.</font>
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Foix.</font>
+Ressort du tribunal de grande instance de Foix.
 
 </td>
     </tr>
@@ -5242,7 +5224,7 @@ Lillebonne.</font>
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Toulouse.</font>
+Ressort des tribunaux d'instance de Muret et de Toulouse.
 
 </td>
     </tr>
@@ -5262,7 +5244,7 @@ Lillebonne.</font>
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Saint-Gaudens</font>
+Ressort du tribunal de grande instance de Saint-Gaudens.
 
 </td>
     </tr>
@@ -5839,4 +5821,4 @@ Cour d'appel de Cayenne
 
 _Modifié par_:
 
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 4 (V)
+  - Décret n°2014-899 du 18 août 2014 - art. 7

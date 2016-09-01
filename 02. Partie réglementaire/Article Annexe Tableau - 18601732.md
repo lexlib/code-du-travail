@@ -1028,17 +1028,17 @@ Manche
 </td>
       <td align="left" valign="top">
 
-Cherbourg 
+Cherbourg-en-Corentin  
 
 </td>
       <td align="left" valign="top">
 
-Cherbourg 
+Cherbourg-en-Corentin 
 
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal de grande instance de Cherbourg. 
+Ressort du tribunal de grande instance de Cherbourg-en-Corentin. 
 
 </td>
     </tr>
@@ -4328,4 +4328,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2016-1186 du 30 août 2016 - art. 1

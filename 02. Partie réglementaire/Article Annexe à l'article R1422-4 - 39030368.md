@@ -1383,17 +1383,20 @@ Chapelle-d'Angillon.</font>
 </td>
       <td>
 
-<font color="black">Cherbourg.</font>
+Cherbourg-en-Cotentin
+          <font color="black">.</font>
 
 </td>
       <td>
 
-<font color="black">Cherbourg.</font>
+Cherbourg-en-Cotentin
+          <font color="black">.</font>
 
 </td>
       <td>
 
-<font color="black">Ressort du tribunal de grande instance de Cherbourg.</font>
+<font color="black">Ressort du tribunal de grande instance de </font> Cherbourg-en-Cotentin
+          <font color="black">.</font>
 
 </td>
     </tr>
@@ -5821,4 +5824,4 @@ Cour d'appel de Cayenne
 
 _Modifié par_:
 
-  - Décret n°2014-899 du 18 août 2014 - art. 7
+  - Décret n°2016-1186 du 30 août 2016 - art. 1

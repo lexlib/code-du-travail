@@ -61,7 +61,7 @@ Article 1 er
 
 La présente convention est conclue en application des livres Ier et III de la partie VI du code du travail. 
 
-Les dispositions prévues par les articles 1er,2,5,8,9 (2 c) et 11 de l'annexe mentionnée aux articles D. 6122-4 et D. 6122-5
+Les dispositions prévues par les articles 1er, 2,5,8,9 (2 c) et 11 de l'annexe mentionnée aux articles D. 6122-4 et D. 6122-5
 du code du travail lui sont également applicables. 
 
 Article 2 
@@ -100,9 +100,9 @@ Lorsqu'un accord conclu entre les organisations d'employeurs et de salariés pr�
 fonctionnement de ce conseil, ce sont les dispositions de cet accord qui s'appliquent. 
 
 Lorsque la gestion du centre est assurée par une entreprise ou un groupe d'entreprises de cinquante salariés et plus, le ou
-les comités d'entreprises intéressés exercent les attributions que leur confère la réglementation en vigueur. Ils doivent en
-particulier avoir délibéré sur les problèmes propres à l'entreprise relatifs à la formation professionnelle continue et sur
-les actions pour lesquelles l'aide de l'Etat est accordée. 
+les   comités sociaux et économiques intéressés exercent les attributions que leur confère la réglementation en vigueur. Ils
+doivent en particulier avoir délibéré sur les problèmes propres à l'entreprise relatifs à la formation professionnelle
+continue et sur les actions pour lesquelles l'aide de l'Etat est accordée. 
 
 Article 3 
 
@@ -312,11 +312,11 @@ pour sauvegarder les intérêts des stagiaires en cours de formation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-244 du 7 mars 2008 - art. (V)
+  - Décret n°2017-1819 du 29 décembre 2017 - art. 3
 
 _Cite_:
 
-  - Code du travail - art. D6122-4 (VD)
-  - Code du travail - art. L6341-1 (V)
+  - Code du travail - art. D6122-4
+  - Code du travail - art. L6341-1

@@ -4,10 +4,10 @@ RAYONNEMENTS OPTIQUES INCOHERENTS
 
 Vous pouvez consulter l'annexe à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100704&numTexte=11&pageDebut=12149&pageFin=12168
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039699711
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-750 du 2 juillet 2010 - art. Annexe I (V)
+  - Décret n°2019-1547 du 30 décembre 2019 - art. 3

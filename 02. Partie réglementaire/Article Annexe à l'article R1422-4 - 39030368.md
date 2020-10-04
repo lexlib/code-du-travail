@@ -800,7 +800,8 @@ Strasbourg</td>
 Haguenau</td>
       <td align="left">
 
-Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim.</td>
+Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden (à l'exception de la partie
+de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim.</td>
     </tr>
     <tr>
       <td align="center">
@@ -808,7 +809,8 @@ Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de B
 Schiltigheim</td>
       <td align="left">
 
-Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim.</td>
+Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden (à l'exception de la partie de la
+commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim.</td>
     </tr>
     <tr>
       <td align="center">
@@ -2029,7 +2031,8 @@ Châlons-en-Champagne</td>
       <td align="left">
 
 Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er
-canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne.</td>
+canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et à l'exception de la partie de
+la commune de Blancs-Coteaux correspondant aux anciennes communes de Vertus et de Voipreux.</td>
     </tr>
     <tr>
       <td align="left">
@@ -2039,7 +2042,7 @@ Epernay</td>
       <td align="left">
 
 Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-
-Lucy et Sézanne.</td>
+Lucy et Sézanne et commune de Blancs-Coteaux.</td>
     </tr>
     <tr>
       <td align="center">
@@ -2294,7 +2297,7 @@ Ressort de la chambre de proximité de Riom.</td>
 Cour d'appel de Rouen</td>
     </tr>
     <tr>
-      <td align="center" rowspan="3">
+      <td align="center" rowspan="2">
 
 Eure</td>
       <td align="center">
@@ -2305,18 +2308,7 @@ Evreux</td>
 Bernay</td>
       <td align="left">
 
-Ressort de la chambre de proximité de Bernay.</td>
-    </tr>
-    <tr>
-      <td align="left">
-      </td><td align="center">
-
-Evreux</td>
-      <td align="left">
-
-Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay, des Andélys et des
-cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et
-Val-de-Reuil.</td>
+Ressort de la chambre de proximité de Bernay et commune des Monts du Roumois</td>
     </tr>
     <tr>
       <td align="left">
@@ -2325,8 +2317,9 @@ Val-de-Reuil.</td>
 Louviers</td>
       <td align="left">
 
-Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg,
-Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td>
+Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne (à l'exception de la partie de la commune
+des Monts du Roumois correspondant à l'ancienne commune de Houlbec-près-le-Gros-Theil), Gaillon, Gaillon-Campagne, Le
+Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil.</td>
     </tr>
     <tr>
       <td align="center" rowspan="3">
@@ -2745,5 +2738,4 @@ de l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011 susvisée, c'est-à
 
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art.
-  - Décret n°2019-966 du 18 septembre 2019 - art.
+  - Décret n°2020-1214 du 2 octobre 2020 - art.
